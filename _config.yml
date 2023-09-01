@@ -1,0 +1,72 @@
+title: Code4Projects
+email: sasadangelo@gmail.com
+description: Code4Projects is a website about software programming where I write everything I learnt in over 30 years of experience.
+baseurl: ""
+url: "https://www.code4projects.net"
+copyright: Code4Projects, Copyright Salvatore D'Angelo © 2016-2023.
+logo: assets/img/code4projects-logo-mini.webp
+theme: techi
+
+# Google Analytics
+google_analytics: G-62DF79P0NY
+google_site_verification: BgoS4TSe3LRCda2BIF8h37ezeXG3KNaVBqvf9syjmO4
+
+# Typography configuration
+fonts:
+    size: 30px
+    family: Roboto Slab
+
+collections:
+  authors:
+    output: true
+
+# Code Highlighter
+## 'pygments' is unsupported on GitHub Pages now.
+highlighter: rouge
+highlight:
+  line_number: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:slug/
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+permalink: /:slug/
+page_excerpts: "true"
+
+pagination:
+  permalink: '/page/:num/'
+  enabled: true
+  per_page: 7
+  sort_reverse: true
+  sort_field: 'date'
+  title: ':title (page :num)'
+  indexpage: 'index'
+  trail:
+    before: 2
+    after: 2
+
+latest_posts: 5
+
+sidebars:
+  post_sidebar
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
+  - jekyll-redirect-from
+
+exclude: [utility, resources, vendor]

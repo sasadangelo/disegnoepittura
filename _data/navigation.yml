@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Chi Sono?
+  link: /chi-sono/
+- name: Nuovo Utente? Inizia Qui
+  link: /inizia-qui/
+- name: Blog
+  link: /blog/
+- name: Progetti
+  link: /progetti/
+- name: Risorse
+  link: /risorse/

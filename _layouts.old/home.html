@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<div id="home-main">
+  <div id="home-container">
+    <div id="home-content">
+      <div class="hero-background">
+        <div class="hero-area">
+          <div class="hero-content">
+            <div class="hero-box">
+              <div class="hero-messagebox">
+                <h1>{{ site.data.home.hero-area.hero-message-title }}</h1>
+                <p>{{ site.data.home.hero-area.hero-message-text }}</p>
+              </div>  
+            </div>  
+          </div>  
+        </div>
+      </div>
+      <div class="circle-icon-area">
+        {% for item in site.data.home.icon-area %}
+          <div class="circle-icon-box">
+            <a title="{{ item.icon-title }}" href="{{ item.icon-link }}">
+              <div class="circle-icon" style="background-image: url({{ item.icon-image }})" >
+              </div>
+            </a>
+            <a title="{{ item.icon-title }}" href="{{ item.icon-link }}"><h2>{{ item.icon-title }}</h2></a>
+            <a title="{{ item.icon-title }}" href="{{ item.icon-link }}">{{ item.icon-subtitle }}</a>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="newsletter-home">
+        <div class="newsletter-home-box">
+          <div class="newsletter-home-image">
+            <img src="{{ site.data.newsletter.home.newsletter-image }}" alt="{{ site.data.newsletter.home.newsletter-title }}">
+          </div>
+          <div class="newsletter-home-form">
+            {{ site.data.newsletter.post.newsletter-code }}
+          </div>
+        </div>
+      </div>
+      {% for item in site.data.home.feature-area %}
+        <div class="{% cycle 'feature-content-row-white', 'feature-content-row-grey' %}">
+          <div class="{% cycle 'feature-content-box-white', 'feature-content-box-grey' %}">
+            <div class="feature-content-image">
+              <a href="{{ item.feature-link }}">
+                <img src="{{ item.feature-image }}" alt="{{ item.feature-title }}">
+              </a>
+            </div>
+            <div class="feature-content-text">
+              <div class="feature-content-text-title">
+                <a href="{{ item.feature-link }}" title="{{ item.feature-title }}"><h3>{{ item.feature-title }}</h3></a>
+              </div>
+              {{ item.feature-text }}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

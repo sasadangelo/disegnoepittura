@@ -1,0 +1,2182 @@
+@import "friendly.css";
+
+/* Mobile devices              @media screen and (max-width: 479px)                         */
+/* Tablets or iPad             @media screen and (min-width: 480px) and (max-width: 767px)  */
+/* Laptop or small-size screen @media screen and (min-width: 768px) and (max-width: 1023px) */
+/* Desktop                     @media screen and (min-width: 1024px)                        */
+
+/*
+ * ################################################################################
+ * # Global definitions
+ * ################################################################################
+*/
+body {
+  margin: 0px;
+  font-family: 'Helvetica Neue';
+  font-size: 13px;
+}
+
+#page {
+  overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3b3b3b;
+  text-align: left;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+.responsive_img {
+  height: auto;
+  max-width: 100%;
+}
+
+.responsive_video {
+  height: auto;
+  max-width: 100%;
+}
+
+/*
+ * ################################################################################
+ * # Header definitions
+ * ################################################################################
+ */
+header {
+  background-color: #FCFCFC;
+  width: 100%;
+}
+
+#header-area {
+  padding: 0px 35px; 
+}
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#header-group {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+}
+
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#header-group {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+}
+
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#header-group {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+}
+
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#header-group {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+}
+
+#header-group a {
+  text-decoration: none;
+}
+
+/*
+ * Logo area
+ */
+#logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/*
+ * Social Button area
+ */
+#social-media-group {
+  box-sizing: border-box;
+  padding-top: 43.75px;
+  padding-bottom: 43.75px;
+  /*position: relative;*/
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+
+.social-media-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.social-media-title {
+  color: #1d67b1;
+  font-weight: 700; /* bold*/
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.social-media-title {
+  color: #1d67b1;
+  font-weight: 700; /* bold*/
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.social-media-title {
+  color: #1d67b1;
+  font-weight: 700; /* bold*/
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.social-media-title {
+  color: #1d67b1;
+  font-weight: 700; /* bold*/
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+}
+  
+.social-media-icon {
+  width: 36px;
+  height: 36px;
+  float: left;
+  margin-right: 4px;
+  position: relative;
+  border-radius: 3px;
+  display: block;
+}
+
+.social-media-icon-facebook {
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#597ac7),color-stop(1,#6483cb));
+  border: 1px solid #466bc1;
+}
+
+.social-media-icon-twitter {
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#5bbcec),color-stop(1,#69c2ee));
+  border: 1px solid #44b3e9;
+}
+
+.social-media-icon-linkedin {
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#0070b4),color-stop(1,#007ac3));
+  border: 1px solid #00609b;
+}
+
+.social-media-icon-youtube {
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#ff3635),color-stop(1,#ff4544));
+  border: 1px solid #ff1d1b;
+}
+
+.social-media-icon-github {
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#333333),color-stop(1,#3b3b3b));
+  border: 1px solid #262626;
+}
+
+.fa-facebook-f {
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  display: block;
+  position: absolute;
+  line-height: 1em;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.45em;
+  margin-left: -0.5em;
+  font-size: 18px;
+}
+
+.fa-twitter {
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  display: block;
+  position: absolute;
+  line-height: 1em;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.45em;
+  margin-left: -0.5em;
+  font-size: 18px;
+}
+
+.fa-linkedin {
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  display: block;
+  position: absolute;
+  line-height: 1em;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.45em;
+  margin-left: -0.5em;
+  font-size: 18px;
+}
+
+.fa-youtube {
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  display: block;
+  position: absolute;
+  line-height: 1em;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.45em;
+  margin-left: -0.5em;
+  font-size: 18px;
+}
+
+.fa-github {
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  display: block;
+  position: absolute;
+  line-height: 1em;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.45em;
+  margin-left: -0.5em;
+  font-size: 18px;
+}
+
+.fa {
+  font: normal normal normal 14px/1 FontAwesome;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * ################################################################################
+ * # Menu area
+ * ################################################################################
+ */
+.current {
+  color: green;
+}
+
+#navigation {
+  background-color: #1D67B2;
+}
+
+#menu {
+  background-color: #1D67B2;
+  padding: 5px 5px 5px 5px;
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 40px;
+}
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#menu ul {
+  margin: 0px 0px 0px 0px;
+  position: relative;
+}
+
+#menu ul li {
+  padding: 0px 0px 0px 0px;
+  padding: 11px 35px;
+  display: inline-block;
+}
+
+.hamburger {
+  display: none;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#menu ul {
+  margin: 0px 0px 0px 0px;
+  position: relative;
+}
+
+#menu ul li {
+  padding: 0px 0px 0px 0px;
+  padding: 11px 35px;
+  display: inline-block;
+}
+
+.hamburger {
+  display: none;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#menu ul {
+  margin: 0px 0px 0px 0px;
+  position: relative;
+}
+
+#menu ul li {
+  padding: 0px 0px 0px 0px;
+  padding: 11px 35px;
+  display: inline-block;
+}
+
+.hamburger {
+  display: none;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#menu ul {
+  border-color:#155493;
+  border-width: 1px;
+  border-style: solid;
+  margin: 10px 10px 10px 50px;
+  padding: 10px 30px;
+  background-color: #1D67B2;
+  border-radius: 6px;
+  display: none;
+  overflow: scroll;
+  position: absolute;
+  max-height: 100%;
+  z-index: 1;
+}
+
+#menu ul li {
+  border-color:#155493;
+  border-bottom: 1px solid rgba(0,0,0,.25);
+  border-top: 1px solid rgba(255,255,255,.05);
+  padding: 10px 0px;
+  display: block;
+}
+}
+
+#menu ul li a {
+  color: #f2f2f2;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+/*
+ * Hamburger Mobile Menu
+ */
+
+/* Three lines for hamburger mobile menu */
+.hamburger {
+  cursor: pointer;
+  float: left;
+  padding: 20px 20px;
+}
+
+/* The central hamburger line */
+.hamburger-line {
+  background: #ffffff;
+  display: block;
+  height: 2px;
+  position: relative;
+  width: 24px;
+}
+
+/* The top and bottom hamburger lines */
+.hamburger-line::before,
+.hamburger-line::after {
+    background: #ffffff;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+/* The top hamburger line is 5px above the central one */
+.hamburger-line::before {
+    top: 5px;
+}
+
+/* The bottom hamburger line is 5px below the central one */
+.hamburger-line::after {
+    top: -5px;
+}
+
+/* Don't show the checkbox */
+.drop-menu-checkbox {
+    display: none;
+}
+
+.drop-menu-checkbox:checked ~ menu {
+  max-height: 100%;
+}
+
+.drop-menu-checkbox:checked ~ #menu ul {
+  display: block;
+}
+
+.drop-menu-checkbox:not:checked ~ #menu ul {
+  display: none;
+}
+
+/* When the checkbox is checked the central hamburger line disappear */
+.drop-menu-checkbox:checked ~ .hamburger .hamburger-line {
+  background: transparent;
+}
+
+/* When the checkbox is checked the top hamburger is rotated of 45° */
+.drop-menu-checkbox:checked ~ .hamburger .hamburger-line::before {
+  transform: rotate(-45deg);
+  top:0;
+}
+
+/* When the checkbox is checked the bottom hamburger is rotated of 45° */
+.drop-menu-checkbox:checked ~ .hamburger .hamburger-line::after {
+  transform: rotate(45deg);
+  top:0;
+}
+
+/* Responsiveness */
+/*@media (min-width: 768px) {
+.hamburger {
+  display: none;
+}
+}*/
+
+/*
+ * ################################################################################
+ * # Post Main area
+ * ################################################################################
+*/
+#post-main {
+  background: #fcfcfc;
+  padding: 35px;
+}
+
+/*
+ * ################################################################################
+ * # Post Container definitions
+ * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#post-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#post-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#post-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+}
+    
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#post-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+} 
+
+/*
+ * ################################################################################
+ * # Post Content definitions
+ * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#post-content {
+  float: left;
+  width: 66.287%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#post-content {
+  float: left;
+  width: 66.287%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#post-content {
+  float: left;
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#post-content {
+  float: left;
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+} 
+
+#post-content a {
+  color: #1D67B2;
+  transition: all 0.2s ease;
+  text-decoration: underline;
+}
+
+#post-content a:hover {
+  color: #f47e3c;
+}
+
+#post-content h1 {
+  text-align: left;
+}
+
+/*
+  * ################################################################################
+  * # Sidebar definitions
+  * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#post-sidebar {
+  height: 100%;
+  width: 28.762%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#post-sidebar {
+  height: 100%;
+  width: 28.762%;
+  /*float: right;*/
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#post-sidebar {
+  height: 100%;
+  width: 100%;
+  /*float: left;*/
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#post-sidebar {
+  height: 100%;
+  width: 100%;
+  /*float: left;*/
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+}
+} 
+
+#post-sidebar a {
+  /*color: #248cc8;*/
+  color: #1D67B2;
+  transition: all 0.2s ease;
+  text-decoration: underline;
+}
+
+#post-sidebar a:hover {
+  color: #f47e3c;
+}
+
+#post-sidebar ul li {
+  list-style: none;
+  /*padding-bottom: 7px;*/
+  padding: 12px 0px 12px 0px;
+}
+
+.post-sidebar-title {
+  color: #3b3b3b;
+  font-size: 16px;
+  font-weight: 700; /* bold*/
+  padding: 0px 0px 0px 40px;
+  margin: 25px 0px 25px 0px;
+}
+
+/*
+ * ################################################################################
+ * # Home Main area
+ * ################################################################################
+*/
+#home-main {
+  background: #fcfcfc;
+}
+
+/*
+ * ################################################################################
+ * # Home Container definitions
+ * ################################################################################
+ */
+
+#home-container {
+  /*
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/*
+ * ################################################################################
+ * # Home Content definitions
+ * ################################################################################
+ */
+#home-content {
+  float: left;
+  color: #666666;
+}
+
+/*
+ * ################################################################################
+ * # Hero Area
+ * ################################################################################
+ */
+.hero-background {
+  background-image: url("../img/code4projects-image-hero.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-area {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 45px 60px;
+}
+
+.hero-content {
+  padding: 10px;
+}
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.hero-box {
+  padding: 50px 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+}
+    
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.hero-box {
+  padding: 50px 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+}
+    
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.hero-box {
+  /*padding: 50px 40px;*/
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+}
+    
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.hero-box {
+  /*padding: 50px 40px;*/
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+} 
+
+.hero-messagebox {
+  padding: 50px 40px;
+  max-width: 400px;
+  background-color: RGBA(139,139,139,0.5);
+  border-radius: 20px;
+  box-shadow: 10px 10px 0px 0px RGBA(0,0,0,0.5);
+  box-sizing: border-box;
+}
+
+.hero-messagebox h1 {
+  margin: 0px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 800;
+  font-size: 25px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.hero-messagebox p {
+  color: #ffffff;
+  text-align: left;
+  line-height: 1.5;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * ################################################################################
+ * # Circle Icon Area
+ * ################################################################################
+ */
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.circle-icon-area {
+  padding: 40px 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+}
+      
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.circle-icon-area {
+  padding: 40px 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+}
+      
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.circle-icon-area {
+  padding: 20px 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+}
+      
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.circle-icon-area {
+  padding: 20px 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+} 
+
+.circle-icon-box {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+
+.circle-icon-box a {
+  text-decoration: none;
+  color: #3b3b3b;
+  text-align: center;
+}
+
+.circle-icon-box a h2 {
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.circle-icon-box a {
+  text-decoration: none;
+  color: #3b3b3b;
+  text-align: center;
+  font-weight: 700;
+}
+
+.circle-icon {
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/*
+ * ################################################################################
+ * # Feature Content Area
+ * ################################################################################
+ */
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.feature-content-row-grey {
+  background-color: #efefef;
+  padding: 60px 230px;
+}
+
+.feature-content-row-white {
+  background-color: #fcfcfc;
+  padding: 60px 230px;
+}
+
+.feature-content-box-grey {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 20px
+}
+
+.feature-content-box-white {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  gap: 20px
+}
+}
+
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.feature-content-row-grey {
+  background-color: #efefef;
+  padding: 60px 35px;
+}
+
+.feature-content-row-white {
+  background-color: #fcfcfc;
+  padding: 60px 35px;
+}
+
+.feature-content-box-grey {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.feature-content-box-white {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+}
+
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.feature-content-row-grey {
+  background-color: #efefef;
+  padding: 60px 35px;
+}
+
+.feature-content-row-white {
+  background-color: #fcfcfc;
+  padding: 60px 35px;
+}
+
+.feature-content-box-grey {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.feature-content-box-white {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+}
+
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.feature-content-row-grey {
+  background-color: #efefef;
+  padding: 60px 35px;
+}
+
+.feature-content-row-white {
+  background-color: #fcfcfc;
+  padding: 60px 35px;
+}
+
+.feature-content-box-grey {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.feature-content-box-white {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+} 
+
+.feature-content-text-title {
+  /*color: #444444;
+  font-size: 20px;
+  font-weight: 500;*/
+  margin: 30px 0px 30px 0px;
+  text-align: left;
+} 
+
+.feature-content-text-title a {
+  color: #444444 !important;
+  text-decoration: none !important;
+} 
+
+.feature-content-text-title a:hover {
+  color: #f47e3c !important;
+} 
+
+.feature-content-text-title a h3 {
+  font-size: 18px;
+  color: #444444;
+  font-weight: 500;
+}
+
+.feature-content-text {
+  color: #666666;
+  font-size: 15px;
+  text-align: justify;
+  line-height: 1.6em;
+}
+
+.feature-content-image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.feature-content-text a {
+  color: #1d67b2;
+}
+
+.feature-content-text a:hover {
+  color: #f47e3c !important;
+}
+
+/*
+ * ################################################################################
+ * # Footer
+ * ################################################################################
+ */
+footer {
+  background-color: #1d67b2;
+  padding: 30px 30px 30px 30px;
+  text-align: left;
+}
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#footer-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+#footer-widget-area {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#footer-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+#footer-widget-area {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#footer-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+#footer-widget-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+}
+
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#footer-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+#footer-widget-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+} 
+
+.footer-widget {
+  width: 33%;
+  margin-bottom: 25px;
+  padding: 0px 40px;
+  text-align: left;
+}
+
+.footer-widget-title {
+  color: #f2f2f2;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.footer-widget a {
+  color: #e9e9e9;
+  text-decoration: none !important;
+}
+
+.footer-widget ul {
+  list-style-type: none !important;
+  padding: 0px;
+}
+
+.footer-widget ul li {
+  padding: 5px 0px;
+}
+
+#site-info {
+  color: #f2f2f2;
+  margin: 25px 0px 0px 0px;
+  text-align: center;
+}
+
+/*
+ * ################################################################################
+ * # Page Main area
+ * ################################################################################
+*/
+#page-main {
+  background: #fcfcfc;
+  padding: 35px;
+}
+
+/*
+ * ################################################################################
+ * # Page Container definitions
+ * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#page-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#page-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+    
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#page-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+}
+}
+
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#page-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+}
+} 
+
+/*
+ * ################################################################################
+ * # Page Content definitions
+ * ################################################################################
+*/
+#page-content {
+  float: left;
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+
+#page-content a {
+  color: #1D67B2;
+  transition: all 0.2s ease;
+  text-decoration: underline;
+}
+
+#page-content a:hover {
+  color: #f47e3c;
+}
+
+/*
+ * ################################################################################
+ * # Featured Projects definitions
+ * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.featured-projects-area {
+  box-sizing: border-box;
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.featured-projects-box {
+  width: 320px;
+  height: auto;
+  padding: 10px;
+  margin-right: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.featured-projects-area {
+  box-sizing: border-box;
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.featured-projects-box {
+  width: 320px;
+  height: auto;
+  padding: 10px;
+  margin-right: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+}
+      
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.featured-projects-area {
+  box-sizing: border-box;
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.featured-projects-box {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.featured-projects-area {
+  box-sizing: border-box;
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.featured-projects-box {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+} 
+
+.featured-projects-title {
+  text-align: left;
+}
+
+.featured-projects-title a {
+  text-decoration: none !important;
+  color: #3b3b3b !important;
+}
+
+.featured-projects-title a:hover {
+  color: #f47e3c !important;
+}
+
+.featured-projects-box img {
+  margin: auto;
+}  
+
+.featured-projects-image {
+  margin: auto;
+}  
+
+/*
+ * ################################################################################
+ * # Blog Main area
+ * ################################################################################
+*/
+
+#blog-main {
+  background: #fcfcfc;
+  padding: 35px;
+}
+
+/*
+ * ################################################################################
+ * # Blog Container definitions
+ * ################################################################################
+*/
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#blog-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#blog-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#blog-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+}
+}
+    
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#blog-container {
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-start;
+}
+} 
+
+/*
+ * ################################################################################
+ * # Blog Content definitions
+ * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#blog-content {
+  float: left;
+  width: 66.287%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#blog-content {
+  float: left;
+  width: 66.287%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#blog-content {
+  float: left;
+  width: 66.287%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#blog-content {
+  float: left;
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 2px 5px 0px;
+  color: #666666;
+  text-align: justify;
+}
+} 
+
+#blog-content a {
+  /*color: #248cc8;*/
+  color: #1D67B2;
+  transition: all 0.2s ease;
+  text-decoration: underline;
+}
+
+#blog-content a:hover {
+  color: #f47e3c;
+}
+
+#blog-content h1 {
+  margin-bottom: 25px;
+}
+
+/*
+  * ################################################################################
+  * # Blog Sidebar definitions
+  * ################################################################################
+*/
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+#blog-sidebar {
+  height: 100%;
+  width: 27%;
+  /*float: right;*/
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+}
+}
+  
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+#blog-sidebar {
+  height: 100%;
+  width: 27%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+#blog-sidebar {
+  height: 100%;
+  width: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+  display: none;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+#blog-sidebar {
+  height: 100%;
+  width: 100%;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 0px 5px 2px;
+  display: none;
+}
+} 
+
+#blog-sidebar a {
+  /*color: #248cc8;*/
+  color: #1D67B2;
+  transition: all 0.2s ease;
+  text-decoration: underline;
+}
+
+#blog-sidebar a:hover {
+  color: #f47e3c;
+}
+
+#blog-sidebar ul li {
+  list-style: none;
+  /*padding-bottom: 7px;*/
+  padding: 12px 0px 12px 0px;
+}
+
+.blog-sidebar-title {
+  color: #3b3b3b;
+  font-size: 16px;
+  font-weight: 700; /* bold*/
+  padding: 0px 0px 0px 40px;
+  margin: 25px 0px 25px 0px;
+}
+
+/*
+  * ################################################################################
+  * # Blog Entry definitions
+  * ################################################################################
+*/
+.blog-entry {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 20px;
+} 
+
+.blog-entry-image {
+  width: 12%;
+}
+
+.blog-entry-content {
+  margin: 0px;
+  padding: 0px;
+}
+
+.blog-entry-header {
+  margin: 0px 0px 30px 0px;
+  padding: 0px;
+}
+
+.blog-entry-title {
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+  text-align: left;
+}
+
+.blog-entry-meta {
+  font-size: 12px;
+  color: #8f8f8f;
+}
+
+.blog-entry-title h2 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 18px;
+}
+
+.blog-entry-title a {
+  text-decoration: none !important;
+  color: #3b3b3b !important;
+}
+
+.blog-entry-title a:hover {
+  color: #f47e3c !important;
+}
+
+.blog-entry-excerpt p {
+  color: #666666;
+  margin: 0px 0px 13px 0px;
+}
+
+.blog-entry-excerpt a {
+  float: right;
+  padding: 4px 10px;
+  background: #e2e2e2;
+  border-color: #e5e5e5;
+  color: #6b6b6b !important;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+/*
+  * ################################################################################
+  * # Pagination definitions
+  * ################################################################################
+*/
+.pagination {
+  float: right;
+}
+
+.previous-page {
+  margin-right: 20px;
+}
+
+.next-page {
+  margin-left: 20px;
+}
+
+/*
+  * ################################################################################
+  * # Pros and Cons table
+  * ################################################################################
+  */
+.pros-cons-table {
+  background: #F9F9F9;
+  border: dashed 2px #27C110;
+  margin: 30px auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.pros-cons-table-boxes {
+  margin-top: calc(100px / 2);
+  display: flex;
+  flex-flow: row wrap;
+  padding: 10px;
+}
+
+.pros-cons-table .pros-cons-table-boxes>div {
+  -ms-flex: 1 0 0%;
+  flex: 1 0 0%;
+}
+
+.pros-cons-table-pros-box {
+  background: #fff;
+  margin: 0 15px;
+  border: 1px solid #eee;
+}
+
+.pros-cons-table-pros-box ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 20px;
+}
+
+.pros-cons-table-pros-box ul li {
+  list-style-type: none;
+  position: relative;
+  margin: 10px 0;
+  margin-left: 1.5em;
+}
+
+.pros-cons-table-pros-box ul li::before {
+  content: url(../img/check-solid.svg);
+  padding-right: 10px;
+  background-size: 16px;
+  background-position: 1px;
+  background-repeat: no-repeat;
+}
+
+.pros-cons-table-cons-box {
+  background: #fff;
+  margin: 0 15px;
+  border: 1px solid #eee;
+}
+
+.pros-cons-table-cons-box ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 20px;
+}
+
+.pros-cons-table-cons-box ul li {
+  list-style-type: none;
+  position: relative;
+  margin: 10px 0;
+  margin-left: 1.5em;
+}
+
+.pros-cons-table-cons-box ul li:before {
+  content: url(../img/times-solid.svg);
+  padding-right: 10px;
+  background-size: 16px;
+  background-position: 1px;
+  background-repeat: no-repeat;
+}
+
+.pros-cons-table-header {
+  margin-bottom: 20px;
+  margin-top: calc(-100px / 2);
+  text-align: center;
+}
+
+.pros-cons-table-header h4 {
+  text-align: center;
+  margin-top: 10px;
+} 
+
+.pros-cons-table-pros-symbol {
+  color: #fff;
+  background: #27C110;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 100%;
+  margin: 0 auto;
+  text-align: center;  
+}
+
+.pros-cons-table-pros-symbol img {
+  width: 30px;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.pros-cons-table-cons-symbol {
+  color: #fff;
+  background: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 100%;
+  margin: 0 auto;
+  text-align: center;  
+}
+
+.pros-cons-table-cons-symbol img {
+  width: 30px;
+  height: 100%;
+  vertical-align: middle;
+}
+
+/*
+ * ################################################################################
+ * # Newsletter in the Home Page
+ * ################################################################################
+ */
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.newsletter-home {
+  background-color: #efefef;
+  padding: 60px 230px;
+}
+
+.newsletter-home-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px
+}
+}
+    
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.newsletter-home {
+  background-color: #efefef;
+  padding: 60px 35px;
+}
+
+.newsletter-home-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+}
+  
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.newsletter-home {
+  background-color: #efefef;
+  padding: 60px 35px;
+}
+
+.newsletter-home-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+}
+  
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.newsletter-home {
+  background-color: #efefef;
+  padding: 60px 35px;
+}
+
+.newsletter-home-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+} 
+
+.newsletter-home-image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.newsletter-home-form {
+  float: clear;
+}
+.newsletter-home-text-title {
+  color: #444444;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 30px 0px 30px 0px;
+  text-align: left;
+} 
+
+.newsletter-home-text {
+  color: #666666;
+  font-size: 15px;
+  text-align: justify;
+  line-height: 1.6em;
+}
+
+
+/*
+ * ################################################################################
+ * # Newsletter in the Post Sidebar
+ * ################################################################################
+ */
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.newsletter-sidebar {
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 0 0 1.5em 0;
+  /*padding: 20px 10px;*/
+}
+
+.newsletter-sidebar-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+}
+        
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.newsletter-sidebar {
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 0 0 1.5em 0;
+  /*padding: 20px 10px;*/
+}
+
+.newsletter-sidebar-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+}
+      
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  .newsletter-sidebar {
+    display: none;
+  }
+  
+  .newsletter-sidebar-box {
+    display: none;
+  }
+  }
+      
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.newsletter-sidebar {
+  display: none;
+}
+
+.newsletter-sidebar-box {
+  display: none;
+}
+} 
+
+.newsletter-sidebar-form {
+  color: #666666;
+  font-size: 10px;
+  text-align: justify;
+  line-height: 16px;;
+  font-weight: 400;
+}
+
+.newsletter-sidebar-image {
+  margin: auto auto;
+}
+
+/*
+ * ################################################################################
+ * # Newsletter Below the Post
+ * ################################################################################
+ */
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.newsletter-post {
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 0 0 1.5em 0;
+}
+
+.newsletter-post-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.newsletter-post-form {
+  padding: 20px;
+  line-height: 16px;;
+}
+}
+      
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.newsletter-post {
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 0 0 1.5em 0;
+}
+
+.newsletter-post-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.newsletter-post-form {
+  padding: 20px;
+  line-height: 16px;;
+}
+}
+    
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.newsletter-post {
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 0 0 1.5em 0;
+}
+
+.newsletter-post-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.newsletter-post-form {
+  line-height: 16px;;
+}
+}
+    
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.newsletter-post {
+  background-color: #efefef;
+  border-radius: 10px;
+  margin: 0 0 1.5em 0;
+}
+
+.newsletter-post-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.newsletter-post-form {
+  line-height: 16px;;
+}
+} 
+
+.newsletter-post-image {
+  padding: 20px;
+  margin: auto auto;
+}
+
+/*
+ * ################################################################################
+ * # 404 Page
+ * ################################################################################
+ */
+.page-404-widget {
+  margin-bottom: 25px;
+  text-align: left;
+}
+
+.page-404-widget a {
+  color: #b9b9b9;
+  text-decoration: none !important;
+}
+
+.page-404-widget ul {
+  list-style-type: none !important;
+  padding: 0px;
+}
+
+.page-404-widget ul li {
+  padding: 5px 0px;
+}
+
+#site-info {
+  color: #e2e2e2;
+  margin: 25px 0px 0px 0px;
+  text-align: center;
+}
+
+/*
+ * ################################################################################
+ * # Contact Form
+ * ################################################################################
+ */
+
+
+/* For Desktop */
+@media screen and (min-width: 1024px) {
+.contact-form {
+  margin: 0px;
+  padding: 0px;
+  width: 304px;
+}
+}
+        
+/* For Tablets or iPad */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.contact-form {
+  margin: 0px;
+  padding: 0px;
+  width: 304px;
+}
+}
+      
+/* For Laptop or small-size screen */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+.contact-form {
+  margin: 0px;
+  padding: 0px;
+  width: 304px;
+}  
+}
+      
+/* For Mobile Phones */
+@media screen and (max-width: 479px) {
+.contact-form {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+} 
+
+.contact-form-item {
+  width: 100%;
+  margin: 0px;
+  padding: 10px 0px;
+}
+
+.contact-form-item input {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  line-height: 22px;
+  border:2px solid #1D67B2;
+}
+
+.contact-form-item textarea {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  line-height: 22px;
+  border:2px solid #1D67B2;
+}
+
+.contact-form-item button {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  line-height: 22px;
+  color: white;
+  border:2px solid #1D67B2;
+  background:#1D67B2;
+  cursor:pointer;
+  font-weight:700;
+  font-size:18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*
+ * ################################################################################
+ * # Custom code
+ * ################################################################################
+ */
+/* This is to fix the source code x scroll */
+pre {
+  overflow-x: scroll;
+}

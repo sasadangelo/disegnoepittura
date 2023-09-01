@@ -1,0 +1,132 @@
+- post_series_id: getting-started-with-kubernetes
+  post_series_title: Getting started with Kubernetes
+  post_series:
+  - name: Getting started with Kubernetes
+    link: /getting-started-with-kubernetes/
+  - name: Kubernetes Cluster IP vs NodePort vs LoadBalancer vs Ingress
+    link: /kubernetes-services-cluster-ip-vs-nodeport-vs-loadbalancer-vs-ingress/
+  - name: How I use Kubernetes ConfigMaps to manage configurations
+    link: /how-to-use-kubernetes-configmaps/
+  - name: How to create your own Kubernetes cluster
+    link: /how-to-create-your-own-kubernetes-cluster/
+- post_series_id: getting-started-with-docker
+  post_series_title: Getting started with Docker
+  post_series:
+  - name: Getting started with Docker
+    link: /getting-started-with-docker/
+  - name: Containers vs Virtual Machines
+    link: /containers-vs-virtual-machines/
+  - name: How to install PostgreSQL on Docker
+    link: /how-to-install-postgresql-on-docker/
+  - name: How docker networking works
+    link: /how-docker-networking-works/
+  - name: How to install PostgreSQL cluster on Docker
+    link: /install-postgresql-cluster-docker/
+  - name: How Docker volumes works
+    link: /how-docker-volumes-works/
+  - name: How Docker Compose works
+    link: /how-docker-compose-works/
+- post_series_id: raspberry-media-center
+  post_series_title: How to build a Raspberry Media Center
+  post_series:
+  - name: How to build a Raspberry Media Center
+    link: /raspberry-media-center/
+  - name: How to Configure Kodi Media Center
+    link: /how-to-configure-kodi-media-center/
+  - name: How to transform your Kodi Box in a Netflix-like platform
+    link: /kodi-box-media-library/
+  - name: How to turn your Kodi Media Center in a Torrent machine
+    link: /how-to-turn-your-kodi-media-center-torrent-machine/
+  - name: How to install Youtube Add-on on your Kodi Media Center
+    link: /how-to-install-youtube-kodi/
+  - name: How to transform your Kodi Media Center in a Game Platform
+    link: /how-to-transform-kodi-media-center-retro-game-platform/
+  - name: How to play Nintendo DS games with Retropie on Kodi Media Center
+    link: /to-play-nintendo-ds-games-kodi-media-center/
+  - name: How to transform your Raspberry Media Center in a NAS
+    link: /to-transform-your-raspberry-media-center-nas/
+- post_series_id: android-game-programming
+  post_series_title: Android Game Programming
+  post_series:
+  - name: Android Game Programming
+    link: /android-game-programming/
+  - name: How to install Android Studio
+    link: /how-to-install-android-studio/
+  - name: How to create an Android application
+    link: /how-to-create-an-android-application/
+  - name: How to speed up Android Virtual Device
+    link: /how-to-speed-up-android-virtual-device/
+  - name: Video game programming principles
+    link: /video-game-programming-principles/
+  - name: Design Patterns in Game Programming
+    link: /design-patterns-in-game-programming/
+  - name: Android Programming for Games (Activity Lifecycle)
+    link: /android-programming-for-games-activity-lifecycle/
+  - name: Android Files Management
+    link: /android-files-management/
+  - name: Android Resources Management
+    link: /android-resources-management/
+  - name: Android Graphics Programming for Games
+    link: /android-graphics-programming-for-games/
+  - name: Let’s start building the Game Framework
+    link: /lets-start-building-the-game-framework/
+  - name: Android Input Management for Games
+    link: /android-input-management-for-games/
+- post_series_id: getting-started-with-cloud-computing
+  post_series_title: Getting started with Cloud Computing
+  post_series:
+  - name: Getting started with Cloud Computing
+    link: /getting-started-with-cloud-computing/
+  - name: Introduction to the IBM Cloud platform
+    link: /introduction-to-the-ibm-cloud-platform/
+  - name: How to deploy your first application on IBM Cloud
+    link: /how-to-deploy-your-first-application-on-ibm-cloud/
+- post_series_id: getting-started-with-amazon-web-services
+  post_series_title: Getting started with Amazon Web Services (AWS)
+  post_series:
+  - name: Getting started with Cloud Computing
+    link: /getting-started-with-cloud-computing/
+  - name: Amazon Web Services (AWS) Introduction
+    link: /amazon-web-services/
+  - name: Beginner’s Guide to AWS Identity and Access Management (IAM)
+    link: /beginners-guide-identity-access-management/
+  - name: Amazon Elastic Cloud Computing (EC2) for Beginners
+    link: /amazon-ec2-for-beginners/
+  - name: The Definitive Amazon EC2 Tutorial - Step by step Guide for Beginners
+    link: /definitive-amazon-ec2-tutorial-step-by-step-guide-beginners/
+  - name: Amazon Elastic Block Storage (EBS) vs Elastic File Storage (EFS)
+    link: /amazon-elastic-block-storage/
+  - name: Amazon EBS Tutorial - Step by step Guide for Beginners
+    link: /amazon-ebs-tutorial/
+  - name: How to increase Amazon EC2 Availability and Scalability
+    link: /how-to-increase-amazon-ec2-availability-and-scalability/
+  - name: A Step by step tutorial to create your first Elastic Load Balancer
+    link: /elastic-load-balancer-tutorial/
+  - name: EC2 Auto Scaling Group Tutorial for Beginners
+    link: /ec2-auto-scaling-group-tutorial-for-beginners/
+  - name: Relational Database Service (RDS) - What Is It and How Does It Work?
+    link: /relational-database-service/
+  - name: Amazon Integrated Services (part 1)
+    link: /amazon-integrated-services-2/
+  - name: Amazon Integrated Services (part 2)
+    link: /amazon-integrated-services-3/
+  - name: Amazon Well Architected Framework and its 5 Pillars
+    link: /amazon-well-architected-framework/
+  - name: How Amazon Web Services Security and Compliance works
+    link: /how-amazon-web-services-security-and-compliance-works/
+  - name: The Ultimate and Great Overview of AWS Pricing and Support
+    link: /the-ultimate-and-great-overview-of-aws-pricing-and-support/
+- post_series_id: getting-started-with-yaml
+  post_series_title: Getting started with YAML
+  post_series:
+  - name: "Getting Started with YAML: An Introduction to the Basics"
+    link: /getting-started-with-yaml/
+  - name: "Exploring the Depths of YAML: Advanced Features and Functionality"
+    link: /yaml-advanced-feature/
+- post_series_id: getting-started-with-html
+  post_series_title: "Getting Started with HTML: A Beginner's Guide"
+  post_series:
+  - name: "Getting Started with HTML: A Beginner's Guide"
+    link: /getting-started-with-html/
+  - name: "Mastering the Basics of CSS: A Beginner's Guide"
+    link: /mastering-basics-css/
