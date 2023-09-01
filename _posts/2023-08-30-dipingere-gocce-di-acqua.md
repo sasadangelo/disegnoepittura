@@ -1,0 +1,152 @@
+---
+layout: post
+title: Dipingere gocce di acqua
+published: true
+author: sasadangelo
+comments: true
+date: 2013-07-25 06:07:59
+tags:
+    - pittura ad olio
+    - tutorial
+categories:
+    - pittura
+permalink: /dipingere-gocce-di-acqua
+image:
+    feature: dipingere-gocce-acqua-mini.jpg
+---
+
+
+
+  In quest&#8217;articolo voglio spiegarti come dipingere gocce di acqua.
+
+
+
+
+
+  Diversi anni fa ho tradotto un articolo su Come dipingere gocce di acqua. Oggi voglio approfondire l&#8217;argomento mostrandoti come dipingere gocce di acqua con un sistema molto rapido, veloce ma, soprattutto, pratico.
+
+
+## Un po&#8217; di noiosa teoria?
+
+
+  Quando la luce viaggia nell&#8217;aria ed incontra una goccia d&#8217;acqua, una parte viene riflessa con un angolo di riflessione i uguale all&#8217;angolo di incidenza, e una parte continuerà a viaggiare nella goccia cambiando, però, il suo angolo di inclinazione. La luce, quindi, passando da un materiale (aria) all&#8217;altro (acqua) subisce una riflessione e una rifrazione.&nbsp; La luce all&#8217;interno della goccia viaggia fino a toccare una seconda estremità. Una parte di luce sarà rifratta all&#8217;esterno con angolo i, una parte verrà riflessa all&#8217;interno della goccia con medesimo angolo r. All&#8217;interno della goccia il viaggio continua fino a raggiungere l&#8217;estremità opposta al punto di entrata, dove avverrà ancora una volta una riflessione con angolo r e una rifrazione&nbsp; con angolo i.
+
+
+
+
+
+  Quando il raggio di luce entra nella goccia con un angolo i uguale all&#8217;angolo osservatore-goccia ecco che l&#8217;osservatore vedrà un lustro (o punto di massima luce) molto splendente. Dall&#8217;altra parte si vedranno più raggi di luce che escono in maniera più diffusa e lieve. Quindi da un punto di vista artistico abbiamo già due indizi:
+
+
+
+  là dove entra la luce avremo un lustro puntiforme molto splendente;
+
+
+  Sul lato opposto una luce un po&#8217; più diffusa o sfumata.
+
+
+
+
+
+  Ma le informazioni che ci interessano per dipingere gocce di acqua non finiscono qua. La luce viaggiando verso il basso lascerà l&#8217;area della goccia sottostante al lustro completamente nell&#8217;oscurità. La parte centrale, essendo un&#8217;area molto illuminata, ci apparirà trasparente e sarà completamente visibile il colore del fondo sottostante la goccia. La goccia, infine, si comporta come qualsiasi oggetto in natura. Colpita dalla luce, nonostante parte di essa la penetri per uscire dal lato opposto, comunque genererà un&#8217;ombra portata sulla base su cui essa si poggia.
+
+
+
+
+
+  Abbiamo, a questo punto, tutte le informazioni che ci servono per dipingere una goccia, bisogna solo capire come metterle in pratica.
+
+
+
+  Vedremo ora due semplici esempi di goccia, su un fondo verde e rosso, dipinti ad olio su comuni fogli A4. Il colore è stato usato così come esce dal tubetto così il poco olio viene subito assorbito e il colore si asciuga molto presto. Ovviamente i fogli A4 sono inadatti per la pittura ad olio ma, per provare questi due semplici esercizietti, è il metodo meno costoso e più veloce da fare anche su un tavolo da cucina. E&#8217; inutile dire che lo stesso metodo si può adoperare con i colori acrilici.
+
+
+## Come dipingere gocce di acqua su fondo verde?
+
+
+  Come prima cosa prepariamo un fondo verde con un colore verde foresta fatto da blu oltremare, giallo cadmio chiaro e terra d&#8217;ombra bruciata.
+
+
+
+
+
+  Bisogna poi creare una versione più scura del colore aggiungendo più terra d&#8217;ombra bruciata. Con questa dipingiamo le due aree più scure, quello sottostante al lustro e quello dell&#8217;ombra portata. Dopo l&#8217;applicazione del colore con un pennello piatto n° 0 o 2 asciugatelo e pulitelo e sfumate un pochino i bordi.
+
+
+
+
+
+  A questo punto bisogna dipingere con un pennello 000 il punto del lustro e la zona di luce diffusa. Per il momento non sfumate nulla. E&#8217; importante usare come colore NON il bianco puro. Non bisogna mai dipingere i lustri con bianco puro. Sempre aggiungere al bianco una quantità infinitesimale (deve essere impercettibile) di colore complementare del colore di base. Essendo il colore di base un verde, mescolate una quantità impercettibile di rosso al bianco di zinco. Il rosso è una miscela composta da rosso cadmio chiaro, carminio e un pochino di verde vescica per spegnere l&#8217;eccessiva vivacità del rosso. Notate come nel lustro della foto il rosso non si veda affatto. Ma esso c&#8217;è e vi assicuro che la sua aggiunta rende il lustro più naturale e non un punto bianco dipinto su fondo scuro.
+
+
+
+
+
+  Con pennello piatto n° 0 o 2 asciutto e pulito, sfumare l&#8217;area di luce diffusa della goccia. NON toccate il lustro che non va mai sfumato.
+
+
+
+
+## Come dipingere gocce di acqua su fondo rosso?
+
+
+  Con un procedimento analogo dipingiamo la goccia su un fondo rosso. Il colore rosso è formato da rosso cadmio chiaro, carminio e poco verde vescica.
+
+
+
+
+
+  Anche questa volta creiamo una versione del rosso più scura. Ho aggiunto al rosso più verde vescica e una punta di nero d&#8217;avorio. Con questo colore si dipinge l&#8217;ombra sotto il lustro e l&#8217;ombra portata. Questa volta, però, queste aree in ombra sono meno scure. Copiando un dipinto da una foto può accadere che queste aree di ombra siano molto scure oppure siano poco scure e la goccia a stento si intravede. Nel copiare il dipinto è necessario creare questa variazione per evitare che le gocce sembrino tutte uguali.
+
+
+
+
+
+  Prepariamo poi il colore per il lustro usando NON il bianco puro, ma un bianco con pochissimo verde. Come verde ho utilizzato quello usato per dipingere la goccia verde. Ricordo che la quantità di questo verde deve essere infinitesimale, quasi impercettibile nel bianco. L&#8217;uso del complementare nei lustri fa in modo che essi non appaiono innaturali. Con lo stesso colore dipingere anche un piccolo baffo nell&#8217;area di luce diffusa.
+
+
+
+
+
+  Sfumare con pennello piatto 0 o 2 l&#8217;area di luce diffusa.
+
+
+
+
+## Come dipingere gocce di acqua in un dipinto vero?
+
+
+  Il colore rosso e verde che ho riportato nei due esercizi di sopra sono i colori base che ho utilizzato per il mio ultimo dipinto che ho appena terminato e che vi mostrerò appena ho delle foto più decenti. Notate che i principi esposti sopra sono applicabili ad un dipinto vero. Si comincia con un colore più scuro del colore di base della foglia e si dipingono l&#8217;area in ombra e l&#8217;ombra portata.
+
+
+
+
+
+  Poi con il bianco + pochissimo rosso si dipinge il lustro e la luce diffusa esattamente nel modo spiegato sopra.
+
+
+
+
+
+  In questa foto c&#8217;è un dettaglio di una foglia del mio dipinto, dove sono visibili alcune goccioline d&#8217;acqua.
+
+
+
+
+
+  Le stesse goccioline sono state dipinte sull&#8217;uva. Notate come il colore dell&#8217;ombra e dell&#8217;ombra portata è qui meno scuro e la goccia quasi si confonde con l&#8217;uva. Ho creato quest&#8217;effetto meno contrastato perché il dipinto originale che avevo in una foto lo mostrava così.
+
+
+
+
+
+  Qui un altro dettaglio di una goccia su un altro chicco d&#8217;uva.
+
+
+![Dipingere Gocce di Acqua su Uva][1]
+
+
+  Spero che con quest&#8217;articolo sia ora chiaro come dipingere gocce di acqua. Tutto ciò è applicabile sia ai colori ad olio che ad acrilico. Per i colori acquarello il procedimento potrebbe variare leggermente come mostra questo sito web, solo il lustro lo farei non rimuovendo il colore ma utilizzando il liquido per maschere.
+
+
+ [1]: /wp-content/uploads/dipingere-gocce-acqua-13.jpg "Dipingere Gocce di Acqua su Uva"

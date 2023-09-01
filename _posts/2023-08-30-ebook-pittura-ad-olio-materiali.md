@@ -1,0 +1,43 @@
+---
+layout: post
+title: "L'ebook Pittura ad Olio - Materiali"
+published: true
+author: sasadangelo
+comments: true
+date: 2014-08-21 07:08:50
+tags:
+    - materiali
+    - pittura ad olio
+categories:
+    - pittura
+permalink: /ebook-pittura-ad-olio-materiali
+image:
+    feature: 3d-100.png
+---
+
+  
+A Maggio ho annunciato che avrei sospeso le attività di Disegno & Pittura per un anno in modo da potermi dedicare ad altri miei interessi. Nella mia mente questo periodo doveva anche essere l&#8217;opportunità per riflettere su come gestire in futuro questo spazio web. Una decisione che all&#8217;inizio sembrava così difficile e dolorosa si è rivelata, invece, molto saggia.
+
+Ho riscoperto la gioia di fare tante cose che non facevo da tempo. Alcuni utenti si sono un po&#8217; spaventati di questa mia decisione intravedendo in essa l&#8217;inizio della fine di Disegno & Pittura. La realtà è che le cose stanno esattamente all&#8217;opposto e questo articolo ne è la prova tangibile.
+
+Probabile che in futuro vi parlerò di più di ciò che sta accadendo in questo periodo, ma non voglio annoiarvi e non è questo lo scopo di quest&#8217;articolo. Oggi voglio annunciarvi una nuova iniziativa.
+
+## L&#8217;ebook Pittura ad Olio &#8211; Materiali
+
+
+  
+Tra le tante cose fatte in questi mesi c&#8217;è la realizzazione di un nuovo ebook gratuito dal titolo: **Pittura ad Olio &#8211; Materiali**. Negli anni passati e ancora oggi ricevo molte email di persone che mi chiedono quale olio acquistare, quale vernice è la migliore, quali materiali usare in casa e così via. Devo dire che qualche volta queste domande mi provocano non poche frustrazioni ma mi rendo conto che, nonostante su questo blog e sul forum si sia discusso molto di questi temi, non tutti gli utenti sanno dove reperire queste informazioni.
+
+Ho pensato quindi che poteva risultare utile sia ai principianti che a quelli più esperti avere una guida che aiutasse a capire, in pochi giorni, quali prodotti acquistare per cominciare a dipingere e come cambiarli man mano che l&#8217;esperienza aumenta. Per scrivere questa guida sono partito da alcuni articoli che avevo già scritto, ma mi sono reso conto fin da subito che molte informazioni bisognava riscriverle da zero. Inoltre, è stato necessario aggiungere materiale inedito finora mai trattato sul blog.
+
+## L&#8217;ebook è gratuito
+
+**L&#8217;ebook è assolutamente gratuito ma ho deciso di rilasciarlo ai soli iscritti della mia Newsletter** a cui proprio in queste ore ho inviato l&#8217;email con tutte le istruzioni per scaricarlo. Se non sei iscritto alla Newsletter ti ricordo che puoi farlo facilmente utilizzando il Pannello che trovi in alto a destra oppure in fondo a ciascun articolo. Iscriversi è semplice, basta inserire il tuo nome e la tua email. L&#8217;iscrizione è anch&#8217;essa  gratuita. Chi mi conosce sa che io non cedo a terzi questa email e non invio ad essa alcuno SPAM. Appena ti iscriverai riceverai una email con un link che dovrai cliccare per confermare la tua iscrizione. Completata l&#8217;iscrizione riceverai una email di benvenuto con il link per scaricare l&#8217;ebook **Dipingere con la Tecnica dei Fiamminghi** come prassi consolidata. Dopo 4 giorni riceverai il nuovo ebook. In passato devo dire di non aver gestito questa Newsletter come avrei voluto, ma sicuramente da oggi in avanti sarà il canale principale di comunicazione di Disegno & Pittura.
+
+La Newsletter prevede inizialmente l&#8217;invio di 4 email a distanza di 4 o 7 giorni l&#8217;una dall&#8217;altra. Esse hanno lo scopo di introdurre l&#8217;iscritto nel mondo di Disegno & Pittura. Dopo queste email iniziali ti assicuro che non riceverai molte email, ma quelle poche che riceverai credo le troverai molto interessanti.
+
+## Conclusione
+
+Come puoi constatare l&#8217;ebook è assolutamente gratuito. L&#8217;unica cosa che ti chiedo in cambio è di leggerlo e farmi avere una tua opinione circa i suoi contenuti inviandomi un&#8217;email a redazione AT disegnoepittura.it.
+
+Buona lettura.
