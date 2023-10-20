@@ -4,37 +4,32 @@ title: Projects
 slug: projects-2
 excerpt: In this page, I will collect all the projects that I have made using my technological and programming skills.
 ---
-# Projects
+# Galleria
 
-On this page, I will collect all the projects that I have made using my technological and programming skills. The goal is to be able to pass on to others the knowledge acquired and my passion for programming and technology. To do this, I believe there is nothing better than showing how to implement a project step by step.
+Questa è la Galleria di alcuni lavori svolti negli ultimi anni. Ho diviso questa Galleria in più Album in base alla tecnica e allo stile utilizzato. La mia tecnica pittorica si basa essenzialmente su tre elementi:
 
-## Featured Projects
+* **Il Disegno**. Considero il disegno la base di qualsiasi opera pittorica in stile realistico. Se un disegno è sbagliato è difficile recuperare con i colori. Amo spendere molto tempo facendo schizzi che mi aiutano a tenere la mano allenata. Per questo motivo ho deciso di dedicare un album della mia Galleria ad essi. Altro elemento per me molto importante è il disegno realistico in cui l’attenzione è posta sia sul disegno che sul chiaroscuro.
+* **Il Chiaroscuro**. E’ l’elemento attraverso cui si riesce a dare tridimensionalità ai propri lavori. Per allenare i miei occhi e la mia mano amo disegnare di tanto in tanto qualche soggetto in stile realista in cui pongo maggiore attenzione al chiaroscuro eseguito con le matite o altri materiali.
+* **Il Colore**. E’ l’essenza del mio lavoro. La mia tecnica preferita è la Pittura a Olio e per questo ho dedicato un album ad essa. C’è comunque l’album 
 
-The following are the projects in hightlight. I consider them the most important projects I worked on and that could be useful for you.
+Altre Tecniche e Illustrazioni dove trovate lavori eseguiti anche con altre tecniche (es. pastello, tecniche miste).
 
-<div class="featured-projects-area">
-{% for item in site.data.featured-projects %}
-  <div class="featured-projects-box">
-    <div class="featured-projects-image">
-      <a title="{{ item.title}}" href="{{ site.baseurl }}/{{ item.link}}">
-      <img src="{{ site.baseurl }}/{{ item.image}}" alt="{{ item.title}}" width="200" height="auto"/></a>
-    </div>
-      <div class="featured-projects-title">
-        <h3><a title="{{ item.title}}" href="{{ site.baseurl }}/{{ item.link}}">{{ item.title}}</a></h3>
-      </div>
-    <div class="featured-projects-text">{{ item.description }} <a title="{{ item.title}}" href="{{ site.baseurl }}/{{ item.link}}">Check out the article here</a></div>
-  </div>
-{% endfor %}
-</div>
+## Quadri a Olio
 
-## Other Projects
+La Pittura a Olio è senza dubbio la mia tecnica preferita. Con essa ho la sensazione di poter esprimere realmente me stesso. Inoltre, la considero la tecnica che ci collega al nostro passato artistico cui bisogna sempre guardare per migliorarsi.
 
-There are other projects I worked on during the last 30 years but most of them are lost forever. In the past, a website like github.com didn’t exist. I kept all my projects on floppy disk or CD that with time I lost. However, I was able to find some of them that I saved on my Github page together with others that I developed recently.
+## Illustrazioni
 
-**[Droids](https://github.com/sasadangelo/Droids)**: since the first years of my journey in programming I had always been fascinated by game programming. When I started to play with Android I had the chance to read a very good book called [Android Game Programming](https://www.amazon.it/Beginning-Android-Games-English-Zechner-ebook/dp/B00A4EH7D0/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=android+game+programming+mario&qid=1593502057&sr=8-1) wrote by Mario Zachner. The book explains basic game programming principles and how to use them with Android and Java. In the book he built, step by step, a game framework and some game examples. I used the framework code as a starting point for my project and in a very short time, I was able to build my first video game on Android: **Droids**, a Tetris clone.
+Da qualche anno provo molto piacere a sperimentare lavori di Illustrazione che mi consentono di  esercitarmi con il disegno, il chiaroscuro e il colore in maniera alternativa. Ho cominciato traendo ispirazione da qualche artista del web prima tra tutti [Marcello Barenghi](http://www.marcellobarenghi.it/).
 
-**[Alien Invaders](https://github.com/sasadangelo/AlienInvaders)**: this project was my second attempt with Android Game Programming. In this project, I reused the game framework and on top of it, I built a clone of Space Invaders.
+## Tecniche Varie
 
-**[Mr Snake](https://github.com/sasadangelo/AlienInvaders)**: this is my third project in the Android Game Programming area. It is a Snake clone the famous game appeared in ’90 on Nokia phones.
+In questo Album raccolgo alcuni lavori eseguiti a pastello e disegni realistici a matita. Come dicevo sopra, ritengo il disegno realistico un elemento essenziale per migliorare la mia tecnica perché mi consente di concentrarmi sul chiaroscuro.
 
-**[Gollumix](https://github.com/sasadangelo/gollumix)**: when I was at the college and attended the Operating Systems course I wanted to develop a very small operating system by myself. Linux had already been available for a few years but the 2.2 version was too complex to understand at that time. For this reason, I started to study the earlier versions (from 0.01 to 0.96) and I created a project I called Gollumix. It was basically a boot loader that starts the kernel code with six consoles where whatever you type on the keyboard was written on the screen. For the project, I implemented a keyboard, floppy, and screen driver, process management, and a simple scheduler. The last time I tried this mini operating system was several years ago with a virtual machine called [Bochs](http://bochs.sourceforge.net/). I don’t know if it still works today.
+## Disegni e Schizzi
+
+Disegnare per me è il fondamento di qualsiasi opera pittorica in stile realista. E’ essenziale per me disegnare qualsiasi soggetto a mano libera che attiri la mia attenzione. Mi piace realizzare piccoli schizzi che, tipicamente, richiedono pochi minuti o qualche ora al massimo. Il disegno deve essere rigorosamente a mano libera eseguito a matita e poi, eventualmente, ripassato a inchiostro o pennarello. I soggetti sono presi da libri, riviste, giornali o web. Fare pratica con il disegno mi aiuta a tenere la mano allenata e poi mi rendo conto che più mi esercito più riesco a realizzare disegni che mi soddisfano. Per questo motivo ho deciso di dedicare un Album della mia Galleria a questi disegni per me molto importanti. Se ti interessa conoscere  il mio approccio al disegno puoi leggere [quest’articolo]({{ site.baseurl }}/come-disegnare-soggetto-dipinto/).
+
+>
+> E’ solo disegnando spesso, disegnando tutto, disegnando incessantemente, che un bel giorno scopri per tua grande sorpresa che hai realizzato qualcosa nel > suo vero carattere. Camille Pissarro.
+>

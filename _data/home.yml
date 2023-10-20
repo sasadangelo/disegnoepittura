@@ -12,7 +12,7 @@ icon-area:
   - icon-image: assets/img/projects-icon.png
     icon-title: Galleria
     icon-subtitle: Guarda la mia Galleria
-    icon-link: galleria/
+    icon-link: galleria-di-dipinti//
   - icon-image: assets/img/resources-icon.png
     icon-title: Risorse
     icon-subtitle: Guarda le mie Risorse preferite
