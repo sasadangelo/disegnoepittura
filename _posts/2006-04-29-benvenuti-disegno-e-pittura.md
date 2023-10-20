@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Benvenuti sul blog Disegno & Pittura'
+title: "Benvenuti sul blog Disegno & Pittura"
 slug: benvenuti-disegno-e-pittura
 image: /wp-content/uploads/Logo-initial-transparent.jpg
-excerpt: Benvenuti nel blog Disegno e Pittura, il blog che ti insegna a disegnare e dipingere. Leggi i numerosi articoli del blog e iscriviti alla nostra newsletter.
+excerpt: "Benvenuti nel blog Disegno e Pittura, il blog che ti insegna a disegnare e dipingere. Leggi i numerosi articoli del blog e iscriviti alla nostra newsletter."
 categories:
     - vari
 tags: [ ]
