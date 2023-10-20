@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Anamorfosi]({{ site.baseurl }}/wp-content/uploads/anamorfosi.jpeg){:width="200" height="136" .responsive_img}
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Sul sito [illuweb.it](http://www.illuweb.it){:target="_blank"} si legge la seguente definizione di anamorfosi:
 
 > Il termine deriva dal greco **_ana_** (all'indietro ritorno verso) e **_morphe_** (forma) sta ad indicare un disegno in cui appare un'immagine distorta che osservata obliquamente o riflessa un uno specchio curvo può essere vista nella sua prospettiva naturale.

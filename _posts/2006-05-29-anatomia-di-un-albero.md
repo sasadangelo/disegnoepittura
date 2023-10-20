@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![pierre]({{ site.baseurl }}/wp-content/uploads/pierre.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Ieri e oggi ho avuto un pò di problemi con Internet, ma finalmete sono ritornato. Questo fine settimana ho lavorato su due dipinti utilizzando la tecnica di Bob Ross. Pubblicherò le immagini in questi giorni insieme ad alcuni studi su paesaggi marini. Spero che riusciate a resistere all'orrore.
 
 Nel frattempo volevo segnalarvi la [rubrica](http://www.wetcanvas.com/ArtSchool/QuikTips/index.html){:target="_blank"} di Pierre Labeau su Wetcanvas. Tra i vari articoli ce ne sono due inerenti agli alberi, tema discusso nel precedente post. In particolare, [uno dei due](http://www.wetcanvas.com/ArtSchool/QuikTips/AnatomyTree/index.html){:target="_blank"} è molto interessante. Per chi non conosce l'inglese, praticamente Pierre dice che l'errore che lui nota maggiormente quando i principianti dipingono gli alberi non sta tanto nel loro modo di dipingere, bensì nel loro modo di pensare ad un albero.

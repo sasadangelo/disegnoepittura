@@ -15,6 +15,8 @@ author: sasadangelo
 ---
 ![Campitura bls]({{ site.baseurl }}/wp-content/uploads/Campitura-mini.jpg){:width="295" height="200" .responsive_img}
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo proverò a spiegare che cos'è la campitura, a cosa serve e come la eseguo. 
 
 ## Che cos'è la Campitura?
