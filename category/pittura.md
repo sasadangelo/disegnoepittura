@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Android
-slug: android
-permalink: /category/android/
+title: Pittura
+slug: pittura
+permalink: /pittura/
 pagination:
   enabled: true
-  category: Android
+  category: Pittura
 sitemap:
   exclude: 'yes'
 robots: noindex, follow
