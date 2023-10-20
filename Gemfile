@@ -10,5 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2'
   gem 'jekyll-redirect-from'
   gem 'google-protobuf'
-  gem "techi", :path => '/Users/sasadangelo/github.com/sasadangelo/techi'
+  #gem "techi", :path => '/Users/sasadangelo/github.com/sasadangelo/techi'
+
+  gem 'sass-embedded', platform: :ruby
 end

@@ -20,12 +20,12 @@ layout: default
                 </h2>
               </div>
               <div class="blog-entry-meta">
-                Posted on <b>{{ post.date | date_to_string }}</b>
+                Pubblicato il <b>{{ post.date | date_to_string }}</b>
               </div>
             </div>
             <div class="blog-entry-excerpt">
               <p>{{ post.excerpt }}</p>
-              <a href="{{ site.baseurl }}{{ post.url }}">Continue Reading</a>
+              <a href="{{ site.baseurl }}{{ post.url }}">Continua a Leggere</a>
             </div>
           </div>
         </div>
@@ -35,21 +35,21 @@ layout: default
         {% if paginator.previous_page %}
           {% if paginator.previous_page == 1 %}
             <a href="{{ site.baseurl }}/blog/" class="previous-page">
-              Previous
+              Precedente
             </a>
           {% else %}
             <a href="{{ site.baseurl }}/blog/page/{{ paginator.previous_page }}/" class="previous-page">
-              Previous
+              Precedente
             </a>
           {% endif %}
         {% else %}
-          <span class="previous-page">Previous</span>
+          <span class="previous-page">Precedente</span>
         {% endif %}
         <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.next_page %}
-          <a href="{{ site.baseurl }}/blog/page/{{ paginator.next_page }}/" class="next-page">Next</a>
+          <a href="{{ site.baseurl }}/blog/page/{{ paginator.next_page }}/" class="next-page">Successivo</a>
         {% else %}
-          <span class="next-page">Next</span>
+          <span class="next-page">Successivo</span>
         {% endif %}
       </div>
     </div>

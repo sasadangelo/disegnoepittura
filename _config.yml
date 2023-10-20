@@ -1,11 +1,15 @@
-title: Code4Projects
+title: Disegno & Pittura
 email: sasadangelo@gmail.com
-description: Code4Projects is a website about software programming where I write everything I learnt in over 30 years of experience.
-baseurl: ""
-url: "https://www.code4projects.net"
-copyright: Code4Projects, Copyright Salvatore D'Angelo © 2016-2023.
-logo: assets/img/code4projects-logo-mini.webp
-theme: techi
+description: Blog di disegno e pittura. Il blog per chi ama disegnare e dipingere.
+baseurl: "disegnoepittura"
+url: "https://sasadangelo.github.io"
+copyright: Disegno & Pittura, Copyright Salvatore D'Angelo © 2006-2023.
+
+# Logo information
+logo: wp-content/uploads/DP-Logo.jpg
+logo-alt: "Disegno & Pittura Logo"
+logo-width: 240
+logo-height: 120
 
 # Google Analytics
 google_analytics: G-62DF79P0NY
@@ -13,8 +17,8 @@ google_site_verification: BgoS4TSe3LRCda2BIF8h37ezeXG3KNaVBqvf9syjmO4
 
 # Typography configuration
 fonts:
-    size: 30px
-    family: Roboto Slab
+  size: 30px
+  family: Roboto Slab
 
 collections:
   authors:
