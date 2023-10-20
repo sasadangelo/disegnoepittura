@@ -237,6 +237,12 @@ header {
   border: 1px solid #262626;
 }
 
+.social-media-icon-instagram {
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #bc2a8d), color-stop(1, #e95950));
+  border: 1px solid #bc2a8d;
+}
+
+
 .fa-facebook-f {
   width: 1em;
   height: 1em;
@@ -298,6 +304,21 @@ header {
 }
 
 .fa-github {
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  display: block;
+  position: absolute;
+  line-height: 1em;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.45em;
+  margin-left: -0.5em;
+  font-size: 18px;
+}
+
+.fa-instagram {
   width: 1em;
   height: 1em;
   text-align: center;

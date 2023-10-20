@@ -11,6 +11,14 @@ logo-alt: "Disegno & Pittura Logo"
 logo-width: 240
 logo-height: 120
 
+social:
+  facebook-url: https://www.facebook.com/disegno.pittura/
+  twitter-url: https://twitter.com/disegnoepittura
+  youtube-url:
+  linkedin-url:
+  github-url:
+  instagram-url: https://www.instagram.com/sasadangeloo/
+
 # Google Analytics
 google_analytics: G-62DF79P0NY
 google_site_verification: BgoS4TSe3LRCda2BIF8h37ezeXG3KNaVBqvf9syjmO4

@@ -6,7 +6,7 @@ excerpt: This page contains some information about Salvatore D'Angelo the owner 
 ---
 # Chi Sono?
 
-![Salvatore D'Angelo]({{ site.baseurl }}/assets/img/salvatore_d_angelo.jpeg){:width="100" height="100" .responsive_img}
+![Salvatore D'Angelo]({{ site.baseurl }}/wp-content/uploads/salvatore_d_angelo.jpeg){:width="100" height="100" .responsive_img}
 
 Mi chiamo Salvatore, sono originario della provincia di Salerno e attualmente vivo e lavoro a Roma. Sono laureato in Informatica e lavoro presso una nota società americana di software.
 
