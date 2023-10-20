@@ -2,8 +2,8 @@
 layout: post
 title: Anamorfosi
 slug: anamorfosi
-image: http://www.attivissimo.net/antibufala/madonnaro/img0.jpg
-excerpt: Benvenuti nel blog Disegno e Pittura, il blog che ti insegna a disegnare e dipingere. Leggi i numerosi articoli del blog e iscriviti alla nostra newsletter.
+image: /wp-content/uploads/anamorfosi.jpeg
+excerpt: "Che cos'è l'anamorfosi? Quest'articolo spiega cos'è l'anamorfosi e mostra alcuni esempi sconcertanti di realizzazione di questo fenomeno."
 categories:
     - disegno
 tags: [ ]
