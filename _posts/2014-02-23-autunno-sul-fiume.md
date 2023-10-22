@@ -19,7 +19,7 @@ _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Questo è un dipinto che ho copiato da una foto trovata sul web. Voglio condividere con voi il mio metodo di esecuzione.  
 
-![Questa è la foto originale da cui ha dipinto Autunno sul Fiume](/wp-content/uploads/Autunno-sul-Fiume-Foto-Originale.jpg)
+![Questa è la foto originale da cui ha dipinto Autunno sul Fiume]({{ site.baseurl }}/wp-content/uploads/Autunno-sul-Fiume-Foto-Originale.jpg)
 
 _Foto Originale_
 
