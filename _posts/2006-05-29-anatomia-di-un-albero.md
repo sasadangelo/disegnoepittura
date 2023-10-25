@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anatomia di un albero"
+title: "Anatomia di un Albero"
 slug: anatomia-di-un-albero
 image: /wp-content/uploads/pierre.jpg
 excerpt: "In quest'articolo voglio segnalarti due articoli di Pierre Labeau sull'Anatomia di un Albero."
@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![pierre]({{ site.baseurl }}/wp-content/uploads/pierre.jpg)
 
+# Anatomia di un albero
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Ieri e oggi ho avuto un pò di problemi con Internet, ma finalmete sono ritornato. Questo fine settimana ho lavorato su due dipinti utilizzando la tecnica di Bob Ross. Pubblicherò le immagini in questi giorni insieme ad alcuni studi su paesaggi marini. Spero che riusciate a resistere all'orrore.

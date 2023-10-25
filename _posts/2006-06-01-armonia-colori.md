@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Armonia Colori]({{ site.baseurl }}/wp-content/uploads/skemeg1.gif){:width="150" height="150" .responsive_img}
 
+# L'armonia dei colori. Come dipingere un quadro con colori in armonia tra loro
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Innanzitutto precisiamo che esistono due modalità di mistione dei colori: sintesi additiva (usata nei computer dove i colori primari sono Rosso, Verde e Blu) e quella sottrattiva (usata dagli artisti dove i colori primari sono Giallo, Rosso e Blu). Senza approfondire questi due temi, diciamo solo che gli artisti sono, generalmente, interessati alla sintesi sottrattiva. In tale modalità,  la disposizione dei vari colori sulla ruota cromatica è pressapoco la seguente.

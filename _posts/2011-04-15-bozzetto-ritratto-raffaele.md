@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Come dipingere un bozzetto per il Ritratto di Raffaele]({{ site.baseurl }}/wp-content/uploads/dipingere-ritratto-raffaele-colori-acquarello-tascabili-8.JPG)
 
+# Bozzetto ad acquarello per il Ritratto di Raffaele
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Qualche mese fa ho deciso di realizzare un ritratto di mio figlio Raffaele di cui finora ho dipinto solo la campitura riportata nella figura sotto.

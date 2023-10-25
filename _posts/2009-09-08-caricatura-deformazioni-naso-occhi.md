@@ -13,6 +13,9 @@ author: sasadangelo
 
 ![caricatura forma T]({{ site.baseurl }}/wp-content/uploads/caricatura-forme-t.jpg)
 
+# Caricatura e Deformazioni Naso-Occhi
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Se [individuare l'elemento di esagerazione]({{ site.baseurl }}/caricatura-esagerazione/) è, principalmente, un'attività di interpretazione dell'artista è ovvio che è impossibile definire per essa regole o linee guida di riferimento. Tuttavia, una volta svolto questo lavoro è possibile gestire queste esagerazioni e le relazioni tra i diversi elementi del viso agendo principalmente su due forme principali:
 
 - la forma della testa;

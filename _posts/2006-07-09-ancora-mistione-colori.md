@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Ancora sulla mistione dei colori ...]({{ site.baseurl }}/wp-content/uploads/thumb_colormix.jpeg){:width="106" height="125" .responsive_img} 
 
+# Ancora sulla mistione dei colori ...
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Osservate l'immagine sotto, è lo schema di una roccia in mare. Di questa roccia distinguiamo alcune zone:

@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![s880fta]({{ site.baseurl }}/wp-content/uploads/s880fta.jpg){:width="200" height="200" .responsive_img}
 
+# Antonino Cammarata
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Oggi volevo segnalarvi il sito del maestro [Antonino Cammarata](http://www.artewebcam.com){:target="_blank"}. Dalla sua [biografia](http://www.dipinticammarata.it/bio1.htm){:target="_blank"} si legge:

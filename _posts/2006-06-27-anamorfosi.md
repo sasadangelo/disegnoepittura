@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![Anamorfosi]({{ site.baseurl }}/wp-content/uploads/anamorfosi.jpeg){:width="200" height="136" .responsive_img}
 
+# Anamorfosi
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Sul sito [illuweb.it](http://www.illuweb.it){:target="_blank"} si legge la seguente definizione di anamorfosi:

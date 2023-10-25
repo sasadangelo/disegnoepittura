@@ -12,6 +12,7 @@ author: sasadangelo
 ---
 ![Chiaroscuro Sfera]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-sfera-mini.png){:width="301" height="200" .responsive_img}
 
+# Il Chiaroscuro
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo voglio spiegare alcuni concetti sul chiaroscuro che credo possano tornare utile a chi ama disegnare e dipingere.

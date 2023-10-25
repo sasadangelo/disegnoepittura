@@ -13,6 +13,9 @@ author: sasadangelo
 
 ![caricatura arnold schwarzenegger]({{ site.baseurl }}/wp-content/uploads/caricatura-arnold-schwarzenegger.jpg)
 
+# Esagerazioni nella Caricatura
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come individuare l'elemento di esagerazione in una caricatura? La risposta a tale domanda è il pilastro su cui si fonda una buona caricatura.
 
 ## Come individuare l'elemento di esagerazione in una caricatura?

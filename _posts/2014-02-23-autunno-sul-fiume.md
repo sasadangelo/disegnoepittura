@@ -15,6 +15,7 @@ author: cinziarispoli
 
 ![Autunno sul Fiume]({{ site.baseurl }}/wp-content/uploads/Dipinto-Completato-Mini.jpg) 
 
+# Autunno sul Fiume
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Questo è un dipinto che ho copiato da una foto trovata sul web. Voglio condividere con voi il mio metodo di esecuzione.  
