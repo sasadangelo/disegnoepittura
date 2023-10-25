@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autunno sul Fiume"
-slug: caricatura-occhi
+slug: autunno-sul-fiume
 image: /wp-content/uploads/Dipinto-Completato-Mini.jpg
 excerpt: "Questo è un dipinto che ho copiato da una foto trovata sul web. Voglio condividere con voi il mio metodo di esecuzione."
 categories:
