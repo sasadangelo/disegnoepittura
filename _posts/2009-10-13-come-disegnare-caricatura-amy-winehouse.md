@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Come Disegnare la Caricatura di Amy Winehouse"
+post_series_id: corso-disegnare-una-caricatura
 slug: come-disegnare-caricatura-amy-winehouse
 image: /wp-content/uploads/amy-winehouse-thumb.jpg
 excerpt: "In quest'articolo studieremo una caricatura in modo da analizzare come si applicano i principi finora esposti."

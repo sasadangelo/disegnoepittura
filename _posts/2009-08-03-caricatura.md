@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La Caricatura"
+post_series_id: corso-disegnare-una-caricatura
 slug: caricatura
 image: /wp-content/uploads/caricatura-obama.JPG
 excerpt: "Oggi volevo segnalarvi il sito del maestro Antonino Cammarata. Dalla sua biografia si legge: Antonino Cammarata, pittore professionista, è nato il 6."

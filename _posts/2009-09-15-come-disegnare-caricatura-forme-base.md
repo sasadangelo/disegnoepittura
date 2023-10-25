@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le 5 forme di base di una Caricatura
+post_series_id: corso-disegnare-una-caricatura
 slug: come-disegnare-caricatura-forme-base
 image: /wp-content/uploads/caricatura-5-forme-5.jpg
 excerpt: "Quali sono le 5 forme base in una caricatura? Continua il corso per Disegnare una Caricatura. In questa lezione studierai quali sono le 5 forme di base."

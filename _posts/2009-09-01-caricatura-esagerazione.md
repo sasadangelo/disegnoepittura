@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Esagerazioni nella Caricatura"
+post_series_id: corso-disegnare-una-caricatura
 slug: caricatura-esagerazione
 image: /wp-content/uploads/caricatura-arnold-schwarzenegger.jpg
 excerpt: "Come individuare l'elemento di esagerazione in una caricatura? Leggo quest'articolo e lo scoprirai."

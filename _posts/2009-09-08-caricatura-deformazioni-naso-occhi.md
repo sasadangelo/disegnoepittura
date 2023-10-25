@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Caricatura e Deformazioni Naso-Occhi"
+post_series_id: corso-disegnare-una-caricatura
 slug: caricatura-deformazioni-naso-occhi
 image: /wp-content/uploads/caricatura-forme-t.jpg
 excerpt: "In quest'articolo parleremo di come gestire il naso e gli occhi in una caricatura"

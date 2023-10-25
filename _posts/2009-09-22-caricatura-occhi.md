@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Come disegnare gli occhi in una caricatura"
+post_series_id: corso-disegnare-una-caricatura
 slug: caricatura-occhi
 image: /wp-content/uploads/caricatura-occhi-6.jpg
 excerpt: "Nei precedenti articoli, abbiamo compreso cosa serve per realizzare una buona caricatura e le due forme di base: testa e T naso-occhi. In quest'articolo"

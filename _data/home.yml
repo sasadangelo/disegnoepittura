@@ -18,16 +18,14 @@ icon-area:
     icon-subtitle: Guarda le mie Risorse preferite
     icon-link: risorse-per-pittori/
 feature-area:
-  - feature-title: Android Game Programming
+  - feature-title: Corso per Disegnare una Caricatura
     feature-text: >
-      This is the <b>Android Game Programming</b> article series. Here I will show you, step by step, how to write your first Android 
-      game: Droids a Tetris clone. The series starts showing how to write your first Android application using Java and Android Studio. 
-      Then I will explain the basic concepts of Game Programming. From this point forward, we will add to our application more features 
-      like: file, resources, input, music, and graphics management. The result will be a Game Framework whose code you can reuse for 
-      other games. Finally, we will use the Framework as base code to write Droids, a Tertris clone. 
-      <a href="android-game-programming/">Checkout the article series here</a>.
-    feature-image: wp-content/uploads/2020/06/android-game-programming-mini.png
-    feature-link: android-game-programming/
+      Vuoi imparare a disegnare una caricatura? Leggendo quest'articolo avrai accesso ad un intero corso che ti spiegherà come fare.
+      Questo corso è una libera traduzione di alcuni tutorials pubblicati su Tom's MAD Blog. Il corso è composto da una serie di 
+      articoli che spiegano come disegnare una caricatura analizzando le varie parti del soggetto come testa, occhi, naso, bocca, ecc. 
+      <a href="corso-disegnare-una-caricatura/">Vai al corso cliccando qui</a>.
+    feature-image: wp-content/uploads/amy-winehouse-thumb.jpg
+    feature-link: corso-disegnare-una-caricatura/
   - feature-title: Getting Started with Docker
     feature-text: >
       This is the <b>Getting started with Docker</b> article series. In it I would like to explain what Docker is and how I use it in my day by 

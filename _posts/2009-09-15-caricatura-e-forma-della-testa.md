@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Caricatura e Forma della Testa"
+post_series_id: corso-disegnare-una-caricatura
 slug: caricatura-e-forma-della-testa
 image: /wp-content/uploads/caricatura-forma-testa-7.jpg
 excerpt: "In quest'articolo parleremo di come gestire il naso e gli occhi in una caricatura"

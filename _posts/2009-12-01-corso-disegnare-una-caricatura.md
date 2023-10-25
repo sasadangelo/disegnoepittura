@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Corso per Disegnare una Caricatura"
+post_series_id: corso-disegnare-una-caricatura
 slug: corso-disegnare-una-caricatura
 image: /wp-content/uploads/amy-winehouse-thumb.jpg
 excerpt: "Come disegnare una Caricatura? Questo corso ti spiega, passo dopo passo, come disegnare una caricatura dall'inizio alla fine."
