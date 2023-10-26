@@ -13,160 +13,102 @@ categories:
 permalink: /munsell-color-system-charts
 ---
 
+![munsell-25r](https://www.disegnoepittura.it/wp-content/uploads/munsell-25r.jpg "munsell-25r")
 
+Dopo aver [introdotto il modello di Munsell](https://www.disegnoepittura.it/munsell-color-system/) e aver dato una definizione delle tre caratteristiche di  un colore: [hue](https://www.disegnoepittura.it/munsell-color-system-hue/), [tono](https://www.disegnoepittura.it/munsell-color-system-parte-tono/) e [saturazione](https://www.disegnoepittura.it/munsell-color-system-saturazione/); è il momento di dare un'occhiata alla tabelle dei colori. Esse possono essere usate per confrontarle con una data tinta e capire così che posizione assume nell'albero di Munsell.
 
-  Dopo aver introdotto il modello di Munsell e aver dato una definizione delle tre caratteristiche di  un colore: hue, tono e saturazione; è il momento di dare un&#8217;occhiata alla tabelle dei colori. Esse possono essere usate per confrontarle con una data tinta e capire così che posizione assume nell&#8217;albero di Munsell.
+Allo stesso modo può servire per capire un dato tubetto di colore che posizione occupa nell'albero. A tal proposito, bisogna ricordare che un colore avente un dato nome può essere completamente diverso da un brand all'altro. Ad esempio, un rosso di cadmio chiaro può assumere una posizione se è Maimeri, un'altra se è Winsor & Newton.
 
+Abbiamo visto che il modello di Munsell prevede 100 hue, 11 toni e un numero variabile di livelli di saturazione, il tutto per un numero totale di circa 18000 colori. E' ovvio che per un artista gestire questo elevato numero di colori è impossibile, ecco perchè il metodo di Munsell è ottimo per descrivere i colori ma poco utile da un punto di vista pratico se non si apportano le dovute semplificazioni. Ad esempio, questo [pittore](https://www.fineportraitsinoil.com/) utilizza solo quattro livelli di saturazione.
 
+Proprio nell'ottica di questa necessaria semplificazione fornisco qui di seguito solo 40 tabelle di colori delle 100 previste dal modello di Munsell. In pratica, quattro tabelle per ciascuna gamma di colori (quattro per Y, quattro per YR, ecc).
 
-  Allo stesso modo può servire per capire un dato tubetto di colore che posizione occupa nell&#8217;albero. A tal proposito, bisogna ricordare che un colore avente un dato nome può essere completamente diverso da un brand all&#8217;altro. Ad esempio, un rosso di cadmio chiaro può assumere una posizione se è Maimeri, un&#8217;altra se è Winsor & Newton.
+A cosa serviranno queste tabelle?
 
+Ogni qualvolta avete un dubbio circa la posizione di un colore nell'albero di Munsell, queste tabelle vi aiuteranno a descriverlo in termini di hue, tono e saturazione. Ricordatevi che il lavoro di descrizione non deve essere preciso e  ossessivo, è sufficiente avere un'idea approssimativa da utilizzare poi come riferimento quando si mescolano i colori.
 
+Io ho stampato queste 40 tabelle su 40 fogli lucidi per fotografia e ne ho fatto un libro che consulto di tanto in tanto. Tenete ben presente, però, che 40 fogli di questo tipo sono una bella spesa.
 
-  Abbiamo visto che il modello di Munsell prevede 100 hue, 11 toni e un numero variabile di livelli di saturazione, il tutto per un numero totale di circa 18000 colori. E&#8217; ovvio che per un artista gestire questo elevato numero di colori è impossibile, ecco perchè il metodo di Munsell è ottimo per descrivere i colori ma poco utile da un punto di vista pratico se non si apportano le dovute semplificazioni. Ad esempio, questo pittore utilizza solo quattro livelli di saturazione.
+[2.5 R](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5R.JPG)
 
+[5 R](https://www.disegnoepittura.it/wp-content/uploads/munsell-5R.JPG)
 
+[7.5 R](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5R.JPG)
 
-  Proprio nell&#8217;ottica di questa necessaria semplificazione fornisco qui di seguito solo 40 tabelle di colori delle 100 previste dal modello di Munsell. In pratica, quattro tabelle per ciascuna gamma di colori (quattro per Y, quattro per YR, ecc).
+[10 R](https://www.disegnoepittura.it/wp-content/uploads/munsell-10R.JPG)
 
+[2.5 YR](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5YR.JPG)
 
+[5 YR](https://www.disegnoepittura.it/wp-content/uploads/munsell-5YR.JPG)
 
-  A cosa serviranno queste tabelle?
+[7.5 YR](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5YR.JPG)
 
+[10 YR](https://www.disegnoepittura.it/wp-content/uploads/munsell-10YR.JPG)
 
+[2.5 Y](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5Y.JPG)
 
-  Ogni qualvolta avete un dubbio circa la posizione di un colore nell&#8217;albero di Munsell, queste tabelle vi aiuteranno a descriverlo in termini di hue, tono e saturazione. Ricordatevi che il lavoro di descrizione non deve essere preciso e  ossessivo, è sufficiente avere un&#8217;idea approssimativa da utilizzare poi come riferimento quando si mescolano i colori.
+[5 Y](https://www.disegnoepittura.it/wp-content/uploads/munsell-5Y.JPG)
 
+[7.5 Y](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5Y.JPG)
 
+[10 Y](https://www.disegnoepittura.it/wp-content/uploads/munsell-10Y.JPG)
 
-  Io ho stampato queste 40 tabelle su 40 fogli lucidi per fotografia e ne ho fatto un libro che consulto di tanto in tanto. Tenete ben presente, però, che 40 fogli di questo tipo sono una bella spesa.
+[2.5 GY](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5GY.JPG)
 
+[5 GY](https://www.disegnoepittura.it/wp-content/uploads/munsell-5GY.JPG)
 
-[2.5 R][1]
+[7.5 GY](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5GY.JPG)
 
-[5 R][2]
+[10 GY](https://www.disegnoepittura.it/wp-content/uploads/munsell-10GY.JPG)
 
-[7.5 R][3]
+[2.5 G](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5G.JPG)
 
-[10 R][4]
+[5 G](https://www.disegnoepittura.it/wp-content/uploads/munsell-5G.JPG)
 
-[2.5 YR][5]
+[7.5 G](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5G.JPG)
 
-[5 YR][6]
+[10 G](https://www.disegnoepittura.it/wp-content/uploads/munsell-10G.JPG)
 
-[7.5 YR][7]
+[2.5 BG](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5BG.JPG)
 
-[10 YR][8]
+[5 BG](https://www.disegnoepittura.it/wp-content/uploads/munsell-5BG.JPG)
 
-[2.5 Y][9]
+[7.5 BG](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5BG.JPG)
 
-[5 Y][10]
+[10 BG](https://www.disegnoepittura.it/wp-content/uploads/munsell-10BG.JPG)
 
-[7.5 Y][11]
+[2.5 B](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5B.JPG)
 
-[10 Y][12]
+[5B](https://www.disegnoepittura.it/wp-content/uploads/munsell-5B.JPG)
 
-[2.5 GY][13]
+[7.5 B](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5B.JPG)
 
-[5 GY][14]
+[10 B](https://www.disegnoepittura.it/wp-content/uploads/munsell-10B.JPG)
 
-[7.5 GY][15]
+[2.5 PB](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5PB.JPG)
 
-[10 GY][16]
+[5 PB](https://www.disegnoepittura.it/wp-content/uploads/munsell-5PB.JPG)
 
-[2.5 G][17]
+[7.5 PB](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5PB.JPG)
 
-[5 G][18]
+[10 PB](https://www.disegnoepittura.it/wp-content/uploads/munsell-10PB.JPG)
 
-[7.5 G][19]
+[2.5 P](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5P.JPG)
 
-[10 G][20]
+[5 P](https://www.disegnoepittura.it/wp-content/uploads/munsell-5P.JPG)
 
-[2.5 BG][21]
+[7.5 P](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5P.JPG)
 
-[5 BG][22]
+[10 P](https://www.disegnoepittura.it/wp-content/uploads/munsell-10P.JPG)
 
-[7.5 BG][23]
+[2.5 RP](https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5RP.JPG)
 
-[10 BG][24]
+[5 RP](https://www.disegnoepittura.it/wp-content/uploads/munsell-5RP.JPG)
 
-[2.5 B][25]
+[7.5 RP](https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5RP.JPG)
 
-[5B][26]
+[10 RP](https://www.disegnoepittura.it/wp-content/uploads/munsell-10RP.JPG)
 
-[7.5 B][27]
+Osservate come queste charts contengono già delle semplificazioni rispetto a quelle di Munsell. Infatti, qui abbiamo proposto solo 40 charts (40 hue) anzichè tutti quelli proposti da Munsell.
 
-[10 B][28]
-
-[2.5 PB][29]
-
-[5 PB][30]
-
-[7.5 PB][31]
-
-[10 PB][32]
-
-[2.5 P][33]
-
-[5 P][34]
-
-[7.5 P][35]
-
-[10 P][36]
-
-[2.5 RP][37]
-
-[5 RP][38]
-
-[7.5 RP][39]
-
-[10 RP][40]
-
-
-  Osservate come queste charts contengono già delle semplificazioni rispetto a quelle di Munsell. Infatti, qui abbiamo proposto solo 40 charts (40 hue) anzichè tutti quelli proposti da Munsell.
-
-
-
-  Qui trovi l&#8217;indice di tutte le lezioni della serie di articoli Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly.
-
-
- [1]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5R.JPG
- [2]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5R.JPG
- [3]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5R.JPG
- [4]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10R.JPG
- [5]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5YR.JPG
- [6]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5YR.JPG
- [7]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5YR.JPG
- [8]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10YR.JPG
- [9]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5Y.JPG
- [10]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5Y.JPG
- [11]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5Y.JPG
- [12]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10Y.JPG
- [13]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5GY.JPG
- [14]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5GY.JPG
- [15]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5GY.JPG
- [16]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10GY.JPG
- [17]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5G.JPG
- [18]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5G.JPG
- [19]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5G.JPG
- [20]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10G.JPG
- [21]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5BG.JPG
- [22]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5BG.JPG
- [23]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5BG.JPG
- [24]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10BG.JPG
- [25]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5B.JPG
- [26]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5B.JPG
- [27]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5B.JPG
- [28]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10B.JPG
- [29]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5PB.JPG
- [30]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5PB.JPG
- [31]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5PB.JPG
- [32]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10PB.JPG
- [33]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5P.JPG
- [34]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5P.JPG
- [35]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5P.JPG
- [36]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10P.JPG
- [37]: https://www.disegnoepittura.it/wp-content/uploads/munsell-2.5RP.JPG
- [38]: https://www.disegnoepittura.it/wp-content/uploads/munsell-5RP.JPG
- [39]: https://www.disegnoepittura.it/wp-content/uploads/munsell-7.5RP.JPG
- [40]: https://www.disegnoepittura.it/wp-content/uploads/munsell-10RP.JPG
+Qui trovi l'indice di tutte le lezioni della serie di articoli [Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly](https://www.disegnoepittura.it/munsell-color-system/).

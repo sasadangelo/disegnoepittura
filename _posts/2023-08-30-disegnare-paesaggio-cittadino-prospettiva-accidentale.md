@@ -13,77 +13,44 @@ categories:
 permalink: /disegnare-paesaggio-cittadino-prospettiva-accidentale
 ---
 
+![Cubo in Prospettiva Accidentale](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-accidentale-4.jpg "Cubo in Prospettiva Accidentale")
 
-In quest&#8217; articolo, estratto da una lezione di John Hagan, vedremo come applicare i principi di [prospettiva accidentale][1] già esposti in questo blog. Come esempio utilizzeremo un semplice paesaggio cittadino composto da una serie di grattacieli.
+Quest'articolo è un'introduzione alla prospettiva accidentale che ti aiuterà a migliorare i tuoi disegni rendendoli più realistici.
 
+## Che cos'è la prospettiva accidentale?
 
+Osservando la natura o un paesaggio urbano è facile constatare che difficilmente gli oggetti hanno un lato parallelo al piano di proiezione. Essi si trovano quasi sempre in posizione divergente rispetto ad esso. La [prospettiva](https://www.disegnoepittura.it/composizione-prospettiva/ "Prospettiva") aiuta l’artista a regolare anche questa disposizione “accidentale” degli oggetti, aiutandolo a creare spazi e volumi molto convincenti. Questo nuovo tipo di prospettiva viene detta prospettiva accidentale.
 
-Dividiamo il foglio in quattro parti e siano LVP e RVP i due punti di fuga che coincidono con l&#8217;estremità della linea di orizzonte.
+Mentre nella [prospettiva centrale](https://www.disegnoepittura.it/prospettiva-centrale/ "Prospettiva Centrale") le linee prospettiche convergono nel punto focale centrale, nella prospettiva accidentale le linee convergono verso i punti focali laterali. Nell’articolo [terminologia della prospettiva](https://www.disegnoepittura.it/prospettiva-terminologia-sapere/ "Terminologia della Prospettiva") abbiamo visto che le linee prospettiche che partono dall’osservatore e arrivano ai punti focali laterali formano un angolo di 45° con il raggio principale. In realtà, però, è possibile (ma poco probabile) avere anche una prospettiva accidentale 30/60, 40/50, ecc. L’importante è che i due angoli formino un angolo di 90°.
 
-![disegnare-paesaggio-cittadino-prospettiva][2]
+## Un esempio pratico con un cubo
 
-Lo spigolo del palazzo più vicino all&#8217;osservatore sta sulla linea verticale di suddivisione del foglio. Dagli estremi di tale spigolo facciamo partire le linee di fuga verso LVP e RVP.
+Vediamo ora la rappresentazione di un cubo in prospettiva accidentale. Tracciamo la linea d’orizzonte con i punti di fuga laterali equidistanti dal punto focale centrale (classica prospettiva accidentale 45/45). Tracciamo, infine, lo spigolo AB del cubo leggermente spostato a destra rispetto al punto focale centrale.
 
-![disegnare-paesaggio-cittadino-prospettiva][3]
+![Spigolo del Cubo](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-accidentale-1.jpg "Spigolo del Cubo")
 
-Tracciamo gli spigoli laterale del primo palazzo. Abbiamo così definito i contorni del primo palazzo.
+Tracciamo dai punti A e B le linee prospettiche verso i punti focali laterali e tracciamo gli spigoli CD e EF.
 
-![disegnare-paesaggio-cittadino-prospettiva][4]
+![Facce laterali del Cubo](/wp-content/uploads/prospettiva-accidentale-3.jpg "Facce laterali del Cubo")
 
-Ripassiamo il parallelopipedo del palazzo con una linea di maggiore spessore in modo da evidenziarla rispetto alle linee di costruzione.
+Uniamo C ed E con i punti focali opposti ottenendo così il nostro cubo.
 
-![disegnare-paesaggio-cittadino-prospettiva][5]
+![Cubo in Prospettiva accidentale](/wp-content/uploads/prospettiva-accidentale-4.jpg "Cubo in Prospettiva accidentale")
 
-Con un analogo sistema si realizzi un secondo palazzo a fianco del primo. Scegliamo lo spigolo in modo che stia a destra del primo palazzo. Tracciamo le linee di fuga come fatto nel passo precedente. Infine, tracciamo le linee laterali del palazzo.
+## Un' altro esempio pratico con una casetta
 
-![disegnare-paesaggio-cittadino-prospettiva][6]
+Facciamo un altro esercizio di prospettiva accidentale con un oggetto leggermente più complesso: una casa. Tracciamo come sempre la linea d’orizzonte, i punti focali e lo spigolo AB della casa.
 
-Ripassiamo il parallelopipedo del secondo palazzo con una linea di maggiore spessore in modo da evidenziarla rispetto alle linee di costruzione, così come fatto per il primo palazzo.
+![Costruzione base della Casetta](/wp-content/uploads/prospettiva-accidentale-5.png "Costruzione base della Casetta")
 
-![disegnare-paesaggio-cittadino-prospettiva][7]
+Uniamo i punti A e B con i punti focali. Tracciamo poi a piacere il segmento CD con C e D posizionati sulle linee prospettiche che da A e B vanno a PFD. Ugualmente tracciamo il segmento EF. Uniamo CD e EF ai punti focali. Dai vari incroci otteniamo anche il segmento GH. A questo punto tracciamo le diagonali dei rettangoli ABCD e EFGH in modo da individuare il centro. Scegliamo a piacere il vertice della casa I. Uniamo I ai punti A e D e poi uniamo lo stesso al punto focale PFS.
 
-Ripetiamo il processo aggiungendo un terzo parallelopipedo e utilizzando le medesime modalità di costruzione. Questa volta il palazzo è collocato a sinistra rispetto al palazzo centrale. In questo caso, però, abbiamo aggiunto una piccola complicazione, nella parte bassa il palazzo ha un prolungamento che otteniamo tirando un&#8217;apposita linea di fuga.
+![Costruzione tetto della Casetta](/wp-content/uploads/prospettiva-accidentale-6.png "Costruzione tetto della Casetta")
 
-![disegnare-paesaggio-cittadino-prospettiva][8]
+Miglioriamo il look della casa facendo sporgere un pò il tetto e disegniamo la porta sulla facciata frontale e le finestre su quella laterale.
 
-Calchiamo il palazzo così da distinguere i suoi contorni dalle linee di costruzione.
+![Casetta in Prospettiva Accidentale](/wp-content/uploads/prospettiva-accidentale-7.png "Casetta in Prospettiva Accidentale")
 
-![disegnare-paesaggio-cittadino-prospettiva][9]
+A questo punto credo sia chiaro cos'è la prospettiva accidentale e come utilizzarla su soggetti molto semplici comuna casa. Volendo approfondire il tema è possibile leggere il seguente [tutorial](https://www.disegnoepittura.it/disegnare-paesaggio-cittadino-prospettiva-accidentale/ "Prospettiva in un Paesaggio Urbano"). Suggerisco, inoltre, la lettura di quest'articolo su [Wikipedia](https://en.wikipedia.org/wiki/Perspective_%28graphical%29#Two-point_perspective "Prospettiva") per approfondire l'argomento.
 
-Aggiungiamo un altro palazzo in fondo a destra seguendo sempre le modalità di costruzione utilizzate per gli altri palazzi.
-
-![disegnare-paesaggio-cittadino-prospettiva][10]
-
-Aggiungiamo un ultimo palazzo in fondo a sinistra.
-
-![disegnare-paesaggio-cittadino-prospettiva][11]
-
-Calchiamo le linee di contorno per distinguerle da quelle di costruzione.
-
-![disegnare-paesaggio-cittadino-prospettiva][12]
-
-Ombreggiamo il lato destro di ciascun palazzo in modo da conferire al lavoro un aspetto più tridimensionale.
-
-![disegnare-paesaggio-cittadino-prospettiva][13]
-
-Aggiungiamo maggior realismo inserendo il dettaglio delle finestre anch&#8217;esse tracciate con l&#8217;ausilio delle linee di fuga. Con quest&#8217;ultimo accorgimento possiamo considerare concluso il nostro lavoro.
-
-![disegnare-paesaggio-cittadino-prospettiva][14]
-
-_Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili][15]._
-
- [1]: https://www.disegnoepittura.it/prospettiva-accidentale/
- [2]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-1.gif "disegnare-paesaggio-cittadino-prospettiva"
- [3]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-2.gif "disegnare-paesaggio-cittadino-prospettiva"
- [4]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-3.gif "disegnare-paesaggio-cittadino-prospettiva"
- [5]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-4.gif "disegnare-paesaggio-cittadino-prospettiva"
- [6]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-5.gif "disegnare-paesaggio-cittadino-prospettiva"
- [7]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-6.gif "disegnare-paesaggio-cittadino-prospettiva"
- [8]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-7.gif "disegnare-paesaggio-cittadino-prospettiva"
- [9]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-8.gif "disegnare-paesaggio-cittadino-prospettiva"
- [10]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-9.gif "disegnare-paesaggio-cittadino-prospettiva"
- [11]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-10.gif "disegnare-paesaggio-cittadino-prospettiva"
- [12]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-11.gif "disegnare-paesaggio-cittadino-prospettiva"
- [13]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-12.gif "disegnare-paesaggio-cittadino-prospettiva"
- [14]: /wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-13.gif "disegnare-paesaggio-cittadino-prospettiva"
- [15]: https://www.disegnoepittura.it/prospettiva/ "La Prospettiva"
+_Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/prospettiva/ "La Prospettiva")._

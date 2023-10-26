@@ -12,66 +12,20 @@ categories:
 permalink: /come-disegnare-un-volto
 ---
 
+![Come disegnare un ritratto](https://www.disegnoepittura.it/wp-content/uploads/ritratto-mini1.gif "Come disegnare un ritratto")
 
+Sul blog ho scritto diversi articoli sul come disegnare un volto. Ho anche pubblicato diversi tutorial. Mi rendo conto, però, che l'ordinamento cronologico del blog non sempre aiuta a trovare le informazioni che l'utente cerca. E' vero c'è la categoria Ritratto ma spesso gli articoli non sono stati pubblicati nell'ordine in cui andavo letti. Su molti articoli ci sono riferimenti incrociati e con un pò di buona volontà si riesce a ricostruire l'ordine giusto. Poichè non tutti gli utenti sono pazienti ho deciso di semplificare la navigazione scrivendo articoli riassuntivi come questo che presto saranno navigabili attraverso il menù del blog.
 
-  Sul blog ho scritto diversi articoli sul come disegnare un volto. Ho anche pubblicato diversi tutorial. Mi rendo conto, però, che l&#8217;ordinamento cronologico del blog non sempre aiuta a trovare le informazioni che l&#8217;utente cerca. E&#8217; vero c&#8217;è la categoria Ritratto ma spesso gli articoli non sono stati pubblicati nell&#8217;ordine in cui andavo letti. Su molti articoli ci sono riferimenti incrociati e con un pò di buona volontà si riesce a ricostruire l&#8217;ordine giusto. Poichè non tutti gli utenti sono pazienti ho deciso di semplificare la navigazione scrivendo articoli riassuntivi come questo che presto saranno navigabili attraverso il menù del blog.
+In quest'articolo vorrei raccogliere gli articoli che, secondo il mio parere, un artista principiante dovrebbe leggere prima di provare a disegnare un volto.
 
-
-
-  In quest&#8217;articolo vorrei raccogliere gli articoli che, secondo il mio parere, un artista principiante dovrebbe leggere prima di provare a disegnare un volto.
-
-
-[I diversi tipi di Inquadratura nel Disegno del Ritratto e della Figura Umana][1]
-  
- [Alcune semplici regole di composizione nel Disegno del Ritratto][2]
-  
-[Ritratto][3]
-  
-[Le proporzioni del viso][4]
-  
-[Come disegnare il volto secondo l&#8217;artista Andrew Loomis][5]
-  
- [Come disegnare gli occhi in un Ritratto][6]
-  
- [Come disegnare il naso in un Ritratto][7]
-  
- [Come disegnare la bocca in un Ritratto][8]
-  
- [Come disegnare le orecchie in un ritratto][9]
-  
-[Come disegnare i piani facciali in un ritratto][10]
-  
-[Come individuare i piani facciali nel Disegno del Ritratto.][11]
+[I diversi tipi di Inquadratura nel Disegno del Ritratto e della Figura Umana](https://www.disegnoepittura.it/inquadratura-disegno-ritratto-figura-umana/) [Alcune semplici regole di composizione nel Disegno del Ritratto](https://www.disegnoepittura.it/semplici-regole-composizione-disegno-ritratto/) [Ritratto](https://www.disegnoepittura.it/il-ritratto/) [Le proporzioni del viso](https://www.disegnoepittura.it/proporzioni-viso/) [Come disegnare il volto secondo l'artista Andrew Loomis](https://www.disegnoepittura.it/disegnare-volto-andrew-loomis/) [Come disegnare gli occhi in un Ritratto](https://www.disegnoepittura.it/come-disegnare-occhi-ritratto/) [Come disegnare il naso in un Ritratto](https://www.disegnoepittura.it/come-disegnare-naso-ritratto/) [Come disegnare la bocca in un Ritratto](https://www.disegnoepittura.it/come-disegnare-bocca-ritratto/) [Come disegnare le orecchie in un ritratto](https://www.disegnoepittura.it/come-disegnare-orecchio-ritratto/) [Come disegnare i piani facciali in un ritratto](https://www.disegnoepittura.it/piani-facciali/) [Come individuare i piani facciali nel Disegno del Ritratto.](https://www.disegnoepittura.it/come-individuare-piani-facciali-disegno-ritratto/)
 
 Dopo la teoria un pò di pratica. Quelli che seguono sono alcuni tutorial su come disegnare i ritratti pubblicati su questo blog.
 
-[Come disegnare un rapido ritratto con le matite][12]
-  
-[Come disegnare il ritratto di una donna con il carboncino][13]
+[Come disegnare un rapido ritratto con le matite](https://www.disegnoepittura.it/come-disegnare-rapido-ritratto-matite/) [Come disegnare il ritratto di una donna con il carboncino](https://www.disegnoepittura.it/come-disegnare-ritratto-donna-carboncino/)
 
+Infine, qualche consiglio per gli acquisti. Due libri che parlano esclusivamente del disegno del ritratto.
 
-  Infine, qualche consiglio per gli acquisti. Due libri che parlano esclusivamente del disegno del ritratto.
+[Come Disegnare la Testa](https://www.disegnoepittura.it/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/) [Come Disegnare i Ritratti](https://www.disegnoepittura.it/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/)
 
-
-[Come Disegnare la Testa][14]
-  
-[Come Disegnare i Ritratti][14]
-
-PS
-  
-Oggi il blog compie 5 anni ed era giusto festeggiare con un articolo Amarcord. Buon compleanno blog!!!
-
- [1]: https://www.disegnoepittura.it/inquadratura-disegno-ritratto-figura-umana/
- [2]: https://www.disegnoepittura.it/semplici-regole-composizione-disegno-ritratto/
- [3]: https://www.disegnoepittura.it/il-ritratto/
- [4]: https://www.disegnoepittura.it/proporzioni-viso/
- [5]: https://www.disegnoepittura.it/disegnare-volto-andrew-loomis/
- [6]: https://www.disegnoepittura.it/come-disegnare-occhi-ritratto/
- [7]: https://www.disegnoepittura.it/come-disegnare-naso-ritratto/
- [8]: https://www.disegnoepittura.it/come-disegnare-bocca-ritratto/
- [9]: https://www.disegnoepittura.it/come-disegnare-orecchio-ritratto/
- [10]: https://www.disegnoepittura.it/piani-facciali/
- [11]: https://www.disegnoepittura.it/come-individuare-piani-facciali-disegno-ritratto/
- [12]: https://www.disegnoepittura.it/come-disegnare-rapido-ritratto-matite/
- [13]: https://www.disegnoepittura.it/come-disegnare-ritratto-donna-carboncino/
- [14]: https://www.disegnoepittura.it/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/
+PS Oggi il blog compie 5 anni ed era giusto festeggiare con un articolo Amarcord. Buon compleanno blog!!!
