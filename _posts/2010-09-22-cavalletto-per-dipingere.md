@@ -4,7 +4,7 @@ title: Cavalletto per dipingere e altri materiali
 published: true
 author: sasadangelo
 comments: true
-date: 0201-09-22 09:09:09
+date: 2010-09-22 09:09:09
 tags:
     - materiali
     - pittura ad olio
