@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere da una Foto"
 slug: come-dipingere-da-una-foto
 image: /wp-content/uploads/Colore-foglia-primo-piano-mini.jpg
+excerpt: "Come dipingere da una foto? Dipingere da una foto è il primo passo per chi desidera imparare a dipingere. Quest&#039;articolo ti spiegherà tutti i segreti."
 categories:
     - pittura
 tags: [ ]

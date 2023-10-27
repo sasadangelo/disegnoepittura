@@ -3,6 +3,7 @@ layout: post
 title: "Come creare un quadro materico"
 slug: come-creare-un-quadro-materico
 image: /wp-content/uploads/FOTO-QUADRO-FINITO-MINI.jpg
+excerpt: "Come creare un quadro materico? Simone Cois ti spiega, in quest'articolo, come realizzarlo."
 categories:
     - pittura
 tags:

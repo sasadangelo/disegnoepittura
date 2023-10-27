@@ -3,6 +3,7 @@ layout: post
 title: "La Piccola Maglierista - William-Adolphe Bouguereau"
 slug: la-piccola-maglierista
 image: /wp-content/uploads/La-Piccola-Maglierista-Mini.jpg
+excerpt: "Questo è un dipinto che ho realizzato qualche tempo fa e, su richiesta di Salvatore, mi piacerebbe spiegare agli amici del blog come l&#039;ho realizzato. Il"
 categories:
     - pittura
 tags: [ ]

@@ -3,6 +3,7 @@ layout: post
 title: "Problemi con l'inchiostro nella Pittura ad Olio"
 slug: inchiostro-pittura-olio
 image: /wp-content/uploads/problema-inchiostro-nella-pittura-olio-mini.jpg
+excerpt: "Come ripassare il disegno con l&#039;inchiostro? Quest&#039;articolo ti spiega come usare l&#039;inchiostro per ripassare i tuoi disegni quando realizzi dipinti ad olio."
 categories:
     - pittura
 tags:

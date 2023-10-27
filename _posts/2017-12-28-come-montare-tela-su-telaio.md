@@ -3,6 +3,7 @@ layout: post
 title: "Come montare una tela su un telaio"
 slug: come-montare-tela-su-telaio
 image: /wp-content/uploads/Montaggio_Tela_su_Telaio_mini.jpg
+excerpt: "In quest'articolo imparerai a montare una tela di lino (o qualsiasi altro materiale) su un telaio. Potrai usare poi questa tela per dipingerci sopra."
 categories:
     - pittura
 tags:

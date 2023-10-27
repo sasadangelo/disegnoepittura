@@ -3,6 +3,7 @@ layout: post
 title: "Come vendere le tue opere d'arte senza diventare evasore fiscale?"
 slug: vendere-opere-darte-senza-diventare-evasori-fiscali
 image: /wp-content/uploads/vendere-opere-arte.jpg
+excerpt: "Dipingi da un pò di tempo e parenti, amici e conoscenti chiedono di acquistare una tua opera ma mille dubbi ti assalgono: devo rilasciare una ricevuta?"
 categories:
     - art-business
 tags: [ ]

@@ -3,6 +3,7 @@ layout: post
 title: "Materiali per pittura a olio"
 slug: materiali-per-pittura-ad-olio
 image: /wp-content/uploads/Fig-14-Cavalletti-100.jpg
+excerpt: "Quali sono i materiali per pittura ad olio che bisogna acquistare? Questa guida ti spiega passo passo tutto ciò che c'è da sapere su questo argomento."
 categories:
     - pittura
 tags:

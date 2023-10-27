@@ -3,6 +3,7 @@ layout: post
 title: "Disegnare una Jaguar d'epoca"
 slug: disegnare-una-jaguar-depoca
 image: /wp-content/uploads/0-disegno-jaguar-kas-560-finito-mini.jpg
+excerpt: "Giampaolo Valotto ci spiega, in questo tutorial, come disegnare una Jaguar d'epoca incredibilmente realistica utilizzando materiali molto semplici."
 categories:
     - disegno
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Una rastrelliera porta pennelli"
 slug: rastrelliera-porta-pennelli
 image: /wp-content/uploads/rastrelliera-pennelli-mini.jpg
+excerpt: "Come costruire una comoda rastrelliera porta pennelli? La rastrelliera aumenta l&#039;efficienza mentre dipingi. Questo tutorial ti spiega come costruirla."
 categories:
     - pittura
 tags:

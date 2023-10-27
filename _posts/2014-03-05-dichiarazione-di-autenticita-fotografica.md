@@ -3,6 +3,7 @@ layout: post
 title: "La Dichiarazione di Autenticità Fotografica"
 slug: dichiarazione-di-autenticita-fotografica
 image: /wp-content/uploads/certificato-autenticita-mini.jpg
+excerpt: "Un articolo scritto da Simone Cois che spiega come redigere una Dichiarazione di Autenticità Fotografica per opere di pittura, scultura, e fotografia."
 categories:
     - art-business
 tags: [ ]

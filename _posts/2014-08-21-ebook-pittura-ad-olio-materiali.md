@@ -3,8 +3,7 @@ layout: post
 title: "L'ebook Pittura ad Olio - Materiali"
 slug: ebook-pittura-ad-olio-materiali
 image: /wp-content/uploads/3d-100.png
-image:
-    feature: 3d-100.png
+excerpt: "A Maggio ho annunciato che avrei sospeso le attività di Disegno &amp; Pittura per un anno in modo da potermi dedicare ad altri miei interessi. Nella mia"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere gocce di acqua"
 slug: dipingere-gocce-di-acqua
 image: /wp-content/uploads/dipingere-gocce-acqua-mini.jpg
+excerpt: "Ti piacerebbe imparare a dipingere gocce di acqua? Questo articolo ti spiega, con esempi pratici, come dipingere gocce di acqua in un dipinto ad olio."
 categories:
     - pittura
 tags:

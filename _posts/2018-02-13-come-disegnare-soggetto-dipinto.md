@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Come Disegnare il soggetto per un dipinto"
-permalink: /come-disegnare-soggetto-dipinto
+slug: come-disegnare-soggetto-dipinto
 image: /wp-content/uploads/13-Disegno-Inchiostrato-2-mini.jpg
+excerpt: "Leggendo quest'articolo imparerai un metodo infallibile per eseguire il disegno a mano libera per il tuo prossimo dipinto."
 categories:
     - disegno
 tags:

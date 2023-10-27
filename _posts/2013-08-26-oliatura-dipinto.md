@@ -3,6 +3,7 @@ layout: post
 title: "Oliatura di un dipinto"
 slug: oliatura-dipinto
 image: /wp-content/uploads/oliatura-versare-olio-mini.jpg
+excerpt: "Che cos'è l'oliatura di un dipinto? Quest'articolo ti spiega come si esegue l&#039;oliatura di un dipinto per dare di nuovo vita ai suoi colori."
 categories:
     - pittura
 tags:

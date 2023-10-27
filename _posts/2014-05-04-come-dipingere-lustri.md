@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere i Lustri"
 permalink: /come-dipingere-lustri
 image: /wp-content/uploads/posizione-del-lustro-mini.png
+excerpt: "Cosa sono i lustri? Quest'articolo illustra uno dei fenomeni ottici più importanti in pittura spiegato in maniera semplice e immediata."
 categories:
     - pittura
 tags:

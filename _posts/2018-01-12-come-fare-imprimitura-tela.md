@@ -3,6 +3,7 @@ layout: post
 title: "Come fare l'Imprimitura di una Tela"
 slug: /come-fare-imprimitura-tela
 image: /wp-content/uploads/0-Imprimitura_di_una_Tela.jpg
+excerpt: "Quest'articolo spiega in maniera dettagliata e con l'ausilio di molte foto come fare l'imprimitura di una tela. Con questo metodo eviterai i prosciughi e i colori dei tuoi quadri rimarranno vivi e brillanti."
 categories:
     - pittura
 tags:

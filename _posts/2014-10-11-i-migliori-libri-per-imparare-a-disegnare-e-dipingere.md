@@ -3,6 +3,7 @@ layout: post
 title: "I Migliori Libri per Imparare a Disegnare e Dipingere"
 slug: i-migliori-libri-per-imparare-a-disegnare-e-dipingere
 image: /wp-content/uploads/color-light.png
+excerpt: "Un buon libro è un ottimo metodo per imparare a disegnare e dipingere. In quest'articolo c'è la recensione di quelli che sono, a mio avviso, i migliori."
 categories:
     - vari
 tags:
