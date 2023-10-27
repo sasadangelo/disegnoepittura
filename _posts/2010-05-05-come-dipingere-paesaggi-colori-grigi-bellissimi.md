@@ -1,18 +1,14 @@
 ---
 layout: post
-title: >
-    Come dipingere paesaggi con colori grigi bellissimi e con i
-    colori complementari
-published: true
-author: sasadangelo
-comments: true
-date: 2010-05-05 07:05:51
+title: "Come dipingere paesaggi con colori grigi bellissimi e con i colori complementari"
+slug: come-dipingere-paesaggi-colori-grigi-bellissimi
+image: /wp-content/uploads/dipingere-paesaggi-con-grigi-bellissimi-9.jpg
+categories:
+    - pittura
 tags:
     - mescolare i colori
     - paesaggi
-categories:
-    - pittura
-permalink: /come-dipingere-paesaggi-colori-grigi-bellissimi
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/dipingere-paesaggi-con-grigi-bellissimi-9.jpg "dipingere-paesaggi-con-grigi-bellissimi-9")

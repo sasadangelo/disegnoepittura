@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "Come dipingere il chiaroscuro di un paesaggio con l'aiuto di Gimp"
-published: true
-author: sasadangelo
-comments: true
-date: 2010-11-23 08:11:26
+slug: come-dipingere-chiaroscuro-paesaggio-gimp
+image: /wp-content/uploads/paesaggio-chiaroscuro-16.PNG
+categories:
+    - pittura
 tags:
     - arte digitale
     - chiaroscuro
     - corso pittura ad olio
-categories:
-    - pittura
-permalink: /come-dipingere-chiaroscuro-paesaggio-gimp
+author: sasadangelo
 ---
 
 ![Chiaroscuro di un Paesaggio](/wp-content/uploads/paesaggio-chiaroscuro-16.PNG "Chiaroscuro di un Paesaggio")

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare un rapido ritratto con le matite
-published: true
-author: sasadangelo
-comments: true
-date: 2010-05-28 07:05:11
-tags:
-    - ritratto
+title: "Come disegnare un rapido ritratto con le matite"
+slug: come-disegnare-rapido-ritratto-matite
+image: /wp-content/uploads/disegno-chiaroscuro-ritratto-10.jpg
 categories:
     - disegno
-permalink: /come-disegnare-rapido-ritratto-matite
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/disegno-chiaroscuro-ritratto-10.jpg "disegno-chiaroscuro-ritratto")

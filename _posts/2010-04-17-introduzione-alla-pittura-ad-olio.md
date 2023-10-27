@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Introduzione alla Pittura ad Olio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-04-17 08:04:55
+title: "Introduzione alla Pittura ad Olio"
+slug: introduzione-alla-pittura-ad-olio
+image: /wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: /introduzione-alla-pittura-ad-olio
-image:
-    feature: corso-pittura-olio-artisti-principianti.jpg
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg "corso-pittura-olio-artisti-principianti")

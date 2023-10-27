@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Colori a olio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-06-15 11:06:22
+title: "Colori a olio"
+slug: colori-ad-olio
+image: /wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /colori-ad-olio
-image:
-    feature: Fig-9-Terra-di-Siena-Naturale-100.jpg
+author: sasadangelo
 ---
 
 ![Terra di Siena Naturale](https://www.disegnoepittura.it/wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg "Terra di Siena Naturale")

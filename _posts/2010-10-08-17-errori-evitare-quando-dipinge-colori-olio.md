@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 17 errori da evitare quando si dipinge con i colori ad olio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-10-08 11:10:52
-tags:
-    - pittura ad olio
+title: "17 errori da evitare quando si dipinge con i colori ad olio"
+slug: 17-errori-evitare-quando-dipinge-colori-olio
 categories:
     - pittura
-permalink: /17-errori-evitare-quando-dipinge-colori-olio
+tags:
+    - pittura ad olio
+author: sasadangelo
 ---
 
   

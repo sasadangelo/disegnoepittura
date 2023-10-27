@@ -1,18 +1,14 @@
 ---
 layout: post
-title: >
-    Come mescolare i colori ad olio per realizzare un
-    chiaroscuro
-published: true
-author: sasadangelo
-comments: true
-date: 2010-08-12 03:08:49
+title: "Come mescolare i colori ad olio per realizzare un chiaroscuro"
+slug: come-mescolare-colori-realizzare-chiaroscuro
+image: /wp-content/uploads/come-mescolare-scala-grigi-6.jpg
+categories:
+    - teoriacolori
 tags:
     - chiaroscuro
     - mescolare i colori
-categories:
-    - teoriacolori
-permalink: /come-mescolare-colori-realizzare-chiaroscuro
+author: sasadangelo
 ---
 
 ![come mescolare scala grigi colori olio](https://www.disegnoepittura.it/wp-content/uploads/come-mescolare-scala-grigi-6.jpg "come mescolare scala grigi colori olio")

@@ -3,15 +3,13 @@ layout: post
 title: >
     Siete capaci di disegnare utilizzando la prospettiva con 3
     punti di fuga?
-published: true
-author: sasadangelo
-comments: true
-date: 2010-03-04 04:03:05
-tags:
-    - prospettiva
+slug: siete-capaci-disegnare-utilizzando-prospettiva-3-punti-fuga
+image: /wp-content/uploads/come-disegnare-prospettiva-3-punti-fuga-13.jpg
 categories:
     - disegno
-permalink: /siete-capaci-disegnare-utilizzando-prospettiva-3-punti-fuga
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![come-disegnare-prospettiva-3-punti-fuga-13](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-prospettiva-3-punti-fuga-13.jpg "come-disegnare-prospettiva-3-punti-fuga-13")

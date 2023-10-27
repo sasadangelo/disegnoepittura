@@ -1,18 +1,16 @@
 ---
 layout: post
-title: La Tavolozza dei colori
-published: true
-author: sasadangelo
-comments: true
-date: 2010-08-04 05:08:45
+title: "La Tavolozza dei colori"
+slug: tavolozza-dei-colori
+image: /wp-content/uploads/Fig-14-Tavolozza-Legno-100.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /tavolozza-dei-colori
 image:
     feature: Fig-14-Tavolozza-Legno-100.jpg
+author: sasadangelo
 ---
 
 ![Tavolozza dei colori in legno](https://www.disegnoepittura.it/wp-content/uploads/Fig-14-Tavolozza-Legno-100.jpg)

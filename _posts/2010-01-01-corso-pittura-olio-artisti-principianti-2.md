@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Corso di pittura ad Olio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-01-01 12:01:41
+title: "Corso di pittura ad Olio"
+slug: corso-pittura-olio-artisti-principianti-2
+image: /wp-content/uploads/colori-olio.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: /corso-pittura-olio-artisti-principianti-2
-image:
-    feature: corso-pittura-olio.jpg
+author: sasadangelo
 ---
 
 ![Colori ad Olio](/wp-content/uploads/colori-olio.jpg "Colori ad Olio") L'obiettivo di questa serie di articoli è di spiegare passo passo la tecnica, i materiali e i concetti che utilizzo nei miei dipinti. Questo mini corso è da considerare un "work in progress" che terrò sempre aggiornato con le evoluzioni che subirà il mio modo di dipingere nel tempo.

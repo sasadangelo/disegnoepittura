@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Scelta dei colori da acquistare
-published: true
-author: sasadangelo
-comments: true
-date: 2010-07-06 03:07:12
+title: "Scelta dei colori da acquistare"
+slug: scelta-dei-colori-da-acquistare
+image: /wp-content/uploads/nero-avorio-maimeri-classico1.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: /scelta-dei-colori-da-acquistare
+author: sasadangelo
 ---
 
 ![nero avorio maimeri classico](/wp-content/uploads/nero-avorio-maimeri-classico1.jpg "nero avorio maimeri classico")

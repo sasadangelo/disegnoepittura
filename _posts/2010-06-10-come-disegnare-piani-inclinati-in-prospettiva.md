@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare piani inclinati in prospettiva
-published: true
-author: sasadangelo
-comments: true
-date: 2010-06-10 12:06:11
-tags:
-    - prospettiva
+title: "Come disegnare piani inclinati in prospettiva"
+slug: come-disegnare-piani-inclinati-in-prospettiva
+image: /wp-content/uploads/come-disegnare-piani-inclinati-prospettiva-5.jpg
 categories:
     - disegno
-permalink: /come-disegnare-piani-inclinati-in-prospettiva
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-piani-inclinati-prospettiva-5.jpg "come-disegnare-piani-inclinati-prospettiva-5")

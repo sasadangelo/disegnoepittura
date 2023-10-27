@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 'Come disegnare le montagne in un paesaggio: forma e composizione'
-published: true
-author: sasadangelo
-comments: true
-date: 2010-01-12 08:01:07
+title: "Come disegnare le montagne in un paesaggio: forma e composizione"
+slug: come-disegnare-montagne-paesaggio-forma-composizione
+image: /wp-content/uploads/come-disegnare-montagne-paesaggio-thumb.jpg
+categories:
+    - disegno
 tags:
     - composizione
     - paesaggi
-categories:
-    - disegno
-permalink: /come-disegnare-montagne-paesaggio-forma-composizione
+author: sasadangelo
 ---
 
 ![come-disegnare-montagne-paesaggio-thumb](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-montagne-paesaggio-thumb.jpg "come-disegnare-montagne-paesaggio-thumb")

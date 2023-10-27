@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 'Come disegnare le montagne in un paesaggio: prospettiva'
-published: true
-author: sasadangelo
-comments: true
-date: 2010-02-02 08:02:40
+title: "Come disegnare le montagne in un paesaggio: prospettiva"
+slug: come-disegnare-montagne-paesaggio-prospettiva
+image: /wp-content/uploads/come-disegnare-montagna-paesaggio-prospettiva.jpg
+categories:
+    - disegno
 tags:
     - paesaggi
     - prospettiva
-categories:
-    - disegno
-permalink: /come-disegnare-montagne-paesaggio-prospettiva
+author: sasadangelo
 ---
 
 ![come-disegnare-montagna-paesaggio-prospettiva](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-montagna-paesaggio-prospettiva.jpg "come-disegnare-montagna-paesaggio-prospettiva")

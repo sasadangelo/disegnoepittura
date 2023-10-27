@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Supporti per dipingere ad olio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-04-29 10:04:09
+title: "Supporti per dipingere ad olio"
+slug: tele-per-dipingere
+image: /wp-content/uploads/Fig-1-Tela-100.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /tele-per-dipingere
-image:
-    feature: Fig-1-Tela-100.jpg
+author: sasadangelo
 ---
 
 ![Tele per dipingere](https://www.disegnoepittura.it/wp-content/uploads/Fig-1-Tela-100.jpg)

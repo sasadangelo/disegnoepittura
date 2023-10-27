@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare con prospettiva distorta con 4 punti di fuga
-published: true
-author: sasadangelo
-comments: true
-date: 2010-07-23 08:07:36
-tags:
-    - prospettiva
+title: "Come disegnare con prospettiva distorta con 4 punti di fuga"
+slug: come-disegnare-prospettiva-4-punti-fuga
+image: /wp-content/uploads/prospettiva-4-punti-fuga-10.jpg
 categories:
     - disegno
-permalink: /come-disegnare-prospettiva-4-punti-fuga
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg "prospettiva-4-punti-fuga-10")

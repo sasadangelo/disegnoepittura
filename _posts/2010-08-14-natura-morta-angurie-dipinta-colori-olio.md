@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Natura morta con angurie dipinta con i colori ad olio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-08-14 08:08:43
+title: "Natura morta con angurie dipinta con i colori ad olio"
+slug: natura-morta-angurie-dipinta-colori-olio
+image: /wp-content/uploads/natura-morta-angurie-dipinta-colori-olio-8.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /natura-morta-angurie-dipinta-colori-olio
+author: sasadangelo
 ---
 
 ![natura morta angurie pittura olio](https://www.disegnoepittura.it/wp-content/uploads/natura-morta-angurie-dipinta-colori-olio-8.jpg "natura morta angurie pittura olio")

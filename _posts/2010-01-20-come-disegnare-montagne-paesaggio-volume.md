@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 'Come disegnare le montagne in un paesaggio: volume'
-published: true
-author: sasadangelo
-comments: true
-date: 2010-01-20 06:01:31
+title: "Come disegnare le montagne in un paesaggio: volume"
+slug: come-disegnare-montagne-paesaggio-volume
+image: /wp-content/uploads/come-disegnare-montagna-paesaggio-volume-16.jpg
+categories:
+    - disegno
 tags:
     - chiaroscuro
     - paesaggi
-categories:
-    - disegno
-permalink: /come-disegnare-montagne-paesaggio-volume
+author: sasadangelo
 ---
 
 ![come-disegnare-montagna-paesaggio-volume-16](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-montagna-paesaggio-volume-16.jpg "come-disegnare-montagna-paesaggio-volume-16")

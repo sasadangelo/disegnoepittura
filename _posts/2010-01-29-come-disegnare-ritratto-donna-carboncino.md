@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare il ritratto di una donna con il carboncino
-published: true
-author: sasadangelo
-comments: true
-date: 2010-01-29 08:01:48
-tags:
-    - ritratto
+title: "Come disegnare il ritratto di una donna con il carboncino"
+slug: come-disegnare-ritratto-donna-carboncino
+image: /wp-content/uploads/come-disegnare-ritratto-donna-carboncino-27.jpg
 categories:
     - disegno
-permalink: /come-disegnare-ritratto-donna-carboncino
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![come-disegnare-ritratto-donna-carboncino-27](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-ritratto-donna-carboncino-27.jpg "come-disegnare-ritratto-donna-carboncino-27")

@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Intervista all'artista neozelandese Richard Robinson sulla vendita di opere d'arte online e offline"
-published: true
-author: sasadangelo
-comments: true
-date: 2010-07-30 07:07:06
-tags:
-    - interviste
+permalink: intervista-artista-richard-robinson-vendita-opere-arte-online-offline
+image: /wp-content/uploads/richard-robinson-painter.jpg
 categories:
     - artisti
-permalink: >
-    /intervista-artista-richard-robinson-vendita-opere-arte-online-offline
+tags:
+    - interviste
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/richard-robinson-painter.jpg "Richard Robinson")

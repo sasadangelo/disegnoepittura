@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare i riflessi nel Paesaggio
-published: true
-author: sasadangelo
-comments: true
-date: 2010-03-22 12:03:05
-tags:
-    - paesaggi
+title: "Come disegnare i riflessi nel Paesaggio"
+slug: come-disegnare-riflessi-paesaggio
+image: /wp-content/uploads/come-disegnare-riflessi-paesaggio.jpg
 categories:
     - disegno
-permalink: /come-disegnare-riflessi-paesaggio
+tags:
+    - paesaggi
+author: sasadangelo
 ---
 
 ![come-disegnare-riflessi-paesaggio](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-riflessi-paesaggio.jpg "come-disegnare-riflessi-paesaggio")

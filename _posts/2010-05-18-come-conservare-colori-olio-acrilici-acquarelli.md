@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Come conservare i colori ad olio, acrilici o acquarelli
-published: true
-author: sasadangelo
-comments: true
-date: 2010-05-18 08:05:20
+title: "Come conservare i colori ad olio, acrilici o acquarelli"
+slug: come-conservare-colori-olio-acrilici-acquarelli
+image: /wp-content/uploads/come-conservare-colori-olio-71.jpg
+categories:
+    - pittura
 tags:
     - acquarello
     - acrilico
     - pittura ad olio
-categories:
-    - pittura
-permalink: /come-conservare-colori-olio-acrilici-acquarelli
+author: sasadangelo
 ---
 
 ![](/wp-content/uploads/come-conservare-colori-olio-71.jpg "come-conservare-colori-olio-7")

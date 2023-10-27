@@ -3,17 +3,14 @@ layout: post
 title: >
     Corso di pittura ad olio per artisti principianti. Lezione
     9. Gli elementi di base di un paesaggio ad olio.
-published: true
-author: sasadangelo
-comments: true
-date: 2010-10-27 11:10:51
+slug: corso-di-pittura-ad-olio-per-artisti-principianti-gli-elementi-di-base-di-un-dipinto-ad-olio
+image: /wp-content/uploads/colori-olio.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: >
-    /corso-di-pittura-ad-olio-per-artisti-principianti-gli-elementi-di-base-di-un-dipinto-ad-olio
+author: sasadangelo
 ---
 
 ![Colori Olio](/wp-content/uploads/colori-olio.jpg "Colori Olio")

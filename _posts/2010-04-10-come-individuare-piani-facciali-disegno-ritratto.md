@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Come Disegnare e Dipingere un Ritratto rendendo il volume con l'uso dei piani facciali."
-published: true
-author: sasadangelo
-comments: true
-date: 2010-04-10 07:04:19
+title: "Come Disegnare e Dipingere un Ritratto rendendo il volume con l'uso dei piani facciali"
+slug: come-individuare-piani-facciali-disegno-ritratto
+image: /wp-content/uploads/come-disegnare-piani-ritratto-12.jpg
+categories:
+    - disegno
 tags:
     - chiaroscuro
     - ritratto
-categories:
-    - disegno
-permalink: /come-individuare-piani-facciali-disegno-ritratto
+author: sasadangelo
 ---
 
 ![come disegnare piani facciali nel ritratto](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-piani-ritratto-12.jpg "come disegnare piani facciali nel ritratto")

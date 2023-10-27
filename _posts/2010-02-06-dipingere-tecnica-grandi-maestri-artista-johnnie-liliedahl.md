@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Dipingere con la tecnica dei Grandi Maestri con l'artista Johnnie Liliedahl"
-published: true
-author: sasadangelo
-comments: true
-date: 2010-02-06 08:02:52
-tags:
-    - pittura ad olio
+slug: dipingere-tecnica-grandi-maestri-artista-johnnie-liliedahl
+image: /wp-content/uploads/jm_liliedahl.jpg
 categories:
     - artisti
-permalink: /dipingere-tecnica-grandi-maestri-artista-johnnie-liliedahl
+tags:
+    - pittura ad olio
+author: sasadangelo
 ---
 
 ![jm_liliedahl](https://www.disegnoepittura.it/wp-content/uploads/jm_liliedahl.jpg "jm_liliedahl")

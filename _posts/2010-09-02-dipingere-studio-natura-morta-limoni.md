@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Dipingere uno studio di natura morta con limoni
-published: true
-author: sasadangelo
-comments: true
-date: 2010-09-02 10:09:18
+title: "Dipingere uno studio di natura morta con limoni"
+slug: dipingere-studio-natura-morta-limoni
+image: /wp-content/uploads/dipingere-natura-morta-limoni-colori-olio.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-studio-natura-morta-limoni
+author: sasadangelo
 ---
 
 ![dipingere studio natura morta limoni](https://www.disegnoepittura.it/wp-content/uploads/dipingere-natura-morta-limoni-colori-olio.jpg "dipingere studio natura morta limoni")

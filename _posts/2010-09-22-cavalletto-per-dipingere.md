@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Cavalletto per dipingere e altri materiali
-published: true
-author: sasadangelo
-comments: true
-date: 2010-09-22 09:09:09
+title: "Cavalletto per dipingere e altri materiali"
+slug: cavalletto-per-dipingere
+image: /wp-content/uploads/Fig-14-Cavalletti-100.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /cavalletto-per-dipingere
-image:
-    feature: Fig-14-Cavalletti-100.jpg
+author: sasadangelo
 ---
 
 ![Cavalletto per dipingere](https://www.disegnoepittura.it/wp-content/uploads/Fig-14-Cavalletti-100.jpg "Cavalletto per dipingere")
