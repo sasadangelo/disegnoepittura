@@ -3,6 +3,7 @@ layout: post
 title: "Tecniche di pittura ad olio: la patata"
 slug: tecniche-di-pittura-ad-olio-patata
 image: /wp-content/uploads/pulire-dipinto-con-patata-5.JPG
+excerpt: "Pulire e sgrassare un dipinto con una patata è una delle tecniche di pittura ad olio più conosciuta e antica. Quest'articolo ti spiega come usarla."
 categories:
     - pittura
 tags:

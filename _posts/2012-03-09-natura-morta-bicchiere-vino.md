@@ -3,6 +3,7 @@ layout: post
 title: "Natura Morta con un Bicchiere di Vino"
 slug: natura-morta-bicchiere-vino
 image: /wp-content/uploads/natura-morta-bicchiere-vino-19.JPG
+excerpt: "Come dipingere una natura morta con frutta e un bicchiere di vino? Questo tutorial di Edoardo La Francesca ti spiegherà passo dopo passo come fare."
 categories:
     - pittura
 tags:

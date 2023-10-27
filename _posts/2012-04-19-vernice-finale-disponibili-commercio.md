@@ -3,6 +3,7 @@ layout: post
 title: "Le vernici finali disponibili in commercio"
 slug: vernice-finale-disponibili-commercio
 image: /wp-content/uploads/Vernice-Finale.jpg
+excerpt: "Come si applica la vernice finale ad un dipinto? Questo articolo ti spiega perchè si vernicia un dipinto e la procedura per realizzarla."
 categories:
     - pittura
 tags:

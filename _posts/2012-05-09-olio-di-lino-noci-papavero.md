@@ -3,6 +3,7 @@ layout: post
 title: "Olio di lino, noci e papavero"
 slug: olio-di-lino-noci-papavero
 image: /wp-content/uploads/olio-lino.jpg
+excerpt: "Olio di lino, noci e papavero. Questi sono i tre olii più usati nella pittura ad olio, ma quale tra questi bisogna acquistare?"
 categories:
     - pittura
 tags:

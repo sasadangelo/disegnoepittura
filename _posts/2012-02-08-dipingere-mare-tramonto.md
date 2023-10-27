@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere il mare al tramonto"
 slug: dipingere-mare-tramonto
 image: /wp-content/uploads/dipingere-mare-tramonto-11.jpg
+excerpt: "In questo tutorial spiegherò, passo dopo passo, i materiali e la procedura per dipingere il mare al tramonto con onde e nave all'orizzonte."
 categories:
     - pittura
 tags: [ ]

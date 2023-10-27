@@ -3,6 +3,7 @@ layout: post
 title: "Intervista a Paolo Tagliaferro pittore iperrealista"
 slug: intervista-paolo-tagliaferro-pittore-iperrealista
 image: /wp-content/uploads/paolo-tagliaferro.jpg
+excerpt: "Paolo Tagliaferro, pittore iperrealista, è un ragazzo giovane e dal talento straordinario. L&#039;ho conosciuto per caso attraverso il web nel mese di Giugno"
 categories:
     - artisti
 tags:

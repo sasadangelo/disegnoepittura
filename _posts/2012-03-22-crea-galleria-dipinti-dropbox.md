@@ -3,6 +3,7 @@ layout: post
 title: "Crea la tua galleria di dipinti con Dropbox"
 slug: crea-galleria-dipinti-dropbox
 image: /wp-content/uploads/galleria-dipinti-dropbox-1.JPG
+excerpt: "Non hai un sito web e vuoi far conoscere i tuoi dipinti sul web? Crea la tua galleria di dipinti con pochi click. Scarica il tool dropbox gratuitamente."
 categories:
     - art-business
 tags: [ ]
