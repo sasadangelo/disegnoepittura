@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Paesaggio marino al tramonto
-published: true
-author: sasadangelo
-comments: true
-date: 2007-01-27 02:01:22
+title: "Paesaggio marino al tramonto"
+slug: paesaggio-marino-tramonto
+image: /wp-content/uploads/twilight-mist-7.jpg
+categories:
+    - pittura
 tags:
     - paesaggi
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggio-marino-tramonto
+author: sasadangelo
 ---
 
 ![twilight-mist-7](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-7.jpg "twilight-mist-7")

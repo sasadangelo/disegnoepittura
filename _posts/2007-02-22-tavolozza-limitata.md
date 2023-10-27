@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Tavolozza Limitata
-published: true
-author: sasadangelo
-comments: true
-date: 2007-02-22 09:02:31
-tags:
-    - mescolare i colori
+title: "Tavolozza Limitata"
+slug: tavolozza-limitata
+image: /wp-content/uploads/thumb_tavolozza_limitata.jpg
 categories:
     - teoriacolori
-permalink: /tavolozza-limitata
+tags:
+    - mescolare i colori
+author: sasadangelo
 ---
 
 ![thumb_tavolozza_limitata](https://www.disegnoepittura.it/wp-content/uploads/thumb_tavolozza_limitata.jpg "thumb_tavolozza_limitata")

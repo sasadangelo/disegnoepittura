@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Casa in Prospettiva
-published: true
-author: sasadangelo
-comments: true
-date: 2007-01-22 03:01:53
-tags:
-    - prospettiva
+title: "Casa in Prospettiva"
+slug: casa-prospettiva
+image: /wp-content/uploads/prospettiva-casa.jpg
 categories:
     - disegno
-permalink: /casa-prospettiva
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![prospettiva-casa](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-casa.jpg "prospettiva-casa")
