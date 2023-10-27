@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Dipingere gocce di acqua
-published: true
-author: sasadangelo
-comments: true
-date: 2013-07-25 06:07:59
+title: "Dipingere gocce di acqua"
+slug: dipingere-gocce-di-acqua
+image: /wp-content/uploads/dipingere-gocce-acqua-mini.jpg
+categories:
+    - pittura
 tags:
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-gocce-di-acqua
-image:
-    feature: dipingere-gocce-acqua-mini.jpg
+author: sasadangelo
 ---
 
 ![Dipingere gocce di acqua](/wp-content/uploads/dipingere-gocce-acqua-mini.jpg)

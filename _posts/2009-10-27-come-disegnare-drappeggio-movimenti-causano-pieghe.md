@@ -3,12 +3,10 @@ layout: post
 title: "Come Disegnare il Drappeggio nella Figura Vestita: movimenti che generano le pieghe"
 slug: come-disegnare-drappeggio-movimenti-causano-pieghe
 image: /wp-content/uploads/figura-umana-drappeggio-estensione-thumb.jpg
-comments: true
-date: 2009-10-27 08:10:03
-tags:
-    - figura umana
 categories:
     - disegno
+tags:
+    - figura umana
 author: sasadangelo
 ---
 

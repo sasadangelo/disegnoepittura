@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Canestra di Frutta di Caravaggio
-published: true
-author: edoardo
-comments: true
-date: 2013-01-16 04:01:03
+title: "Canestra di Frutta di Caravaggio"
+slug: canestra-di-frutta-di-caravaggio-copia
+image: /wp-content/uploads/Canestro-Frutta-Caravaggio.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - pittura ad olio
-categories:
-    - pittura
-permalink: /canestra-di-frutta-di-caravaggio-copia
-image:
-    feature: Canestro-Frutta-Caravaggio-Finito.jpg
+author: edoardo
 ---
 
 ![Canestra di Frutta di Caravaggio](/wp-content/uploads/Canestro-Frutta-Caravaggio.jpg "Canestra di Frutta di Caravaggio")

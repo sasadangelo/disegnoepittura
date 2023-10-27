@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Come lavare l'olio di lino o noci"
-published: true
-author: salvomarchesani
-comments: true
-date: 2013-04-30 03:04:45
-tags: [ ]
+slug: come-lavare-olio-di-lino
+image: /wp-content/uploads/Olio-lavaggio-mini.jpg
 categories:
     - pittura
-permalink: /come-lavare-olio-di-lino
+tags: [ ]
+author: salvomarchesani
 ---
 
 ![Lavaggio olio di lino](/wp-content/uploads/Olio-lavaggio-mini.jpg "Lavaggio olio di lino")

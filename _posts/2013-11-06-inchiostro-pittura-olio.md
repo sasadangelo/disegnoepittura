@@ -1,18 +1,14 @@
 ---
 layout: post
 title: "Problemi con l'inchiostro nella Pittura ad Olio"
-published: true
-author: sasadangelo
-comments: true
-date: 2013-11-06 10:11:51
+slug: inchiostro-pittura-olio
+image: /wp-content/uploads/problema-inchiostro-nella-pittura-olio-mini.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /inchiostro-pittura-olio
-image:
-    feature: problema-inchiostro-nella-pittura-olio-mini.jpg
+author: sasadangelo
 ---
 
 ![Problema inchiostro nella Pittura ad Olio](/wp-content/uploads/problema-inchiostro-nella-pittura-olio-mini.jpg) Oggi vorrei parlarvi di un [problema che ha avuto un utente del forum (Walter Cozzoli)](http://forum.disegnoepittura.it/viewtopic.php?f=4&t=1743 "Compatibilità inchiostro e Pittura ad Olio") e che potrebbe accadere anche a voi.

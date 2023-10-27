@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Oliatura di un dipinto
-published: true
-author: sasadangelo
-comments: true
-date: 2013-08-26 04:08:30
+title: "Oliatura di un dipinto"
+slug: oliatura-dipinto
+image: /wp-content/uploads/oliatura-versare-olio-mini.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - pittura ad olio
-categories:
-    - pittura
-permalink: /oliatura-dipinto
+author: sasadangelo
 ---
 
 ![Oliatura - Versare Olio](/wp-content/uploads/oliatura-versare-olio-mini.jpg)

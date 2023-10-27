@@ -3,7 +3,7 @@ layout: post
 title: "Supporti per dipingere ad olio"
 slug: tele-per-dipingere
 image: /wp-content/uploads/Fig-1-Tela-100.jpg
-categories:
+xcategories:
     - pittura
 tags:
     - materiali

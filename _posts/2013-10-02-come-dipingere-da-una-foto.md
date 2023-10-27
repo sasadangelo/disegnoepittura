@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Come dipingere da una Foto
-published: true
-author: sasadangelo
-comments: true
-date: 2013-10-02 07:10:38
-tags: [ ]
+title: "Come dipingere da una Foto"
+slug: come-dipingere-da-una-foto
+image: /wp-content/uploads/Colore-foglia-primo-piano-mini.jpg
 categories:
     - pittura
-permalink: /come-dipingere-da-una-foto
-image:
-    feature: Colore-foglia-primo-piano-mini.jpg
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Come dipingere da una Foto](/wp-content/uploads/Colore-foglia-primo-piano-mini.jpg "Come dipingere da una Foto")

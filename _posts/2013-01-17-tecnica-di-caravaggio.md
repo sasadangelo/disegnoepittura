@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Tecnica di Caravaggio
-published: true
-author: sasadangelo
-comments: true
-date: 2013-01-17 08:01:46
-tags: [ ]
+title: "Tecnica di Caravaggio"
+slug: tecnica-di-caravaggio
+image: /wp-content/uploads/caravaggio-mini.jpg
 categories:
     - artisti
-permalink: /tecnica-di-caravaggio
-image:
-    feature: caravaggio.jpg
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Tecnica di Caravaggio](/wp-content/uploads/caravaggio-mini.jpg "Tecnica di Caravaggio")

@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Vernice a chiara d'uovo"
-published: true
-author: salvomarchesani
-comments: true
-date: 2013-02-02 09:02:58
-tags: [ ]
+slug: vernice-chiara-duovo
+image: /wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg
 categories:
     - pittura
-permalink: /vernice-chiara-duovo
+tags: [ ]
+author: salvomarchesani
 ---
 
 ![Vernice Provvisoria a base d'uovo](/wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg "Vernice Provvisoria a base d'uovo")

@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Come creare un quadro materico
-published: true
-author: simonecois
-comments: true
-date: 2013-05-14 05:05:15
+title: "Come creare un quadro materico"
+slug: come-creare-un-quadro-materico
+image: /wp-content/uploads/FOTO-QUADRO-FINITO-MINI.jpg
+categories:
+    - pittura
 tags:
     - acrilico
     - nature morte
     - tutorial
-categories:
-    - pittura
-permalink: /come-creare-un-quadro-materico
-image:
-    feature: FOTO-QUADRO-FINITO-MINI.jpg
+author: simonecois
 ---
 
 ![Quadro Materico - Foto quadro finito](/wp-content/uploads/FOTO-QUADRO-FINITO-MINI.jpg "Quadro Materico - Foto quadro finito")

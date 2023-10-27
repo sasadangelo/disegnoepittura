@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Ritratto di Mimmo in contesto seicentesco
-published: true
-author: efiorentini
-comments: true
-date: 2013-01-24 10:01:25
+title: "Ritratto di Mimmo in contesto seicentesco"
+slug: ritratto-mimmo-contesto-seicentesco
+image: /wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg
+categories:
+    - vari
 tags:
     - animali
     - arte digitale
     - ritratto
-categories:
-    - vari
-permalink: /ritratto-mimmo-contesto-seicentesco
+author: efiorentini
 ---
 
 ![Ritratto di Mimmo in contesto seicentesco](/wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg "Ritratto di Mimmo in contesto seicentesco")

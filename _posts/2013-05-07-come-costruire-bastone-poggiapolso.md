@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Come costruire un bastone poggiapolso
-published: true
-author: sasadangelo
-comments: true
-date: 2013-05-07 10:05:29
-tags:
-    - materiali
+title: "Come costruire un bastone poggiapolso"
+slug: come-costruire-bastone-poggiapolso
+image: /wp-content/uploads/reggipolso-dettaglio-mini.jpg
 categories:
     - pittura
-permalink: /come-costruire-bastone-poggiapolso
-image:
-    feature: reggipolso-dettaglio-mini.jpg
+tags:
+    - materiali
+author: sasadangelo
 ---
 
 ![Poggiapolso](/wp-content/uploads/reggipolso-dettaglio-mini.jpg "Poggiapolso")

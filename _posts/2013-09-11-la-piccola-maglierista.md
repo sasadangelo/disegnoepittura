@@ -1,14 +1,12 @@
 ---
 layout: post
-title: 'La Piccola Maglierista - William-Adolphe Bouguereau'
-published: true
-author: cinziarispoli
-comments: true
-date: 2013-09-11 12:09:09
-tags: [ ]
+title: "La Piccola Maglierista - William-Adolphe Bouguereau"
+slug: la-piccola-maglierista
+image: /wp-content/uploads/La-Piccola-Maglierista-Mini.jpg
 categories:
     - pittura
-permalink: /la-piccola-maglierista
+tags: [ ]
+author: cinziarispoli
 ---
 
 ![La Piccola Maglierista](/wp-content/uploads/La-Piccola-Maglierista-Mini.jpg "La Piccola Maglierista")
