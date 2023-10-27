@@ -1,17 +1,14 @@
 ---
 layout: post
 title: "Come dipingere la Ragazza con l'orecchino di perla di Johannes Vermeer"
-published: true
-author: sasadangelo
-comments: true
-date: 2011-03-24 06:03:58
+slug: come-dipingere-la-ragazza-con-lorecchino-di-perla-di-johannes-vermeer
+image: /wp-content/uploads/ragazza-orecchino-perla-johannes-vermeer-1.jpg
+categories:
+    - pittura
 tags:
     - ritratto
     - tutorial
-categories:
-    - pittura
-permalink: >
-    /come-dipingere-la-ragazza-con-lorecchino-di-perla-di-johannes-vermeer
+author: sasadangelo
 ---
 
 ![Ragazza con l'orecchino di perla di Johannes-Vermeer](https://www.disegnoepittura.it/wp-content/uploads/ragazza-orecchino-perla-johannes-vermeer-1.jpg "Ragazza con l'orecchino di perla di Johannes-Vermeer")

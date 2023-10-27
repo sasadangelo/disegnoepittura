@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come preparare la colla di coniglio
-published: true
-author: sasadangelo
-comments: true
-date: 2011-01-02 11:01:34
+title: "Come preparare la colla di coniglio"
+slug: come-preparare-colla-coniglio
+image: /wp-content/uploads/colla-coniglio-2.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /come-preparare-colla-coniglio
+author: sasadangelo
 ---
 
 ![Colla di Coniglio](https://www.disegnoepittura.it/wp-content/uploads/colla-coniglio-2.jpg "Colla di Coniglio")

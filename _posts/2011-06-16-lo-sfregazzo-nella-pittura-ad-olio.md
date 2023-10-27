@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Che cos'è la tecnica dello sfregazzo e come si usa nella pittura ad olio?"
-published: true
-author: sasadangelo
-comments: true
-date: 2011-06-16 10:06:58
+slug: lo-sfregazzo-nella-pittura-ad-olio
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: /lo-sfregazzo-nella-pittura-ad-olio
+author: sasadangelo
 ---
 
 ![Paesaggio dipinto con sfregazzi](https://www.disegnoepittura.it/wp-content/uploads/paesaggio-dipinto-con-sfregazzi.jpg "Paesaggio dipinto con sfregazzi")

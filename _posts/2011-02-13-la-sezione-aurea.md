@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Sezione Aurea, verità o bufala?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-02-13 10:02:25
-tags:
-    - composizione
+title: "Sezione Aurea, verità o bufala?"
+slug: la-sezione-aurea
+image: /wp-content/uploads/sezione-aurea.jpg
 categories:
     - disegno
-permalink: /la-sezione-aurea
+tags:
+    - composizione
+author: sasadangelo
 ---
 
 ![Sezione Aurea](https://www.disegnoepittura.it/wp-content/uploads/sezione-aurea.jpg "Sezione Aurea")

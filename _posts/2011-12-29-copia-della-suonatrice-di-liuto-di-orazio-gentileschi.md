@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Copia della Suonatrice di liuto di Orazio Gentileschi.
-published: true
-author: marcofenocchio
-comments: true
-date: 2011-12-29 08:12:44
-tags:
-    - figura umana
+title: "Copia della Suonatrice di liuto di Orazio Gentileschi"
+slug: copia-della-suonatrice-di-liuto-di-orazio-gentileschi
+image: /wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg
 categories:
     - pittura
-permalink: /copia-della-suonatrice-di-liuto-di-orazio-gentileschi
+tags:
+    - figura umana
+author: marcofenocchio
 ---
 
 ![Copia della Suonatrice di Liuto di Orazio Gentileschi](https://www.disegnoepittura.it/wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg "Copia della Suonatrice di Liuto di Orazio Gentileschi")

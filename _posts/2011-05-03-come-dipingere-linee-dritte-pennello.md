@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Un trucco per dipingere linee dritte con il pennello
-published: true
-author: sasadangelo
-comments: true
-date: 2011-05-03 05:05:59
-tags: [ ]
+title: "Un trucco per dipingere linee dritte con il pennello"
+slug: come-dipingere-linee-dritte-pennello
+image: /wp-content/uploads/come-dipingere-linee-dritte-4.jpg
 categories:
     - pittura
-permalink: /come-dipingere-linee-dritte-pennello
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Come dipingere linee dritte](https://www.disegnoepittura.it/wp-content/uploads/come-dipingere-linee-dritte-4.jpg "Come dipingere linee dritte")

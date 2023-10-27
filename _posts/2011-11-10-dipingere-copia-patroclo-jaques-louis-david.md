@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Dipingere una copia di Patroclo di Jaques Louis David
-published: true
-author: marcofenocchio
-comments: true
-date: 2011-11-10 12:11:57
-tags:
-    - figura umana
+title: "Dipingere una copia di Patroclo di Jaques Louis David"
+slug: dipingere-copia-patroclo-jaques-louis-david
+image: /wp-content/uploads/Copia-Patroclo-Jaques-Louis-David.jpg
 categories:
     - pittura
-permalink: /dipingere-copia-patroclo-jaques-louis-david
+tags:
+    - figura umana
+author: marcofenocchio
 ---
 
 ![Copia del Patroclo di Jaques Louis David](https://www.disegnoepittura.it/wp-content/uploads/Copia-Patroclo-Jaques-Louis-David.jpg "Copia del Patroclo di Jaques Louis David")

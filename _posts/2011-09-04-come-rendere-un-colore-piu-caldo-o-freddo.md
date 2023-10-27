@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come rendere un colore più caldo o freddo?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-09-04 03:09:20
+title: "Come rendere un colore più caldo o freddo?"
+slug: come-rendere-un-colore-piu-caldo-o-freddo
+image: /wp-content/uploads/tavolozza-colori-primari.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - mescolare i colori
-categories:
-    - pittura
-permalink: /come-rendere-un-colore-piu-caldo-o-freddo
+author: sasadangelo
 ---
 
 ![Tavolozza colori primari](https://www.disegnoepittura.it/wp-content/uploads/tavolozza-colori-primari.jpg "Tavolozza colori primari")

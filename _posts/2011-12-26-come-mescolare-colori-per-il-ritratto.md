@@ -1,18 +1,14 @@
 ---
 layout: post
-title: >
-    Come mescolare i colori per il ritratto con il metodo di
-    John Howard Sanden
-published: true
-author: sasadangelo
-comments: true
-date: 2011-12-26 09:12:22
+title: "Come mescolare i colori per il ritratto con il metodo di John Howard Sanden"
+slug: come-mescolare-colori-per-il-ritratto
+image: /wp-content/uploads/ritratto-mini1.gif
+categories:
+    - pittura
 tags:
     - mescolare i colori
     - ritratto
-categories:
-    - pittura
-permalink: /come-mescolare-colori-per-il-ritratto
+author: sasadangelo
 ---
 
 ![Ritratto](https://www.disegnoepittura.it/wp-content/uploads/ritratto-mini1.gif "Ritratto")

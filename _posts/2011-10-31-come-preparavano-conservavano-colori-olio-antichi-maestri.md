@@ -1,17 +1,13 @@
 ---
 layout: post
-title: >
-    Come preparavano e conservavano i colori ad olio gli antichi
-    maestri?
-published: true
-author: marcofenocchio
-comments: true
-date: 2011-10-31 04:10:41
-tags:
-    - pittura ad olio
+title: "Come preparavano e conservavano i colori ad olio gli antichi maestri?"
+slug: come-preparavano-conservavano-colori-olio-antichi-maestri
+image: /wp-content/uploads/lastra-vetro.jpg
 categories:
     - pittura
-permalink: /come-preparavano-conservavano-colori-olio-antichi-maestri
+tags:
+    - pittura ad olio
+author: marcofenocchio
 ---
 
 ![Lastra vetro per colori ad olio](https://www.disegnoepittura.it/wp-content/uploads/lastra-vetro.jpg "Lastra vetro per colori ad olio") Per preparare i colori a olio da quelli in polvere è necessario impastare molto bene il pigmento con la minore quantità di olio possibile. Generalmente si può usare l'olio di lino ma per i colori che patiscono l'ingiallimento con questo olio (bianco, azzurro, violetto, rosa e verde-azzurro) è possibile usare olio di noci o di papaveri. Il colore va impastato fino ad ottenere una pasta morbida e scorrevole. Non deve colare dalla spatola. E' indispensabile usare il macinello e la lastra di vetro spessa ben ancorata su un tavolo come mostra il disegno.

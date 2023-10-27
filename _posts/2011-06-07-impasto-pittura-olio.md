@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Che cos'è la tecnica ad Impasto e come si usa nella pittura ad olio?"
-published: true
-author: sasadangelo
-comments: true
-date: 2011-06-07 05:06:31
+slug: impasto-pittura-olio
+image: /wp-content/uploads/impasto-van-gogh.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: /impasto-pittura-olio
+author: sasadangelo
 ---
 
 ![Paesaggio di Van Gogh con impasto](https://www.disegnoepittura.it/wp-content/uploads/impasto-van-gogh.jpg "Paesaggio di Van Gogh con impasto")

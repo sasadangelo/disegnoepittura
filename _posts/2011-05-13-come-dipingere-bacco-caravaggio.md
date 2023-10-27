@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Come dipingere il Bacco di Caravaggio
-published: true
-author: wcozzoli
-comments: true
-date: 2011-05-13 12:05:14
+title: "Come dipingere il Bacco di Caravaggio"
+slug: come-dipingere-bacco-caravaggio
+image: /wp-content/uploads/come-dipingere-bacco-caravaggio-finale.jpg
+categories:
+    - pittura
 tags:
     - figura umana
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /come-dipingere-bacco-caravaggio
+author: wcozzoli
 ---
 
 ![Come dipingere il Bacco di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/come-dipingere-bacco-caravaggio-finale.jpg "Come dipingere il Bacco di Caravaggio") _Questo è un articolo di Walter Cozzoli. Se desideri scrivere un articolo leggi le seguenti [linee guida](https://www.disegnoepittura.it/scrivi-articolo)._

@@ -1,17 +1,13 @@
 ---
 layout: post
-title: >
-    Come disegnare a mano libera e correggere gli errori con
-    Gimp
-published: true
-author: sasadangelo
-comments: true
-date: 2011-05-26 05:05:18
-tags:
-    - arte digitale
+title: "Come disegnare a mano libera e correggere gli errori con Gimp"
+slug: come-disegnare-mano-libera-e-correggere-errori-gimp
+image: /wp-content/uploads/ritratto-bambino-overlap-7.jpg
 categories:
     - disegno
-permalink: /come-disegnare-mano-libera-e-correggere-errori-gimp
+tags:
+    - arte digitale
+author: sasadangelo
 ---
 
 ![Ritratto Bambino Overlap](https://www.disegnoepittura.it/wp-content/uploads/ritratto-bambino-overlap-7.jpg)

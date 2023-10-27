@@ -1,15 +1,13 @@
 ---
 layout: post
-title: La Regola dei Terzi
-published: true
-author: sasadangelo
-comments: true
-date: 2011-01-24 09:01:43
-tags:
-    - composizione
+title: "La Regola dei Terzi"
+slug: la-regola-dei-terzi
+image: /wp-content/uploads/regola-terzi-2.jpg
 categories:
     - disegno
-permalink: /la-regola-dei-terzi
+tags:
+    - composizione
+author: sasadangelo
 ---
 
 ![Regola dei Terzi](https://www.disegnoepittura.it/wp-content/uploads/regola-terzi-2.jpg "Regola dei Terzi")

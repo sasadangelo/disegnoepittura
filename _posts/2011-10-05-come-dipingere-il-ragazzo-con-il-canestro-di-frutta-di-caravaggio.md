@@ -1,20 +1,15 @@
 ---
 layout: post
-title: Ragazzo con Canestro di Frutta
-published: true
-author: edoardo
-comments: true
-date: 2011-10-05 10:10:00
+title: "Ragazzo con Canestro di Frutta"
+slug: come-dipingere-il-ragazzo-con-il-canestro-di-frutta-di-caravaggio
+image: /wp-content/uploads/ragazzo-canestra-frutta-7.jpg
+categories:
+    - pittura
 tags:
     - pittura ad olio
     - ritratto
     - tutorial
-categories:
-    - pittura
-permalink: >
-    /come-dipingere-il-ragazzo-con-il-canestro-di-frutta-di-caravaggio
-image:
-    feature: ragazzo-canestra-frutta-7.jpg
+author: edoardo
 ---
 
 ![Ragazzo con il canestro di frutta - Fase 6](https://www.disegnoepittura.it/wp-content/uploads/ragazzo-canestra-frutta-7.jpg "Ragazzo con il canestro di frutta - Fase 6")

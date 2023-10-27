@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come regolare la saturazione di un colore?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-09-04 12:09:34
+title: "Come regolare la saturazione di un colore?"
+slug: come-regolare-saturazione-colore
+image: /wp-content/uploads/regolare-saturazione-scala-grigi.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - mescolare i colori
-categories:
-    - pittura
-permalink: /come-regolare-saturazione-colore
+author: sasadangelo
 ---
 
 ![Regolare la saturazione di un colore con una scala di grigi](https://www.disegnoepittura.it/wp-content/uploads/regolare-saturazione-scala-grigi.jpg "Regolare la saturazione di un colore con una scala di grigi")

@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Viaggio a Cuba, natura morta dell'artista Walter Cozzoli"
-published: true
-author: wcozzoli
-comments: true
-date: 2011-02-21 10:02:29
-tags:
-    - nature morte
+slug: viaggio-cuba-natura-morta-artista-walter-cozzoli
+image: /wp-content/uploads/natura-morta-walter-cozzoli-colore-3.jpg
 categories:
     - pittura
-permalink: /viaggio-cuba-natura-morta-artista-walter-cozzoli
+tags:
+    - nature morte
+author: wcozzoli
 ---
 
 ![Natura Morta di Walter Cozzoli](/wp-content/uploads/natura-morta-walter-cozzoli-colore-3.jpg "Natura Morta di Walter Cozzoli") 

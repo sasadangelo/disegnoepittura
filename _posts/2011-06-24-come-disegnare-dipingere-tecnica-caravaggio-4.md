@@ -1,17 +1,13 @@
 ---
 layout: post
-title: >
-    Il disegno, le incisioni, i pentimenti, le stesure al
-    risparmio, i leganti e la tavolozza.
-published: true
-author: sasadangelo
-comments: true
-date: 2011-06-24 06:06:44
-tags:
-    - pittura ad olio
+title: Il disegno, le incisioni, i pentimenti, le stesure al risparmio, i leganti e la tavolozza.
+slug: come-disegnare-dipingere-tecnica-caravaggio-4
+image: /wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg
 categories:
     - pittura
-permalink: /come-disegnare-dipingere-tecnica-caravaggio-4
+tags:
+    - pittura ad olio
+author: sasadangelo
 ---
 
 ![Il Ragazzo con Canestra di Frutta di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Il Ragazzo con Canestra di Frutta di Caravaggio")

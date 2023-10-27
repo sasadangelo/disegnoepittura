@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare un volto
-published: true
-author: sasadangelo
-comments: true
-date: 2011-04-26 02:04:24
-tags:
-    - ritratto
+title: "Come disegnare un volto"
+slug: come-disegnare-un-volto
+image: /wp-content/uploads/ritratto-mini1.gif
 categories:
     - disegno
-permalink: /come-disegnare-un-volto
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![Come disegnare un ritratto](https://www.disegnoepittura.it/wp-content/uploads/ritratto-mini1.gif "Come disegnare un ritratto")

@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Verdaccio
-published: true
-author: sasadangelo
-comments: true
-date: 2011-07-13 06:07:05
+slug: verdaccio
+image: /wp-content/uploads/verdaccio.jpg
+categories:
+    - pittura
 tags:
     - chiaroscuro
     - ritratto
-categories:
-    - pittura
-permalink: /verdaccio
+author: sasadangelo
 ---
 
 ![verdaccio](https://www.disegnoepittura.it/wp-content/uploads/verdaccio.jpg "verdaccio")

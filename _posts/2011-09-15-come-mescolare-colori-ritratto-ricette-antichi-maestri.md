@@ -1,17 +1,13 @@
 ---
 layout: post
-title: >
-    Come mescolare i colori del Ritratto con le ricette degli
-    antichi maestri?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-09-15 09:09:01
-tags:
-    - ritratto
+title: "Come mescolare i colori del Ritratto con le ricette degli antichi maestri?"
+slug: come-mescolare-colori-ritratto-ricette-antichi-maestri
+image: /wp-content/uploads/giovanni-paolo-lomazzo.jpg
 categories:
     - pittura
-permalink: /come-mescolare-colori-ritratto-ricette-antichi-maestri
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![Giovanni Paolo Lomazzo](https://www.disegnoepittura.it/wp-content/uploads/giovanni-paolo-lomazzo.jpg "Giovanni Paolo Lomazzo")

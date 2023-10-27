@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Incontra il Maestro Michelangelo Merisi detto Caravaggio
-published: true
-author: sasadangelo
-comments: true
-date: 2011-01-18 09:01:16
-tags: [ ]
+title: "Incontra il Maestro Michelangelo Merisi detto Caravaggio"
+slug: incontra-maestro-caravaggio
+image: /wp-content/uploads/ragazzo-monda-frutto.jpg
 categories:
     - artisti
-permalink: /incontra-maestro-caravaggio
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Ragazzo che monda un frutto](https://www.disegnoepittura.it/wp-content/uploads/ragazzo-monda-frutto.jpg "Ragazzo che monda un frutto")

@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Come trasferire un Disegno su Tela con PosterRazor
-published: true
-author: sasadangelo
-comments: true
-date: 2011-12-12 06:12:58
-tags:
-    - tutorial
+title: "Come trasferire un Disegno su Tela con PosterRazor"
+slug: come-trasferire-un-disegno-sulla-tela-con-posterrazor
+image: /wp-content/uploads/0-Inchiostratura-mini.jpg
 categories:
     - disegno
-permalink: /come-trasferire-un-disegno-sulla-tela-con-posterrazor
-image:
-    feature: 0-Inchiostratura-mini.jpg
+tags:
+    - tutorial
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/0-Inchiostratura-mini.jpg)

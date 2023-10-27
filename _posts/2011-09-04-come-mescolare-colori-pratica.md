@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come mescolare i colori in pratica.
-published: true
-author: sasadangelo
-comments: true
-date: 2011-09-04 03:09:01
+title: "Come mescolare i colori in pratica"
+slug: come-mescolare-colori-pratica
+image: /wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - mescolare i colori
-categories:
-    - pittura
-permalink: /come-mescolare-colori-pratica
+author: sasadangelo
 ---
 
 ![Mescolare colore verde uva](https://www.disegnoepittura.it/wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG "Mescolare colore verde uva")

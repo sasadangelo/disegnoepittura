@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come schiarire e scurire i colori?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-08-05 01:08:49
+title: "Come schiarire e scurire i colori?"
+slug: come-schiarire-scurire-colori
+image: /wp-content/uploads/tavolozza-colori-completa.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - mescolare i colori
-categories:
-    - pittura
-permalink: /come-schiarire-scurire-colori
+author: sasadangelo
 ---
 
 ![Tavolozza dei colori completa](https://www.disegnoepittura.it/wp-content/uploads/tavolozza-colori-completa.jpg "Tavolozza dei colori completa")

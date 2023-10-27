@@ -1,15 +1,12 @@
 ---
 layout: post
-title: 'Ti piacerebbe "Dipingere insieme" a Walter Cozzoli e a tutta la community Disegno & Pittura una bella Natura Morta?'
-published: true
-author: sasadangelo
-comments: true
-date: 2011-11-28 01:11:17
-tags: [ ]
+title: "Ti piacerebbe "Dipingere insieme" a Walter Cozzoli e a tutta la community Disegno & Pittura una bella Natura Morta?"
+slug: ti-piacerebbe-dipingere-insieme-walter-cozzoli-forum-disegno-pittura
+image: /wp-content/uploads/Frutti-Calici.jpg
 categories:
     - vari
-permalink: >
-    /ti-piacerebbe-dipingere-insieme-walter-cozzoli-forum-disegno-pittura
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Frutti e Calici](https://www.disegnoepittura.it/wp-content/uploads/Frutti-Calici.jpg "Frutti e Calici")

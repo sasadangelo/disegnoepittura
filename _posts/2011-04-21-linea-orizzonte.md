@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "La Linea dell'Orizzonte"
-published: true
-author: sasadangelo
-comments: true
-date: 2011-04-21 05:04:16
-tags:
-    - composizione
+slug: linea-orizzonte
+image: /wp-content/uploads/linea-orizzonte-alta.jpg
 categories:
     - disegno
-permalink: /linea-orizzonte
+tags:
+    - composizione
+author: sasadangelo
 ---
 
 ![Linea dell'orizzonte alta](https://www.disegnoepittura.it/wp-content/uploads/linea-orizzonte-alta.jpg "Linea dell'orizzonte alta")

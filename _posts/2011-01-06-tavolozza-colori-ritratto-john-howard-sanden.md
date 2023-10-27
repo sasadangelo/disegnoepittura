@@ -1,18 +1,14 @@
 ---
 layout: post
-title: >
-    La Tavolozza dei colori per il Ritratto di John Howard
-    Sanden
-published: true
-author: sasadangelo
-comments: true
-date: 2011-01-06 08:01:21
+title: "La Tavolozza dei colori per il Ritratto di John Howard Sanden"
+slug: tavolozza-colori-ritratto-john-howard-sanden
+image: /wp-content/uploads/sanden.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - ritratto
-categories:
-    - teoriacolori
-permalink: /tavolozza-colori-ritratto-john-howard-sanden
+author: sasadangelo
 ---
 
 ![John Howard Sanden](https://www.disegnoepittura.it/wp-content/uploads/sanden.jpg "John Howard Sanden")

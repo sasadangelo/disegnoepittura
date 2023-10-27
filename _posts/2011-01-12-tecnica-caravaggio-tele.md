@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Quali tele utilizzava Caravaggio?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-01-12 02:01:30
-tags:
-    - pittura ad olio
+title: "Quali tele utilizzava Caravaggio?"
+slug: tecnica-caravaggio-tele
+image: /wp-content/uploads/caravaggio-tecnica-tele.jpg
 categories:
     - artisti
-permalink: /tecnica-caravaggio-tele
+tags:
+    - pittura ad olio
+author: sasadangelo
 ---
 
 ![La tecnica di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/caravaggio-tecnica-tele.jpg "La tecnica di Caravaggio")

@@ -1,17 +1,13 @@
 ---
 layout: post
 title: Prospettiva
-published: true
-author: sasadangelo
-comments: true
-date: 2011-08-27 09:08:21
-tags:
-    - prospettiva
+slug: prospettiva
+image: /wp-content/uploads/prospettiva-accidentale-4.jpg
 categories:
     - disegno
-permalink: /prospettiva
-image:
-    feature: prospettiva-centrale-3.png
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![Prospettiva](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-accidentale-4.jpg "Prospettiva")

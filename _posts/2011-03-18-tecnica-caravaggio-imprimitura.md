@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Quale imprimitura utilizzava Caravaggio?
-published: true
-author: sasadangelo
-comments: true
-date: 2011-03-18 09:03:03
-tags:
-    - pittura ad olio
+title: "Quale imprimitura utilizzava Caravaggio?"
+slug: tecnica-caravaggio-imprimitura
+image: /wp-content/uploads/ragazzo-monda-frutto-imprimitura.jpg
 categories:
     - pittura
-permalink: /tecnica-caravaggio-imprimitura
+tags:
+    - pittura ad olio
+author: sasadangelo
 ---
 
 ![Ragazzo che monda un frutto](https://www.disegnoepittura.it/wp-content/uploads/ragazzo-monda-frutto-imprimitura.jpg "Ragazzo che monda un frutto")

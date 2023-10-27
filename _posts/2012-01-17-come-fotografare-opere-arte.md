@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Come fotografare le proprie opere d'arte?"
-published: true
-author: sasadangelo
-comments: true
-date: 2012-01-17 07:01:16
-tags: [ ]
+slug: come-fotografare-opere-arte
+image: /wp-content/uploads/lago%20inverno.2.jpg
 categories:
     - art-business
-permalink: /come-fotografare-opere-arte
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Foto di un dipinto con data](https://www.disegnoepittura.it/wp-content/uploads/lago%20inverno.2.jpg "Foto di un dipinto con data") Hai dipinto un bel quadro e vuoi mostrarlo ai tuoi amici sul web o semplicemente mostarlo sul [forum di Disegno & Pittura](http://forum.disegnoepittura.it/)? Hai scattato una foto della tua opera artistica e ti accorgi che non è uguale all'originale, anzi è molto piu brutta?

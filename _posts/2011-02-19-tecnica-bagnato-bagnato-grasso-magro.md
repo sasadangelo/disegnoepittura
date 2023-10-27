@@ -3,16 +3,14 @@ layout: post
 title: >
     Bagnato su bagnato e grasso su magro, due tecniche di
     pittura ad olio a confronto.
-published: true
-author: sasadangelo
-comments: true
-date: 2011-02-19 11:02:27
+slug: tecnica-bagnato-bagnato-grasso-magro
+image: /wp-content/uploads/impressionisti-pranzo-canottieri.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - pittura ad olio
-categories:
-    - pittura
-permalink: /tecnica-bagnato-bagnato-grasso-magro
+author: sasadangelo
 ---
 
 ![Bal au Moulin de la Galette](https://www.disegnoepittura.it/wp-content/uploads/impressionisti-pranzo-canottieri.jpg "Bal au Moulin de la Galette")

@@ -1,17 +1,13 @@
 ---
 layout: post
-title: >
-    Come dividere lo spazio nel Disegno e nella Composizione del
-    Paesaggio
-published: true
-author: sasadangelo
-comments: true
-date: 2011-07-08 05:07:41
-tags:
-    - composizione
+title: "Come dividere lo spazio nel Disegno e nella Composizione del Paesaggio"
+slug: divisione-spazio-composizione-paesaggio
+image: /wp-content/uploads/divisione-spazio-composizione-paesaggio-5.jpg
 categories:
     - disegno
-permalink: /divisione-spazio-composizione-paesaggio
+tags:
+    - composizione
+author: sasadangelo
 ---
 
 ![Divisione dello spazio nella Composizione del Paesaggio](https://www.disegnoepittura.it/wp-content/uploads/divisione-spazio-composizione-paesaggio-5.jpg "Divisione dello spazio nella Composizione del Paesaggio")

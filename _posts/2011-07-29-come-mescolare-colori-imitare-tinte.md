@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come mescolare i colori per imitare le tinte della natura.
-published: true
-author: sasadangelo
-comments: true
-date: 2011-07-29 11:07:17
+title: "Come mescolare i colori per imitare le tinte della natura"
+slug: come-mescolare-colori-imitare-tinte
+image: /wp-content/uploads/munsell.jpg
+categories:
+    - pittura
 tags:
     - corso pittura ad olio
     - mescolare i colori
-categories:
-    - pittura
-permalink: /come-mescolare-colori-imitare-tinte
+author: sasadangelo
 ---
 
 ![Come mescolare i colori per imitare le tinte della natura](https://www.disegnoepittura.it/wp-content/uploads/munsell.jpg "Come mescolare i colori per imitare le tinte della natura")
