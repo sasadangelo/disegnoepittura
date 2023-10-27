@@ -1,20 +1,16 @@
 ---
 layout: post
-title: Come Disegnare il soggetto per un dipinto
-published: true
-author: sasadangelo
-comments: true
-date: 2018-02-13 07:02:07
+title: "Come Disegnare il soggetto per un dipinto"
+permalink: /come-disegnare-soggetto-dipinto
+image: /wp-content/uploads/13-Disegno-Inchiostrato-2-mini.jpg
+categories:
+    - disegno
 tags:
     - corso pittura ad olio
     - nature morte
     - pittura ad olio
     - tutorial
-categories:
-    - disegno
-permalink: /come-disegnare-soggetto-dipinto
-image:
-    feature: 13-Disegno-Inchiostrato-2-mini.jpg
+author: sasadangelo
 ---
 
 ![Disegno Inchiostrato](/wp-content/uploads/13-Disegno-Inchiostrato-2-mini.jpg)

@@ -1,18 +1,16 @@
 ---
 layout: post
 title: "L'ebook Pittura ad Olio - Materiali"
-published: true
-author: sasadangelo
-comments: true
-date: 2014-08-21 07:08:50
+slug: ebook-pittura-ad-olio-materiali
+image: /wp-content/uploads/3d-100.png
+image:
+    feature: 3d-100.png
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /ebook-pittura-ad-olio-materiali
-image:
-    feature: 3d-100.png
+author: sasadangelo
 ---
 
 ![Pittura ad Olio - Materiali](/wp-content/uploads/3d-100.png) A Maggio ho annunciato che avrei sospeso le attività di Disegno & Pittura per un anno in modo da potermi dedicare ad altri miei interessi. Nella mia mente questo periodo doveva anche essere l'opportunità per riflettere su come gestire in futuro questo spazio web. Una decisione che all'inizio sembrava così difficile e dolorosa si è rivelata, invece, molto saggia.

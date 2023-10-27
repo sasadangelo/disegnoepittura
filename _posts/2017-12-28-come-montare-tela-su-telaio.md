@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Come montare una tela su un telaio
-published: true
-author: sasadangelo
-comments: true
-date: 2017-12-28 09:12:04
+title: "Come montare una tela su un telaio"
+slug: come-montare-tela-su-telaio
+image: /wp-content/uploads/Montaggio_Tela_su_Telaio_mini.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /come-montare-tela-su-telaio
-image:
-    feature: Montaggio_Tela_su_Telaio_mini.jpg
+author: sasadangelo
 ---
 
 ![Montaggio Tela su Telaio](/wp-content/uploads/Montaggio_Tela_su_Telaio_mini.jpg)

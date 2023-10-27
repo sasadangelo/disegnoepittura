@@ -1,18 +1,14 @@
 ---
 layout: post
 title: "Disegnare una Jaguar d'epoca"
-published: true
-author: gvalotto
-comments: true
-date: 2014-03-27 03:03:23
+slug: disegnare-una-jaguar-depoca
+image: /wp-content/uploads/0-disegno-jaguar-kas-560-finito-mini.jpg
+categories:
+    - disegno
 tags:
     - chiaroscuro
     - tutorial
-categories:
-    - disegno
-permalink: /disegnare-una-jaguar-depoca
-image:
-    feature: 0-disegno-jaguar-kas-560-finito-mini.jpg
+author: gvalotto
 ---
 
 ![Tutorial su come Disegnare una Jaguar KAS 560](/wp-content/uploads/0-disegno-jaguar-kas-560-finito-mini.jpg "Disegnare una Jaguar KAS 560")

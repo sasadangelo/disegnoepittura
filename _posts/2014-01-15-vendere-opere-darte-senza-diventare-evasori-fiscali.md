@@ -1,16 +1,12 @@
 ---
 layout: post
 title: "Come vendere le tue opere d'arte senza diventare evasore fiscale?"
-published: true
-author: simonecois
-comments: true
-date: 2014-01-15 08:01:55
-tags: [ ]
+slug: vendere-opere-darte-senza-diventare-evasori-fiscali
+image: /wp-content/uploads/vendere-opere-arte.jpg
 categories:
     - art-business
-permalink: /vendere-opere-darte-senza-diventare-evasori-fiscali
-image:
-    feature: vendere-opere-arte.jpg
+tags: [ ]
+author: simonecois
 ---
 
 ![Vendere Opere d'Arte](/wp-content/uploads/vendere-opere-arte.jpg "Vendere Opere d'Arte")

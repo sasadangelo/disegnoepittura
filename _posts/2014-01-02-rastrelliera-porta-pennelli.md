@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Una rastrelliera porta pennelli
-published: true
-author: sasadangelo
-comments: true
-date: 2014-01-02 05:01:34
-tags:
-    - materiali
+title: "Una rastrelliera porta pennelli"
+slug: rastrelliera-porta-pennelli
+image: /wp-content/uploads/rastrelliera-pennelli-mini.jpg
 categories:
     - pittura
-permalink: /rastrelliera-porta-pennelli
+tags:
+    - materiali
 image:
     feature: rastrelliera-pennelli-mini.jpg
+author: sasadangelo
 ---
 
 ![Rastrelliera Porta Pennelli](/wp-content/uploads/rastrelliera-pennelli-mini.jpg "Rastrelliera Porta Pennelli")

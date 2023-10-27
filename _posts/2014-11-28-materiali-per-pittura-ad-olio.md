@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Materiali per pittura a olio
-published: true
-author: sasadangelo
-comments: true
-date: 2014-11-28 10:11:56
+title: "Materiali per pittura a olio"
+slug: materiali-per-pittura-ad-olio
+image: /wp-content/uploads/Fig-14-Cavalletti-100.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /materiali-per-pittura-ad-olio
-image:
-    feature: Fig-14-Cavalletti-100.jpg
+author: sasadangelo
 ---
 
 ![Materiali per pittura ad olio](/wp-content/uploads/Fig-14-Cavalletti-100.jpg "Materiali per pittura ad olio")

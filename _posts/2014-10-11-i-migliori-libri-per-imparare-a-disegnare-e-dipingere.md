@@ -1,17 +1,13 @@
 ---
 layout: post
-title: I Migliori Libri per Imparare a Disegnare e Dipingere
-published: true
-author: sasadangelo
-comments: true
-date: 2014-10-11 10:10:22
-tags:
-    - libri e dvd
+title: "I Migliori Libri per Imparare a Disegnare e Dipingere"
+slug: i-migliori-libri-per-imparare-a-disegnare-e-dipingere
+image: /wp-content/uploads/color-light.png
 categories:
     - vari
-permalink: /i-migliori-libri-per-imparare-a-disegnare-e-dipingere
-image:
-    feature: color-light.png
+tags:
+    - libri e dvd
+author: sasadangelo
 ---
 
 ![I Migliori Libri per Imparare a Disegnare e Dipingere](/wp-content/uploads/color-light.png "I Migliori Libri per Imparare a Disegnare e Dipingere")

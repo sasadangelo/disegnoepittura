@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Come dipingere i Lustri
-published: true
-author: sasadangelo
-comments: true
-date: 2014-05-04 02:05:18
+title: "Come dipingere i Lustri"
+permalink: /come-dipingere-lustri
+image: /wp-content/uploads/posizione-del-lustro-mini.png
+categories:
+    - pittura
 tags:
     - chiaroscuro
     - mescolare i colori
-categories:
-    - pittura
-permalink: /come-dipingere-lustri
-image:
-    feature: posizione-del-lustro-mini.png
+author: sasadangelo
 ---
 
 ![Lustri](/wp-content/uploads/posizione-del-lustro-mini.png)

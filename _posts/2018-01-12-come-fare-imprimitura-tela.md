@@ -1,19 +1,15 @@
 ---
 layout: post
 title: "Come fare l'Imprimitura di una Tela"
-published: true
-author: sasadangelo
-comments: true
-date: 2018-01-12 06:01:13
+slug: /come-fare-imprimitura-tela
+image: /wp-content/uploads/0-Imprimitura_di_una_Tela.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /come-fare-imprimitura-tela
-image:
-    feature: 0-Imprimitura_di_una_Tela.jpg
+author: sasadangelo
 ---
 
 ![Imprimitura di una Tela](/wp-content/uploads/0-Imprimitura_di_una_Tela.jpg)

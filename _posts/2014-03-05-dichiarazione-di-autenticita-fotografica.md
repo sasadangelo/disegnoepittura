@@ -1,16 +1,12 @@
 ---
 layout: post
-title: La Dichiarazione di Autenticità Fotografica
-published: true
-author: simonecois
-comments: true
-date: 2014-03-05 02:03:51
-tags: [ ]
+title: "La Dichiarazione di Autenticità Fotografica"
+slug: dichiarazione-di-autenticita-fotografica
+image: /wp-content/uploads/certificato-autenticita-mini.jpg
 categories:
     - art-business
-permalink: /dichiarazione-di-autenticita-fotografica
-image:
-    feature: certificato-autenticita-mini.jpg
+tags: [ ]
+author: simonecois
 ---
 
 ![Certificato Autenticità Fotografica](/wp-content/uploads/certificato-autenticita-mini.jpg "Certificato Autenticità Fotografica")
