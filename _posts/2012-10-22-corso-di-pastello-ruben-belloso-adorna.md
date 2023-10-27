@@ -3,6 +3,7 @@ layout: post
 title: "Corso di Pastello di Ruben Belloso Adorna"
 slug: corso-di-pastello-ruben-belloso-adorna
 image: /wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg
+excerpt: "Vuoi imparare a dipingere con i pastelli? Ti consiglio di frequentare il corso di pastello di Ruben Belloso Adorna."
 categories:
     - vari
 tags: [ ]

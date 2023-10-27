@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere una volpe ad acrilico"
 slug: dipingere-volpe-acrilico
 image: /wp-content/uploads/volpe-12.jpg
+excerpt: "Come dipingere una volpe? In questo tutorial Roberto Rizzo spiega passo dopo passo come dipingere una volpe."
 categories:
     - pittura
 tags:

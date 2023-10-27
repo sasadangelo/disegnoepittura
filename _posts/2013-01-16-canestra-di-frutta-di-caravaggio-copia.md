@@ -3,6 +3,7 @@ layout: post
 title: "Canestra di Frutta di Caravaggio"
 slug: canestra-di-frutta-di-caravaggio-copia
 image: /wp-content/uploads/Canestro-Frutta-Caravaggio.jpg
+excerpt: "Come fu dipinta la famosa Canestra di Frutta di Caravaggio? In quest&#039;articolo Edoardo la Francesca mostrerà come ha dipinto la sua copia."
 categories:
     - pittura
 tags:

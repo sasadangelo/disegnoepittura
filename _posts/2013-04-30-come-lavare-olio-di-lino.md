@@ -3,6 +3,7 @@ layout: post
 title: "Come lavare l'olio di lino o noci"
 slug: come-lavare-olio-di-lino
 image: /wp-content/uploads/Olio-lavaggio-mini.jpg
+excerpt: "L'olio di lino, noci o papavero che acquistiamo al negozio di belle arti è buono per dipingere o è possibile migliorarlo ulteriormente?"
 categories:
     - pittura
 tags: [ ]

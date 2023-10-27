@@ -3,6 +3,7 @@ layout: post
 title: "Ritratto di Mimmo in contesto seicentesco"
 slug: ritratto-mimmo-contesto-seicentesco
 image: /wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg
+excerpt: "Qualche tempo fa, navigando fra siti d’arte sul web, mi sono imbattuto in un dipinto di Gerrit Dou altrimenti conosciuto come Gerard e Douw o Dow, pittore"
 categories:
     - vari
 tags:

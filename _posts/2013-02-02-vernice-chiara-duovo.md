@@ -3,6 +3,7 @@ layout: post
 title: "Vernice a chiara d'uovo"
 slug: vernice-chiara-duovo
 image: /wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg
+excerpt: "Come si prepara la vernice a chiara d&#039;uovo? In quest'articolo Salvo Marchesani ti spiega come prepararla, applicarla al dipinto e rimuoverla."
 categories:
     - pittura
 tags: [ ]

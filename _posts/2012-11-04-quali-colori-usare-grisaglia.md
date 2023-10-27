@@ -3,6 +3,7 @@ layout: post
 title: "Quali colori usare per una Grisaglia?"
 slug: quali-colori-usare-grisaglia
 image: /wp-content/uploads/grisaglia-uva.jpg
+excerpt: "Quali colori usare per una grisaglia? Questo articolo ti spiega in dettaglio cos'è una grisaglia e quali colori usare per realizzarla."
 categories:
     - pittura
 tags:

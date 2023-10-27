@@ -3,6 +3,7 @@ layout: post
 title: "Come verniciare un dipinto ad olio?"
 slug: come-verniciare-un-dipinto
 image: /wp-content/uploads/vernice-finale-stesura-2.jpg
+excerpt: "Sai come verniciare un dipinto ad olio? Quest'articolo ti spiegherà, passo dopo passo, come verniciare un quadro ad olio."
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Tecnica di Caravaggio"
 slug: tecnica-di-caravaggio
 image: /wp-content/uploads/caravaggio-mini.jpg
+excerpt: "Qual era la tecnica di Caravaggio per realizzare i suoi dipinti? Questa serie di articoli ti spiegherà come Caravaggio realizzò i suoi dipinti."
 categories:
     - artisti
 tags: [ ]

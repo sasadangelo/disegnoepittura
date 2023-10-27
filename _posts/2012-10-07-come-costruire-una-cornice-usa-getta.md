@@ -3,6 +3,7 @@ layout: post
 title: "Come costruire una cornice Usa e Getta"
 slug: come-costruire-una-cornice-usa-getta
 image: /wp-content/uploads/enrico-fiorentini.jpg
+excerpt: "Devi regalare o vendere un dipinto e vorresti decorarlo con una cornice economica? Leggi come costruire una cornice usa e getta."
 categories:
     - vari
 tags: [ ]

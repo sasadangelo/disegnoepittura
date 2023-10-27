@@ -3,6 +3,7 @@ layout: post
 title: "Come costruire un bastone poggiapolso"
 slug: come-costruire-bastone-poggiapolso
 image: /wp-content/uploads/reggipolso-dettaglio-mini.jpg
+excerpt: "Il bastone poggiapolso è uno strumento indispensabile per il pittore. In quest&#039;articolo imparerai a costruire un bastone poggiapolso leggero e funzionale."
 categories:
     - pittura
 tags:
