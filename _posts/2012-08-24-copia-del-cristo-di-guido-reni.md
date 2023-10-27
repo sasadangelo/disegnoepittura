@@ -3,6 +3,7 @@ layout: post
 title: "Copia del Cristo di Guido Reni"
 slug: copia-del-cristo-di-guido-reni
 image: /wp-content/uploads/copia-cristo-guido-reni-mini.jpg
+excerpt: "Materiali: Tela 30x40 a trama fine, pennelli martora n.0, n.1, pelo di bue n.4 n.6, liquin original. Colori: Bianco di zinco, bianco di titanio, rosso di"
 categories:
     - pittura
 tags:

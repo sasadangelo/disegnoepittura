@@ -3,6 +3,7 @@ layout: post
 title: "Come usare la Tavolozza dei colori ad olio"
 slug: tavolozza-dei-colori-olio
 image: /wp-content/uploads/pulire-tavolozza-mini.jpg
+excerpt: "Quale tavolozza dei colori usare per la pittura ad olio? Come la si usa? Come si pulisce? Leggi quest&#039;articolo e avrai tutte le risposte."
 categories:
     - pittura
 tags:

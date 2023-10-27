@@ -3,6 +3,7 @@ layout: post
 title: "I Pigmenti dei colori di Terra"
 slug: pigmenti-colori-terre
 image: /wp-content/uploads/pigmento-ocra-rossa.jpg
+excerpt: "Come preparavano i colori gli antichi maestri? Quest'articolo spiega, con esempi pratici, come gli antichi maestri preparavano i loro colori di terra."
 categories:
     - pittura
 tags:

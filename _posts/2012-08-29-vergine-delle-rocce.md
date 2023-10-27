@@ -3,6 +3,7 @@ layout: post
 title: "Vergine delle Rocce"
 slug: vergine-delle-rocce
 image: /wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg
+excerpt: "Come dipinse Leonardo la Vergine delle Rocce della National Gallery? Questo articolo ti spiegherà in dettaglio come fu eseguita."
 categories:
     - pittura
 tags: [ ]

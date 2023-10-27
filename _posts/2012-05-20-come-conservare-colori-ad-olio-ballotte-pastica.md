@@ -3,6 +3,7 @@ layout: post
 title: "Come conservare colori ad olio in ballotte di plastica"
 slug: come-conservare-colori-ad-olio-ballotte-pastica
 image: /wp-content/uploads/conservare-colori-ballotte-3.JPG
+excerpt: "Come conservare colori ad olio in ballotte di plastica e risparmiare tempo nel preparare le tinte ogni volta? Leggi quest'articolo per scoprire come fare."
 categories:
     - pittura
 tags:

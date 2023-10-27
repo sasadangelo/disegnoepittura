@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere una mano in chiaroscuro"
 slug: dipingere-una-mano-chiaroscuro
 image: /wp-content/uploads/dipingere-mani-chiaroscuro-14.jpg
+excerpt: "Come dipingere una mano in chiaroscuro? Questo tutorial vi mostra passo dopo masso come dipingere una mano in chiaroscuro usando i colori ad olio."
 categories:
     - pittura
 tags:
