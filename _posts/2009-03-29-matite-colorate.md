@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Matite Colorate
-published: true
-author: sasadangelo
-comments: true
-date: 2009-03-29 02:03:49
+title: "Matite Colorate"
+slug: matite-colorate
+image: /wp-content/uploads/matite-colorate.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - matite colorate
-categories:
-    - pittura
-permalink: /matite-colorate
+author: sasadangelo
 ---
 
 ![Matite Colorate](https://www.disegnoepittura.it/wp-content/uploads/matite-colorate.jpg "Matite Colorate")

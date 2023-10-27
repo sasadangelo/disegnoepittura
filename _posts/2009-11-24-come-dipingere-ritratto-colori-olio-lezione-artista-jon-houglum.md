@@ -1,17 +1,14 @@
 ---
 layout: post
 title: "Come Dipingere un Ritratto con i colori ad olio: lezione dell'artista Jon Houglum"
-published: true
-author: sasadangelo
-comments: true
-date: 2009-11-24 08:11:12
+slug: come-dipingere-ritratto-colori-olio-lezione-artista-jon-houglum
+image: /wp-content/uploads/come-dipingere-ritratto-colori-olio-27.jpg
+categories:
+    - pittura
 tags:
     - ritratto
     - tutorial
-categories:
-    - pittura
-permalink: >
-    /come-dipingere-ritratto-colori-olio-lezione-artista-jon-houglum
+author: sasadangelo
 ---
 
 ![come-dipingere-ritratto-colori-olio](https://www.disegnoepittura.it/wp-content/uploads/come-dipingere-ritratto-colori-olio-27.jpg "come-dipingere-ritratto-colori-olio")

@@ -1,18 +1,14 @@
 ---
 layout: post
-title: >
-    Alcune semplici regole di composizione nel Disegno del
-    Ritratto
-published: true
-author: sasadangelo
-comments: true
-date: 2009-12-21 03:12:22
+title: "Alcune semplici regole di composizione nel Disegno del Ritratto"
+slug: semplici-regole-composizione-disegno-ritratto
+image: /wp-content/uploads/semplici-regole-composizione-disegno-ritratto-3.jpg
+categories:
+    - disegno
 tags:
     - composizione
     - ritratto
-categories:
-    - disegno
-permalink: /semplici-regole-composizione-disegno-ritratto
+author: sasadangelo
 ---
 
 ![semplici-regole-composizione-disegno-ritratto-3](https://www.disegnoepittura.it/wp-content/uploads/semplici-regole-composizione-disegno-ritratto-3.jpg "semplici-regole-composizione-disegno-ritratto-3")

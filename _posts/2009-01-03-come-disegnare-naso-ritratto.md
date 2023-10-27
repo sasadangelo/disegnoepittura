@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come Disegnare il Naso in un Ritratto
-published: true
-author: sasadangelo
-comments: true
-date: 2009-01-03 08:01:30
-tags:
-    - ritratto
+title: "Come Disegnare il Naso in un Ritratto"
+slug: come-disegnare-naso-ritratto
+image: /wp-content/uploads/naso2.jpg
 categories:
     - disegno
-permalink: /come-disegnare-naso-ritratto
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/naso2.jpg)

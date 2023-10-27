@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come Disegnare la Bocca in un Ritratto
-published: true
-author: sasadangelo
-comments: true
-date: 2009-01-27 11:01:45
-tags:
-    - ritratto
+title: "Come Disegnare la Bocca in un Ritratto"
+slug: /come-disegnare-bocca-ritratto
+image: /wp-content/uploads/bocca8.jpg
 categories:
     - disegno
-permalink: /come-disegnare-bocca-ritratto
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![bocca8](https://www.disegnoepittura.it/wp-content/uploads/bocca8.jpg "bocca8")

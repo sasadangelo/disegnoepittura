@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Come Disegnare il Volto secondo l'Artista Andrew Loomis"
-published: true
-author: sasadangelo
-comments: true
-date: 2009-05-20 11:05:19
-tags:
-    - ritratto
+slug: disegnare-volto-andrew-loomis
+imaage: /wp-content/uploads/loomis.gif
 categories:
     - disegno
-permalink: /disegnare-volto-andrew-loomis
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![william andrew loomis](https://www.disegnoepittura.it/wp-content/uploads/loomis.gif "william andrew loomis")

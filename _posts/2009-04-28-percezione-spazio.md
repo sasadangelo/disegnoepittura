@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Percezione dello Spazio
-published: true
-author: sasadangelo
-comments: true
-date: 2009-04-28 06:04:59
+title: "Percezione dello Spazio"
+slug: percezione-spazio
+image: /wp-content/uploads/percezione-spazio-6.jpg
+categories:
+    - disegno
 tags:
     - composizione
     - prospettiva
-categories:
-    - disegno
-permalink: /percezione-spazio
+author: sasadangelo
 ---
 
 ![percezione-spazio](/wp-content/uploads/percezione-spazio-6.jpg "Percezione dello Spazio")

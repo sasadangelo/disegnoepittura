@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "Dipingere il mare con le lezioni dell'artista John E. Robinson"
-published: true
-author: sasadangelo
-comments: true
-date: 2009-12-01 08:12:13
+slug: dipingere-mare-lezioni-artista-john-robinson
+image: /wp-content/uploads/john-e-robinson.jpg
+categories:
+    - artisti
 tags:
     - libri e dvd
     - paesaggi
     - prospettiva aerea
-categories:
-    - artisti
-permalink: /dipingere-mare-lezioni-artista-john-robinson
+author: sasadangelo
 ---
 
 ![john-e-robinson](https://www.disegnoepittura.it/wp-content/uploads/john-e-robinson.jpg "john-e-robinson")

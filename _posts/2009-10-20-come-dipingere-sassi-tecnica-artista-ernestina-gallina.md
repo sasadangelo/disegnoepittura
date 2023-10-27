@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Come Dipingere sui sassi: la tecnica dell'artista Ernestina Gallina"
-published: true
-author: sasadangelo
-comments: true
-date: 2009-10-20 07:10:40
-tags:
-    - interviste
+slug: come-dipingere-sassi-tecnica-artista-ernestina-gallina
+image: /wp-content/uploads/ernestina-gallona.jpg
 categories:
     - artisti
-permalink: /come-dipingere-sassi-tecnica-artista-ernestina-gallina
+tags:
+    - interviste
+author: sasadangelo
 ---
 
 ![ernestina-gallina](https://www.disegnoepittura.it/wp-content/uploads/ernestina-gallona.jpg "ernestina-gallina")

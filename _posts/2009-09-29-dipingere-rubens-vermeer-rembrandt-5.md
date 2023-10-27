@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Dipingere come Rubens, Vermeer e Rembrandt (V° parte)
-published: true
-author: sasadangelo
-comments: true
-date: 2009-09-29 08:09:19
+title: "Dipingere come Rubens, Vermeer e Rembrandt (V° parte)"
+slug: dipingere-rubens-vermeer-rembrandt-5
+image: /wp-content/uploads/rose-fig1-thumb.JPG
+categories:
+    - pittura
 tags:
     - nature morte
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-rubens-vermeer-rembrandt-5
+author: sasadangelo
 ---
 
 ![dipingere rubens rembrandt vermeer](https://www.disegnoepittura.it/wp-content/uploads/rose-fig1-thumb.JPG "dipingere rubens rembrandt vermeer") **1° Fase di Colore**

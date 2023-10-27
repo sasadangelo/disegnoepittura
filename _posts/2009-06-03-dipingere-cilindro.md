@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come disegnare e colorare un cilindro con Microsoft Paint
-published: true
-author: sasadangelo
-comments: true
-date: 2009-06-03 07:06:47
+title: "Come disegnare e colorare un cilindro con Microsoft Paint"
+slug: dipingere-cilindro
+image: /wp-content/uploads/cylinder9.bmp
+categories:
+    - pittura
 tags:
     - arte digitale
     - chiaroscuro
-categories:
-    - pittura
-permalink: /dipingere-cilindro
+author: sasadangelo
 ---
 
 ![cilindro](/wp-content/uploads/cylinder9.bmp "cilindro")

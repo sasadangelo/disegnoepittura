@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Disegnare un Accendino
-published: true
-author: sasadangelo
-comments: true
-date: 2009-03-10 11:03:41
+title: "Disegnare un Accendino"
+slug: disegnare-un-accendino
+imaage: /wp-content/uploads/still_life_drawing_tutorial_12.jpg
+categories:
+    - disegno
 tags:
     - nature morte
     - tutorial
-categories:
-    - disegno
-permalink: /disegnare-un-accendino
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/still_life_drawing_tutorial_12.jpg)

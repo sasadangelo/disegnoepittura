@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Colori acrilici
-published: true
-author: sasadangelo
-comments: true
-date: 2009-07-14 10:07:22
+title: "Colori acrilici"
+slug: colori-acrilici
+image: /wp-content/uploads/jerry-1.jpg
+categories:
+    - pittura
 tags:
     - acrilico
     - materiali
-categories:
-    - pittura
-permalink: /colori-acrilici
+author: sasadangelo
 ---
 
 ![Colori acrilici](https://www.disegnoepittura.it/wp-content/uploads/jerry-1.jpg "Colori acrilici")

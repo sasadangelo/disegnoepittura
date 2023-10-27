@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "Che cos'è un ACEO e come è possibile vendere i propri disegni o dipinti in modo originale"
-published: true
-author: sasadangelo
-comments: true
-date: 2009-11-21 08:11:31
-tags: [ ]
+slug: che-cose-un-aceo-e-come-e-possibile-vendere-i-propri-disegni-o-dipinti-in-modo-originale
+image: /wp-content/uploads/aceo.jpg
 categories:
     - art-business
-permalink: >
-    /che-cose-un-aceo-e-come-e-possibile-vendere-i-propri-disegni-o-dipinti-in-modo-originale
+tags: [ ]
+author: sasadangelo
 ---
 
 ![aceo](/wp-content/uploads/aceo.jpg "aceo")

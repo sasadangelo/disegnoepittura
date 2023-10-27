@@ -3,16 +3,14 @@ layout: post
 title: >
     I diversi tipi di Inquadratura nel Disegno del Ritratto e
     della Figura Umana
-published: true
-author: sasadangelo
-comments: true
-date: 2009-12-09 12:12:06
+slug: inquadratura-disegno-ritratto-figura-umana
+image: /wp-content/uploads/figura-intera.jpg
 tags:
     - figura umana
     - ritratto
 categories:
     - disegno
-permalink: /inquadratura-disegno-ritratto-figura-umana
+author: sasadangelo
 ---
 
 ![figura-intera](https://www.disegnoepittura.it/wp-content/uploads/figura-intera.jpg "figura-intera")

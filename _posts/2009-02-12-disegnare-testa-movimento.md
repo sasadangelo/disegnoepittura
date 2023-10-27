@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Come disegnare un viso in movimento secondo l'artista Burne Hogart (parte I)"
-published: true
-author: sasadangelo
-comments: true
-date: 2009-02-12 07:02:49
-tags:
-    - ritratto
+slug: disegnare-testa-movimento
+image: /wp-content/uploads/rotazione11.jpg
 categories:
     - disegno
-permalink: /disegnare-testa-movimento
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![Come disegnare un viso in movimento secondo l'artista Burne Hogart](http://www.disegnoepittura.it/wp-content/uploads/rotazione11.jpg "Come disegnare un viso in movimento secondo l'artista Burne Hogart")

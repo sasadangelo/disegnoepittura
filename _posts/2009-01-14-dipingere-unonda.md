@@ -1,19 +1,15 @@
 ---
 layout: post
 title: "Dipingere un' Onda"
-published: true
-author: sasadangelo
-comments: false
-date: 2009-01-14 06:01:28
+slug: dipingere-unonda
+image: /wp-content/uploads/dipingere-onda.jpg
+categories:
+    - pittura
 tags:
     - paesaggi
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-unonda
-image:
-    feature: marina-onda-finito.jpg
+author: sasadangelo
 ---
 
 ![Dipingere Un'Onda](/wp-content/uploads/dipingere-onda.jpg "Dipingere Un'Onda")

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Jerry Yarnell
-published: true
-author: sasadangelo
-comments: true
-date: 2009-08-09 04:08:40
-tags: [ ]
+title: "Jerry Yarnell"
+slug: jerry-yarnell
+image: /wp-content/uploads/jerry-yarnell.jpg
 categories:
     - artisti
-permalink: /jerry-yarnell
+tags: [ ]
+author: sasadangelo
 ---
 
 ![](/wp-content/uploads/jerry-yarnell.jpg)

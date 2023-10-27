@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Dipingere un albero
-published: true
-author: sasadangelo
-comments: true
-date: 2009-07-04 04:07:09
+title: "Dipingere un albero"
+slug: dipingere-albero
+image: /wp-content/uploads/painting-tree-9.jpg
+categories:
+    - pittura
 tags:
     - acrilico
     - paesaggi
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-albero
-image:
-    feature: dipingere-albero.jpg
+author: sasadangelo
 ---
 
 ![dipingere albero](https://www.disegnoepittura.it/wp-content/uploads/painting-tree-9.jpg "dipingere albero")

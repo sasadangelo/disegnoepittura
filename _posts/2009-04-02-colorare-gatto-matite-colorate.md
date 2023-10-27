@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Colorare un gatto con le matite colorate
-published: true
-author: sasadangelo
-comments: true
-date: 2009-04-02 05:04:10
+title: "Colorare un gatto con le matite colorate"
+slug: colorare-gatto-matite-colorate
+image: /wp-content/uploads/gatto6.jpg
+categories:
+    - pittura
 tags:
     - animali
     - matite colorate
     - tutorial
-categories:
-    - pittura
-permalink: /colorare-gatto-matite-colorate
+author: sasadangelo
 ---
 
 ![Colorare un gatto con le matite colorate](https://www.disegnoepittura.it/wp-content/uploads/gatto6.jpg "Colorare un gatto con le matite colorate")

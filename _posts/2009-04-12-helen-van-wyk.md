@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Helen van Wyk
-published: true
-author: sasadangelo
-comments: true
-date: 2009-04-12 04:04:06
-tags:
-    - pittura ad olio
+title: "Helen van Wyk"
+slug: helen-van-wyk
+image: /wp-content/uploads/helen.jpg
 categories:
     - artisti
-permalink: /helen-van-wyk
+tags:
+    - pittura ad olio
+author: sasadangelo
 ---
 
 ![helen van wyk](https://www.disegnoepittura.it/wp-content/uploads/helen.jpg "helen van wyk")
