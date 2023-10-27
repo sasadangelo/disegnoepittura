@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 'Tecniche di pittura ad olio: la patata'
-published: true
-author: sasadangelo
-comments: true
-date: 2012-04-12 03:04:22
+title: "Tecniche di pittura ad olio: la patata"
+slug: tecniche-di-pittura-ad-olio-patata
+image: /wp-content/uploads/pulire-dipinto-con-patata-5.JPG
+categories:
+    - pittura
 tags:
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /tecniche-di-pittura-ad-olio-patata
+author: sasadangelo
 ---
 
 ![Tecniche di pittura ad olio: la patata](https://www.disegnoepittura.it/wp-content/uploads/pulire-dipinto-con-patata-5.JPG "Tecniche di pittura ad olio: la patata")

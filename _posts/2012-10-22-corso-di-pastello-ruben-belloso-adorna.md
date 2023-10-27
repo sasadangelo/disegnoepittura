@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Corso di Pastello di Ruben Belloso Adorna
-published: true
-author: sasadangelo
-comments: true
-date: 2012-10-22 01:10:50
-tags: [ ]
+title: "Corso di Pastello di Ruben Belloso Adorna"
+slug: corso-di-pastello-ruben-belloso-adorna
+image: /wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg
 categories:
     - vari
-permalink: /corso-di-pastello-ruben-belloso-adorna
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Ruben Belloso Adorna - Occhio](/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg "Ruben Belloso Adorna - Occhio")

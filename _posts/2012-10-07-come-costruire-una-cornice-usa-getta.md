@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Come costruire una cornice Usa e Getta
-published: true
-author: efiorentini
-comments: true
-date: 2012-10-07 07:10:00
-tags: [ ]
+title: "Come costruire una cornice Usa e Getta"
+slug: come-costruire-una-cornice-usa-getta
+image: /wp-content/uploads/enrico-fiorentini.jpg
 categories:
     - vari
-permalink: /come-costruire-una-cornice-usa-getta
+tags: [ ]
+author: efiorentini
 ---
 
 ![Enrico Fiorentini](/wp-content/uploads/enrico-fiorentini.jpg "Enrico Fiorentini")

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Come usare la Tavolozza dei colori ad olio
-published: true
-author: sasadangelo
-comments: true
-date: 2012-07-12 10:07:42
+title: "Come usare la Tavolozza dei colori ad olio"
+slug: tavolozza-dei-colori-olio
+image: /wp-content/uploads/pulire-tavolozza-mini.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /tavolozza-dei-colori-olio
+author: sasadangelo
 ---
 
 ![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-mini.jpg "Pulire la tavolozza dei colori")

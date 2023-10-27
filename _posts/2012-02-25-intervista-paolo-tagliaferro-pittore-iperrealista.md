@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Intervista a Paolo Tagliaferro pittore iperrealista
-published: true
-author: sasadangelo
-comments: true
-date: 2012-02-25 12:02:41
-tags:
-    - interviste
+title: "Intervista a Paolo Tagliaferro pittore iperrealista"
+slug: intervista-paolo-tagliaferro-pittore-iperrealista
+image: /wp-content/uploads/paolo-tagliaferro.jpg
 categories:
     - artisti
-permalink: /intervista-paolo-tagliaferro-pittore-iperrealista
+tags:
+    - interviste
+author: sasadangelo
 ---
 
 ![Paolo Tagliaferro](https://www.disegnoepittura.it/wp-content/uploads/paolo-tagliaferro.jpg "Paolo Tagliaferro")

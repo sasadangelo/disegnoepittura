@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Dipingere il mare al tramonto
-published: true
-author: amalialarosa
-comments: true
-date: 2012-02-08 12:02:19
-tags: [ ]
+title: "Dipingere il mare al tramonto"
+slug: dipingere-mare-tramonto
+image: /wp-content/uploads/dipingere-mare-tramonto-11.jpg
 categories:
     - pittura
-permalink: /dipingere-mare-tramonto
+tags: [ ]
+author: amalialarosa
 ---
 
 ![Dipingere il mare con nave al tramonto ](https://www.disegnoepittura.it/wp-content/uploads/dipingere-mare-tramonto-11.jpg "Dipingere il mare con nave al tramonto ")

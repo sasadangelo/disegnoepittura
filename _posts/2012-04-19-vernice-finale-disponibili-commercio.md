@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Le vernici finali disponibili in commercio
-published: true
-author: sasadangelo
-comments: true
-date: 2012-04-19 11:04:15
+title: "Le vernici finali disponibili in commercio"
+slug: vernice-finale-disponibili-commercio
+image: /wp-content/uploads/Vernice-Finale.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /vernice-finale-disponibili-commercio
-image:
-    feature: Vernice-Finale.jpg
+author: sasadangelo
 ---
 
 ![Vernice Finale](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Finale.jpg "Vernice Finale")

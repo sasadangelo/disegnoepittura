@@ -1,16 +1,14 @@
 ---
 layout: post
-title: La guida definitiva alla conservazione dei colori ad olio
-published: true
-author: sasadangelo
-comments: true
-date: 2012-01-26 06:01:51
+title: "La guida definitiva alla conservazione dei colori ad olio"
+slug: guida-definitiva-conservazione-colori-olio
+image: /wp-content/uploads/conservazione-colori-acqua-1.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /guida-definitiva-conservazione-colori-olio
+author: sasadangelo
 ---
 
 ![Conservazione dei colori ad olio in acqua](https://www.disegnoepittura.it/wp-content/uploads/conservazione-colori-acqua-1.jpg "Conservazione dei colori ad olio in acqua")

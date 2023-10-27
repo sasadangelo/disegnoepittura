@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Copia del Cristo di Guido Reni
-published: true
-author: amalialarosa
-comments: true
-date: 2012-08-24 03:08:38
+title: "Copia del Cristo di Guido Reni"
+slug: copia-del-cristo-di-guido-reni
+image: /wp-content/uploads/copia-cristo-guido-reni-mini.jpg
+categories:
+    - pittura
 tags:
     - pittura ad olio
     - ritratto
     - tutorial
-categories:
-    - pittura
-permalink: /copia-del-cristo-di-guido-reni
+author: amalialarosa
 ---
 
 ![Copia Cristo - Guido Reni - Thumbnail](/wp-content/uploads/copia-cristo-guido-reni-mini.jpg "Copia Cristo - Guido Reni - Thumbnail")

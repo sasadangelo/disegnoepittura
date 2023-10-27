@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Colorare una Tigre con le Matite Colorate
-published: true
-author: giadaottone
-comments: true
-date: 2012-06-28 11:06:14
+title: "Colorare una Tigre con le Matite Colorate"
+slug: colorare-una-tigre-matite-colorate
+image: /wp-content/uploads/matite-colorate-tigre-completo-mini.jpg
+categories:
+    - pittura
 tags:
     - animali
     - matite colorate
     - tutorial
-categories:
-    - pittura
-permalink: /colorare-una-tigre-matite-colorate
+author: giadaottone
 ---
 
 ![Colorare una Tigre con le Matite Colorate](/wp-content/uploads/matite-colorate-tigre-completo-mini.jpg "Colorare una Tigre con le Matite Colorate")

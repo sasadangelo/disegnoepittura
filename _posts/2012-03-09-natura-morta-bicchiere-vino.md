@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Natura Morta con un Bicchiere di Vino
-published: true
-author: edoardo
-comments: true
-date: 2012-03-09 01:03:02
+title: "Natura Morta con un Bicchiere di Vino"
+slug: natura-morta-bicchiere-vino
+image: /wp-content/uploads/natura-morta-bicchiere-vino-19.JPG
+categories:
+    - pittura
 tags:
     - nature morte
     - tutorial
-categories:
-    - pittura
-permalink: /natura-morta-bicchiere-vino
-image:
-    feature: natura-morta-frutta-bicchiere-vino.jpg
+author: edoardo
 ---
 
 ![Natura Morta con un Bicchiere di Vino](https://www.disegnoepittura.it/wp-content/uploads/natura-morta-bicchiere-vino-19.JPG "Natura Morta con un Bicchiere di Vino")

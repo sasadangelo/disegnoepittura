@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Vergine delle Rocce
-published: true
-author: sasadangelo
-comments: true
-date: 2012-08-29 02:08:00
-tags: [ ]
+title: "Vergine delle Rocce"
+slug: vergine-delle-rocce
+image: /wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg
 categories:
     - pittura
-permalink: /vergine-delle-rocce
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Vergine delle Rocce](/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg "Vergine delle Rocce")

@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Come conservare colori ad olio in ballotte di plastica
-published: true
-author: sasadangelo
-comments: true
-date: 2012-05-20 01:05:18
+title: "Come conservare colori ad olio in ballotte di plastica"
+slug: come-conservare-colori-ad-olio-ballotte-pastica
+image: /wp-content/uploads/conservare-colori-ballotte-3.JPG
+categories:
+    - pittura
 tags:
     - chiaroscuro
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /come-conservare-colori-ad-olio-ballotte-pastica
+author: sasadangelo
 ---
 
 ![Come conservare colori ad olio in ballotte di plastica](https://www.disegnoepittura.it/wp-content/uploads/conservare-colori-ballotte-3.JPG "Come conservare colori ad olio in ballotte di plastica")

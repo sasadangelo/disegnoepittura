@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Olio di lino, noci e papavero.
-published: true
-author: sasadangelo
-comments: true
-date: 2012-05-09 10:05:51
+title: "Olio di lino, noci e papavero"
+slug: olio-di-lino-noci-papavero
+image: /wp-content/uploads/olio-lino.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /olio-di-lino-noci-papavero
+author: sasadangelo
 ---
 
 ![Olio di lino](https://www.disegnoepittura.it/wp-content/uploads/olio-lino.jpg "Olio di lino")

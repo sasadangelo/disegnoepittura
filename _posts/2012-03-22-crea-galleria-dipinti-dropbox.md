@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Crea la tua galleria di dipinti con Dropbox
-published: true
-author: sasadangelo
-comments: true
-date: 2012-03-22 12:03:51
-tags: [ ]
+title: "Crea la tua galleria di dipinti con Dropbox"
+slug: crea-galleria-dipinti-dropbox
+image: /wp-content/uploads/galleria-dipinti-dropbox-1.JPG
 categories:
     - art-business
-permalink: /crea-galleria-dipinti-dropbox
+tags: [ ]
+author: sasadangelo
 ---
 
 ![Crea la tua Galleria di dipinti con Dropbox](https://www.disegnoepittura.it/wp-content/uploads/galleria-dipinti-dropbox-1.JPG "Crea la tua Galleria di dipinti con Dropbox")

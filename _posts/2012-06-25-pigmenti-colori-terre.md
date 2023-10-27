@@ -1,16 +1,14 @@
 ---
 layout: post
-title: I Pigmenti dei colori di "Terra"
-published: true
-author: sasadangelo
-comments: true
-date: 2012-06-25 06:06:34
+title: "I Pigmenti dei colori di Terra"
+slug: pigmenti-colori-terre
+image: /wp-content/uploads/pigmento-ocra-rossa.jpg
+categories:
+    - pittura
 tags:
     - colori
     - materiali
-categories:
-    - pittura
-permalink: /pigmenti-colori-terre
+author: sasadangelo
 ---
 
 ![Calcinazione Ocra Rossa](/wp-content/uploads/pigmento-ocra-rossa.jpg "Ocra Rossa")

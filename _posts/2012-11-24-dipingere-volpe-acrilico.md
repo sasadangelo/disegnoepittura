@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Dipingere una volpe ad acrilico
-published: true
-author: robertorizzo
-comments: true
-date: 2012-11-24 03:11:34
+title: "Dipingere una volpe ad acrilico"
+slug: dipingere-volpe-acrilico
+image: /wp-content/uploads/volpe-12.jpg
+categories:
+    - pittura
 tags:
     - acrilico
     - animali
-categories:
-    - pittura
-permalink: /dipingere-volpe-acrilico
+author: robertorizzo
 ---
 
 ![Dipingere una volpe ad acrilico - Lavoro finito](/wp-content/uploads/volpe-12.jpg "Dipingere una volpe ad acrilico - Lavoro finito")
