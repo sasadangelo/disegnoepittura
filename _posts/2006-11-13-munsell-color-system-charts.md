@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Le tabelle dei colori."
-published: true
-author: sasadangelo
-comments: true
-date: 2006-11-13 11:11:26
+slug: munsell-color-system-charts
+image: /wp-content/uploads/munsell-25r.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system-charts
+author: sasadangelo
 ---
 
 ![munsell-25r](https://www.disegnoepittura.it/wp-content/uploads/munsell-25r.jpg "munsell-25r")

@@ -1,17 +1,14 @@
 ---
 layout: post
-title: Paesaggi primaverili da dipingere • Fase 2
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-14 03:10:30
+title: "Paesaggi primaverili da dipingere • Fase 2"
+slug: paesaggi-primaverili-dipingere-2
+categories:
+    - pittura
 tags:
     - paesaggi
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggi-primaverili-dipingere-2
+author: sasadangelo
 ---
 
 ![paesaggioprim](https://www.disegnoepittura.it/wp-content/uploads/paesaggioprim.jpg "paesaggioprim")

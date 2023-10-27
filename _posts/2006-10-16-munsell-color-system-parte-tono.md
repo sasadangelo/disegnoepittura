@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Che cos'è il tono?"
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-16 08:10:13
+slug: munsell-color-system-parte-tono
+image: /wp-content/uploads/10stepmunsell.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system-parte-tono
+author: sasadangelo
 ---
 
 ![10stepmunsell](https://www.disegnoepittura.it/wp-content/uploads/10stepmunsell.jpg "10stepmunsell")

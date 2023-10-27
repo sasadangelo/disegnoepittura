@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Paesaggi invernali da dipingere
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-12 10:05:06
+title: "Paesaggi invernali da dipingere"
+slug: paesaggi-invernali-dipingere
+image: /wp-content/uploads/lago-inverno.jpg
+categories:
+    - pittura
 tags:
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggi-invernali-dipingere
+author: sasadangelo
 ---
 
 ![Paesaggi invernali da dipingere](https://www.disegnoepittura.it/wp-content/uploads/lago-inverno.jpg "Paesaggi invernali da dipingere")

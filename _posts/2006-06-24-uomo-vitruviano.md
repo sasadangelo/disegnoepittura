@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Uomo Vitruviano
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-24 08:06:28
-tags:
-    - figura umana
+title: "Uomo Vitruviano"
+slug: uomo-vitruviano
+image: /wp-content/uploads/homovit.jpg
 categories:
     - disegno
-permalink: /uomo-vitruviano
+tags:
+    - figura umana
+author: sasadangelo
 ---
 
 ![uomo vitruviano](https://www.disegnoepittura.it/wp-content/uploads/homovit.jpg "uomo vitruviano")

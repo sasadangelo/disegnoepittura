@@ -3,15 +3,13 @@ layout: post
 title: >
     Principi di base che un artista deve conoscere per disegnare
     e dipingere Drappeggi che siano credibili.
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-18 11:05:46
-tags:
-    - figura umana
+slug: drappeggio-principi
+image: /wp-content/uploads/medium_convex2.jpg
 categories:
     - pittura
-permalink: /drappeggio-principi
+tags:
+    - figura umana
+author: sasadangelo
 ---
 
 ![medium_convex2](/wp-content/uploads/medium_convex2.jpg "medium_convex2")

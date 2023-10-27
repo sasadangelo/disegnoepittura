@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Prospettiva Aerea
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-06 08:06:43
+title: "Prospettiva Aerea"
+slug: prospettiva-aerea
+image: /wp-content/uploads/atmopsp7.jpg
+categories:
+    - pittura
 tags:
     - prospettiva
     - prospettiva aerea
-categories:
-    - pittura
-permalink: /prospettiva-aerea
+author: sasadangelo
 ---
 
 ![Prospettiva aerea](https://www.disegnoepittura.it/wp-content/uploads/atmopsp7.jpg "Prospettiva aerea")

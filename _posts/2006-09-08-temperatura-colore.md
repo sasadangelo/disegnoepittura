@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Temperatura del colore
-published: true
-author: sasadangelo
-comments: true
-date: 2006-09-08 09:09:07
-tags: [ ]
+title: "Temperatura del colore"
+slug: temperatura-colore
+image: /wp-content/uploads/temperatura.jpg
 categories:
     - teoriacolori
-permalink: /temperatura-colore
+tags: [ ]
+author: sasadangelo
 ---
 
 ![temperatura](https://www.disegnoepittura.it/wp-content/uploads/temperatura.jpg "temperatura")

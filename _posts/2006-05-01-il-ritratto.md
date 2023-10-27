@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Ritratto
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-01 10:05:47
-tags:
-    - ritratto
+slug: il-ritratto
+image: /wp-content/uploads/munsell.jpg
 categories:
     - disegno
-permalink: /il-ritratto
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 

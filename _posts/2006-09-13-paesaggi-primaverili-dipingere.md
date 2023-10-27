@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Paesaggi primaverili da dipingere • Fase 1
-published: true
-author: sasadangelo
-comments: true
-date: 2006-09-13 12:09:23
+title: "Paesaggi primaverili da dipingere • Fase 1"
+slug: paesaggi-primaverili-dipingere
+image: /wp-content/uploads/paesaggio-primaverile.jpg
+categories:
+    - pittura
 tags:
     - paesaggi
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggi-primaverili-dipingere
+author: sasadangelo
 ---
 
 ![dipingere paesaggio primaverile](/wp-content/uploads/paesaggio-primaverile.jpg "dipingere paesaggio primaverile")

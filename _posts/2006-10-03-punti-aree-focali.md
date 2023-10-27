@@ -3,15 +3,13 @@ layout: post
 title: >
     Come migliorare la composizione dei vostri disegni con i
     punti e le aree focali
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-03 09:10:34
+slug: punti-aree-focali
+image: /wp-content/uploads/focal-point.jpg
 tags:
     - composizione
 categories:
     - disegno
-permalink: /punti-aree-focali
+author: sasadangelo
 ---
 
 ![focal-point](https://www.disegnoepittura.it/wp-content/uploads/focal-point.jpg "focal-point")

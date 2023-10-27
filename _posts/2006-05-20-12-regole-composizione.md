@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 12 Regole di Composizione
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-20 08:05:07
-tags:
-    - composizione
+title: "12 Regole di Composizione"
+slug: 12-regole-composizione
+image: /wp-content/uploads/prospettiva-accidentale-4.jpg
 categories:
     - disegno
-permalink: /12-regole-composizione
+tags:
+    - composizione
+author: sasadangelo
 ---
 
 

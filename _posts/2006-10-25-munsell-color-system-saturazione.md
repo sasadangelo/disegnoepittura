@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Che cos'è la saturazione?"
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-25 10:10:47
+slug: munsell-color-system-saturazione
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system-saturazione
+author: sasadangelo
 ---
 
 ![munsellsphere](https://www.disegnoepittura.it/wp-content/uploads/munsellsphere.jpg "munsellsphere")

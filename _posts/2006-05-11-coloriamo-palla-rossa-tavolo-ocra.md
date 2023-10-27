@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Colorare una palla rossa su un tavolo ocra
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-11 11:05:18
-tags:
-    - mescolare i colori
+title: "Colorare una palla rossa su un tavolo ocra"
+slug: coloriamo-palla-rossa-tavolo-ocra
+image: /wp-content/uploads/medium_colori2.jpg
 categories:
     - teoriacolori
-permalink: /coloriamo-palla-rossa-tavolo-ocra
+tags:
+    - mescolare i colori
+author: sasadangelo
 ---
 
 ![color mixing](https://www.disegnoepittura.it/wp-content/uploads/medium_colori2.jpg "color mixing")

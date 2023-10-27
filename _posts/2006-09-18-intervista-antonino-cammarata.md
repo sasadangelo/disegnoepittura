@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Intervista ad Antonino Cammarata
-published: true
-author: sasadangelo
-comments: true
-date: 2006-09-18 12:09:23
-tags: [ ]
+title: "Intervista ad Antonino Cammarata"
+slug: intervista-antonino-cammarata
+image: /wp-content/uploads/fuori.jpg
 categories:
     - artisti
-permalink: /intervista-antonino-cammarata
+tags: [ ]
+author: sasadangelo
 ---
 
 ![fuori](https://www.disegnoepittura.it/wp-content/uploads/fuori.jpg "fuori")

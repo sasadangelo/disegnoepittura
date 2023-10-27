@@ -3,15 +3,13 @@ layout: post
 title: >
     Come scegliere la forma del foglio da disegno o della tela
     per dipingere
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-01 11:10:04
-tags:
-    - composizione
+slug: forma-supporto
+image: /wp-content/uploads/thumb_frame.jpg
 categories:
     - disegno
-permalink: /forma-supporto
+tags:
+    - composizione
+author: sasadangelo
 ---
 
 ![thumb_frame](https://www.disegnoepittura.it/wp-content/uploads/thumb_frame.jpg "thumb_frame")

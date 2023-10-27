@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come Disegnare gli occhi in un Ritratto
-published: true
-author: sasadangelo
-comments: true
-date: 2006-08-05 08:08:04
-tags:
-    - ritratto
+title: "Come Disegnare gli occhi in un Ritratto"
+slug: come-disegnare-occhi-ritratto
+image: /wp-content/uploads/come-disegnare-occhi-ritratto-13.jpg
 categories:
     - disegno
-permalink: /come-disegnare-occhi-ritratto
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![come-disegnare-occhi-ritratto](https://www.disegnoepittura.it/wp-content/uploads/come-disegnare-occhi-ritratto-13.jpg "come-disegnare-occhi-ritratto")

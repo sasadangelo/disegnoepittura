@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Leonardo e i colori primari
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-04 10:05:29
-tags:
-    - mescolare i colori
+title: "Leonardo e i colori primari"
+slug: leonardo-colori-primari
+image: /wp-content/uploads/medium_leonardo2.jpg
 categories:
     - teoriacolori
-permalink: /leonardo-colori-primari
+tags:
+    - mescolare i colori
+author: sasadangelo
 ---
 
 ![medium_leonardo2](https://www.disegnoepittura.it/wp-content/uploads/medium_leonardo2.jpg "medium_leonardo2")

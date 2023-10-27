@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Che cos'è lo hue?"
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-11 12:10:57
+slug: munsell-color-system-hue
+image: /wp-content/uploads/munsellsphere.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system-hue
+author: sasadangelo
 ---
 
 ![munsellsphere](/wp-content/uploads/munsellsphere.jpg "munsellsphere")

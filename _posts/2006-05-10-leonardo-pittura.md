@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 'Leonardo: principi di pittura'
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-10 12:05:58
+title: "Leonardo: principi di pittura"
+slug: leonardo-pittura
+image: /wp-content/uploads/medium_leonardo2.jpg
+categories:
+    - pittura
 tags:
     - composizione
     - prospettiva
-categories:
-    - pittura
-permalink: /leonardo-pittura
+author: sasadangelo
 ---
 
 ![leonardo da vinci](/wp-content/uploads/medium_leonardo2.jpg "leonardo da vinci")

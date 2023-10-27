@@ -1,18 +1,16 @@
 ---
 layout: post
 title: "Come dipingere un paesaggio marino con l'uso della prospettiva aerea."
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-19 08:06:49
+slug: prospettiva-aerea-esempio
+image: /wp-content/uploads/prospettiva-aerea.jpg
+categories:
+    - pittura
 tags:
     - mescolare i colori
     - paesaggi
     - prospettiva
     - prospettiva aerea
-categories:
-    - pittura
-permalink: /prospettiva-aerea-esempio
+author: sasadangelo
 ---
 
 ![prospettiva-aerea](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-aerea.jpg "prospettiva-aerea")

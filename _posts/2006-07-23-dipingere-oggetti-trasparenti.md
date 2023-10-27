@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Dipingere Oggetti Trasparenti
-published: true
-author: sasadangelo
-comments: true
-date: 2006-07-23 11:07:07
-tags: [ ]
+title: "Dipingere Oggetti Trasparenti"
+slug: dipingere-oggetti-trasparenti
+image: /wp-content/uploads/glass-distortion.jpg
 categories:
     - teoriacolori
-permalink: /dipingere-oggetti-trasparenti
+tags: [ ]
+author: sasadangelo
 ---
 
 ![dipingere oggetti trasparenti](https://www.disegnoepittura.it/wp-content/uploads/glass-distortion.jpg "dipingere oggetti trasparenti")

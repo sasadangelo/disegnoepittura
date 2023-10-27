@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Mescolare i colori
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-03 10:05:50
+title: "Mescolare i colori"
+slug: mescolare-colori
+image: /wp-content/uploads/block1.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - prospettiva aerea
-categories:
-    - teoriacolori
-permalink: /mescolare-colori
+author: sasadangelo
 ---
 
 ![block1](https://www.disegnoepittura.it/wp-content/uploads/block1.jpg "block1")

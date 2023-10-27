@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Classificazione dei Pigmenti
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-21 10:05:54
+title: "Classificazione dei Pigmenti"
+slug: classificazione-pigmenti
+image: /wp-content/uploads/medium_pigmenti2.jpg
+categories:
+    - teoriacolori
 tags:
     - colori
     - mescolare i colori
-categories:
-    - teoriacolori
-permalink: /classificazione-pigmenti
+author: sasadangelo
 ---
 
 ![medium_pigmenti2](/wp-content/uploads/medium_pigmenti2.jpg "medium_pigmenti2")

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: 11 Consigli di Leonardo da Vinci per disegnare gli alberi
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-27 08:05:28
-tags:
-    - paesaggi
+title: "11 Consigli di Leonardo da Vinci per disegnare gli alberi"
+slug: leonardo-studi-sulle-piante
+image: /wp-content/uploads/medium_piante2.jpg
 categories:
     - disegno
-permalink: /leonardo-studi-sulle-piante
+tags:
+    - paesaggi
+author: sasadangelo
 ---
 
 ![medium_piante2](/wp-content/uploads/medium_piante2.jpg "medium_piante2")

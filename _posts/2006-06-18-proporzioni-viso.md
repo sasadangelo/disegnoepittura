@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Proporzioni del viso
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-18 08:06:32
-tags:
-    - ritratto
+title: "Proporzioni del viso"
+slug: proporzioni-viso
+image: /wp-content/uploads/proporzioni-viso-8.jpg
 categories:
     - disegno
-permalink: /proporzioni-viso
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![proporzioni-viso-8](https://www.disegnoepittura.it/wp-content/uploads/proporzioni-viso-8.jpg "proporzioni-viso-8")

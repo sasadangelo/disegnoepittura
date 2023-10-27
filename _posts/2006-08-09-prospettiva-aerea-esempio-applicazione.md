@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come dipingere oggetti nei diversi piani di un paesaggio con l'uso della prospettiva aerea"
-published: true
-author: sasadangelo
-comments: true
-date: 2006-08-09 08:08:23
+slug: prospettiva-aerea-esempio-applicazione
+image: /wp-content/uploads/aerial-perspective.jpg
+categories:
+    - pittura
 tags:
     - paesaggi
     - prospettiva aerea
-categories:
-    - pittura
-permalink: /prospettiva-aerea-esempio-applicazione
+author: sasadangelo
 ---
 
 ![aerial-perspective](https://www.disegnoepittura.it/wp-content/uploads/aerial-perspective.jpg "aerial-perspective")

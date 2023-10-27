@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Dipingere una goccia
-published: true
-author: sasadangelo
-comments: false
-date: 2006-09-20 08:09:15
+title: "Dipingere una goccia"
+slug: dipingere-una-goccia
+image: /wp-content/uploads/medium_drops4.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-una-goccia
+author: sasadangelo
 ---
 
 ![dipingere una goccia](https://www.disegnoepittura.it/wp-content/uploads/medium_drops4.jpg "dipingere una goccia")

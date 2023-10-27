@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Disegnare nuvole in prospettiva
-published: true
-author: sasadangelo
-comments: true
-date: 2006-08-19 10:08:48
+title: "Disegnare nuvole in prospettiva"
+slug: disegnare-nuvole-prospettiva
+image: /wp-content/uploads/clouds2.jpg
+categories:
+    - disegno
 tags:
     - paesaggi
     - prospettiva
-categories:
-    - disegno
-permalink: /disegnare-nuvole-prospettiva
+author: sasadangelo
 ---
 
 ![prospettiva nuvole](/wp-content/uploads/clouds2.jpg "prospettiva nuvole")

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Prospettiva, la terminologia da sapere.
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-09 10:05:07
-tags:
-    - prospettiva
+title: "Prospettiva, la terminologia da sapere"
+slug: prospettiva-terminologia-sapere
+image: /wp-content/uploads/eyelevel.gif
 categories:
     - disegno
-permalink: /prospettiva-terminologia-sapere
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![prospettiva](https://www.disegnoepittura.it/wp-content/uploads/eyelevel.gif "prospettiva")

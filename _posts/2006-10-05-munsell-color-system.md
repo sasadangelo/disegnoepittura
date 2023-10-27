@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly."
-published: true
-author: sasadangelo
-comments: true
-date: 2006-10-05 08:10:09
+slug: munsell-color-system
+image: /wp-content/uploads/munsell1.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system
+author: sasadangelo
 ---
 
 ![munsell1](https://www.disegnoepittura.it/wp-content/uploads/munsell1.jpg "munsell1")

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Composizione e Prospettiva
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-07 10:05:48
+title: "Composizione e Prospettiva"
+slug: composizione-prospettiva
+image: /wp-content/uploads/composizione-prospettiva.gif
+categories:
+    - disegno
 tags:
     - composizione
     - prospettiva
-categories:
-    - disegno
-permalink: /composizione-prospettiva
+author: sasadangelo
 ---
 
 ![Composizione e Prospettiva](https://www.disegnoepittura.it/wp-content/uploads/composizione-prospettiva.gif "Composizione e Prospettiva")

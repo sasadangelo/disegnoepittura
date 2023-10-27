@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come dipingere i colori del tramonto nel paesaggio?
-published: true
-author: sasadangelo
-comments: true
-date: 2006-08-20 12:08:08
-tags:
-    - paesaggi
+title: "Come dipingere i colori del tramonto nel paesaggio?"
+slug: colori-tramonto
+image: /wp-content/uploads/sunset31.jpg
 categories:
     - pittura
-permalink: /colori-tramonto
+tags:
+    - paesaggi
+author: sasadangelo
 ---
 
 ![sunset31](https://www.disegnoepittura.it/wp-content/uploads/sunset31.jpg "sunset31")

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Figura umana e muscoli
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-10 08:06:01
-tags:
-    - figura umana
+title: "Figura umana e muscoli"
+slug: figura-umana-muscoli
+image: /wp-content/uploads/th_stand.jpg
 categories:
     - disegno
-permalink: /figura-umana-muscoli
+tags:
+    - figura umana
+author: sasadangelo
 ---
 
 ![th_stand](https://www.disegnoepittura.it/wp-content/uploads/th_stand.jpg "th_stand")

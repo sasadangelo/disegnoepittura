@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Dipingere come Rubens, Vermeer, Rembrandt. (IV parte)
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-30 08:06:37
+title: "Dipingere come Rubens, Vermeer, Rembrandt. (IV parte)"
+slug: dipingere-rubens-vermeer-rembrandt-4
+image: /wp-content/uploads/rose.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-rubens-vermeer-rembrandt-4
+author: sasadangelo
 ---
 
 ![rose](https://www.disegnoepittura.it/wp-content/uploads/rose.jpg "rose")

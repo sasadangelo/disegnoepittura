@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Disegno della figura umana
-published: true
-author: sasadangelo
-comments: true
-date: 2006-08-29 04:08:20
-tags:
-    - figura umana
+title: "Disegno della figura umana"
+slug: disegno-figura-umana
+image: /wp-content/uploads/body8.jpg
 categories:
     - disegno
-permalink: /disegno-figura-umana
+tags:
+    - figura umana
+author: sasadangelo
 ---
 
 ![body8](https://www.disegnoepittura.it/wp-content/uploads/body8.jpg "body8")

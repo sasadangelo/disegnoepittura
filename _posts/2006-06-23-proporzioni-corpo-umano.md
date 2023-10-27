@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Proporzioni del corpo umano
-published: true
-author: sasadangelo
-comments: true
-date: 2006-06-23 08:06:44
-tags:
-    - figura umana
+title: "Proporzioni del corpo umano"
+slug: proporzioni-corpo-umano
+image: /wp-content/uploads/body.gif
 categories:
     - disegno
-permalink: /proporzioni-corpo-umano
+tags:
+    - figura umana
+author: sasadangelo
 ---
 
 ![Proporzioni del corpo umano](/wp-content/uploads/body.gif "Proporzioni del corpo umano")

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Prospettiva Accidentale
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-17 11:05:32
-tags:
-    - prospettiva
+title: "Prospettiva Accidentale"
+slug: prospettiva-accidentale
+image: /wp-content/uploads/prospettiva-centrale-thumb.png
 categories:
     - disegno
-permalink: /prospettiva-accidentale
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 

@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Prospettiva Centrale
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-14 03:05:14
-tags:
-    - prospettiva
+title: "Prospettiva Centrale"
+slug: prospettiva-centrale
+image: /wp-content/uploads/prospettiva-centrale-thumb.png
 categories:
     - disegno
-permalink: /prospettiva-centrale
+tags:
+    - prospettiva
+author: sasadangelo
 ---
 
 ![Prospettiva Centrale](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-centrale-thumb.png "Prospettiva Centrale")

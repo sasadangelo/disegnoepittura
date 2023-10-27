@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Disegnare un paesaggio cittadino in prospettiva accidentale
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-19 10:05:48
+title: "Disegnare un paesaggio cittadino in prospettiva accidentale"
+slug: disegnare-paesaggio-cittadino-prospettiva-accidentale
+image: /wp-content/uploads/prospettiva-accidentale-4.jpg
+categories:
+    - disegno
 tags:
     - prospettiva
     - tutorial
-categories:
-    - disegno
-permalink: /disegnare-paesaggio-cittadino-prospettiva-accidentale
+author: sasadangelo
 ---
 
 ![Cubo in Prospettiva Accidentale](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-accidentale-4.jpg "Cubo in Prospettiva Accidentale")

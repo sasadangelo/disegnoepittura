@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Osservazioni sui colori per aiutare l'artista a mescolare i colori in Pittura"
-published: true
-author: sasadangelo
-comments: true
-date: 2006-05-13 10:05:57
-tags:
-    - mescolare i colori
+slug: osservazioni-colori
+image: /wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg
 categories:
     - teoriacolori
-permalink: /osservazioni-colori
+tags:
+    - mescolare i colori
+author: sasadangelo
 ---
 
 ![Limone](https://www.disegnoepittura.it/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg "Limone")
