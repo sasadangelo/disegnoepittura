@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. La scala dei grigi di Reilly."
-published: true
-author: sasadangelo
-comments: true
-date: 2008-11-19 07:11:50
+slug: munsell-color-system-grigi-frank-reilly
+image: /wp-content/uploads/gray-scale.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system-grigi-frank-reilly
+author: sasadangelo
 ---
 
 ![gray-scale](https://www.disegnoepittura.it/wp-content/uploads/gray-scale.jpg "gray-scale")

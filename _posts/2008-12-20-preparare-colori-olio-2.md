@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Preparare i colori a olio da se (parte II)
-published: true
-author: sasadangelo
-comments: true
-date: 2008-12-20 05:12:03
+title: "Preparare i colori a olio da se (parte II)"
+slug: preparare-colori-olio-2
+image: /wp-content/uploads/oil25.jpg
+categories:
+    - pittura
 tags:
     - materiali
     - pittura ad olio
-categories:
-    - pittura
-permalink: /preparare-colori-olio-2
+author: sasadangelo
 ---
 
 ![oil25](https://www.disegnoepittura.it/wp-content/uploads/oil25.jpg "oil25")

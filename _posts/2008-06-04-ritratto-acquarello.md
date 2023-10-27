@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Bozza di Ritratto ad Acquarello
-published: true
-author: sasadangelo
-comments: true
-date: 2008-06-04 08:06:53
+title: "Bozza di Ritratto ad Acquarello"
+slug: ritratto-acquarello
+image: /wp-content/uploads/bozza1.jpg
+categories:
+    - pittura
 tags:
     - acquarello
     - ritratto
     - tutorial
-categories:
-    - pittura
-permalink: /ritratto-acquarello
+author: sasadangelo
 ---
 
 ![bozza1](https://www.disegnoepittura.it/wp-content/uploads/bozza1.jpg "bozza1")

@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "Come Disegnare l'Orecchio in un Ritratto"
-published: true
-author: sasadangelo
-comments: true
-date: 2008-11-14 07:11:42
-tags:
-    - ritratto
+slug: come-disegnare-orecchio-ritratto
+image: /wp-content/uploads/orecchio.jpg
 categories:
     - disegno
-permalink: /come-disegnare-orecchio-ritratto
+tags:
+    - ritratto
+author: sasadangelo
 ---
 
 ![](https://www.disegnoepittura.it/wp-content/uploads/orecchio.jpg)

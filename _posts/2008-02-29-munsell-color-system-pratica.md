@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Dalla teoria alla pratica."
-published: true
-author: sasadangelo
-comments: true
-date: 2008-02-29 03:02:23
+slug: munsell-color-system-pratica
+image: /wp-content/uploads/frank-reilly.jpg
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /munsell-color-system-pratica
+author: sasadangelo
 ---
 
 ![Frank Reilly](https://www.disegnoepittura.it/wp-content/uploads/frank-reilly.jpg "Frank Reilly") Nei precedenti articoli abbiamo [introdotto il modello di Munsell](https://www.disegnoepittura.it/munsell-color-system/) come un ottimo sistema per descrivere il colori in termini di [hue](https://www.disegnoepittura.it/munsell-color-system-hue/), [tono](https://www.disegnoepittura.it/munsell-color-system-parte-tono/) e [saturazione](https://www.disegnoepittura.it/munsell-color-system-saturazione/). Chi desidera avere come riferimento tutte le tabelle dei colori può acquistare il libro [New Munsell Student Color Set](https://www.amazon.com/New-Munsell-Student-Color-Set/dp/1563672006), chi non vuole spendere i soldi necessari ad acquistare il libro può tranquillamente usare le [tabelle dei colori da me pubblicate sul blog.](https://www.disegnoepittura.it/munsell-color-system-charts/)Sono solo 40 delle 100 previste, ma a mio modo di vedere, sono più che sufficienti. Abbiamo visto, però, che il metodo di Munsell pur essendo un ottimo strumento per descrivere i colori è poco utile da un punto di vista pratico per via del gran numero di colori da gestire. Per ovviare a questo problema è necessario apportare al modello alcune semplificazioni che lo rendono utilizzabile da parte degli artisti.

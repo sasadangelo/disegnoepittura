@@ -1,17 +1,14 @@
 ---
 layout: post
-title: Paesaggio ad Olio
-published: true
-author: sasadangelo
-comments: true
-date: 2008-08-26 10:08:34
+title: "Paesaggio ad Olio"
+slug: paesaggio-olio
+categories:
+    - pittura
 tags:
     - paesaggi
     - pittura ad olio
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggio-olio
+author: sasadangelo
 ---
 
 ![Paesaggio Olio](/wp-content/uploads/lago-ross-8.jpg "Paesaggio Olio")

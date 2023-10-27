@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Dipingere un Paesaggio ad Acquarello
-published: true
 author: sasadangelo
-comments: true
-date: 2008-05-26 02:05:55
+slug: dipingere-paesaggio-acquarello
+image: /wp-content/uploads/redmire7.jpg
+categories:
+    - pittura
 tags:
     - acquarello
     - paesaggi
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-paesaggio-acquarello
+title: "Dipingere un Paesaggio ad Acquarello"
 ---
 
 ![dipingere paesaggio acquarello](/wp-content/uploads/redmire7.jpg "dipingere paesaggio acquarello")

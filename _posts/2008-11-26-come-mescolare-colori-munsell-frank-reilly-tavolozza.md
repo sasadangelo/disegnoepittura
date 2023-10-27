@@ -3,16 +3,14 @@ layout: post
 title: >
     Come mescolare i colori con il metodo di Munsell di Frank
     Reilly. Qual era la tavolozza di Reilly?
-published: true
-author: sasadangelo
-comments: true
-date: 2008-11-26 08:11:10
+slug: come-mescolare-colori-munsell-frank-reilly-tavolozza
+image: /wp-content/uploads/small_sketchbox.gif
+categories:
+    - teoriacolori
 tags:
     - mescolare i colori
     - munsell
-categories:
-    - teoriacolori
-permalink: /come-mescolare-colori-munsell-frank-reilly-tavolozza
+author: sasadangelo
 ---
 
 ![Tavolozza di Frank Reilly](https://www.disegnoepittura.it/wp-content/uploads/small_sketchbox.gif "Tavolozza di Frank Reilly")

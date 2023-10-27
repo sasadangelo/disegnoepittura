@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Paesaggio di Antonio Cammarata
-published: true
-author: sasadangelo
-comments: true
-date: 2008-06-27 09:06:50
+title: "Paesaggio di Antonio Cammarata"
+slug: paesaggio-antonio-cammarata
+image: /wp-content/uploads/cammarata1.jpg
+categories:
+    - pittura
 tags:
     - acrilico
     - paesaggi
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggio-antonio-cammarata
+author: sasadangelo
 ---
 
 ![cammarata1](https://www.disegnoepittura.it/wp-content/uploads/cammarata1.jpg "cammarata1")

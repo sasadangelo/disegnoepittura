@@ -3,16 +3,14 @@ layout: post
 title: >
     Come la prospettiva aerea può aiutarti a dare profondità
     ai tuoi paesaggi
-published: true
-author: sasadangelo
-comments: true
-date: 2008-10-28 06:10:55
+slug: prospettiva-aerea-pratica
+image: /wp-content/uploads/depth-by-color-2-blue-depth.png
+categories:
+    - pittura
 tags:
     - paesaggi
     - prospettiva aerea
-categories:
-    - pittura
-permalink: /prospettiva-aerea-pratica
+author: sasadangelo
 ---
 
 ![depth-by-color-2-blue-depth](https://www.disegnoepittura.it/wp-content/uploads/depth-by-color-2-blue-depth.png "depth-by-color-2-blue-depth")

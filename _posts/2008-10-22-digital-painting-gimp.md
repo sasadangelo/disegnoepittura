@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come disegnare un limone con Gimp
-published: true
-author: sasadangelo
-comments: true
-date: 2008-10-22 06:10:12
-tags:
-    - arte digitale
+title: "Come disegnare un limone con Gimp"
+slug: digital-painting-gimp
+image: /wp-content/uploads/gimp-10.jpg
 categories:
     - disegno
-permalink: /digital-painting-gimp
+tags:
+    - arte digitale
+author: sasadangelo
 ---
 
 ![Digital Painting con Gimp](/wp-content/uploads/gimp-10.jpg "Digital Painting con Gimp")

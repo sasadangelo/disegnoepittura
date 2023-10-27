@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Paesaggio con neve
-published: true
-author: sasadangelo
-comments: true
-date: 2008-10-17 06:10:14
+title: "Paesaggio con neve"
+slug: paesaggio-neve
+image: /wp-content/uploads/acquarello-2.jpg
+categories:
+    - pittura
 tags:
     - acquarello
     - paesaggi
     - tutorial
-categories:
-    - pittura
-permalink: /paesaggio-neve
+author: sasadangelo
 ---
 
 ![Paesaggio con neve](/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Dipingere una mela
-published: true
-author: sasadangelo
-comments: true
-date: 2008-12-11 06:12:14
+title: "Dipingere una mela"
+slug: dipingere-mela
+image: /wp-content/uploads/mela-9.jpg
+categories:
+    - pittura
 tags:
     - nature morte
     - tutorial
-categories:
-    - pittura
-permalink: /dipingere-mela
+author: sasadangelo
 ---
 
 ![mela-9](/wp-content/uploads/mela-9.jpg "mela-9")

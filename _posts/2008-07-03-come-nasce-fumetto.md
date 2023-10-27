@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Come nasce un fumetto
-published: true
-author: sasadangelo
-comments: true
-date: 2008-07-03 04:07:12
-tags:
-    - fumetto
+title: "Come nasce un fumetto"
+slug: come-nasce-fumetto
+image: /wp-content/uploads/topolino.jpg
 categories:
     - disegno
-permalink: /come-nasce-fumetto
+tags:
+    - fumetto
+author: sasadangelo
 ---
 
 ![topolino](https://www.disegnoepittura.it/wp-content/uploads/topolino.jpg "topolino")

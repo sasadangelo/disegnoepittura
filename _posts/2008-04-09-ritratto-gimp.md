@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Analizziamo un ritratto con GIMP
-published: true
-author: sasadangelo
-comments: true
-date: 2008-04-09 03:04:19
+title: "Analizziamo un ritratto con GIMP"
+slug: ritratto-gimp
+image: /wp-content/uploads/pio.jpg
+categories:
+    - disegno
 tags:
     - arte digitale
     - ritratto
-categories:
-    - disegno
-permalink: /ritratto-gimp
+author: sasadangelo
 ---
 
 ![pio](https://www.disegnoepittura.it/wp-content/uploads/pio.jpg "pio")
