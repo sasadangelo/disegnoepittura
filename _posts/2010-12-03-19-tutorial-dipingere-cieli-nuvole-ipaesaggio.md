@@ -3,6 +3,7 @@ layout: post
 title: "16 Fantastici Tutorial per dipingere il cielo e le nuvole nel paesaggio"
 slug: 19-tutorial-dipingere-cieli-nuvole-ipaesaggio
 image: /wp-content/uploads/dipingere-cielo-nuvole.jpg
+excerpt: "Quest'articolo contiene una raccolta di 19 fantastici Tutorial, in formato testo e video, per imparare a dipingere il cielo e le nuvole in un paesaggio."
 categories:
     - pittura
 tags:

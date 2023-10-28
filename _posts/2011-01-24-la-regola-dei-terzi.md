@@ -3,6 +3,7 @@ layout: post
 title: "La Regola dei Terzi"
 slug: la-regola-dei-terzi
 image: /wp-content/uploads/regola-terzi-2.jpg
+excerpt: "Con quest'articolo raccolgo l'invito di MELO (Carmelo Gigliuto) ad organizzare l'evento Incontra il Maestro  Michelangelo Merisi detto Caravaggio il cui"
 categories:
     - disegno
 tags:

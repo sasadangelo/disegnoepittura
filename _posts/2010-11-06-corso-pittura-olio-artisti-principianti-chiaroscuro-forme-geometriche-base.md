@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere un Chiaroscuro"
 slug: corso-pittura-olio-artisti-principianti-chiaroscuro-forme-geometriche-base
 image: /wp-content/uploads/come-colorare-forme-geometriche-scala-grigi-9.png
+excerpt: "Questa è la Lezione 11 del corso di pittura ad olio per artisti principianti. Uno dei principali problemi in pittura è quello di dipingere su tela, che"
 categories:
     - pittura
 tags:

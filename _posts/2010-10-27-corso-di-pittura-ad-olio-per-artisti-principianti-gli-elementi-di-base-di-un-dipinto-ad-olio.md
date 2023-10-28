@@ -5,6 +5,7 @@ title: >
     9. Gli elementi di base di un paesaggio ad olio.
 slug: corso-di-pittura-ad-olio-per-artisti-principianti-gli-elementi-di-base-di-un-dipinto-ad-olio
 image: /wp-content/uploads/colori-olio.jpg
+excerpt: "In qualsiasi opera d'arte sia essa un paesaggio, natura morta, ritratto, figura umana o contemporanea si compone di una o più delle seguenti"
 categories:
     - pittura
 tags:

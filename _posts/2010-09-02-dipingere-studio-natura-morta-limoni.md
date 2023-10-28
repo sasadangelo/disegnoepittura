@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere uno studio di natura morta con limoni"
 slug: dipingere-studio-natura-morta-limoni
 image: /wp-content/uploads/dipingere-natura-morta-limoni-colori-olio.jpg
+excerpt: "Oggi vorrei mostrarvi un nuovo esercizio che ho realizzato con i colori ad olio prendendo spunto dal libro di Color Mixing, the van Wyk way di Helen van"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere il chiaroscuro di un paesaggio con l'aiuto di Gimp"
 slug: come-dipingere-chiaroscuro-paesaggio-gimp
 image: /wp-content/uploads/paesaggio-chiaroscuro-16.PNG
+excerpt: "Questa è la Lezione 12 del corso di pittura ad olio per artisti principianti. In questa lezione impareremo a riconoscere i toni in un paesaggio in modo da"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Incontra il Maestro Michelangelo Merisi detto Caravaggio"
 slug: incontra-maestro-caravaggio
 image: /wp-content/uploads/ragazzo-monda-frutto.jpg
+excerpt: "Questo è un articolo della serie Tecnica di Caravaggio. Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la"
 categories:
     - artisti
 tags: [ ]

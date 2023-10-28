@@ -3,6 +3,7 @@ layout: post
 title: "Viaggio a Cuba, natura morta dell'artista Walter Cozzoli"
 slug: viaggio-cuba-natura-morta-artista-walter-cozzoli
 image: /wp-content/uploads/natura-morta-walter-cozzoli-colore-3.jpg
+excerpt: "L'iniziativa Incontra il Maestro Michelangelo Merisi detto Caravaggio sta dando i primi frutti ed è con molto piacere che voglio presentarvi il contributo"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Natura morta con angurie dipinta con i colori ad olio"
 slug: natura-morta-angurie-dipinta-colori-olio
 image: /wp-content/uploads/natura-morta-angurie-dipinta-colori-olio-8.jpg
+excerpt: "Nella mia biblioteca personale ho numerosi libri di disegno e pittura sia in lingua inglese che in italiano. Tra i vari autori c&#039;è l&#039;artista Helen van Wyk"
 categories:
     - pittura
 tags:

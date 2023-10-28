@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori ad olio per realizzare un chiaroscuro"
 slug: come-mescolare-colori-realizzare-chiaroscuro
 image: /wp-content/uploads/come-mescolare-scala-grigi-6.jpg
+excerpt: "Più volte su questo blog ho parlato delle tre importanti caratteristiche del colore: hue, tono e saturazione. Il tono come sappiamo è il grado di"
 categories:
     - teoriacolori
 tags:

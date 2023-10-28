@@ -3,6 +3,7 @@ layout: post
 title: "Sezione Aurea, verità o bufala?"
 slug: la-sezione-aurea
 image: /wp-content/uploads/sezione-aurea.jpg
+excerpt: "Che cos'è la sezione aurea? È realmente stata utilizzata dai grandi pittori, scultori e architetti del passato? Quest'articolo cercherà di scoprirlo."
 categories:
     - disegno
 tags:

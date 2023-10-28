@@ -3,6 +3,7 @@ layout: post
 title: "Quali tele utilizzava Caravaggio?"
 slug: tecnica-caravaggio-tele
 image: /wp-content/uploads/caravaggio-tecnica-tele.jpg
+excerpt: "Quest&#039;articolo è il primo di una serie in cui analizzeremo la Tecnica di Caravaggio. Si partirà da fonti storiche e da documenti di restauro per"
 categories:
     - artisti
 tags:

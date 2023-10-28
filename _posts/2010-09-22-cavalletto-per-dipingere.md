@@ -3,6 +3,7 @@ layout: post
 title: "Cavalletto per dipingere e altri materiali"
 slug: cavalletto-per-dipingere
 image: /wp-content/uploads/Fig-14-Cavalletti-100.jpg
+excerpt: "Quale cavalletto per dipingere acquistare? Quest&#039;articolo ti aiuterà a scegliere il cavalletto più adatto alle tue esigenze."
 categories:
     - pittura
 tags:

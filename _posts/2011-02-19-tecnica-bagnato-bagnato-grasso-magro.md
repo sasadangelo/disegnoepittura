@@ -5,6 +5,7 @@ title: >
     pittura ad olio a confronto.
 slug: tecnica-bagnato-bagnato-grasso-magro
 image: /wp-content/uploads/impressionisti-pranzo-canottieri.jpg
+excerpt: "Questa è la lezione 13 del corso di pittura ad olio per artisti principianti. Quando si comincia a dipingere si hanno tanti dubbi circa il processo da"
 categories:
     - pittura
 tags:

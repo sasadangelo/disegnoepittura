@@ -3,6 +3,7 @@ layout: post
 title: "La Tavolozza dei colori per il Ritratto di John Howard Sanden"
 slug: tavolozza-colori-ritratto-john-howard-sanden
 image: /wp-content/uploads/sanden.jpg
+excerpt: "John Howard Sanden è un famoso ritrattista statunitense membro del Portrait Institute, un&#039;organizzazione che, originariamente, teneva un convegno annuale"
 categories:
     - teoriacolori
 tags:

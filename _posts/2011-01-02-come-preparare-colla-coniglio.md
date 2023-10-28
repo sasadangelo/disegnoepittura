@@ -3,6 +3,7 @@ layout: post
 title: "Come preparare la colla di coniglio"
 slug: come-preparare-colla-coniglio
 image: /wp-content/uploads/colla-coniglio-2.jpg
+excerpt: "In quest'articolo voglio spiegare come preparare la colla di coniglio. Quella di coniglio è una colla di origine animale tradizionalmente usata nella"
 categories:
     - pittura
 tags:
