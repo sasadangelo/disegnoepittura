@@ -3,6 +3,7 @@ layout: post
 title: "Come schiarire e scurire i colori?"
 slug: come-schiarire-scurire-colori
 image: /wp-content/uploads/tavolozza-colori-completa.jpg
+excerpt: "Questa è la lezione 19 del corso di pittura ad olio per artisti principianti. Sei un principiante e hai difficoltà a capire quali colori usare sulla tua"
 categories:
     - pittura
 tags:

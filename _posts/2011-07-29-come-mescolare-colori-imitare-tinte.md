@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori per imitare le tinte della natura"
 slug: come-mescolare-colori-imitare-tinte
 image: /wp-content/uploads/munsell.jpg
+excerpt: "Questa è la lezione 18 del corso di pittura ad olio per artisti principianti. Sei un principiante e hai difficoltà a capire quali colori usare per la tua"
 categories:
     - pittura
 tags:

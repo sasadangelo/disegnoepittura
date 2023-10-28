@@ -3,6 +3,7 @@ layout: post
 title: Verdaccio
 slug: verdaccio
 image: /wp-content/uploads/verdaccio.jpg
+excerpt: "Che cos'è il verdaccio? Come può questo colore aiutarti a dipingere ritratti migliori? Leggi quest'articoli scoprirai che cos'è il verdaccio e come usarlo."
 categories:
     - pittura
 tags:

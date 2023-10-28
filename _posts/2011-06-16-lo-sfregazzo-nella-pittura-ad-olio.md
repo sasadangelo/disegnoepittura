@@ -2,6 +2,8 @@
 layout: post
 title: "Che cos'è la tecnica dello sfregazzo e come si usa nella pittura ad olio?"
 slug: lo-sfregazzo-nella-pittura-ad-olio
+image: /wp-content/uploads/paesaggio-dipinto-con-sfregazzi.jpg
+excerpt: "Questa è la lezione 17 del corso di pittura ad olio per artisti principianti. Lo sfregazzo, in inglese scumbling, è l&#039;applicazione di una piccola quantità"
 categories:
     - pittura
 tags:

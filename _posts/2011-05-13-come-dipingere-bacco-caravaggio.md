@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere il Bacco di Caravaggio"
 slug: come-dipingere-bacco-caravaggio
 image: /wp-content/uploads/come-dipingere-bacco-caravaggio-finale.jpg
+excerpt: "Questo è un articolo di Walter Cozzoli. Se desideri scrivere un articolo leggi le seguenti linee guida. Per l&#039;evento Incontra il Maestro Michelangelo"
 categories:
     - pittura
 tags:

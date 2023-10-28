@@ -3,6 +3,7 @@ layout: post
 title: "Che cos'è la tecnica ad Impasto e come si usa nella pittura ad olio?"
 slug: impasto-pittura-olio
 image: /wp-content/uploads/impasto-van-gogh.jpg
+excerpt: "Questa è la lezione 16 del corso di pittura ad olio per artisti principianti. L'impasto, in inglese si usa lo stesso termine italiano, è l'applicazione di"
 categories:
     - pittura
 tags:

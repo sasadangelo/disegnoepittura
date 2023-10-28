@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere la Ragazza con l'orecchino di perla di Johannes Vermeer"
 slug: come-dipingere-la-ragazza-con-lorecchino-di-perla-di-johannes-vermeer
 image: /wp-content/uploads/ragazza-orecchino-perla-johannes-vermeer-1.jpg
+excerpt: "Quest'articolo è la traduzione dell&#039;articolo in lingua inglese dell'artista Thomas Penrose tradotto da Carmelo Gigliuto. Il motivo per cui ho deciso di"
 categories:
     - pittura
 tags:

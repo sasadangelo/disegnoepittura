@@ -3,6 +3,7 @@ layout: post
 title: Prospettiva
 slug: prospettiva
 image: /wp-content/uploads/prospettiva-accidentale-4.jpg
+excerpt: "Che cos'è la prospettiva? Questa serie di articoli vi spiegherà che cos'è la prospettiva e come usarla nei vostri disegni."
 categories:
     - disegno
 tags:

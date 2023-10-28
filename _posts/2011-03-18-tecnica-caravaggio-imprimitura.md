@@ -3,6 +3,7 @@ layout: post
 title: "Quale imprimitura utilizzava Caravaggio?"
 slug: tecnica-caravaggio-imprimitura
 image: /wp-content/uploads/ragazzo-monda-frutto-imprimitura.jpg
+excerpt: "Questo è un articolo della serie Tecnica di Caravaggio. Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Che cos'è un Underpainting e come dipingerlo con i colori ad olio"
 slug: underpainting
 image: /wp-content/uploads/underpainting-terra-ombra-bruciata.JPG
+excerpt: "Questa è la lezione 14 del corso di pittura ad olio per artisti principianti. Nell&#039;ultimo articolo del corso, parlando della tecnica grasso su magro, ho"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Un trucco per dipingere linee dritte con il pennello"
 slug: come-dipingere-linee-dritte-pennello
 image: /wp-content/uploads/come-dipingere-linee-dritte-4.jpg
+excerpt: "Qualche settimane fa, come molti di voi sapranno, ho aperto il forum di Disegno &amp; Pittura che, attualmente, conta più di 100 iscritti. Le motivazioni"
 categories:
     - pittura
 tags: [ ]

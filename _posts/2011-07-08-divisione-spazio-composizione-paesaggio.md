@@ -3,6 +3,7 @@ layout: post
 title: "Come dividere lo spazio nel Disegno e nella Composizione del Paesaggio"
 slug: divisione-spazio-composizione-paesaggio
 image: /wp-content/uploads/divisione-spazio-composizione-paesaggio-5.jpg
+excerpt: "In questo articolo vedremo alcuni semplici modi per dividere lo spazio nella creazione di una composizione per un paesaggio. Spesso la foto di un"
 categories:
     - disegno
 tags:

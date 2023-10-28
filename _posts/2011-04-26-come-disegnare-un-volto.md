@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare un volto"
 slug: come-disegnare-un-volto
 image: /wp-content/uploads/ritratto-mini1.gif
+excerpt: "Sul blog ho scritto diversi articoli sul come disegnare un volto. Ho anche pubblicato diversi tutorial. Mi rendo conto, però, che l'ordinamento"
 categories:
     - disegno
 tags:

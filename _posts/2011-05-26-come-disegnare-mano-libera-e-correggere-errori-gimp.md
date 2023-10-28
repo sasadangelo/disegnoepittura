@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare a mano libera e correggere gli errori con Gimp"
 slug: come-disegnare-mano-libera-e-correggere-errori-gimp
 image: /wp-content/uploads/ritratto-bambino-overlap-7.jpg
+excerpt: "Sul Forum di Disegno & Pittura è capitato spesso che, a chi chiedeva un parere su un disegno paragonato all&#039;originale, io rispondessi con un immagine"
 categories:
     - disegno
 tags:

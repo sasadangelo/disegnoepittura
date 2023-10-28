@@ -3,6 +3,7 @@ layout: post
 title: "La Linea dell'Orizzonte"
 slug: linea-orizzonte
 image: /wp-content/uploads/linea-orizzonte-alta.jpg
+excerpt: "Nell&#039;articolo sulla terminologia da usare nella prospettiva ho definito la linea d’orizzonte come la linea orizzontale che attraversa, immaginariamente,"
 categories:
     - disegno
 tags:
