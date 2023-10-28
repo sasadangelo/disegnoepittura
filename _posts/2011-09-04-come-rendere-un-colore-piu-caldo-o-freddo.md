@@ -3,6 +3,7 @@ layout: post
 title: "Come rendere un colore più caldo o freddo?"
 slug: come-rendere-un-colore-piu-caldo-o-freddo
 image: /wp-content/uploads/tavolozza-colori-primari.jpg
+excerpt: "Questa è la lezione 21 del corso di pittura ad olio per artisti principianti. Sei un principiante e hai sempre dubbi su come mescolare i colori per"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Come preparavano e conservavano i colori ad olio gli antichi maestri?"
 slug: come-preparavano-conservavano-colori-olio-antichi-maestri
 image: /wp-content/uploads/lastra-vetro.jpg
+excerpt: "Per preparare i colori a olio da quelli in polvere è necessario impastare molto bene il pigmento con la minore quantità di olio possibile. Generalmente si"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Ragazzo con Canestro di Frutta"
 slug: come-dipingere-il-ragazzo-con-il-canestro-di-frutta-di-caravaggio
 image: /wp-content/uploads/ragazzo-canestra-frutta-7.jpg
+excerpt: "In questo tutorial Edoardo la Francesca spiega passo passo come dipingere il Ragazzo con Canestro di Frutta di Caravaggio."
 categories:
     - pittura
 tags:

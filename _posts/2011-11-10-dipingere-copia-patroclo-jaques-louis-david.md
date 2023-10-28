@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere una copia di Patroclo di Jaques Louis David"
 slug: dipingere-copia-patroclo-jaques-louis-david
 image: /wp-content/uploads/Copia-Patroclo-Jaques-Louis-David.jpg
+excerpt: "Questa è una copia, eseguita da Marco Maria Fenocchio, di Patroclo del pittore Jaques Louis David pittore francese. Le biografie raccontano che David"
 categories:
     - pittura
 tags:

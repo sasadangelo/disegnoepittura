@@ -3,6 +3,7 @@ layout: post
 title: "Come regolare la saturazione di un colore?"
 slug: come-regolare-saturazione-colore
 image: /wp-content/uploads/regolare-saturazione-scala-grigi.jpg
+excerpt: "Questa è la lezione 20 del corso di pittura ad olio per artisti principianti. Sei un principiante e hai sempre dubbi su come mescolare i colori per"
 categories:
     - pittura
 tags:

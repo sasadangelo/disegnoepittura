@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori per il ritratto con il metodo di John Howard Sanden"
 slug: come-mescolare-colori-per-il-ritratto
 image: /wp-content/uploads/ritratto-mini1.gif
+excerpt: "Vuoi dipingere un ritratto ma non sai come imitare tutte quelle variazioni di colore di un viso? Quando dipingi un viso non sai da quali colori partire e"
 categories:
     - pittura
 tags:

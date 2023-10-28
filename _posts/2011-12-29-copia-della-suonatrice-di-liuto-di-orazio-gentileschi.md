@@ -3,6 +3,7 @@ layout: post
 title: "Copia della Suonatrice di liuto di Orazio Gentileschi"
 slug: copia-della-suonatrice-di-liuto-di-orazio-gentileschi
 image: /wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg
+excerpt: "Per dipingere questo quadro rispettando la tecnica, il modo di operare e di preparare i colori e gli attrezzi necessari più vicini a quelli dell'epoca,"
 categories:
     - pittura
 tags:

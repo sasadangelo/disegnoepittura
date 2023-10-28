@@ -3,6 +3,7 @@ layout: post
 title: "La guida definitiva alla conservazione dei colori ad olio"
 slug: guida-definitiva-conservazione-colori-olio
 image: /wp-content/uploads/conservazione-colori-acqua-1.jpg
+excerpt: "Devi dipingere un quadro in più sessioni ma sei stanco di preparare ogni volta le miscele? Ad ogni sessione le miscele non vengono mai uguali a quelle"
 categories:
     - pittura
 tags:

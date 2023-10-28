@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori in pratica"
 slug: come-mescolare-colori-pratica
 image: /wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG
+excerpt: "Questa è la lezione 22 del corso di pittura ad olio per artisti principianti. Sai come mescolare il colore verde di una foglia con i colori ad olio? Sai"
 categories:
     - pittura
 tags:

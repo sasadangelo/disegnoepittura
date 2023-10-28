@@ -3,6 +3,7 @@ layout: post
 title: "Come trasferire un Disegno su Tela con PosterRazor"
 slug: come-trasferire-un-disegno-sulla-tela-con-posterrazor
 image: /wp-content/uploads/0-Inchiostratura-mini.jpg
+excerpt: "Leggendo quest'articolo scoprirai un nuovo metodo per trasferire un'immagine da una foto alla tela in maniera più rapida e precisa della classica griglia."
 categories:
     - disegno
 tags:

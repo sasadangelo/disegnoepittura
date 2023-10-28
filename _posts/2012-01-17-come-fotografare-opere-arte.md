@@ -3,6 +3,7 @@ layout: post
 title: "Come fotografare le proprie opere d'arte?"
 slug: come-fotografare-opere-arte
 image: /wp-content/uploads/lago%20inverno.2.jpg
+excerpt: "Hai dipinto un bel quadro e vuoi mostrarlo ai tuoi amici sul web o semplicemente mostarlo sul forum di Disegno &amp; Pittura? Hai scattato una foto della"
 categories:
     - art-business
 tags: [ ]

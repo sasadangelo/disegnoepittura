@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori del Ritratto con le ricette degli antichi maestri?"
 slug: come-mescolare-colori-ritratto-ricette-antichi-maestri
 image: /wp-content/uploads/giovanni-paolo-lomazzo.jpg
+excerpt: "Questo è un guest post di Marco Fenocchio. Se vuoi scrivere anche tu un guest post per questo blog leggi il regolamento qui. Come dipingevano il viso gli"
 categories:
     - pittura
 tags:
