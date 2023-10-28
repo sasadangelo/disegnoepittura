@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere con la tecnica dei Grandi Maestri con l'artista Johnnie Liliedahl"
 slug: dipingere-tecnica-grandi-maestri-artista-johnnie-liliedahl
 image: /wp-content/uploads/jm_liliedahl.jpg
+excerpt: "Johnnie Liliedahl è un&#039;artista statunitense fortemente influenzata dalla pittura dei grandi maestri del XVIII e XIX secolo. L&#039;artista dipinge"
 categories:
     - artisti
 tags:

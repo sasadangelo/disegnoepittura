@@ -3,6 +3,7 @@ layout: post
 title: "La Tavolozza dei colori"
 slug: tavolozza-dei-colori
 image: /wp-content/uploads/Fig-14-Tavolozza-Legno-100.jpg
+excerpt: "Più volte su questo blog ho parlato delle tre importanti caratteristiche del colore: hue, tono e saturazione. Il tono come sappiamo è il grado di"
 categories:
     - pittura
 tags:

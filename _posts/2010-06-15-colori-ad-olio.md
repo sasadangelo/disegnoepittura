@@ -3,6 +3,7 @@ layout: post
 title: "Colori a olio"
 slug: colori-ad-olio
 image: /wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg
+excerpt: "Quali colori a olio acquistare? Questo articolo spiega quale marca e linea di colori sono più adatti per dipingere a olio."
 categories:
     - pittura
 tags:

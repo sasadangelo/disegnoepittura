@@ -3,7 +3,8 @@ layout: post
 title: "Supporti per dipingere ad olio"
 slug: tele-per-dipingere
 image: /wp-content/uploads/Fig-1-Tela-100.jpg
-xcategories:
+excerpt: "Quali tele per dipingere bisogna acquistare? Quest&#039;articolo fa una panoramica dei supporti per dipingere disponibili in commercio per aiutarti nella scelta."
+categories:
     - pittura
 tags:
     - materiali

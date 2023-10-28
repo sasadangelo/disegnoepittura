@@ -3,6 +3,7 @@ layout: post
 title: "Introduzione alla Pittura ad Olio"
 slug: introduzione-alla-pittura-ad-olio
 image: /wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg
+excerpt: "Questo è il primo articolo del Corso di Pittura ad Olio del Dsito web Disegno e Pittura. Esso cercherà di dare risposta ai dubbi dell&#039;artista principiante."
 categories:
     - pittura
 tags:

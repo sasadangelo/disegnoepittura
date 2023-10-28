@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare piani inclinati in prospettiva"
 slug: come-disegnare-piani-inclinati-in-prospettiva
 image: /wp-content/uploads/come-disegnare-piani-inclinati-prospettiva-5.jpg
+excerpt: "In questo articolo vedremo come disegnare piani inclinati in prospettiva. Consideriamo un piano A in prospettiva centrale rispetto al punto focale PFC e"
 categories:
     - disegno
 tags:

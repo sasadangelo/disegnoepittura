@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare le montagne in un paesaggio: volume"
 slug: come-disegnare-montagne-paesaggio-volume
 image: /wp-content/uploads/come-disegnare-montagna-paesaggio-volume-16.jpg
+excerpt: "Nell&#039;articolo Come disegnare le montagne in un paesaggio: forma e composizione, abbiamo parlato della forma delle montagne (o silhouette), in"
 categories:
     - disegno
 tags:

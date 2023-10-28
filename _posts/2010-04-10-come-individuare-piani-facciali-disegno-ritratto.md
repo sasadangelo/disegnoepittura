@@ -3,6 +3,7 @@ layout: post
 title: "Come Disegnare e Dipingere un Ritratto rendendo il volume con l'uso dei piani facciali"
 slug: come-individuare-piani-facciali-disegno-ritratto
 image: /wp-content/uploads/come-disegnare-piani-ritratto-12.jpg
+excerpt: "In alcuni libri sul ritratto capita di imbattersi nel tema dei piani facciali. Questo tema credo sia tra i più importanti  per il ritrattista perchè lo"
 categories:
     - disegno
 tags:

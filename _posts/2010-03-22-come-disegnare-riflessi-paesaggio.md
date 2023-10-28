@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare i riflessi nel Paesaggio"
 slug: come-disegnare-riflessi-paesaggio
 image: /wp-content/uploads/come-disegnare-riflessi-paesaggio.jpg
+excerpt: "I riflessi in un paesaggio sono spesso trascurati dagli artisti, soprattutto dai principianti. Non nego che per lungo tempo li ho trascurati pure io"
 categories:
     - disegno
 tags:

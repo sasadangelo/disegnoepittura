@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare il ritratto di una donna con il carboncino"
 slug: come-disegnare-ritratto-donna-carboncino
 image: /wp-content/uploads/come-disegnare-ritratto-donna-carboncino-27.jpg
+excerpt: "Quest&#039;articolo ti spiegherà, passo dopo passo, come disegnare il ritratto di una donna con il carboncino con una lezione di Lon Haverly."
 categories:
     - disegno
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare con prospettiva distorta con 4 punti di fuga"
 slug: come-disegnare-prospettiva-4-punti-fuga
 image: /wp-content/uploads/prospettiva-4-punti-fuga-10.jpg
+excerpt: "Nei precedenti articoli sulla prospettiva abbiamo visto come utilizzare la prospettiva centrale, la prospettiva accientale e quella con 3 punti di fuga."
 categories:
     - disegno
 tags:

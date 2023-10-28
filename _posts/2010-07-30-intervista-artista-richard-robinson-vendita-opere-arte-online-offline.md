@@ -3,6 +3,7 @@ layout: post
 title: "Intervista all'artista neozelandese Richard Robinson sulla vendita di opere d'arte online e offline"
 permalink: intervista-artista-richard-robinson-vendita-opere-arte-online-offline
 image: /wp-content/uploads/richard-robinson-painter.jpg
+excerpt: "Richard Robinson è un artista neozelandese autodidatta che da dieci anni è artista professionista ed utilizza Internet come veicolo di promozione del suo"
 categories:
     - artisti
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Scelta dei colori da acquistare"
 slug: scelta-dei-colori-da-acquistare
 image: /wp-content/uploads/nero-avorio-maimeri-classico1.jpg
+excerpt: "Dopo che hai analizzato le varie marche e linee di colori e hai effettuato la tua scelta in termini di rapporto qualità/prezzo, devi scegliere con quali"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare le montagne in un paesaggio: prospettiva"
 slug: come-disegnare-montagne-paesaggio-prospettiva
 image: /wp-content/uploads/come-disegnare-montagna-paesaggio-prospettiva.jpg
+excerpt: "Dopo aver esaminato gli aspetti della forma, della composizione e del volume, analizziamo ora la problematica della prospettiva. Quando parliamo di"
 categories:
     - disegno
 tags:

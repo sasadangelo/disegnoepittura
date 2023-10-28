@@ -5,6 +5,7 @@ title: >
     punti di fuga?
 slug: siete-capaci-disegnare-utilizzando-prospettiva-3-punti-fuga
 image: /wp-content/uploads/come-disegnare-prospettiva-3-punti-fuga-13.jpg
+excerpt: "In quest&#039;articolo impareremo a disegnare utilizzando la prospettiva con 3 punti di fuga, detta anche a &quot;volo d&#039;uccello&quot;. Nell&#039;articolo sulla prospettiva"
 categories:
     - disegno
 tags:

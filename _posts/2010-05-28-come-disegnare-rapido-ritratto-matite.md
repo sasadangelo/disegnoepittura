@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare un rapido ritratto con le matite"
 slug: come-disegnare-rapido-ritratto-matite
 image: /wp-content/uploads/disegno-chiaroscuro-ritratto-10.jpg
+excerpt: "Circa un mese fa sono tornato al mio paese natio con mia moglie e mio figlio. Solitamente porto sempre con me le matite,  le matite colorate o i pastelli"
 categories:
     - disegno
 tags:

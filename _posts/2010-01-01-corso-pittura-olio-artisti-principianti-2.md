@@ -3,6 +3,7 @@ layout: post
 title: "Corso di pittura ad Olio"
 slug: corso-pittura-olio-artisti-principianti-2
 image: /wp-content/uploads/colori-olio.jpg
+excerpt: "Se sei un artista principiante questo corso di pittura ti aiuterà a scoprire tutti i segreti per dipingere qualsiasi soggetto con la tecnica ad olio."
 categories:
     - pittura
 tags:

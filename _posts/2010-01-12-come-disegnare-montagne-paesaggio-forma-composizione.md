@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare le montagne in un paesaggio: forma e composizione"
 slug: come-disegnare-montagne-paesaggio-forma-composizione
 image: /wp-content/uploads/come-disegnare-montagne-paesaggio-thumb.jpg
+excerpt: "Questo è il primo di una serie di tre articoli su come disegnare le montagne in un paesaggio. Uno degli elementi tipici del paesaggio sono le montagne"
 categories:
     - disegno
 tags:
