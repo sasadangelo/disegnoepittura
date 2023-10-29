@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Ti piacerebbe "Dipingere insieme" a Walter Cozzoli e a tutta la community Disegno & Pittura una bella Natura Morta?"
+title: "Ti piacerebbe Dipingere insieme a Walter Cozzoli e a tutta la community Disegno & Pittura una bella Natura Morta?"
 slug: ti-piacerebbe-dipingere-insieme-walter-cozzoli-forum-disegno-pittura
 image: /wp-content/uploads/Frutti-Calici.jpg
-excerpt: "Ti piacerebbe dipingere insieme a Walter Cozzoli e tutta la community Disegno &amp; Pittura una Natura Morta dall&#039;inizio alla fine seguendo un video corso."
+excerpt: "Ti piacerebbe dipingere insieme a Walter Cozzoli e tutta la community Disegno & Pittura una Natura Morta dall'inizio alla fine seguendo un video corso."
 categories:
     - vari
 tags: [ ]
