@@ -3,6 +3,7 @@ layout: post
 title: "Come Disegnare il Drappeggio nella Figura Vestita: punti dove si formano le pieghe"
 slug: come-disegnare-drappeggio-vestiti-figura-umana-punti-dove-formano-sistemi-pieghe
 image: /wp-content/uploads/figura-umana-drappeggio-punti-ancoraggio-thumb.jpg
+excerpt: "Nell&#039;articolo Come Disegnare il Drappeggio nella Figura Vestita: movimenti che generano le pieghe abbiamo visto che le pieghe di un vestito sono sempre il"
 categories:
     - disegno
 tags:

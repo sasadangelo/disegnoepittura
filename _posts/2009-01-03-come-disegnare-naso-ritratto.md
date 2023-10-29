@@ -3,6 +3,7 @@ layout: post
 title: "Come Disegnare il Naso in un Ritratto"
 slug: come-disegnare-naso-ritratto
 image: /wp-content/uploads/naso2.jpg
+excerpt: "In questo post vedremo un semplice tutorial passo per passo per disegnare un naso. Come già detto in altre occasioni, il tutorial va utilizzato solo come"
 categories:
     - disegno
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Colori acrilici"
 slug: colori-acrilici
 image: /wp-content/uploads/jerry-1.jpg
+excerpt: "Come dipingere con i colori acrilici? Quest&#039;articolo è un&#039; introduzione ai colori acrilici e ai materiali necessari per dipingere con questa tecnica."
 categories:
     - pittura
 tags:

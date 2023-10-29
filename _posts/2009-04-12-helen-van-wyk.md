@@ -3,6 +3,7 @@ layout: post
 title: "Helen van Wyk"
 slug: helen-van-wyk
 image: /wp-content/uploads/helen.jpg
+excerpt: "Helen van Wyk (1930-1994) è nata in Fair Lawn nel New Jersey. Nella sua biografia si legge che ha iniziato a dipingere all&#039;età di 12 anni studiando con"
 categories:
     - artisti
 tags:

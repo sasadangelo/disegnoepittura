@@ -3,6 +3,7 @@ layout: post
 title: "Jerry Yarnell"
 slug: jerry-yarnell
 image: /wp-content/uploads/jerry-yarnell.jpg
+excerpt: "Se amate dipingere paesaggi e il vostro medium preferito è l&#039;acrilico allora non potete ignorare l&#039;esistenza di Jerry Yarnell. Jerry è un artista"
 categories:
     - artisti
 tags: [ ]

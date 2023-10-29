@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare un viso in movimento secondo l'artista Burne Hogart (parte I)"
 slug: disegnare-testa-movimento
 image: /wp-content/uploads/rotazione11.jpg
+excerpt: "Nei precedenti tutorial riguardo allo studio del ritratto abbiamo studiato le proporzioni del viso e come disegnare i vari elementi della massa facciale"
 categories:
     - disegno
 tags:

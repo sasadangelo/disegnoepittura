@@ -2,7 +2,8 @@
 layout: post
 title: "Come Disegnare il Volto secondo l'Artista Andrew Loomis"
 slug: disegnare-volto-andrew-loomis
-imaage: /wp-content/uploads/loomis.gif
+image: /wp-content/uploads/loomis.gif
+excerpt: "William Andrew Loomis (1892 – 1959) è stato un illustratore statunitense nato a New York ma che ha trascorso la maggior parte della sua vita a Chicago."
 categories:
     - disegno
 tags:

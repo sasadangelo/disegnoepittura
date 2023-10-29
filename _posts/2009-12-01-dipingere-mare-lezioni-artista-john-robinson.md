@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere il mare con le lezioni dell'artista John E. Robinson"
 slug: dipingere-mare-lezioni-artista-john-robinson
 image: /wp-content/uploads/john-e-robinson.jpg
+excerpt: "John E. Robinson (1932-2008) è stato un artista della east coast americana specializzato nella realizzazione di paesaggi marini. I tipi di paesaggio"
 categories:
     - artisti
 tags:

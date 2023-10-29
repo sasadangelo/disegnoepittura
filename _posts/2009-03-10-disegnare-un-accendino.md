@@ -3,6 +3,7 @@ layout: post
 title: "Disegnare un Accendino"
 slug: disegnare-un-accendino
 imaage: /wp-content/uploads/still_life_drawing_tutorial_12.jpg
+excerpt: "Come disegnare un accendino? Questo tutorial spiega passo dopo passo come disegnare un semplice accendino che sembri vero."
 categories:
     - disegno
 tags:

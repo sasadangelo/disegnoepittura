@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere un albero"
 slug: dipingere-albero
 image: /wp-content/uploads/painting-tree-9.jpg
+excerpt: "Vuoi imparare a dipingere un albero? Questo tutorial ti spiega, passo dopo passo, come dipingere un albero con i colori acrilici."
 categories:
     - pittura
 tags:

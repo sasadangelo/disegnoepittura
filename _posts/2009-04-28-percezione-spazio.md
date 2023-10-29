@@ -3,6 +3,7 @@ layout: post
 title: "Percezione dello Spazio"
 slug: percezione-spazio
 image: /wp-content/uploads/percezione-spazio-6.jpg
+excerpt: "Una delle più grandi difficoltà per un artista è quello di rappresentare su un foglio bidimensionale una realtà tridimensionale. Per riuscire in tale"
 categories:
     - disegno
 tags:

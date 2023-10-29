@@ -3,6 +3,7 @@ layout: post
 title: "Colorare un gatto con le matite colorate"
 slug: colorare-gatto-matite-colorate
 image: /wp-content/uploads/gatto6.jpg
+excerpt: "In precedenti articoli abbiamo introdotto le matite colorate, definendo i concetti principali e la terminologia che utilizzeremo nei vari studi che"
 categories:
     - pittura
 tags:

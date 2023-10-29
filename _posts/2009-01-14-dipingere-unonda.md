@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere un' Onda"
 slug: dipingere-unonda
 image: /wp-content/uploads/dipingere-onda.jpg
+excerpt: "Vuoi imparare a dipingere un paesaggio marino con le onde? Leggi questo tutorial che ti insegnerà passo passo come realizzarlo."
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere come Rubens, Vermeer e Rembrandt (V° parte)"
 slug: dipingere-rubens-vermeer-rembrandt-5
 image: /wp-content/uploads/rose-fig1-thumb.JPG
+excerpt: "1° Fase di Colore Dopo 3-4 settimane di attesa che l&#039;asciugatura si completi, riprendiamo il nostro lavoro. Ricordiamo che quando trascorre molto più"
 categories:
     - pittura
 tags:

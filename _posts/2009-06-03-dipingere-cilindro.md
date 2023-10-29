@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare e colorare un cilindro con Microsoft Paint"
 slug: dipingere-cilindro
 image: /wp-content/uploads/cylinder9.bmp
+excerpt: "Nell&#039;articolo Come un artista deve usare il chiaroscuro per simulare la percezione del volume, abbiamo visto come la prospettiva e il chiaroscuro"
 categories:
     - pittura
 tags:

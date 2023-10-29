@@ -3,6 +3,7 @@ layout: post
 title: "Come Disegnare la Bocca in un Ritratto"
 slug: /come-disegnare-bocca-ritratto
 image: /wp-content/uploads/bocca8.jpg
+excerpt: "Come si disegna la bocca in un Ritratto? La bocca è un elemento fondamentale nel disegno del Ritratto. Questo articolo spiega come disegnare una bocca"
 categories:
     - disegno
 tags:

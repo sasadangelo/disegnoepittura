@@ -3,6 +3,7 @@ layout: post
 title: "Matite Colorate"
 slug: matite-colorate
 image: /wp-content/uploads/matite-colorate.jpg
+excerpt: "Come colorare con le matite colorate? Quest&#039;articolo è un&#039;introduzione alle matite colorate e come usarle per realizzare le proprie opere pittoriche."
 categories:
     - pittura
 tags:

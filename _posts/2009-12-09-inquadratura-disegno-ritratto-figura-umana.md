@@ -5,6 +5,7 @@ title: >
     della Figura Umana
 slug: inquadratura-disegno-ritratto-figura-umana
 image: /wp-content/uploads/figura-intera.jpg
+excerpt: "Con il termine inquadratura si indica quale parte del soggetto verrà rappresentato sul supporto da disegno, sia esso una tela che un foglio. Questo"
 tags:
     - figura umana
     - ritratto
