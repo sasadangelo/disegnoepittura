@@ -3,6 +3,7 @@ layout: post
 title: "Tavolozza Limitata"
 slug: tavolozza-limitata
 image: /wp-content/uploads/thumb_tavolozza_limitata.jpg
+excerpt: "Dipingere non è cosa semplice. Disegnare sicuramente lo è di più. L&#039;imbarazzo del principiante è quello di gestire i colori. Tipicamente siamo abituati a"
 categories:
     - teoriacolori
 tags:

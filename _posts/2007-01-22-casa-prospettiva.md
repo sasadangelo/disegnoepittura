@@ -3,6 +3,7 @@ layout: post
 title: "Casa in Prospettiva"
 slug: casa-prospettiva
 image: /wp-content/uploads/prospettiva-casa.jpg
+excerpt: "In molti articoli abbiamo parlato di Prospettiva. Abbiamo dato una definizione di Prospettiva spiegando anche che cos&#039;è. Abbiamo introdotto la"
 categories:
     - disegno
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Paesaggio marino al tramonto"
 slug: paesaggio-marino-tramonto
 image: /wp-content/uploads/twilight-mist-7.jpg
+excerpt: "Con questo semplice tutorial vorrei illustrare l&#039;applicazione pratica di alcuni articoli sulla prospettiva aerea illustrati su questo blog. Il"
 categories:
     - pittura
 tags:
