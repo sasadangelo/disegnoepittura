@@ -5,6 +5,7 @@ title: >
     punti e le aree focali
 slug: punti-aree-focali
 image: /wp-content/uploads/focal-point.jpg
+excerpt: "Quando uno spettatore guarderà il vostro dipinto percorrerà sulla tela diversi percorsi con i propri occhi. Avendo le giuste conoscenze è possibile"
 tags:
     - composizione
 categories:

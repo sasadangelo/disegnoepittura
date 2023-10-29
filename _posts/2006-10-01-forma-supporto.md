@@ -5,6 +5,7 @@ title: >
     per dipingere
 slug: forma-supporto
 image: /wp-content/uploads/thumb_frame.jpg
+excerpt: "&quot;Realizzare un dipinto è come eseguire il dilitto perfetto, tutto deve essere pianificato nei minimi dettagli&quot; Seurat La frase di Seurat non è stata"
 categories:
     - disegno
 tags:

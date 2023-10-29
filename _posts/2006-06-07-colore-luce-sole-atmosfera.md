@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Colore della luce del sole e dell'atmosfera"
-slig: colore-luce-sole-atmosfera
+slug: colore-luce-sole-atmosfera
+excerpt: "Non ricordo se è stato Seurat a dire: &quot;un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso&quot;. Allo stesso modo la pensa sicuramente"
 categories:
     - teoriacolori
 tags:

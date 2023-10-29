@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere una goccia"
 slug: dipingere-una-goccia
 image: /wp-content/uploads/medium_drops4.jpg
+excerpt: "Come fanno a dipingere quelle nature ricche di effeti speciali come le gocce d&#039;acqua? Questo tutorial ti svelerà il segreto."
 categories:
     - pittura
 tags:

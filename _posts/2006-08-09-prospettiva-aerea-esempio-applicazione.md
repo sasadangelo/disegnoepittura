@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere oggetti nei diversi piani di un paesaggio con l'uso della prospettiva aerea"
 slug: prospettiva-aerea-esempio-applicazione
 image: /wp-content/uploads/aerial-perspective.jpg
+excerpt: "I tuoi paesaggi sono piatti e privi di profondità? Una delle cause frequenti di questo problema è la non conoscenza della prospettiva aerea. Dopo aver"
 categories:
     - pittura
 tags:

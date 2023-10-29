@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere come Rubens, Vermeer, Rembrandt. (IV parte)"
 slug: dipingere-rubens-vermeer-rembrandt-4
 image: /wp-content/uploads/rose.jpg
+excerpt: "Grisaglia La grisaglia può essere considerato, a tutti gli effetti, un sinonimo di chiaroscuro. In questa fase esso non verrà realizzato con un solo"
 categories:
     - pittura
 tags:

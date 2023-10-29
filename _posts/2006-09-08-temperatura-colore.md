@@ -3,6 +3,7 @@ layout: post
 title: "Temperatura del colore"
 slug: temperatura-colore
 image: /wp-content/uploads/temperatura.jpg
+excerpt: "Che cos&#039;è la temperatura di un colore? Conoscere che cos&#039;è la temperatura di un colore come può aiutarti a dipingere meglio? In questo articolo impareremo"
 categories:
     - teoriacolori
 tags: [ ]

@@ -3,6 +3,7 @@ layout: post
 title: "Uomo Vitruviano"
 slug: uomo-vitruviano
 image: /wp-content/uploads/homovit.jpg
+excerpt: "Quest&#039;articolo vi spiegherà tutto ciò che c&#039;è da sapere sull&#039;uomo vitruviano. Le proporzioni del corpo umano non avranno così più segreti per voi."
 categories:
     - disegno
 tags:

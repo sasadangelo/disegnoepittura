@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere come Rubens, Vermeer e Rembrandt. (I parte)"
 slug: dipingere-rubens-vermeer-rembrandt
 image: /wp-content/uploads/rose-fig1.jpg
+excerpt: "Oggi inizieremo ad analizzare la tecnica che, presumibilmente, hanno utilizzato molti pittori fiamminghi come Rubens, Vermeer e Rembrant con un piccolo"
 categories:
     - pittura
 tags:

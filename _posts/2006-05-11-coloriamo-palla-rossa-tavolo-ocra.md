@@ -3,6 +3,7 @@ layout: post
 title: "Colorare una palla rossa su un tavolo ocra"
 slug: coloriamo-palla-rossa-tavolo-ocra
 image: /wp-content/uploads/medium_colori2.jpg
+excerpt: "Abbiamo visto nei precedenti post come mescolare i colori per colorare una scatola blu. In quel caso avevamo utilizzato 3 colori: il colore locale""
 categories:
     - teoriacolori
 tags:

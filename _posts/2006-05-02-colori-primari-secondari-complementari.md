@@ -3,6 +3,7 @@ layout: post
 title: "Colori Primari, Secondari e Complementari"
 slug: colori-primari-secondari-complementari
 image: /wp-content/uploads/ruota-cromatica-mini.png
+excerpt: "Cosa sono i colori primari, secondari e complementari? Questo articolo ti aiuterà a muovere i primi passi nel mondo della teoria del colore."
 categories:
     - teoriacolori
 tags:

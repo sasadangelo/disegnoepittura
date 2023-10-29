@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Che cos'è il tono?"
 slug: munsell-color-system-parte-tono
 image: /wp-content/uploads/10stepmunsell.jpg
+excerpt: "Nel modello di descrizione dei colori di Munsell, dopo lo hue il secondo parametro di vitale importanza è il tono. Questo parametro indica quanto è chiaro"
 categories:
     - teoriacolori
 tags:

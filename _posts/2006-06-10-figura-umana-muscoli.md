@@ -3,6 +3,7 @@ layout: post
 title: "Figura umana e muscoli"
 slug: figura-umana-muscoli
 image: /wp-content/uploads/th_stand.jpg
+excerpt: "Questo blog finora ha parlato poco della figura umana, ma presto verranno pubblicati vari articoli su questa materia. Nel frattempo volevo segnalarvi"
 categories:
     - disegno
 tags:

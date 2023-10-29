@@ -3,6 +3,7 @@ layout: post
 title: "Proporzioni del corpo umano"
 slug: proporzioni-corpo-umano
 image: /wp-content/uploads/body.gif
+excerpt: "Come per il viso anche per il corpo umano è possibile definire le relazioni tra le varie parti di un modello ideale.  Generalmente il corpo umano è alto"
 categories:
     - disegno
 tags:

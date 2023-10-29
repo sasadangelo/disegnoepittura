@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere un paesaggio marino con l'uso della prospettiva aerea."
 slug: prospettiva-aerea-esempio
 image: /wp-content/uploads/prospettiva-aerea.jpg
+excerpt: "I tuoi paesaggi sono piatti e privi di profondità? Uno dei motivi ricorrenti di questo problema è la non conoscenza della prospettiva aerea. In"
 categories:
     - pittura
 tags:

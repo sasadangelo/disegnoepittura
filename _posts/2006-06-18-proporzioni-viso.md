@@ -3,6 +3,7 @@ layout: post
 title: "Proporzioni del viso"
 slug: proporzioni-viso
 image: /wp-content/uploads/proporzioni-viso-8.jpg
+excerpt: "In precedenza abbiamo parlato delle proporzioni nel ritratto, fornendo le misure di un modello ideale che dovrebbe fungere da punto di riferimento durante"
 categories:
     - disegno
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Le tabelle dei colori."
 slug: munsell-color-system-charts
 image: /wp-content/uploads/munsell-25r.jpg
+excerpt: "Dopo aver introdotto il modello di Munsell e aver dato una definizione delle tre caratteristiche di  un colore: hue, tono e saturazione; è il momento di"
 categories:
     - teoriacolori
 tags:

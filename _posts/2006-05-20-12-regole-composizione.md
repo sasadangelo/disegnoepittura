@@ -3,6 +3,7 @@ layout: post
 title: "12 Regole di Composizione"
 slug: 12-regole-composizione
 image: /wp-content/uploads/prospettiva-accidentale-4.jpg
+excerpt: "Navigando sulla rete ho trovato questo tutorial che enuncia alcune semplici regole di composizione. Per composizione si intende la capacità di riuscire ad"
 categories:
     - disegno
 tags:

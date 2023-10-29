@@ -3,6 +3,7 @@ layout: post
 title: "11 Consigli di Leonardo da Vinci per disegnare gli alberi"
 slug: leonardo-studi-sulle-piante
 image: /wp-content/uploads/medium_piante2.jpg
+excerpt: "Ti piace disegnare gli alberi ma hai qualche difficoltà a renderli realistici? Ti piacerebbe migliorare il disegno dei tuoi alberi? In quest&#039;articolo"
 categories:
     - disegno
 tags:

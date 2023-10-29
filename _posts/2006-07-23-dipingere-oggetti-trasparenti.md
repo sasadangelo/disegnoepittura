@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere Oggetti Trasparenti"
 slug: dipingere-oggetti-trasparenti
 image: /wp-content/uploads/glass-distortion.jpg
+excerpt: "Nell&#039;articolo sul chiaroscuro abbiamo visto come una sfera (non trasparente) sottoposta ad un&#039;unica fonte di luce, genera cinque toni diversi. Ma cosa"
 categories:
     - teoriacolori
 tags: [ ]

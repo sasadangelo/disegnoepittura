@@ -5,6 +5,7 @@ title: >
     e dipingere Drappeggi che siano credibili.
 slug: drappeggio-principi
 image: /wp-content/uploads/medium_convex2.jpg
+excerpt: "Nel Rinascimento il drappeggio era una vera e propria disciplina. Leonardo ha dedicato un capitolo ad essa nel suo Trattato della Pittura, Hogarth Burne"
 categories:
     - pittura
 tags:

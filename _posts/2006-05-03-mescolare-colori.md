@@ -3,6 +3,7 @@ layout: post
 title: "Mescolare i colori"
 slug: mescolare-colori
 image: /wp-content/uploads/block1.jpg
+excerpt: "Come si mescolano i colori? Leggendo quest&#039;articolo imparerai 4 semplici regole per mescolare i colori e rendere le tue opere più realistiche."
 categories:
     - teoriacolori
 tags:

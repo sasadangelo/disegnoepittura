@@ -3,6 +3,7 @@ layout: post
 title: "Disegno della figura umana"
 slug: disegno-figura-umana
 image: /wp-content/uploads/body8.jpg
+excerpt: "Fino ad oggi abbiamo discusso le proporzioni del corpo umano, in riferimento ad una figura ideale. Abbiamo validato poi quelle proporzioni analizzando"
 categories:
     - disegno
 tags:

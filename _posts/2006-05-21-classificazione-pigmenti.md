@@ -3,6 +3,7 @@ layout: post
 title: "Classificazione dei Pigmenti"
 slug: classificazione-pigmenti
 image: /wp-content/uploads/medium_pigmenti2.jpg
+excerpt: "Nell&#039;articolo Osservazioni sui colori per aiutare l&#039;artista a mescolare i colori in Pittura abbiamo visto come in natura esistono solo 6 colori: giallo,"
 categories:
     - teoriacolori
 tags:

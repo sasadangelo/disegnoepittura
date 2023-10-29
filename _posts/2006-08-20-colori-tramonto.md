@@ -3,6 +3,7 @@ layout: post
 title: "Come dipingere i colori del tramonto nel paesaggio?"
 slug: colori-tramonto
 image: /wp-content/uploads/sunset31.jpg
+excerpt: "Su questo blog, in diverse occasioni, abbiamo parlato di prospettiva aerea. Con quest&#039;articolo vogliamo fare un ulteriore passo avanti discutendo anche di"
 categories:
     - pittura
 tags:

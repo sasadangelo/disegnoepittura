@@ -3,6 +3,7 @@ layout: post
 title: "Disegnare un paesaggio cittadino in prospettiva accidentale"
 slug: disegnare-paesaggio-cittadino-prospettiva-accidentale
 image: /wp-content/uploads/prospettiva-accidentale-4.jpg
+excerpt: "Vuoi imparare la prospettiva con esempi pratici? Quest&#039;articolo ti spiegherà come disegnare un paesaggio cittadino in prospettiva accidentale."
 categories:
     - disegno
 tags:

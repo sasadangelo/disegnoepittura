@@ -3,6 +3,7 @@ layout: post
 title: "Prospettiva, la terminologia da sapere"
 slug: prospettiva-terminologia-sapere
 image: /wp-content/uploads/eyelevel.gif
+excerpt: "Per imparare la prospettiva devi innanzittutto conoscere i concetti di base e la loro terminologia. Quest&#039;articolo ti aiuterà a districarti con essi."
 categories:
     - disegno
 tags:

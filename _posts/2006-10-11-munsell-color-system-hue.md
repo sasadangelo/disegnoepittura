@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Che cos'è lo hue?"
 slug: munsell-color-system-hue
 image: /wp-content/uploads/munsellsphere.jpg
+excerpt: "Nel sistema di classificazione di Munsell lo hue indica il tipo di colore. I tipi di colore consentiti sono 10 e sono i seguenti: giallo (Y), arancio"
 categories:
     - teoriacolori
 tags:

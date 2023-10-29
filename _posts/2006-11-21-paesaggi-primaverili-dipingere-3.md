@@ -3,6 +3,7 @@ layout: post
 title: "Paesaggi primaverili da dipingere • Fase 3"
 slug: paesaggi-primaverili-dipingere-3
 image: /wp-content/uploads/paesaggio-primaverile.jpg
+excerpt: "Hai mai pensato di poter dipingere un giorno paesaggi primaverili con montagne, alberi e laghi di grande impatto visivo? Questo è il secondo di una serie"
 categories:
     - pittura
 tags:

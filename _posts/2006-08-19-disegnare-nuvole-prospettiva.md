@@ -3,6 +3,7 @@ layout: post
 title: "Disegnare nuvole in prospettiva"
 slug: disegnare-nuvole-prospettiva
 image: /wp-content/uploads/clouds2.jpg
+excerpt: "In precedenti articoli abbiamo descritto i diversi tipi di nuvole. In questo blog abbiamo ampliamente parlato di prospettiva e come essa si applica ad"
 categories:
     - disegno
 tags:

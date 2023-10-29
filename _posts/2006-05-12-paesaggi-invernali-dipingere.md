@@ -3,6 +3,7 @@ layout: post
 title: "Paesaggi invernali da dipingere"
 slug: paesaggi-invernali-dipingere
 image: /wp-content/uploads/lago-inverno.jpg
+excerpt: "Come dipingere paesaggi invernali con montagne innevate, alberi e laghi? Questo semplice tutorial ti guiderà alla realizzazione di un paesaggio invernale."
 categories:
     - pittura
 tags:

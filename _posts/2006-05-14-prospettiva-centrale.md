@@ -3,6 +3,7 @@ layout: post
 title: "Prospettiva Centrale"
 slug: prospettiva-centrale
 image: /wp-content/uploads/prospettiva-centrale-thumb.png
+excerpt: "Quest&#039;articolo ti spiegherà che cos&#039;è la prospettiva centrale e come usarla per rendere i tuoi disegni più belli e realistici."
 categories:
     - disegno
 tags:

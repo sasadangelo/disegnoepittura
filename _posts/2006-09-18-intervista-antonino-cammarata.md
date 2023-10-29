@@ -3,6 +3,7 @@ layout: post
 title: "Intervista ad Antonino Cammarata"
 slug: intervista-antonino-cammarata
 image: /wp-content/uploads/fuori.jpg
+excerpt: "Nei giorni scorsi ho avuto la possibilità di scambiare qualche email con il pittore Antonino Cammarata. Da questo scambio di email, che potremo quasi"
 categories:
     - artisti
 tags: [ ]

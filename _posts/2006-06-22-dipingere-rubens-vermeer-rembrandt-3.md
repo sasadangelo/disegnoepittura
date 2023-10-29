@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere come Rubens, Vermeer e Rembrandt. (III parte)"
 slug: dipingere-rubens-vermeer-rembrandt-3
 image: /wp-content/uploads/rose.jpg
+excerpt: "Chiaroscuro La fase di chiarscuro serve a risolvere un altro problema fondamentale del processo pittorico: la definizione dei toni. Con il termine tono,"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Preparare i colori ad olio da se"
 slug: preparare-colori-olio
 image: /wp-content/uploads/oil7.jpg
+excerpt: "Tempo fa mi ritrovavo a via Margutta alla mostra dei Cento Pittori. Mi capitò di parlare con un artista che effettuava riproduzioni di quadri antichi"
 categories:
     - pittura
 tags:

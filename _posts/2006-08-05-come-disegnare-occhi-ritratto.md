@@ -3,6 +3,7 @@ layout: post
 title: "Come Disegnare gli occhi in un Ritratto"
 slug: come-disegnare-occhi-ritratto
 image: /wp-content/uploads/come-disegnare-occhi-ritratto-13.jpg
+excerpt: "In quest&#039;articolo analizzeremo in dettaglio il disegno dell&#039;occhio umano. Avere queste conoscenze sarà di fondamentale importanza nella realizzazione di"
 categories:
     - disegno
 tags:

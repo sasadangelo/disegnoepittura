@@ -3,6 +3,7 @@ layout: post
 title: "Osservazioni sui colori per aiutare l'artista a mescolare i colori in Pittura"
 slug: osservazioni-colori
 image: /wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg
+excerpt: "Nell&#039;articolo sul colore abbiamo definito che cos&#039;è il colore e abbiamo sottolineato la sua natura tridimensionale. Abbiamo visto, verso la fine"
 categories:
     - teoriacolori
 tags:

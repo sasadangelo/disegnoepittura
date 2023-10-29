@@ -3,6 +3,7 @@ layout: post
 title: "Leonardo e i colori primari"
 slug: leonardo-colori-primari
 image: /wp-content/uploads/medium_leonardo2.jpg
+excerpt: "Nel suo Trattato di Pittura leonardo si esprimeva così sui colori primari. Nella prima parte egli cita i 6 colori primari: giallo, rosso e blu (cioè i"
 categories:
     - teoriacolori
 tags:

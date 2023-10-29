@@ -3,6 +3,7 @@ layout: post
 title: Ritratto
 slug: il-ritratto
 image: /wp-content/uploads/munsell.jpg
+excerpt: "Quest&#039;articolo è un&#039;introduzione al disegno del ritratto. In esso troverai la descrizione delle diverse proporzioni tra i vari elementi del volto."
 categories:
     - disegno
 tags:

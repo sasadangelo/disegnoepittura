@@ -3,6 +3,7 @@ layout: post
 title: "Prospettiva Aerea"
 slug: prospettiva-aerea
 image: /wp-content/uploads/atmopsp7.jpg
+excerpt: "I tuoi paesaggi sono piatti e privi di profondità? Ti piacerebbe dipingere paesaggi con una buona profondità spaziale? Leggi quest&#039;articolo per imparare"
 categories:
     - pittura
 tags:

@@ -2,6 +2,7 @@
 layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Che cos'è la saturazione?"
 slug: munsell-color-system-saturazione
+excerpt: "Il termine saturazione (o croma) è quello che confonde di più gli artisti. Generalmente, con questo termine si intende il grado di brillantezza di un"
 categories:
     - teoriacolori
 tags:

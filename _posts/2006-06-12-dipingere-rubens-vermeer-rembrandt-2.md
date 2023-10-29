@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere come Rubens, Vermeer e Rembrandt. (II parte)"
 sliug: dipingere-rubens-vermeer-rembrandt-2
 image: /wp-content/uploads/rose-fig11.jpg
+excerpt: "Disegno Prima di iniziare a dipingere, generalmente si esegue sulla tela un accurato disegno a matita successivamente calcato con un pennino ad inchiostro"
 categories:
     - pittura
 tags:

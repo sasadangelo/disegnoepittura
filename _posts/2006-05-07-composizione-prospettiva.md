@@ -3,6 +3,7 @@ layout: post
 title: "Composizione e Prospettiva"
 slug: composizione-prospettiva
 image: /wp-content/uploads/composizione-prospettiva.gif
+excerpt: "Foto da www.daube.ch Il termine composizione deriva dal latino compositus che significa &quot;ben sistemato&quot;, mentre prospettiva deriva dalla parola perspicere"
 categories:
     - disegno
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Leonardo: principi di pittura"
 slug: leonardo-pittura
 image: /wp-content/uploads/medium_leonardo2.jpg
+excerpt: "Alcuni lettori potrebbero trovare questo articolo noioso perchè non entra nei dettagli particolari di tecniche pittoriche, tuttavia io ne suggerisco la"
 categories:
     - pittura
 tags:

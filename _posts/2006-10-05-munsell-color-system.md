@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly."
 slug: munsell-color-system
 image: /wp-content/uploads/munsell1.jpg
+excerpt: "A partire da oggi, vedremo come mescolare i colori con il metodo di Munsell. Molti artisti usano questo modello perchè fornisce un modo semplice e"
 categories:
     - teoriacolori
 tags:

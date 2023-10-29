@@ -3,6 +3,7 @@ layout: post
 title: "Prospettiva Accidentale"
 slug: prospettiva-accidentale
 image: /wp-content/uploads/prospettiva-centrale-thumb.png
+excerpt: "Quest&#039;articolo ti spiegherà che cos&#039;è la prospettiva accidentale e come usarla per rendere i tuoi disegni più realistici."
 categories:
     - disegno
 tags:
