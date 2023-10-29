@@ -3,7 +3,7 @@ layout: post
 title: "Come dipingere paesaggi con colori grigi bellissimi e con i colori complementari"
 slug: come-dipingere-paesaggi-colori-grigi-bellissimi
 image: /wp-content/uploads/dipingere-paesaggi-con-grigi-bellissimi-9.jpg
-excerpt: "Quali tele per dipingere bisogna acquistare? Quest&#039;articolo fa una panoramica dei supporti per dipingere disponibili in commercio per aiutarti nella scelta."
+excerpt: "Una delle difficoltà dell&#039;artista che tenta di imitare le tinte è che in natura esse spesso si presentano con gradi di saturazione molto basse, cioè"
 categories:
     - pittura
 tags:
