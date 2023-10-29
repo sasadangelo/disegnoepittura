@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare i piani facciali in un Ritratto"
 slug: piani-facciali
 image: /wp-content/uploads/piani-facciali2.jpg
+excerpt: "Finora su questo blog abbiamo visto ben poco sul tema del Ritratto. Abbiamo parlato delle proporzioni del viso e del disegno degli disegno degli occhi."
 categories:
     - disegno
 tags:

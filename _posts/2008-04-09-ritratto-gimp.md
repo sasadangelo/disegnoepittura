@@ -3,6 +3,7 @@ layout: post
 title: "Analizziamo un ritratto con GIMP"
 slug: ritratto-gimp
 image: /wp-content/uploads/pio.jpg
+excerpt: "Tutti conoscono Photoshop come uno degli strumenti di fotoritocco più famoso. Meno noto è l&#039; &quot;equivalente&quot; programma opensource GIMP. Ora vedremo insieme"
 categories:
     - disegno
 tags:

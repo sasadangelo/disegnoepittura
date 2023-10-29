@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. La tabella dei colori per la gamma dei gialli."
 slug: munsell-color-system-vii-parte-chart-y
 image: /wp-content/uploads/munsell_y_chart.jpg
+excerpt: "In questo post abbiamo visto la posizione dei pigmenti ad acquarello Maimeri Venezia nello spazio colorimetrico di Munsell. Ora proviamo a costruire la"
 categories:
     - teoriacolori
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Preparare i colori a olio da se (parte II)"
 slug: preparare-colori-olio-2
 image: /wp-content/uploads/oil25.jpg
+excerpt: "Preparare i colori per un&#039;unica seduta potrebbe essere poco conveniente. Ogni volta che decidiamo di dipingere con i colori ad olio ci sono alcune"
 categories:
     - pittura
 tags:

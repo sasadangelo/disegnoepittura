@@ -3,6 +3,7 @@ layout: post
 title: "Paesaggio di Antonio Cammarata"
 slug: paesaggio-antonio-cammarata
 image: /wp-content/uploads/cammarata1.jpg
+excerpt: "In quest&#039;articolo cercherò di illustrarvi il mio tentativo (non so quanto riuscito) di imitare una delle opere di Antonio Cammarata. Per questo lavoro ho"
 categories:
     - pittura
 tags:

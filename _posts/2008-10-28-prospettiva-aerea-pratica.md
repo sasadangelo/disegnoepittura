@@ -5,6 +5,7 @@ title: >
     ai tuoi paesaggi
 slug: prospettiva-aerea-pratica
 image: /wp-content/uploads/depth-by-color-2-blue-depth.png
+excerpt: "I tuoi paesaggi sono piatti? Ti piacerebbe dipingere paesaggi con un gran senso di spazio e profondità? La conoscenza della prospettiva aerea può aiutarti"
 categories:
     - pittura
 tags:

@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. La scala dei grigi."
 slug: munsell-color-system-scala-grigi
 image: /wp-content/uploads/gray-scale.jpg
+excerpt: "Questa è la scala di grigi di Munsell. L&#039;ho realizzata al computer utilizzando MS Paint. Stampatela su un foglio di carta per fotografia di ottima"
 categories:
     - teoriacolori
 tags:

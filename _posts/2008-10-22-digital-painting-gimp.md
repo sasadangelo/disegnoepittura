@@ -3,6 +3,7 @@ layout: post
 title: "Come disegnare un limone con Gimp"
 slug: digital-painting-gimp
 image: /wp-content/uploads/gimp-10.jpg
+excerpt: "Dal Wikipedia leggiamo la seguente definizione di Pittura Digitale: La Pittura Digitale (o Digital Painting) è una nuova forma d&#039;arte inglobata nell&#039;arte"
 categories:
     - disegno
 tags:

@@ -5,6 +5,7 @@ title: >
     Reilly. Qual era la tavolozza di Reilly?
 slug: come-mescolare-colori-munsell-frank-reilly-tavolozza
 image: /wp-content/uploads/small_sketchbox.gif
+excerpt: "Dopo aver analizzato le semplificazioni che Frank Reilly applicò al modello di Munsell per renderlo utilizzabile dagli artisti e, dopo aver visto come"
 categories:
     - teoriacolori
 tags:

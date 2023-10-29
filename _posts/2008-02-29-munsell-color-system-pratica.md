@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Dalla teoria alla pratica."
 slug: munsell-color-system-pratica
 image: /wp-content/uploads/frank-reilly.jpg
+excerpt: "Nei precedenti articoli abbiamo introdotto il modello di Munsell come un ottimo sistema per descrivere il colori in termini di hue, tono e saturazione."
 categories:
     - teoriacolori
 tags:

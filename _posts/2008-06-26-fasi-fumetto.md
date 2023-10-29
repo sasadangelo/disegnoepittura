@@ -3,6 +3,7 @@ layout: post
 title: "Le fasi del Fumetto"
 slug: fasi-fumetto
 image: /wp-content/uploads/yellow_kid001.gif
+excerpt: "Il fumetto, come qualsiasi forma d&#039;arte, parte sempre da un&#039;idea. Affinchè questa idea si tramuti in un vero e proprio fumetto sono necessarie le seguenti"
 categories:
     - disegno
 tags:

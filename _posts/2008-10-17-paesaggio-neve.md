@@ -3,6 +3,7 @@ layout: post
 title: "Paesaggio con neve"
 slug: paesaggio-neve
 image: /wp-content/uploads/acquarello-2.jpg
+excerpt: "In questo post vorrei illustrarvi un esempio su come dipingere un paesaggio innevato con fienile in rovina. Materiali Foglio Acquarello 30x40 600g/m^2"
 categories:
     - pittura
 tags:

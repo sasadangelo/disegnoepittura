@@ -3,6 +3,7 @@ layout: post
 title: "Bozza di Ritratto ad Acquarello"
 slug: ritratto-acquarello
 image: /wp-content/uploads/bozza1.jpg
+excerpt: "Oggi volevo mostrarvi un semplice esercizio. Un acquarello che mostra a grandi linee un esempio di ombreggiatura di un volto. Il volto sarà anch&#039;esso solo"
 categories:
     - pittura
 tags:

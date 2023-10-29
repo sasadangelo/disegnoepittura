@@ -3,6 +3,7 @@ layout: post
 title: "Dipingere una mela"
 slug: dipingere-mela
 image: /wp-content/uploads/mela-9.jpg
+excerpt: "In quest&#039;esercizio illustrerò come dipingere una mela. Di tanto in tanto anzichè realizzare dipinti completi preferisco esercitarmi su piccoli elementi"
 categories:
     - pittura
 tags:

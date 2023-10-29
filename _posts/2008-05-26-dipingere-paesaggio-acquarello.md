@@ -3,6 +3,7 @@ layout: post
 author: sasadangelo
 slug: dipingere-paesaggio-acquarello
 image: /wp-content/uploads/redmire7.jpg
+excerpt: "Materiali Colori Acquarello Terra d&#039;Ombra Bruciata Blu Cobalto Verde Hooker Terra di Siena Bruciata Giallo Ocra Carminio d&#039;Alzarina Rosso Chiaro Blu"
 categories:
     - pittura
 tags:

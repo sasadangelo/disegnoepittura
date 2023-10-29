@@ -2,6 +2,8 @@
 layout: post
 title: "Paesaggio ad Olio"
 slug: paesaggio-olio
+image: /wp-content/uploads/lago-ross-8.jpg
+excerpt: "In questo tutorial impareremo a dipingere un paesaggio ad olio. Colori: Giallo Cadmio Chiaro, Giallo Indiano, Ocra Gialla, Terra Siena Bruciata, Bruno Van"
 categories:
     - pittura
 tags:

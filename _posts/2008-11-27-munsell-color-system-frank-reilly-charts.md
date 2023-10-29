@@ -3,6 +3,7 @@ layout: post
 title: "Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Le tabelle dei colori di Frank Reilly."
 slug: munsell-color-system-frank-reilly-charts
 image: /wp-content/uploads/palettefrankreilly-ylarge.jpg
+excerpt: "Ti piacerebbe sapere come realizzare le tabelle dei colori di Frank Reilly? Cominciamo con il dire che queste tabelle ti serviranno come guida quando"
 categories:
     - teoriacolori
 tags:

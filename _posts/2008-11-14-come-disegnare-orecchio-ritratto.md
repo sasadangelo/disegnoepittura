@@ -3,6 +3,7 @@ layout: post
 title: "Come Disegnare l'Orecchio in un Ritratto"
 slug: come-disegnare-orecchio-ritratto
 image: /wp-content/uploads/orecchio.jpg
+excerpt: "In questo post vedremo un semplice tutorial passo per passo per disegnare un orecchio. Come già detto in altre occasioni il tutorial va utilizzato solo"
 categories:
     - disegno
 tags:

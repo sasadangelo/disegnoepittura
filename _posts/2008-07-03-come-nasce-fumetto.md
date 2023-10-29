@@ -3,6 +3,7 @@ layout: post
 title: "Come nasce un fumetto"
 slug: come-nasce-fumetto
 image: /wp-content/uploads/topolino.jpg
+excerpt: "Dopo aver introdotto e spiegato cos&#039;è un fumetto e quali sono le fasi per la sua realizzazione in quest&#039;articolo vorrei riportare un ipotetico scenario di"
 categories:
     - disegno
 tags:
