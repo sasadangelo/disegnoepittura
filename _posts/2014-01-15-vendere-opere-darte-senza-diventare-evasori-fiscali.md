@@ -10,7 +10,7 @@ tags: [ ]
 author: simonecois
 ---
 
-![Vendere Opere d'Arte](/wp-content/uploads/vendere-opere-arte.jpg "Vendere Opere d'Arte")
+![Vendere Opere d'Arte]({{ site.baseurl }}/wp-content/uploads/vendere-opere-arte.jpg)
 
 Dipingi da un pò di tempo e parenti, amici e conoscenti chiedono di acquistare una tua opera ma mille dubbi ti assalgono: devo rilasciare una ricevuta? Serve una partita IVA? Devo segnalare le mie opere alla SIAE per tutelare i miei diritti di autore? Devo essere iscritto in uno speciale registro o categoria commerciale?
 
@@ -23,14 +23,14 @@ Poichè le casistiche possono essere diverse, vedremo due casi tipici di persone
 
 ## Censimento dell'opera presso la SIAE o altro registro pubblico
 
-![Siae](/wp-content/uploads/Siae.jpg "Siae")
+![Siae]({{ site.baseurl }}/wp-content/uploads/Siae.jpg)
 
 Mario e Ilaria stanno cominciando la loro esperienza artistica e ci sono due dubbi che li assalgono:
 
 1. le proprie opere devono essere registrate presso la SIAE?
 2. esiste un obbligo di censimento delle proprie opere in qualche pubblico registro?
 
-Rispondiamo al primo dubbio consultando le FAQ sul sito della [SIAE](https://www.siae.it/Faq_siae.asp "SIAE FAQ"). Tra le tante domande c'è la seguente con relativa risposta:
+Rispondiamo al primo dubbio consultando le FAQ sul sito della [SIAE](https://www.siae.it/Faq_siae.asp). Tra le tante domande c'è la seguente con relativa risposta:
 
 > **_E’ obbligatorio aderire alla SIAE?_**
 > 
@@ -90,7 +90,7 @@ Mattia e Ilaria, quindi, non sono tenuti a censire in pubblici registri i quadri
 
 ## Partita IVA
 
-![Partita Iva](/wp-content/uploads/Partita-Iva.jpg "Partita Iva")
+![Partita Iva]({{ site.baseurl }}/wp-content/uploads/Partita-Iva.jpg)
 
 A questo punto a Mattia e Ilaria è chiaro che non hanno alcun obbligo di registrare le proprie opere. Però i due artisti vogliono vendere le proprie tele e vendere un quadro significa incassare dei soldi. La domanda che si pongono a questo punto è la seguente: **se vendo la mia opera e guadagno del denaro sono obbligato ad aprire partita IVA?**
 
@@ -122,7 +122,7 @@ Qualora poi il loro hobby gli porterà a cifre che superano quelle indicate e�
 
 ## Come dichiarare i guadagni delle vendite?
 
-![Blocchetti Ricevute Fiscali](/wp-content/uploads/blocchetti-ricevute-fiscali.jpg)
+![Blocchetti Ricevute Fiscali]({{ site.baseurl }}/wp-content/uploads/blocchetti-ricevute-fiscali.jpg)
 
 Fino a questo momento sia Mattia che Ilaria sembra non abbiano alcun obbligo verso la legge in quanto:
 
