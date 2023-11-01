@@ -12,7 +12,7 @@ tags:
 author: sasadangelo
 ---
 
-![Olio di lino](https://www.disegnoepittura.it/wp-content/uploads/olio-lino.jpg "Olio di lino")
+![Olio di lino]({{ site.baseurl }}/wp-content/uploads/olio-lino.jpg)
 
 Per dipingere con la tecnica a olio, generalmente, vengono impiegati tre tipi di olio: lino, noci e papavero.
 
@@ -41,6 +41,6 @@ L'olio di noci ha un grado d'ingiallimento intermedio mentre quello di papavero 
 
 Quando si comincia a dipingere può risultare conveniente acquistare l'olio di lino perché più economico e perché secca più velocemente. Questa scelta può essere conservata anche quando aumenta il proprio livello di esperienza.
 
-Personalmente, io preferisco usare l'olio di noci perché non mi sembra che impieghi poi così tanto tempo ad asciugare e non ingiallisce dopo pochi giorni con colori come i bianchi e i blu. Ogni anno, nel mese di Luglio o Agosto, acquisto una confezione di olio di noci ed [eseguo la lavatura per renderlo più chiaro e siccativo](/come-lavare-olio-di-lino/).
+Personalmente, io preferisco usare l'olio di noci perché non mi sembra che impieghi poi così tanto tempo ad asciugare e non ingiallisce dopo pochi giorni con colori come i bianchi e i blu. Ogni anno, nel mese di Luglio o Agosto, acquisto una confezione di olio di noci ed [eseguo la lavatura per renderlo più chiaro e siccativo]({{ site.baseurl }}/come-lavare-olio-di-lino/).
 
-_Leggi gli altri articoli della serie [Materiali per pittura a olio](/materiali-per-pittura-ad-olio/ "Materiali per pittura ad olio")._
+_Leggi gli altri articoli della serie [Materiali per pittura a olio]({{ site.baseurl }}/materiali-per-pittura-ad-olio/)._

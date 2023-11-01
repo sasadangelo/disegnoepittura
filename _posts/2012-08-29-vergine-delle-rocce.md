@@ -10,7 +10,7 @@ tags: [ ]
 author: sasadangelo
 ---
 
-![Vergine delle Rocce](/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg "Vergine delle Rocce")
+![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg)
 
 Come fu dipinta da Leonardo la Vergine delle Rocce oggi custodita alla National Gallery?
 
@@ -18,7 +18,7 @@ Come forse ben sai Leonardo dipinse due versioni della Vergine delle Rocce. [Una
 
 **Ma come dipinse quest'ultima Vergine delle Rocce?**
 
-![Vergine delle Rocce](/wp-content/uploads/vergine-rocce-national-gallery.jpg "Vergine delle Rocce")
+![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery.jpg)
 
 Piu' volte ho scritto su questo blog che esistono 3 modi per conoscere le tecniche degli antichi maestri:
 
@@ -38,7 +38,7 @@ Leonardo dipinse La Vergine delle Rocce su un pannello di pioppo della misura 18
 
 ### Prima Imprimitura
 
-La superficie del dipinto della Vergine delle Rocce fu trattata con gesso e colla nella maniera tradizionale [come esposta a suo tempo su questo blog](/imprimitura-tavola-gesso-colla-cennino-cennini/ "Imprimitura").
+La superficie del dipinto della Vergine delle Rocce fu trattata con gesso e colla nella maniera tradizionale [come esposta a suo tempo su questo blog]({{ site.baseurl }}/imprimitura-tavola-gesso-colla-cennino-cennini/).
 
 ### Primo disegno
 
@@ -46,7 +46,7 @@ Leonardo disegnò una composizione, usando un colore bruno-nerastro, con la mado
 
 ### Seconda Imprimitura
 
-Qui il termine Imprimitura è improprio per come lo usiamo abitualmente su questo blog. Sarebbe più esatto chiamarla [campitura](/campitura-pratica/ "Campitura"). Fatto sta che secondo gli studi di restauro Leonardo stese un altro strato di colore composto da bianco di piombo, meno nero carbone e giallo piombo stagno per ottenere una tinte grigio-crema da cui ripartire. A questo colore sembra sia stato aggiunto una specie di medium che il documento chiama "lead soap" che tradotto letteralmente significa "sapone di piombo" che non è altro che bianco di piombo mescolato con olio di lino. Non avevo mai sentito parlare di questo elemento ma cercando su Google (su siti americani) ho notato che viene spesso citato nella pittura antica. E' curioso notare l'uso dell'olio di noci in queste prime fasi dove forse un olio più siccativo come quello di lino sarebbe stato più indicato.
+Qui il termine Imprimitura è improprio per come lo usiamo abitualmente su questo blog. Sarebbe più esatto chiamarla [campitura]({{ site.baseurl }}/campitura-pratica/). Fatto sta che secondo gli studi di restauro Leonardo stese un altro strato di colore composto da bianco di piombo, meno nero carbone e giallo piombo stagno per ottenere una tinte grigio-crema da cui ripartire. A questo colore sembra sia stato aggiunto una specie di medium che il documento chiama "lead soap" che tradotto letteralmente significa "sapone di piombo" che non è altro che bianco di piombo mescolato con olio di lino. Non avevo mai sentito parlare di questo elemento ma cercando su Google (su siti americani) ho notato che viene spesso citato nella pittura antica. E' curioso notare l'uso dell'olio di noci in queste prime fasi dove forse un olio più siccativo come quello di lino sarebbe stato più indicato.
 
 ### Secondo Disegno
 
@@ -54,7 +54,7 @@ Il disegno come lo ammiriamo oggi fu rifatto con una nuova composizione, che pre
 
 La seguente figura mostra, in sezione, gli strati finora citati. Il campione appartiene alla fodera gialla del mantella della Madonna.
 
-![Sezione di Imprimitura nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-imprimitura-sezione.jpg "Sezione di Imprimitura nella Vergine delle Rocce")
+![Sezione di Imprimitura nella Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-imprimitura-sezione.jpg)
 
 In figura possiamo notare, nell'ordine:
 
@@ -67,7 +67,7 @@ La figura poi mostra due ulteriori strati non ancora discussi in quest'articolo:
 
 ### La Tavolozza
 
-I colori usati da Leonardo per la Vergine delle Rocce sono: bianco di piombo (bianco di titanio o zinco), [giallo piombo stagno](https://www.kremer-pigmente.com/it/pigmenti/pigmenti-di-produzione-propria-und-pigmenti-antichi/10/giallo-di-stagno-e-piombo-giallo-limone "Giallo Piombo Stagno") (giallo limone coprente), ocra marrone (ocra bruna o ocra romana), terra di cassel (bruno van dyck), altre terre gialle e rosse (idem), [verdigris](https://shop.kremerpigments.com/en/pigments/kremer-made-and-historic-pigments/5145/verdigris-synthetic "Verdigris") (verde azzurro trasparente), nero carbone (idem), lacca rossa (idem), vermiglione (idem, azzuritte (azzurro un pò tendente al verde-azzurro, semi coprente), blu oltremare (blu oltremare chiaro). Tra parentesi ho messo il colore ecquivalente attuale come a suo tempo sul [forum ci fu consigliato da Marco Maria Fenocchio](http://forum.disegnoepittura.it/viewtopic.php?f=12&t=309 "Forum Disegno & Pittura"). Sono state rilevate anche tracce di [minio](https://www.kremer-pigmente.com/it/pigmenti/pigmenti-di-produzione-propria-und-pigmenti-antichi/1380/minio "Minio") (arancio cadmio coprente) ma i restauratori sono convinti che si sia formato dall'interazione di altri colori.
+I colori usati da Leonardo per la Vergine delle Rocce sono: bianco di piombo (bianco di titanio o zinco), [giallo piombo stagno](https://www.kremer-pigmente.com/it/pigmenti/pigmenti-di-produzione-propria-und-pigmenti-antichi/10/giallo-di-stagno-e-piombo-giallo-limone) (giallo limone coprente), ocra marrone (ocra bruna o ocra romana), terra di cassel (bruno van dyck), altre terre gialle e rosse (idem), [verdigris](https://shop.kremerpigments.com/en/pigments/kremer-made-and-historic-pigments/5145/verdigris-synthetic) (verde azzurro trasparente), nero carbone (idem), lacca rossa (idem), vermiglione (idem, azzuritte (azzurro un pò tendente al verde-azzurro, semi coprente), blu oltremare (blu oltremare chiaro). Tra parentesi ho messo il colore ecquivalente attuale come a suo tempo sul [forum ci fu consigliato da Marco Maria Fenocchio](http://forum.disegnoepittura.it/viewtopic.php?f=12&t=309). Sono state rilevate anche tracce di [minio](https://www.kremer-pigmente.com/it/pigmenti/pigmenti-di-produzione-propria-und-pigmenti-antichi/1380/minio) (arancio cadmio coprente) ma i restauratori sono convinti che si sia formato dall'interazione di altri colori.
 
 ### Abbozzo
 
@@ -79,11 +79,11 @@ E' curioso constatare da questo documento come Leonardo non eseguisse un abbozzo
 
 Il cielo è stato realizzato mediante un primo abbozzo con azzurrite e bianco di piombo steso direttamente sulla seconda imprimitura nelle aree delimitate dal secondo disegno. Una volta asciugato questo strato Leonardo ha steso una velatura di oltremare. In alcune aree del cielo è stato rilevato l'uso dell'olio di noci riscaldato come medium. In altre aree a destra sembra sia stato usato l'olio di lino. La seguente foto mostra in dettaglio questa modalità di esecuzione.
 
-![Il Cielo nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-cielo.jpg "Il Cielo nella Vergine delle Rocce")
+![Il Cielo nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-cielo.jpg)
 
 Per chi non si accontenta della sola prova visiva c'è anche la prova scientifica di un campione di cielo. La seguente foto mostra la sezione di un campione del dipinto nell'area del cielo dove si notano i due strati.
 
-![Sezione di cielo nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-cielo-sezione.jpg "Sezione di cielo nella Vergine delle Rocce")
+![Sezione di cielo nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-cielo-sezione.jpg)
 
 ### Le Rocce
 
@@ -91,11 +91,11 @@ Dopo il disegno e l'abbozzo monocromo le rocce sono state dipinte con terre gial
 
 ### Le Foglie
 
-Le piante visibili tra le rocce in alto sono state realizzate  con un marrone traslucente composto da nero, giallo e ocra marrone con poco bianco di piombo. Sono stati rilevati leggeri sfregazzi di giallo piombo stagno per creare le alte luci. Le due piante a sinistra, nel primo piano, sono più verdi rispetto a quelle sullo sfondo. Il colore è verdigris, terra gialla e nero carbone. Sulle queste piante Leonardo ha eseguito un ulteriore strato per scurire in alcune aree le piante usando più nero e schiarire altre usando più giallo terra. Le parti più verdi contengono un pò di azzurrite. I restauratori hanno anche rilevato [sfregazzi](/lo-sfregazzo-nella-pittura-ad-olio/ "Sfregazzi") di nero per scurire alcune aree.
+Le piante visibili tra le rocce in alto sono state realizzate  con un marrone traslucente composto da nero, giallo e ocra marrone con poco bianco di piombo. Sono stati rilevati leggeri sfregazzi di giallo piombo stagno per creare le alte luci. Le due piante a sinistra, nel primo piano, sono più verdi rispetto a quelle sullo sfondo. Il colore è verdigris, terra gialla e nero carbone. Sulle queste piante Leonardo ha eseguito un ulteriore strato per scurire in alcune aree le piante usando più nero e schiarire altre usando più giallo terra. Le parti più verdi contengono un pò di azzurrite. I restauratori hanno anche rilevato [sfregazzi](/lo-sfregazzo-nella-pittura-ad-olio/) di nero per scurire alcune aree.
 
 La seguente figura mostra la sezione di un campione delle foglie in primo piano in basso a sinistra. Proprio in questo campione è stato rilevato l'uso dei colori citati sopra e lo sfregazzo con il nero per ridurre il tono delle piante in alcuni punti.
 
-![Sezione verdure nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-verdure-sezione-2.jpg "Sezione verdure nella Vergine delle Rocce")
+![Sezione verdure nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-verdure-sezione-2.jpg)
 
 ### Drappeggio
 
@@ -113,7 +113,7 @@ Molti sostengono che il famoso di Leonardo sia ottenuto per sovrapposizione di s
 
 Nelle aree in ombra c'è uno strato di colore molto traslucente (velatura) composto da nero carbone, ocra marrone e un colore di terra aranciato. Quest'ultimo accorgimento credo sia la chiave di volta per rendere i volti, nelle aree in ombra, più profondi e traslucenti.
 
-![Giovanni Battista](/wp-content/uploads/volto-giovanni-battista-underpainting.jpg "Giovanni Battista")
+![Giovanni Battista](/wp-content/uploads/volto-giovanni-battista-underpainting.jpg)
 
 ### Dettagli d'orati
 
@@ -121,4 +121,4 @@ Questo dipinto ha 3 dettagli d'orati che sono: la croce del Giovanni Battista e 
 
 ## Cosa fare adesso?
 
-Premesso che, a mio avviso, un buon pittore riesce a creare una copia fedele di questo dipinto anche senza seguire le indicazioni contenute nel documento qui preso in esame e senza usare i medesimi colori e materiali. Io credo che il documento sia molto utile da un punto di vista culturale e storico. Credo che il suo studio possa aiutarci a comprendere meglio le tecniche dei Grandi Maestri del passato. **Ma cosa dovremo farci noi di queste informazioni?** Io credo che un artista, o aspirante tale, non può fermarsi alla teoria. Avrebbe senso, a questo punto, partire dalle informazioni fin qui raccolte e fare piccoli studi su questo dipinto. Un volto, il cielo, le rocce, le foglie o qualunque altra cosa. Può essere utile anche prendere come riferimento i due lavori incompleti di Leonardo: l'[Adorazione dei Magi](https://it.wikipedia.org/wiki/Adorazione_dei_Magi_%28Leonardo%29 "Adorazione dei Magi") e [San Gerolamo](https://it.wikipedia.org/wiki/San_Girolamo_%28Leonardo%29 "San Gerolamo"). Chiunque desidera fare uno studio su questo dipinto e raccoglie informazioni e risultati interessanti può scrivere un articolo per il blog, io lo pubblicherò a patto che rispetti le [linee guida](/scrivi-articolo/ "Linee Guida").
+Premesso che, a mio avviso, un buon pittore riesce a creare una copia fedele di questo dipinto anche senza seguire le indicazioni contenute nel documento qui preso in esame e senza usare i medesimi colori e materiali. Io credo che il documento sia molto utile da un punto di vista culturale e storico. Credo che il suo studio possa aiutarci a comprendere meglio le tecniche dei Grandi Maestri del passato. **Ma cosa dovremo farci noi di queste informazioni?** Io credo che un artista, o aspirante tale, non può fermarsi alla teoria. Avrebbe senso, a questo punto, partire dalle informazioni fin qui raccolte e fare piccoli studi su questo dipinto. Un volto, il cielo, le rocce, le foglie o qualunque altra cosa. Può essere utile anche prendere come riferimento i due lavori incompleti di Leonardo: l'[Adorazione dei Magi](https://it.wikipedia.org/wiki/Adorazione_dei_Magi_%28Leonardo%29) e [San Gerolamo](https://it.wikipedia.org/wiki/San_Girolamo_%28Leonardo%29). Chiunque desidera fare uno studio su questo dipinto e raccoglie informazioni e risultati interessanti può scrivere un articolo per il blog, io lo pubblicherò a patto che rispetti le [linee guida](/scrivi-articolo/).

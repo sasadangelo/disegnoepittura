@@ -10,7 +10,7 @@ tags: [ ]
 author: efiorentini
 ---
 
-![Enrico Fiorentini](/wp-content/uploads/enrico-fiorentini.jpg "Enrico Fiorentini")
+![Enrico Fiorentini]({{ site.baseurl }}/wp-content/uploads/enrico-fiorentini.jpg)
 
 Spiego, a chi è interessato, come costruire una cornice usa e getta che uso quando devo regalare un quadro.
 
@@ -20,7 +20,7 @@ Quando devo regalare o vendere un dipinto - ma non è il mio caso, perché non n
 
 Per far questo mi fornisco di cornici in polistirolo, di quelle che servono agli imbianchini per creare una decorazione fra pareti e soffitto. Esse si possono travare con profili e grandezze variabili, in bacchette da due metri, e si trovano dove si vendono colori e vernici. Si dovrebbero trovare anche dal ferramenta sotto casa, se vende anche le pitture murali (vedi Fig. 1).
 
-![Cronice Usa e Getta di Polistirolo](/wp-content/uploads/cornice-usa-getta-polistirolo.jpg "Cronice Usa e Getta di Polistirolo")
+![Cronice Usa e Getta di Polistirolo]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-polistirolo.jpg)
 
 _Fig. 1_
 
@@ -28,29 +28,29 @@ Per costruire le cornici usa e getta, oltre al polistirolo, occorre una dima per
 
 Nei primi approcci che hanno seguito la mia idea di realizzare le cornici usa e getta, ho avuto grosse delusioni dai tagli obliqui, che se non sono più che precisi, compromettono gli angoli retti. Ancor più perché trovare una sega adatta, se non si ha la sega con filo a caldo, è un vero problema. La sega a legno ha i denti troppo grossi e sbriciola il materiale creando dei bordi molto frastagliati. La sega a ferro, lascia bordi migliori, ma ancora non buoni, perché la profondità della lama non consente di fare un taglio perpendicolare a dispetto della dima. Dopo diverse prove il taglio più pulito l’ho ottenuto, pensate un pò, con un coltello da pane!
 
-![Cornice Usa e Getta - Materiali](/wp-content/uploads/cornice-usa-getta-materiali.jpg "Cornice Usa e Getta - Materiali")
+![Cornice Usa e Getta - Materiali]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-materiali.jpg)
 
 _Fig.2_
 
 Ma le difficoltà non derivano solo dall’arnese con cui si praticano i tagli. La forma delle cornici, nella maggioranza dei casi, obbliga a dover sfruttare il profilo al contrario di quello per cui è stato realizzato. Dovendo usare in tal modo il profilo, si rende necessario un supporto che mantenga la perpendicolarità durante il taglio, non avendo il materiale alcuna rigidità strutturale. Io ho usato lo spezzone di una bacchetta di abete 2,5x1cm. Vedi Fig. 3.
 
-![Cronice Usa e Getta - Taglio](/wp-content/uploads/cornice-usa-getta-taglio.jpg "Cronice Usa e Getta - Taglio")
+![Cronice Usa e Getta - Taglio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-taglio.jpg)
 
 _Fig.3_
 
 La scelta del profilo va scelto in funzione dello spessore del supporto del dipinto da incorniciare. In questo caso ho usato una cornice che al suo interno ha un profondità di circa 20 mm come mostrato in Fig. 4.
 
-![Cronice Usa e Getta - Taglio](/wp-content/uploads/cornice-usa-getta-taglio-2.jpg "Cronice Usa e Getta - Taglio")
+![Cronice Usa e Getta - Taglio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-taglio-2.jpg)
 
 _Fig. 4_
 
 Una volta trovato uno spessore adatto per sostenere perpendicolarmente il profilo, si procede al taglio, facendo riferimento alla misura della tela o altro supporto, che si deve prendere all’interno dell’angolo segnato con la freccia gialla (Fig. 5).
 
-![Cronice Usa e Getta - Taglio](/wp-content/uploads/cornice-usa-getta-taglio-3.jpg "Cronice Usa e Getta - Taglio")
+![Cronice Usa e Getta - Taglio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-taglio-3.jpg)
 
 _Fig.5_
 
-![Cronice Usa e Getta - Taglio](/wp-content/uploads/cornice-usa-getta-taglio-4.jpg "Cronice Usa e Getta - Taglio")
+![Cronice Usa e Getta - Taglio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-taglio-4.jpg)
 
 _Fig.6_
 
@@ -62,29 +62,45 @@ Per quanto riguarda gli attrezzi, ognuno è padrone in casa sua perciò i materi
 
 Per tenere unite le stecche ho impiegato delle grappette sparate da una spillatrice, inserite a mano dopo aver cosparso la colla con una spatolina. Fig. 7- 10.
 
-![Cornice Usa e Getta - Incollaggio](/wp-content/uploads/cornice-usa-getta-incollare.jpg "Cornice Usa e Getta - Incollaggio") _Fig. 7_ ![Cornice Usa e Getta - Incollaggio](/wp-content/uploads/cornice-usa-getta-incollare-2.jpg "Cornice Usa e Getta - Incollaggio") _Fig. 8_ ![Cornice Usa e Getta - Incollaggio](/wp-content/uploads/cornice-usa-getta-incollare-3.jpg "Cornice Usa e Getta - Incollaggio") _Fig. 9_ ![Cornice Usa e Getta - Incollaggio](/wp-content/uploads/cornice-usa-getta-incollare-4.jpg "Cornice Usa e Getta - Incollaggio") _Fig. 10_
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare.jpg) 
+
+_Fig. 7_ 
+
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-2.jpg) 
+
+_Fig. 8_
+
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-3.jpg) 
+
+_Fig. 9_
+
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-4.jpg) 
+
+_Fig. 10_
 
 Successivamente ho asciugato la colla in eccedenza con una pezzuola.
 
-![Cornice Usa e Getta - Pronta per Verniciatura](/wp-content/uploads/cornice-usa-getta-da-verniciare.jpg "Cornice Usa e Getta - Pronta per Verniciatura") _Fig.11_
+![Cornice Usa e Getta - Pronta per Verniciatura]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-da-verniciare.jpg)
+
+_Fig.11_
 
 ## La Verniciatura
 
 Una volta asciutta la colla, ho dato una mano di gesso acrilico diluito e colorato con del grigio di payne, ovviamente acrilico, quello che uso per preparare tele e tavole da dipingere. La diluizione è stata abbondante così da poterlo passare a pennello. Fig. 12 e 13. L’asciugatura del gesso ha bisogno di poche ore - se si usa il fon anche meno - ma prima di stuccare gli angoli, ho aspettato il giorno successivo. Più saranno precisi gli angoli, meno ci sarà bisogno di stuccare.
 
-![Cornice Usa e Getta - Colore di Fondo](/wp-content/uploads/cornice-usa-getta-colore-fondo.jpg "Cornice Usa e Getta - Colore di Fondo")
+![Cornice Usa e Getta - Colore di Fondo]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-colore-fondo.jpg)
 
 _Fig. 12_
 
-![Cornice Usa e Getta - Colore di Fondo](/wp-content/uploads/cornice-usa-getta-colore-fondo-2.jpg "Cornice Usa e Getta - Colore di Fondo")
+![Cornice Usa e Getta - Colore di Fondo]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-colore-fondo-2.jpg)
 
 _Fig. 13_
 
-![Cornice Usa e Getta - Colore di Fondo](/wp-content/uploads/cornice-usa-getta-colore-fondo-3.jpg "Cornice Usa e Getta - Colore di Fondo")
+![Cornice Usa e Getta - Colore di Fondo]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-colore-fondo-3.jpg)
 
 _Fig. 14_
 
-![Cornice Usa e Getta - Colore di Fondo](/wp-content/uploads/cornice-usa-getta-colore-fondo-4.jpg "Cornice Usa e Getta - Colore di Fondo")
+![Cornice Usa e Getta - Colore di Fondo]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-colore-fondo-4.jpg)
 
 _Fig. 15_
 
@@ -92,7 +108,7 @@ Nelle Fig. 14 e 15, si può notare la piccola stuccatura necessaria a coprire le
 
 Dopo la carteggiatura delle stuccature, che va estesa a tutta la cornice per pareggiare la superficie, si passerà la prima mano di vernice. Nel mio caso ho utilizzato una vernice acrilica oro pallido che non mi ha entusiasmato nella resa.
 
-![Cornice Usa e Getta - Verniciata](/wp-content/uploads/cornice-usa-getta-dipinta.jpg "Cornice Usa e Getta - Verniciata")
+![Cornice Usa e Getta - Verniciata]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-dipinta.jpg)
 
 _Fig. 16_
 
@@ -100,35 +116,35 @@ _Fig. 16_
 
 Allo scopo di rinforzare un pochino la struttura, in vero leggerissima, del polistirolo, ho applicato quattro angolini di cartoncino leggero, che agevolerà in seguito la foderatura del retro della cornice, una volta montata la tela o il cartone telato.
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera.jpg)
 
 _Fig. 17_
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera-2.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera-2.jpg)
 
 _Fig. 18_
 
 Il dipinto poggerà sul bordo evidenziato in Fig. 19.
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera-3.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera-3.jpg)
 
 _Fig.19_
 
 Il profilo da me impiegato può accogliere opere di spessore fino a 20 millimetri, per cui è adatto a quasi tutti i supporti: dal cartone telato alle intelaiature di spessore normale. Per il montaggio si impiegano gli stessi chiodini per le cornici in legno. La differenza è che per il polistirolo non servono martelli di nessun tipo, basta spingerli con un dito, due è meglio. Nella figura 20 viene mostrato il montaggio di un cartoncino con tramatura telata e nella 21 quello di una tela tradizionale con telaio in legno. Per finire prendo un pò di carta gommata (Fig. 22) E rifinisco il retro (Fig. 23).
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera-4.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera-4.jpg)
 
 _Fig. 20_
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera-5.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera-5.jpg)
 
 _Fig. 21_
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera-6.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera-6.jpg)
 
 _Fig. 22_
 
-![Cornice Usa e Getta - Inserimento Opera](/wp-content/uploads/cornice-usa-getta-inserimento-opera-7.jpg "Cornice Usa e Getta - Inserimento Opera")
+![Cornice Usa e Getta - Inserimento Opera]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-inserimento-opera-7.jpg)
 
 _Fig. 23_
 
@@ -138,4 +154,4 @@ Forse qualcuno potrebbe ritenere eccessivo tutto questo lavoro, ma per uno come 
 
 Come ho già detto, la vernice che ho usato non mi ha soddisfatto granché, ma visto che si tratta di una cornice Usa e Getta, il risultato non è poi da buttar via.
 
-![Cornice Usa e Getta](/wp-content/uploads/cornice-usa-getta-completa.jpg "Cornice Usa e Getta")
+![Cornice Usa e Getta]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-completa.jpg)
