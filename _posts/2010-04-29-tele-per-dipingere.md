@@ -12,11 +12,11 @@ tags:
 author: sasadangelo
 ---
 
-![Tele per dipingere](https://www.disegnoepittura.it/wp-content/uploads/Fig-1-Tela-100.jpg)
+![Tele per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela-100.jpg)
 
 Il supporto per dipingere a olio per eccellenza è la tela che puoi acquistare in un negozio di Belle Arti o su Internet già montata su un telaio.
 
-![Tela per dipingere](https://www.disegnoepittura.it/wp-content/uploads/Fig-1-Tela.jpg "Tela per dipingere")
+![Tela per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela.jpg)
 
 Oltre alla tela, però, i supporti su cui è possibile dipingere a olio sono:
 
@@ -33,23 +33,23 @@ Oltre alla tela, però, i supporti su cui è possibile dipingere a olio sono:
 
 Il cartone telato è forse l'ideale per il principiante perché costa poco. In pratica si tratta di una tela incollata su un cartone già preparata con un'imprimitura bianca universale. Lo svantaggio di questo supporto è che tende a curvarsi con facilità, soprattutto con misure oltre il 50x70.
 
-![Cartone Telato](https://www.disegnoepittura.it/wp-content/uploads/Fig-2-Cartone-Telato.jpg "Cartone Telato")
+![Cartone Telato]({{ site.baseurl }}/wp-content/uploads/Fig-2-Cartone-Telato.jpg)
 
 Il pannello telato è simile al cartone telato con l'unica differenza che la tela è incollata su legno anziché su cartone. Costa un pochino in più ma non s'incurva facilmente come il cartone. Con dimensioni oltre il 50x70 comincia a diventare troppo pesante.
 
-![Pannello Telato](https://www.disegnoepittura.it/wp-content/uploads/Fig-3-Pannello-Telato.jpg "Pannello Telato")
+![Pannello Telato]({{ site.baseurl }}/wp-content/uploads/Fig-3-Pannello-Telato.jpg)
 
 I fogli per pittura a olio si vendono in blocchi da dieci o venti. Dovrebbero essere ideali per studi e prove, ma a mio avviso sono assolutamente da sconsigliare per via dell'eccessiva assorbenza del supporto.
 
-![Fogli per Pittura ad Olio](https://www.disegnoepittura.it/wp-content/uploads/Fig-4-Fogli-Pittura-Olio.jpg "Fogli per Pittura ad Olio")
+![Fogli per Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/Fig-4-Fogli-Pittura-Olio.jpg)
 
-Infine, è possibile acquistare pannelli di legno (es. Pioppo) o MDF in falegnameria e preparare poi il supporto per dipingerci sopra. Per fare ciò basta impermeabilizzarlo con acqua e colla vinavil [come spiego nella parte finale di quest'articolo](/come-fare-imprimitura-tela/). Questi supporti, come il pannello telato, tendono a diventare troppo pesanti con misure superiori a 50x70.
+Infine, è possibile acquistare pannelli di legno (es. Pioppo) o MDF in falegnameria e preparare poi il supporto per dipingerci sopra. Per fare ciò basta impermeabilizzarlo con acqua e colla vinavil [come spiego nella parte finale di quest'articolo]({{ site.baseurl }}/come-fare-imprimitura-tela/). Questi supporti, come il pannello telato, tendono a diventare troppo pesanti con misure superiori a 50x70.
 
-![Pannelli MDF](https://www.disegnoepittura.it/wp-content/uploads/Fig-5-Pannelli-MDF.jpg "Pannelli MDF")
+![Pannelli MDF]({{ site.baseurl }}/wp-content/uploads/Fig-5-Pannelli-MDF.jpg)
 
 ## I Tipi di Tele
 
-Le tele si differenziano in base al tipo di tessuto di cui sono composte. Sul sito [l'Angelo dell'Arte](http://angoloarte.altervista.org/TELE.htm "L'Angolo dell'Arte") di Alfredo Ossino troviamo il seguente elenco di tessuti con relative caratteristiche:
+Le tele si differenziano in base al tipo di tessuto di cui sono composte. Sul sito [l'Angelo dell'Arte](http://angoloarte.altervista.org/TELE.htm) di Alfredo Ossino troviamo il seguente elenco di tessuti con relative caratteristiche:
 
 > - **tele di lino**: considerata la migliore sia per la sua trama fine che per la sua resistenza, è poco sensibile all'umidità e alle variazioni climatiche, inoltre la tessitura fitta gli conferisce un'alta resistenza alle trazioni. Solitamente reperibile in diversi tipi di tessitura: grana grossa, media, fine o extra fine; che ne determinano la qualità e il costo.
 >     
@@ -66,8 +66,8 @@ Le tele si differenziano in base al tipo di tessuto di cui sono composte. Sul si
 
 ## La Preparazione delle Tele
 
-Le tele, sono vendute in commercio in formato grezzo o con un'imprimitura universale. Nel primo caso bisogna [preparare opportunamente la tela prima di cominciare a dipingere](/come-fare-imprimitura-tela/). Nel secondo caso si può decidere di dipingere direttamente sulla tela bianca a patto che essa abbia il giusto grado di assorbenza. Purtroppo i produttori non scrivono questa informazione sulla confezione per cui bisogna capirlo da soli.
+Le tele, sono vendute in commercio in formato grezzo o con un'imprimitura universale. Nel primo caso bisogna [preparare opportunamente la tela prima di cominciare a dipingere]({{ site.baseurl }}/come-fare-imprimitura-tela/). Nel secondo caso si può decidere di dipingere direttamente sulla tela bianca a patto che essa abbia il giusto grado di assorbenza. Purtroppo i produttori non scrivono questa informazione sulla confezione per cui bisogna capirlo da soli.
 
-Per verificare l'assorbenza di una tela bianca già pronta traccio in un angolino una piccola linea con un pennino e inchiostro di china, se la linea si espande allora la tela è troppo assorbente e necessità di un'ulteriore [preparazione come spiego qua](/come-fare-imprimitura-tela/).
+Per verificare l'assorbenza di una tela bianca già pronta traccio in un angolino una piccola linea con un pennino e inchiostro di china, se la linea si espande allora la tela è troppo assorbente e necessità di un'ulteriore [preparazione come spiego qua]({{ site.baseurl }}/come-fare-imprimitura-tela/).
 
-_Leggi gli altri articoli della serie [Materiali per pittura a olio](https://www.disegnoepittura.it/materiali-per-pittura-ad-olio/ "Materiali per pittura ad olio")._
+_Leggi gli altri articoli della serie [Materiali per pittura a olio]({{ site.baseurl }}/materiali-per-pittura-ad-olio/)._

@@ -11,13 +11,13 @@ tags:
 author: sasadangelo
 ---
 
-![](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg "prospettiva-4-punti-fuga-10")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg)
 
-Nei precedenti articoli sulla prospettiva abbiamo visto come utilizzare la [prospettiva centrale](https://www.disegnoepittura.it/prospettiva-centrale/), la [prospettiva accientale](https://www.disegnoepittura.it/prospettiva-accidentale/) e quella con [3 punti di fuga](https://www.disegnoepittura.it/siete-capaci-disegnare-utilizzando-prospettiva-3-punti-fuga/). Essendo il nostro mondo tridimensionale ci si aspetta che oltre i 3 punti di fuga non si possa andare. In realtà non è così e l'argomento di questo articolo sarà proprio la prospettiva con 4 punti di fuga. **Ma in quali situazioni si può verificare?** Un caso tipico i prospettiva con 4 punti di fuga si verifica quando l'osservatore è molto vicino al soggetto osservato. La vicinanza provoca una distorsione dell'immagine sul piano di proiezione simile a quelle visibili attraverso una palla di vetro.
+Nei precedenti articoli sulla prospettiva abbiamo visto come utilizzare la [prospettiva centrale]({{ site.baseurl }}/prospettiva-centrale/), la [prospettiva accientale]({{ site.baseurl }}/prospettiva-accidentale/) e quella con [3 punti di fuga]({{ site.baseurl }}/siete-capaci-disegnare-utilizzando-prospettiva-3-punti-fuga/). Essendo il nostro mondo tridimensionale ci si aspetta che oltre i 3 punti di fuga non si possa andare. In realtà non è così e l'argomento di questo articolo sarà proprio la prospettiva con 4 punti di fuga. **Ma in quali situazioni si può verificare?** Un caso tipico i prospettiva con 4 punti di fuga si verifica quando l'osservatore è molto vicino al soggetto osservato. La vicinanza provoca una distorsione dell'immagine sul piano di proiezione simile a quelle visibili attraverso una palla di vetro.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-4-punti-fuga-11.jpg "prospettiva-4-punti-fuga-11")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-11.jpg)
 
-![](/wp-content/uploads/prospettiva-4-punti-fuga-9.jpg "prospettiva-4-punti-fuga-9")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-9.jpg)
 
 _Foto da [www.impresalavoro.eu](http://www.impresalavoro.eu)_
 
@@ -25,36 +25,36 @@ Quando l'osservatore sta di fronte ad un soggetto molto alto allora il punto pri
 
 Tracciamo la linea d'orizzonte con il punto focale centrale (PP) e i due laterali (PFL e PFR).
 
-![](/wp-content/uploads/prospettiva-4-punti-fuga-1.jpg "prospettiva-4-punti-fuga-1")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-1.jpg)
 
 Tracciamo anche un asse verticale.
 
-![](/wp-content/uploads/prospettiva-4-punti-fuga-2.jpg)
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-2.jpg)
 
 Tracciamo delle linee prospettiche verticali arrotondate partendo da una sfera che ha per diamentro la distanza tra zenith e nadir. Man man restringiamo questa sfera con delle ellissi. Disegniamo lo spigolo del palazzo (come facevamo nella prospettiva accidentale). Fondamentalmente la prospettiva con 4 punti di vista può essere vista come una prospettiva accidentale distorta.
 
-![](/wp-content/uploads/prospettiva-4-punti-fuga-3.jpg "prospettiva-4-punti-fuga-3")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-3.jpg)
 
 Uniamo l'estremità dello spigolo con i due punti focali laterali PFL e PFR.
 
-![](/wp-content/uploads/prospettiva-4-punti-fuga-4.jpg "prospettiva-4-punti-fuga-4")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-4.jpg)
 
 Disegniamo il lato sinistro e destro del palazzo.
 
-![](/wp-content/uploads/prospettiva-4-punti-fuga-5.jpg "prospettiva-4-punti-fuga-5")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-5.jpg)
 
 Infine aggiungiamo qualche dettaglio come le finestre.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-4-punti-fuga-6.jpg "prospettiva-4-punti-fuga-6")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-6.jpg)
 
 Questo è il risultato finale che si ottiene rimuovendo le linee prospettiche verso i punti laterali.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg "prospettiva-4-punti-fuga-10")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg)
 
 Dal blog [mentagraphy](http://brianluesang.blogspot.com/) prendo in prestito questo sketch di paesaggio cittadino per mostravi che utilizzando questa prospettiva è possibile realizzare opere molto suggestive. Inoltre, l'uso di questa prospettiva di tanto in tanto si vede anche in qualche fumetto.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-4-punti-fuga-7.jpg "prospettiva-4-punti-fuga-7")
+![Prospettiva con 4 Punti di Fuga]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-7.jpg)
 
 _Foto dal blog [mentagrapfhy](http://brianluesang.blogspot.com/)._
 
-_Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/prospettiva/ "La Prospettiva")._
+_Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/prospettiva/ "La Prospettiva")._
