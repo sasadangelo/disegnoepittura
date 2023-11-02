@@ -48,7 +48,7 @@ Ecco alcuni consigli che ti saranno molto utili.
 
 8. L'illuminazione del dipinto è fondamentale. Una luce diffusa proveniente da una giornata grigia è ottima. Se fuori c'è il sole aiutati con una tendina. Se vuoi usare la luce artificiale assicurati che sia bianca. Due luci che illuminano il quadro a 45 gradi è l'ideale. 
 
-![Schema luci per fotografare un'opera d'arte](/wp-content/uploads/schema-luci-fotografare-opera-arte1.jpg)
+![Schema luci per fotografare un'opera d'arte]({{ site.baseurl }}/wp-content/uploads/schema-luci-fotografare-opera-arte1.jpg)
 
 9. Assicurati che il bianco sia bilanciato. [Bilanciare il bianco](http://www.marcotogni.it/bilanciamento-del-bianco/) significa che un oggetto bianco non deve apparire bluastro, rossastro o di qualsiasi altro colore. Purtroppo questa procedura dipende dalla macchinetta e conviene tu legga attentamente le istruzioni del manuale. Generalmente le macchinette consentono una programmazione manuale del bilanciamento del bianco fornendo alcune condizioni di illuminazione standard (es. nuvoloso, sole, luce artificiale gialla, luce artificiale blu, ecc.) ma anche la modifica manuale da parte dell'utente. Potresti scattare una prima foto e verificare che il muro bianco appaia realmente bianco anche se i fotografi ci insegnano che questa taratura andrebbe fatta con [carta Kodak color grigio 18%](http://www.lastolite.com/ezybalance.php). 
 

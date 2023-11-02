@@ -11,7 +11,7 @@ tags:
 author: sasadangelo
 ---
 
-![Sezione Aurea](https://www.disegnoepittura.it/wp-content/uploads/sezione-aurea.jpg "Sezione Aurea")
+![Sezione Aurea]({{ site.baseurl }}/wp-content/uploads/sezione-aurea.jpg)
 
 _Foto da [fotografiapuntodincontro.](http://www.fotografiapuntodincontro.com/ "Fotografia Punto d'Incontro")_
 
@@ -47,7 +47,7 @@ Il primo riferimento a questo numero appare nello studio del pentagono e dall’
 
 Se i pitagorici associavano al numero 5, e tutto ciò che era legato a questo numero, un qualcosa di magico è facile capire perché il numero ф apparisse ai loro occhi così affascinante anche se non ne conoscevano ancora tutte le proprietà matematiche e i legami con l’arte, la musica, l’architettura e tante altre discipline. L’alone di mistero che ha sempre circondato questo numero si è tramandato nei secoli, nel corso dei quali sono state scoperte nuove proprietà matematiche e i legami con le discipline sopra citate. Queste nuove scoperte hanno contribuito ad impressionare la mente dell’uomo tanto da cogliere in esso ideali di bellezza e armonia.
 
-Terminato il periodo ellenistico per molto tempo non si è parlato più di questo numero e per trovarne una nuova testimonianza bisogna risalire al periodo rinascimentale e alla pubblicazione del libro _De Divina Proportione_ di Luca Pacioli scritto alla corte di Ludovico il Moro con la collaborazione di Leonardo da Vinci che, in quel periodo, risiedeva nella medesima corte e curò i disegni di vari poliedri ivi pubblicati. In questo libro Pacioli mostrò molte proprietà matematiche del numero aureo ma non individuò le relazioni di questo numero con la serie del matematico Fibonacci introdotta nel mondo accademico qualche secolo prima (1202) nel libro Liber abaci insieme alle cifre indo arabe. La serie di Fibonacci è una sequenza di numeri interi tali che preso un qualsiasi numero della serie esso è la somma dei due numeri che lo precedono: 1, 2, 3, 5, 8, 13, 21, 34, ecc (es. 13=8+5). Leggendo un qualsiasi libro che parla di sezione aurea troverete numerosi legami tra questo numero, la serie di [Fibonacci e molti fenomeni in ambito biologico e naturale](http://www.liceoberchet.it/ricerche/sezioneaurea/sez3.htm "Numeri Fibonacci in Zoologia e Botanica").
+Terminato il periodo ellenistico per molto tempo non si è parlato più di questo numero e per trovarne una nuova testimonianza bisogna risalire al periodo rinascimentale e alla pubblicazione del libro _De Divina Proportione_ di Luca Pacioli scritto alla corte di Ludovico il Moro con la collaborazione di Leonardo da Vinci che, in quel periodo, risiedeva nella medesima corte e curò i disegni di vari poliedri ivi pubblicati. In questo libro Pacioli mostrò molte proprietà matematiche del numero aureo ma non individuò le relazioni di questo numero con la serie del matematico Fibonacci introdotta nel mondo accademico qualche secolo prima (1202) nel libro Liber abaci insieme alle cifre indo arabe. La serie di Fibonacci è una sequenza di numeri interi tali che preso un qualsiasi numero della serie esso è la somma dei due numeri che lo precedono: 1, 2, 3, 5, 8, 13, 21, 34, ecc (es. 13=8+5). Leggendo un qualsiasi libro che parla di sezione aurea troverete numerosi legami tra questo numero, la serie di [Fibonacci e molti fenomeni in ambito biologico e naturale](http://www.liceoberchet.it/ricerche/sezioneaurea/sez3.htm).
 
 Per scoprire la relazione tra la serie di Fibonacci e il numero aureo bisognerà aspettare il 1611 quando Keplero intuì che il rapporto di due numeri consecutivi della serie approssimavano sempre di più il numero aureo.
 
@@ -72,7 +72,7 @@ Su molti libri e siti internet è facile trovare riferimenti all’uso della sez
 1. sostenere la presenza di buone approssimazioni di rapporti aurei quando in realtà questi rapporti sono uguali a valori non proprio vicini a 1,618033 (es. 1,5 oppure 1,7). Ad esempio, nella piramide di Cheope ciascun lato triangolare ha una base di 230 m e un’altezza di 145 m, da cui si ricava 230/145=1,5862 e su molti libri, in maniera molto sbrigativa, si sostiene che questo numero ben approssima il numero aureo.
 2. sostenere la presenza di rapporti aurei non avendo chiari i sistemi di riferimento di partenza anzi descrivendoli in maniera del tutto vaga. Ad esempio, nella Monna Lisa di Leonardo si sostiene che il volto del soggetto è inscrivibile in un rettangolo aureo. Purtroppo da quali punti questo rettangolo parte non è proprio chiaro.
 
-![Rettangolo Aureo sul viso della Gioconda](https://www.disegnoepittura.it/wp-content/uploads/gioconda-sezione-aurea.jpg "Rettangolo Aureo sul viso della Gioconda")
+![Rettangolo Aureo sul viso della Gioconda]({{ site.baseurl }}/wp-content/uploads/gioconda-sezione-aurea.jpg "Rettangolo Aureo sul viso della Gioconda")
 
 Alcuni libri come  _La geometria segreta dei pittori_ di Charles Bouleau sostengono la tesi che l'uso della sezione aurea fosse nota a pittori come Cimabue, Duccio e Giotto e che fosse ampiamente usata nelle loro opere. Questo per dimostrare che l'uso della sezione aurea è antecedente all'opera di Pacioli. Purtroppo, però, queste tesi non sembra siano unanimemente condivise perché, probabilmente, manca la prova evidente che lo dimostri.
 
