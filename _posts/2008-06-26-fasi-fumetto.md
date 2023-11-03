@@ -11,7 +11,7 @@ tags:
 author: sasadangelo
 ---
 
-Il [fumetto](https://www.disegnoepittura.it/fumetto/), come qualsiasi forma d'arte, parte sempre da un'idea. Affinchè questa idea si tramuti in un vero e proprio fumetto sono necessarie le seguenti fasi:
+Il [fumetto]({{ site.baseurl }}/fumetto/), come qualsiasi forma d'arte, parte sempre da un'idea. Affinchè questa idea si tramuti in un vero e proprio fumetto sono necessarie le seguenti fasi:
 
 - Soggetto Lo sceneggiatore partendo dall'idea che ha lui in mente o che ha concordata con l'editore, realizza un breve riassunto di quella che sarà la storia. Questo riassunto descrive la storia a grandi linee identificando le parti salienti e eliminando i dettagli (come dialoghi, inquadrature, ecc.) non ancora necessari.
 - Sceneggiatura Quando sceneggiatore e editore/redattore hanno concordato il soggetto, il primo procede a tradurre il soggetto in una vera e propria sceneggiatura. Essa descriverà la storia tavola per tavola, vignetta per vignetta. Per ciascuna vignetta lo sceneggiatore specificherà il luogo in cui si svolgerà la scena (interno o esterno), darà qualche dettaglio sull'ambiente e l'inquadratura e poi il testo del dialogo. Se lo sceneggiatore ha anche qualche abilità nel disegno può anche preparare degli schizzetti di ciascuna vignetta in modo grossolano così da facilitare il lavoro del disegnatore.
