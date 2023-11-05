@@ -16,9 +16,9 @@ Quest&#8217;articolo è un&#8217;introduzione alla prospettiva accidentale che t
 
 ## Che cos&#8217;è la prospettiva accidentale?
 
-Osservando la natura o un paesaggio urbano è facile constatare che difficilmente gli oggetti hanno un lato parallelo al piano di proiezione. Essi si trovano quasi sempre in posizione divergente rispetto ad esso. La [prospettiva][1] aiuta l’artista a regolare anche questa disposizione “accidentale” degli oggetti, aiutandolo a creare spazi e volumi molto convincenti. Questo nuovo tipo di prospettiva viene detta prospettiva accidentale.
+Osservando la natura o un paesaggio urbano è facile constatare che difficilmente gli oggetti hanno un lato parallelo al piano di proiezione. Essi si trovano quasi sempre in posizione divergente rispetto ad esso. La [prospettiva]({{ site.baseurl }}/composizione-prospettiva/) aiuta l’artista a regolare anche questa disposizione “accidentale” degli oggetti, aiutandolo a creare spazi e volumi molto convincenti. Questo nuovo tipo di prospettiva viene detta prospettiva accidentale.
 
-Mentre nella [prospettiva centrale][2] le linee prospettiche convergono nel punto focale centrale, nella prospettiva accidentale le linee convergono verso i punti focali laterali. Nell’articolo [terminologia della prospettiva][3] abbiamo visto che le linee prospettiche che partono dall’osservatore e arrivano ai punti focali laterali formano un angolo di 45° con il raggio principale. In realtà, però, è possibile (ma poco probabile) avere anche una prospettiva accidentale 30/60, 40/50, ecc. L’importante è che i due angoli formino un angolo di 90°.
+Mentre nella [prospettiva centrale]({{ site.baseurl }}/prospettiva-centrale/) le linee prospettiche convergono nel punto focale centrale, nella prospettiva accidentale le linee convergono verso i punti focali laterali. Nell’articolo [terminologia della prospettiva]({{ site.baseurl }}/prospettiva-terminologia-sapere/) abbiamo visto che le linee prospettiche che partono dall’osservatore e arrivano ai punti focali laterali formano un angolo di 45° con il raggio principale. In realtà, però, è possibile (ma poco probabile) avere anche una prospettiva accidentale 30/60, 40/50, ecc. L’importante è che i due angoli formino un angolo di 90°.
 
 ## Un esempio pratico con un cubo
 
@@ -62,12 +62,6 @@ Miglioriamo il look della casa facendo sporgere un pò il tetto e disegniamo la 
   
 
 
-A questo punto credo sia chiaro cos&#8217;è la prospettiva accidentale e come utilizzarla su soggetti molto semplici comuna casa. Volendo approfondire il tema è possibile leggere il seguente [tutorial][4]. Suggerisco, inoltre, la lettura di quest&#8217;articolo su Wikipedia per approfondire l&#8217;argomento.
+A questo punto credo sia chiaro cos&#8217;è la prospettiva accidentale e come utilizzarla su soggetti molto semplici comuna casa. Volendo approfondire il tema è possibile leggere il seguente [tutorial]({{ site.baseurl }}/disegnare-paesaggio-cittadino-prospettiva-accidentale/). Suggerisco, inoltre, la lettura di quest&#8217;articolo su Wikipedia per approfondire l&#8217;argomento.
 
-_Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili][5]._
-
- [1]: https://www.disegnoepittura.it/composizione-prospettiva/ "Prospettiva"
- [2]: https://www.disegnoepittura.it/prospettiva-centrale/ "Prospettiva Centrale"
- [3]: https://www.disegnoepittura.it/prospettiva-terminologia-sapere/ "Terminologia della Prospettiva"
- [4]: https://www.disegnoepittura.it/disegnare-paesaggio-cittadino-prospettiva-accidentale/ "Prospettiva in un Paesaggio Urbano"
- [5]: https://www.disegnoepittura.it/prospettiva/ "La Prospettiva"
+_Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/prospettiva/)._

@@ -12,9 +12,9 @@ tags:
 author: sasadangelo
 ---
 
-![medium_pigmenti2](/wp-content/uploads/medium_pigmenti2.jpg "medium_pigmenti2")
+![medium_pigmenti2]({{ site.baseurl }}/wp-content/uploads/medium_pigmenti2.jpg)
 
-Nell'articolo [Osservazioni sui colori per aiutare l'artista a mescolare i colori in Pittura](/osservazioni-colori/) abbiamo visto come in natura esistono solo 6 colori: giallo, rosso, blu, verde, viola, arancio. Ovviamente a questi si aggiungono il bianco e nero (anche se qualcuno, a ragione, potrà sostenere che il bianco e il nero non esistono in natura).
+Nell'articolo [Osservazioni sui colori per aiutare l'artista a mescolare i colori in Pittura]({{ site.baseurl }}/osservazioni-colori/) abbiamo visto come in natura esistono solo 6 colori: giallo, rosso, blu, verde, viola, arancio. Ovviamente a questi si aggiungono il bianco e nero (anche se qualcuno, a ragione, potrà sostenere che il bianco e il nero non esistono in natura).
 
 A volte qualcuno afferma che un oggetto è di colore: marrone, beige, carne, etc. Un artista che ha buona conoscenza della teoria dei colori dovrebbe sapere che in natura queste tinte non esistono, esse sono solo variazioni di hue, tono e saturazione dei colori citati sopra. In commercio, però, esistono dei pigmenti dai nomi un pò curiosi: giallo cadmio chiaro, rosso carminio, terra di siena, ecc.
 
@@ -58,4 +58,4 @@ Giallo-verde phtalo. Tono: chiaro; saturazione: brillante; complementare: Crimis
 
 Mancano molti altri pigmenti a questa classificazione che provvederò ad aggiungere di volta in volta. Nei successivi post analizzeremo più approfonditamente ciascun pigmento. Per ora potete provare a ripetere questo l'esercizio su come [mescolare i colori](/mescolare-colori/) utilizzando un pigmento a scelta più il complementare (per le ombre) + bianco e nero avorio. Nei complementari compare il Bianco e Nero semplicemente perchè il suo tono deve essere ricondotto a quello del colore in oggetto.
 
-Fonte: [Color Mixing. The Van Wyk Way](https://www.disegnoepittura.it/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/).
+Fonte: [Color Mixing. The Van Wyk Way]({{ site.baseurl }}/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/).

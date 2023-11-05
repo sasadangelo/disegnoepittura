@@ -11,7 +11,7 @@ tags:
 author: sasadangelo
 ---
 
-Non ricordo se è stato Seurat a dire: "un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso". Allo stesso modo la pensa sicuramente [John E. Robinson](https://www.disegnoepittura.it/dipingere-mare-lezioni-artista-john-robinson/) che sostiene che un quadro è un susseguirsi di decisioni (compositive, tonali, colorimetriche, ecc.).
+Non ricordo se è stato Seurat a dire: "un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso". Allo stesso modo la pensa sicuramente [John E. Robinson]({{ site.baseurl }}/dipingere-mare-lezioni-artista-john-robinson/) che sostiene che un quadro è un susseguirsi di decisioni (compositive, tonali, colorimetriche, ecc.).
 
 Quando si dipinge un paesaggio o una marina, tra le tante decisioni da prendere sicuramente ci sono le seguenti:
 
@@ -28,7 +28,7 @@ Supponiamo, inoltre, di aver deciso che il paesaggio è ritratto di estate verso
 
 - colore sole=giallo limone + bianco
 
-Nell'articolo [Coloriamo una palla rossa su un tavolo ocra](https://www.disegnoepittura.it/coloriamo-palla-rossa-tavolo-ocra/) abbiamo visto i criteri necessari per dipingere un oggetto illuminato. E' ovvio che la zona illuminata deve essere dipinta con un colore ottenuto dalla mistione del
+Nell'articolo [Coloriamo una palla rossa su un tavolo ocra]({{ site.baseurl }}/coloriamo-palla-rossa-tavolo-ocra/) abbiamo visto i criteri necessari per dipingere un oggetto illuminato. E' ovvio che la zona illuminata deve essere dipinta con un colore ottenuto dalla mistione del
 
 - colore locale dell'oggetto + colore sole.
 
@@ -38,4 +38,4 @@ La montagna a distanza media avrà meno contrasti di tono e colore. Le zone di l
 
 Per la montagna all'orizzonte la tecnica applicata per la seconda montagna va accentuato ancora di più. Il suo colore è pressoché uniforme ed è ottenuto mischiando il colore locale della montagna con molto più colore dell'atmosfera.
 
-Nell'articolo su come [mescolare i colori](/mescolare-colori/) avevamo presentato una tecnica di prospettiva aerea (nella parte finale), sicuramente più complessa da eseguire rispetto a quella citata in questo post. Io le ho sperimentate entrambe e devo dire che quella descritta qui è sicuramente molto più semplice da usare e i risultati sono ugualmente soddisfacenti.
+Nell'articolo su come [mescolare i colori]({{ site.baseurl }}/mescolare-colori/) avevamo presentato una tecnica di prospettiva aerea (nella parte finale), sicuramente più complessa da eseguire rispetto a quella citata in questo post. Io le ho sperimentate entrambe e devo dire che quella descritta qui è sicuramente molto più semplice da usare e i risultati sono ugualmente soddisfacenti.

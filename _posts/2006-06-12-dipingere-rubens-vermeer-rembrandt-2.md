@@ -12,7 +12,7 @@ tags:
 author: sasadangelo
 ---
 
-![rose-fig11](https://www.disegnoepittura.it/wp-content/uploads/rose-fig11.jpg "rose-fig11")
+![rose-fig11]({{ site.baseurl }}/wp-content/uploads/rose-fig11.jpg)
 
 ### Disegno
 
@@ -20,7 +20,7 @@ Prima di iniziare a dipingere, generalmente si esegue sulla tela un accurato dis
 
 La figura mostra chiaramente il disegno del nostro soggetto.
 
-![rose-fig2](https://www.disegnoepittura.it/wp-content/uploads/rose-fig2.jpg "rose-fig2")
+![rose-fig2]({{ site.baseurl }}/wp-content/uploads/rose-fig2.jpg)
 
 ### Campitura
 
@@ -28,10 +28,10 @@ Abbiamo detto che ciascuna fase serve a risolvere uno specifico problema del pro
 
 Hai letto le altre puntate della serie di articoli Dipingere come Rubens, Vermeer e Rembrandt? Segui i seguenti link per leggere le altre puntate:
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (I parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (I parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt/)
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (III parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-3/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (III parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-3/)
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (IV parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-4/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (IV parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-4/)
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (V parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-5/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (V parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-5/)

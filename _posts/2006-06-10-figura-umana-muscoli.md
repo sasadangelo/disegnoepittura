@@ -11,7 +11,7 @@ tags:
 author: sasadangelo
 ---
 
-![th_stand](https://www.disegnoepittura.it/wp-content/uploads/th_stand.jpg "th_stand")
+![th_stand]({{ site.baseurl }}/wp-content/uploads/th_stand.jpg)
 
 Questo blog finora ha parlato poco della figura umana, ma presto verranno pubblicati vari articoli su questa materia.
 
