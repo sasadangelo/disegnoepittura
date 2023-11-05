@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Paesaggio dipinto con sfregazzi]({{ site.baseurl }}/wp-content/uploads/paesaggio-dipinto-con-sfregazzi.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 17 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Lo sfregazzo, in inglese [scumbling](https://gurneyjourney.blogspot.com/2009/12/scumbling.html), è l'applicazione di una piccola quantità di colore opaco su un'area precedentemente dipinta e asciutta. Il fondo, in genere, traspare e partecipa all'effetto finale. Il colore viene applicato in piccolissime quantità sfregandolo sul fondo asciutto. La piccola quantità, l'uso del pennello asciutto e l'operazione di strofinamento fanno in modo che lo sfondo traspaia nonostante il colore sia opaco.

@@ -18,6 +18,8 @@ author: sasadangelo
 
 ![Grisaglia dell'Uva]({{ site.baseurl }}/wp-content/uploads/grisaglia-uva.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quali colori usare per una grisaglia?
 
 Ricevo spesso questa domanda via email e oggi voglio provare a rispondere con quest'articolo.

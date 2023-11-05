@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![john-e-robinson]({{ site.baseurl }}/wp-content/uploads/john-e-robinson.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 John E. Robinson (1932-2008) è stato un artista della east coast americana specializzato nella realizzazione di paesaggi marini. I tipi di paesaggio dipinti dall'artista, però, non sono quelli a cui siamo abituati noi in italia, cioè paesaggi con mare calmo e azzurro, cielo limpido, barche, e case arroccate sulle colline. Il mare che dipingeva l'artista è quello tipico della costa pacifica americana, cioè mare agitato, grandi onde che si scagliano sulle rocce, schiuma presente un pò ovunque.
 
 Non c'è dubbio, dipingere questo genere di paesaggio è molto più complesso e prima dell'esperienza è necessario conoscere alcuni principi teorici di base che l'artista sa insegnare nei suoi libri, DVD e Workshop. Personalmente ho acquistato 4 VHS (che io ho poi convertito in DVD) e il libro [Painting the sea in oil using special effects]({{ site.baseurl }}/painting-the-sea-in-oils-using-special-effects/) e devo ammettere che sono stati soldi ben spesi. Nella sua biografia si legge che ha dipinto, nella sua carriera oltre 4000 paesaggi marini e 800 paesaggi e a vedere i risultati bisogna dire che l'esperienza c'è tutta. Ma la qualità maggiore dell'artista non è  stata tanto la sua bravura, quanto la sua capacità di riuscire a trasmettere le sue conoscenze a chi segue i suoi corsi.

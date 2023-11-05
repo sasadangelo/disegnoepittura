@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![block1]({{ site.baseurl }}/wp-content/uploads/block1.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 La pittura è spesso vista dai neofiti come una materia riservata a pochi eletti. Una delle cose più difficili per il principiante, è quella di colorare un oggetto su una superficie bidimensionale (es. foglio, tela, ecc.) in modo tale che sembri un oggetto reale. In questo esercizio dimostrerò, in realtà, che le difficoltà di un principiante sono dovute a due motivi principali:
 
 - mancanza di conoscenza;

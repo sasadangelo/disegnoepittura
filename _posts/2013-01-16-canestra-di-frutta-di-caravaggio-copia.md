@@ -14,6 +14,8 @@ author: edoardo
 
 ![Canestra di Frutta di Caravaggio]({{ site.baseurl }}/wp-content/uploads/Canestro-Frutta-Caravaggio.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 ## Prefazione
 
 Nell’eseguire la copia della Canestra di Frutta di Caravaggio, mio obbiettivo era riuscire a crearne una più simile all’originale, nelle dimensioni, nella tecnica esecutiva e nei materiali (per quanto possibile). Quindi, prima di iniziare, ho fatto un pò di studi su questa opera e le seguenti sono le informazioni che sono riuscito a ricavare, sia per le analisi fatte direttamente sul dipinto, sia tramite sperimentazione personale.

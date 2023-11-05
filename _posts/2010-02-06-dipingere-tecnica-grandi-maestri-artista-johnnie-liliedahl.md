@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![jm_liliedahl]({{ site.baseurl }}/wp-content/uploads/jm_liliedahl.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 [Johnnie Liliedahl](http://www.lilipubs.com/) è un'artista statunitense fortemente influenzata dalla pittura dei grandi maestri del XVIII e XIX secolo. L'artista dipinge prevalentemente con i colori ad olio soggetti come ritratti, paesaggi e nature morte. Nel corso della sua carriera ha pubblicato libri, [video corsi](http://www.lilipubsorders.com/ILLUMINATIONS-Foundational-Series-Oil/products/29/), workshops,  lezioni individuali. Leggendo la sua [biografia](http://www.lilipubs.com/bioinfo.htm) è curioso vedere come sia avvenuto il suo avvicinamento al mondo dell'arte. Durante il periodo scolastico lei amava la Chimica, la Fisica, la Letteratura Inglese, Teatro e Business Administration. All'Università si è laureata in Economia ed ha cominciato anche la sua carriera di economista in un college locale nella speranza che un giorno avrebbe preso il posto di Alan Greenspan alla Federal Reserve. Sempre dalla sua biografia si legge che in questo periodo si iscrisse ad un corso d'arte come diversivo. Pian piano iniziò a scoprire un talento latente ed iniziò ad appassionarsi a questo mondo leggendo tutto il possibile con grande voracità. Iniziò così a dedicarsi a quest'attività riuscendo ad aprire presto uno studio tutto suo in cui realizzare opere e tenere corsi per studenti.
 
 Questo ci fà capire come spesso si può iniziare una carriera per puro caso e che non è mai troppo tardi per iniziare a dipingere.

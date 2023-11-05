@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Il Ragazzo con Canestra di Frutta di Caravaggio]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest'articolo.
 
 E' opinione comune che Caravaggio non realizzasse un disegno preparatorio ma bensì tracciasse un disegno a pennello direttamente sulla tela alla maniera di Giorgione che, ricordiamo, fu collega di Tiziano nella bottega di Giovanni Bellini e che Tiziano fu maestro di Simone Peterzano a sua volta maestro di Caravaggio. Tuttavia, quando si parla di disegno preparatorio bisogna distinguere tra disegni preparatori eseguiti su carta e cartoni spesso richiesti per le committenze importanti e i disegni preparatori eseguiti sulla tela come traccia per la fase pittorica. Dei primi c'è sicuramente traccia in un contratto del 5 Aprile 1600 per i disegni preparatori della Cappella Cerasi a S. Maria del Popolo. Nello studio di Gesù Bambino per la natività di Palermo. Data la perfetta sovrapposizione del suonatore di Liuto di New York e Leningrado fa presupporre che Caravaggio abbia trasferito il disegno mediante qualche artificio. Per i disegni eseguiti direttamente su tela bisogna premettere che la preparazione bruno rossastra non essendo riflettente non consente di rilevarli facilmente.

@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/naso2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo post vedremo un semplice tutorial passo per passo per disegnare un naso. Come già detto in altre occasioni, il tutorial va utilizzato solo come guida di riferimento per un naso tipico, è chiaro che poi quando si disegna dal vero bisogna concentrarsi sulle differenze tra il naso che si osserva e il modello descritto qui. Il naso, probabilmente, è l'elemento del viso in cui queste differenze sono più marcate, perché esistono diversi tipi di naso: lungo, all'insù, aquilino. In quest'articolo prenderemo in considerazione un naso normale, in futuri post analizzeremo poi i diversi tipi di naso.
 
 L'intero volto umano può essere diviso in due parti: massa cranica e massa facciale. La massa cranica è la volta che contiene al suo interno il cervello ed occupa circa i 2/3 del volto. La massa facciale, invece, ospita gli elementi caratteristici del viso come: occhi, orecchio, naso e bocca. Quest'ultima è molto più piccola e occupa solo 1/3 dell'intero volto. Nella vista frontale, però, le due masse occupano, rispettivamente, il 50% del volto umano. Nella figura esse sono separate dalla linea L.

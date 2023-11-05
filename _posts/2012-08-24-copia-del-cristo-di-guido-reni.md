@@ -15,6 +15,8 @@ author: amalialarosa
 
 ![Copia Cristo - Guido Reni - Thumbnail]({{ site.baseurl }}/wp-content/uploads/copia-cristo-guido-reni-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 **Materiali:** Tela 30x40 a trama fine, pennelli martora n.0, n.1, pelo di bue n.4 n.6, liquin original.
 
 **Colori:** Bianco di zinco, bianco di titanio, rosso di cadmio chiaro, vermiglione, nero di vite, nero d'avorio, blu oltremare chiaro, lacca di garanza rosa, ocra rossa, terra d'ombra bruciata, giallo napoli.

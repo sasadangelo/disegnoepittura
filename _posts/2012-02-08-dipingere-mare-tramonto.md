@@ -12,6 +12,8 @@ author: amalialarosa
 
 ![Dipingere il mare con nave al tramonto ]({{ site.baseurl }}/wp-content/uploads/dipingere-mare-tramonto-11.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Ho pensato di realizzare una marina al tramonto con il mare agitato. Uno dei primi problemi che si presenta nel realizzare un tramonto è a mio avviso avere un cielo dai  colori credibili. Tutti sappiamo che il cielo ha dei colori che vanno dal  giallo all'azzurro,  ma che se li stendessimo insieme a contatto tra loro avremmo un verde che non esiste in nessun cielo. Vedremo qui una delle tante soluzioni per questo problema nei vari passi che affronteremo.
 
 **Materiali**

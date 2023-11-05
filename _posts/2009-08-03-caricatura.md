@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-obama.JPG)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 # La Caricatura
 _Pubblicato il **{{ page.date | date_to_string }}**_
 

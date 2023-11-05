@@ -15,6 +15,8 @@ title: "Dipingere un Paesaggio ad Acquarello"
 
 ![dipingere paesaggio acquarello]({{ site.baseurl }}/wp-content/uploads/redmire7.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 **Materiali**
 
 **Colori Acquarello** Terra d'Ombra Bruciata Blu Cobalto Verde Hooker Terra di Siena Bruciata Giallo Ocra Carminio d'Alzarina Rosso Chiaro Blu Oltremare

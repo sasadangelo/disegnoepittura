@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![rose-fig11]({{ site.baseurl }}/wp-content/uploads/rose-fig11.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 ### Disegno
 
 Prima di iniziare a dipingere, generalmente si esegue sulla tela un accurato disegno a matita successivamente calcato con un pennino ad inchiostro marrone. L'uso di questo pennino è fondamentale perchè la campitura tende a rimuovere la grafite del disegno a matita e senza questo accorgimento il disegno non sarebbe visibile nelle successive fasi. La scelta del colore marrone non è casuale, bensì serve a fare in modo che questo disegno si armonizzi con lo studio tonale eseguito nella fase successiva. L'inchiostro impiegherà pochissimi minuti per asciugare, quindi la successiva fase potrà iniziare quasi immediatamente.

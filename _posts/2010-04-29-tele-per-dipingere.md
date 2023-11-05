@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Tele per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela-100.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Il supporto per dipingere a olio per eccellenza è la tela che puoi acquistare in un negozio di Belle Arti o su Internet già montata su un telaio.
 
 ![Tela per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela.jpg)

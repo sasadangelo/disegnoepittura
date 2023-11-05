@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Poggiapolso]({{ site.baseurl }}/wp-content/uploads/reggipolso-dettaglio-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Il bastone poggiapolso è uno strumento molto utile per il pittore. In quest'articolo voglio spiegare come ho costruito il mio e come lo utilizzo.
 
 ## Che cos'è un bastone poggiapolso?

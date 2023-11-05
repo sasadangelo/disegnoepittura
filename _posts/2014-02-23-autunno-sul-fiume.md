@@ -15,6 +15,8 @@ author: cinziarispoli
 
 ![Autunno sul Fiume]({{ site.baseurl }}/wp-content/uploads/Dipinto-Completato-Mini.jpg) 
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 # Autunno sul Fiume
 _Pubblicato il **{{ page.date | date_to_string }}**_
 

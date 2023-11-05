@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![color mixing]({{ site.baseurl }}/wp-content/uploads/medium_colori2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Abbiamo visto nei precedenti post [come mescolare i colori]({{ site.baseurl }}/mescolare-colori/) per colorare una scatola blu. In quel caso avevamo utilizzato 3 colori: il colore locale dell'oggetto (cioè il colore reale), quello in ombra e quello esposto alla luce. I colori erano stati così ottenuti.
 
 - colore locale = blu (scelto a mio piacere)

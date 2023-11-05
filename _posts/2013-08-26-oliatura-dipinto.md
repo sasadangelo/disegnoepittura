@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Oliatura - Versare Olio]({{ site.baseurl }}/wp-content/uploads/oliatura-versare-olio-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo spiegherò cos'è l'oliatura di un dipinto e come si esegue.
 
 ## Problema

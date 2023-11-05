@@ -16,6 +16,8 @@ author: sasadangelo
 
 ![figura-intera]({{ site.baseurl }}/wp-content/uploads/figura-intera.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Con il termine inquadratura si indica quale parte del soggetto verrà rappresentato sul supporto da disegno, sia esso una tela che un foglio. Questo termine non appartiene solo al mondo della pittura, ma lo ritroviamo anche nel cinema,  nella fotografia e nel fumetto. Un ritratto o un nudo può essere eseguito utilizzando i seguenti tipi di inquadratura:
 
 - Primissimo piano Questo genere di inquadratura è riferita, tipicamente, al ritratto. Utilizzando questa inquadratura il viso è inquadrato così da vicino che solo una parte è visibile mentre le altre zone più periferiche sono tagliate fuori. Questa inquadratura, generalmente, si utilizza quando ci si vuole soffermare su alcuni dettagli del volto, come, ad esempio, un occhio particolarmente dettagliato, o un'espressione particolarmente significativa. E' un'inquadratura molto suggestiva che racconta molto del personaggio perchè magari si sofferma su un sorriso appena accennato, oppure su un'espressione che evoca sofferenza. Questa è l'inquadratura più stretta applicabile ad un ritratto dove il contesto (o sfondo) è praticamente inesistente. ![primissimo-piano]({{ site.baseurl }}/wp-content/uploads/primissimo-piano.jpg)

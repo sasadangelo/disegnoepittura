@@ -12,6 +12,8 @@ author: sasadangelo
 ---
 
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quest&#8217;articolo è un&#8217;introduzione alla prospettiva accidentale che ti aiuterà a migliorare i tuoi disegni rendendoli più realistici.
 
 ## Che cos&#8217;è la prospettiva accidentale?

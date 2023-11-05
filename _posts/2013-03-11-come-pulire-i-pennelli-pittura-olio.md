@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Pennelli rovinati]({{ site.baseurl }}/wp-content/uploads/pennelli-rovinati-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come pulire i pennelli quando si finisce di dipingere credo lo sanno tutti, [ne ho parlato anche io durante il corso di pittura ad olio]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-8/).
 
 Il metodo che tutti conoscono è quello di bagnare il pennello in un solvente, come trementina o acqua ragia, pulirlo con uno straccio e, infine, ricoprirlo con un pò di sapone. Chi non ama l'odore dei solventi sopra citati magari opterà per un sostituto vegetale inodore.

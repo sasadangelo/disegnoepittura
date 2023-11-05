@@ -12,6 +12,8 @@ author: simonecois
 
 ![Certificato Autenticità Fotografica]({{ site.baseurl }}/wp-content/uploads/certificato-autenticita-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come tutelare la paternità del quadro che intendi vendere e nel contempo garantire ai tuoi clienti l’autenticità dell’opera che stai offrendo? In quest'articolo spiegherò come scrivere una dichiarazione di autenticità fotografica,  come rilasciarla ai propri clienti e tutte le informazioni al riguardo che è necessario conoscere.
 
 ## Premessa

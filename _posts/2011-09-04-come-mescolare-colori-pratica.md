@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Mescolare colore verde uva]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 22 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Sai come mescolare il colore verde di una foglia con i colori ad olio? Sai come mescolare il rosso di un pomodoro, il giallo di un limone oppure il verde di un chicco d'uva bianca? Leggendo questo articolo potrai vedere in pratica come mescolo i colori per imitare le tinte della natura. Esso riassumerà, con esempi pratici, tutti i concetti teorici finora proposti utilizzando le 4 tavolozze di base.

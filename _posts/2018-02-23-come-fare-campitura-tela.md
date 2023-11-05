@@ -13,7 +13,10 @@ tags:
     - tutorial
 author: sasadangelo
 ---
+
 ![Campitura bls]({{ site.baseurl }}/wp-content/uploads/Campitura-mini.jpg){:width="295" height="200" .responsive_img}
+
+_Pubblicato il **{{ page.date | date_to_string }}**_
 
 # Come fare la Campitura di una Tela
 _Pubblicato il **{{ page.date | date_to_string }}**_

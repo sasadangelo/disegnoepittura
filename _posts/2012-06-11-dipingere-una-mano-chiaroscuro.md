@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Dipingere una mano in chiaroscuro]({{ site.baseurl }}/wp-content/uploads/dipingere-mani-chiaroscuro-14.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come dipingere una mano in chiaroscuro?
 
 Questa domanda apparentemente banale ha una risposta tutt'altro che banale. Riprendendo il lavoro de [Il Ragazzo che monda un frutto](https://it.wikipedia.org/wiki/Ragazzo_che_monda_un_frutto) di Caravaggio una delle prime cose che ho dovuto fare per completare il chiaroscuro è stato dipingere il chiaroscuro di una delle due mani. Come già spiegato in [quest'articolo la grisaglia la sto realizzando con terra d'ombra bruciata e bianco]({{ site.baseurl }}/tecniche-di-pittura-ad-olio-patata/). L'esecuzione di un chiaroscuro passa, a mio avviso, attraverso 5 fasi:

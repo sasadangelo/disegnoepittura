@@ -12,7 +12,11 @@ tags:
 author: sasadangelo
 ---
 
-![Colori ad Olio]({{ site.baseurl }}/wp-content/uploads/colori-olio.jpg) L'obiettivo di questa serie di articoli è di spiegare passo passo la tecnica, i materiali e i concetti che utilizzo nei miei dipinti. Questo mini corso è da considerare un "work in progress" che terrò sempre aggiornato con le evoluzioni che subirà il mio modo di dipingere nel tempo.
+![Colori ad Olio]({{ site.baseurl }}/wp-content/uploads/colori-olio.jpg)
+
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
+L'obiettivo di questa serie di articoli è di spiegare passo passo la tecnica, i materiali e i concetti che utilizzo nei miei dipinti. Questo mini corso è da considerare un "work in progress" che terrò sempre aggiornato con le evoluzioni che subirà il mio modo di dipingere nel tempo.
 
 ## Parte I - Introduzione alla Pittura ad Olio
 

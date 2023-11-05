@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Sezione Aurea]({{ site.baseurl }}/wp-content/uploads/sezione-aurea.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Foto da [fotografiapuntodincontro.](http://www.fotografiapuntodincontro.com/ "Fotografia Punto d'Incontro")_
 
 In quest'articolo voglio spiegarti che cos'è la sezione aurea e voglio anche scoprire con esso se realmente è stata utilizzata dai grandi pittori, scultori e architetti del passato come molti raccontano.

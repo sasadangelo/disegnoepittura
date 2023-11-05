@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![come-disegnare-occhi-ritratto]({{ site.baseurl }}/wp-content/uploads/come-disegnare-occhi-ritratto-13.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo analizzeremo in dettaglio il disegno dell'occhio umano. Avere queste conoscenze sarà di fondamentale importanza nella realizzazione di ritratti. I materiali necessari per questo tutorial sono: una matita, un carboncino, una gomma per cancellare e un foglio. Questa foto ci consente di avere un pò di terminologia sul tema dell'occhio umano.
 
 ![come-disegnare-occhi-ritratto]({{ site.baseurl }}/wp-content/uploads/come-disegnare-occhi-ritratto.gif)

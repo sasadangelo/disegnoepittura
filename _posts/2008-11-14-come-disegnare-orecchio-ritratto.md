@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/orecchio.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo post vedremo un semplice tutorial passo per passo per disegnare un orecchio. Come già detto in altre occasioni il tutorial va utilizzato solo come guida di riferimento per un orecchio tipico, è chiaro che poi quando si disegna dal vero bisogna concentrarsi sulle differenze tra l'orecchio che si osserva e il modello descritto qui.
 
 ![]({{ site.baseurl }}/wp-content/uploads/proporzioni-viso-8.jpg)

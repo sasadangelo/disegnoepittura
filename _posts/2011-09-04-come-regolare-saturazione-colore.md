@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Regolare la saturazione di un colore con una scala di grigi]({{ site.baseurl }}/wp-content/uploads/regolare-saturazione-scala-grigi.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 20 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Sei un principiante e hai sempre dubbi su come mescolare i colori per ottenere le tinte desiderate? Questo è il terzo articolo della serie in cui spiego come mescolare i colori per imitare le tinte della natura, in esso vedremo che cos'è la saturazione di un colore e come regolarla.

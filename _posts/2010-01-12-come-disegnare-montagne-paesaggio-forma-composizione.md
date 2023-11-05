@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![come-disegnare-montagne-paesaggio-thumb]({{ site.baseurl }}/wp-content/uploads/come-disegnare-montagne-paesaggio-thumb.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Questo è il primo di una serie di tre articoli su come disegnare le montagne in un paesaggio. Uno degli elementi tipici del paesaggio sono le montagne che, spesso, conferiscono profondità al disegno. Nel disegno delle montagne sono tre gli elementi su cui focalizzare la nostra attenzione:
 
 - forma (o silhouette) e composizione;

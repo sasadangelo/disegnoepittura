@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![John Howard Sanden]({{ site.baseurl }}/wp-content/uploads/sanden.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 [John Howard Sanden](http://www.johnhowardsanden.com) è un famoso ritrattista statunitense membro del [Portrait Institute](http://www.portraitinstitute.com), un'organizzazione che, originariamente, teneva un convegno annuale di 5 giorni sul tema del Ritratto. Dal sito dell'artista è possibile vedere i suoi lavori, le onoreficenze ricevute, i clienti e molte altre informazioni. E' curioso leggere come l'artista sia stato [selezionato dallo staff della Casa Bianca per il ritratto del 43° Presidente degli Stati Uniti George W. Bush](http://www.whitehouse.gov/the-press-office/2012/05/31/background-information-presentation-portraits-president-george-w-bush-an).
 
 Vi propongo questa foto dell'artista in posa in uno dei suoi studi perchè in essa è ripreso il mobile indicato dalla freccia rossa che l'autore utilizza come tavolozza. Fondamentalmente il mobile ha un base di appoggio, due cassetti dove riporre i colori e pennelli, un piano bianco con sopra un vetro che l'artista utilizza come tavolozza. E' possibile osservare come a lato sia collocato il panno carta. Il piano sottostante il vetro è bianco perchè l'artista non usa campiture sulle sue tele, bensì lavora direttamente sulla tela preparata in bianco. Il cavalletto sembra pensato per tenere tele di grandi dimensioni.

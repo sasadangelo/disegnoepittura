@@ -14,11 +14,13 @@ author: gvalotto
 
 ![Tutorial su come Disegnare una Jaguar KAS 560]({{ site.baseurl }}/wp-content/uploads/0-disegno-jaguar-kas-560-finito-mini.jpg "Disegnare una Jaguar KAS 560")
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo tutorial vorrei mostrarvi come ho disegnato una Jaguar d'epoca.
 
 Questo è il risultato finale che ho ottenuto.
 
-![Disegno finito della Jaguar Kas 560](https://www.disegnoepittura.it/wp-content/uploads/12-disegno-jaguar-kas-560-finito-e1395523962725.jpg)
+![Disegno finito della Jaguar Kas 560]({{ site.baseurl }}/wp-content/uploads/12-disegno-jaguar-kas-560-finito-e1395523962725.jpg)
 
 ## I materiali
 

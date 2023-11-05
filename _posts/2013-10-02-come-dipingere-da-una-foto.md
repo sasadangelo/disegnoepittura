@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Come dipingere da una Foto]({{ site.baseurl }}/wp-content/uploads/Colore-foglia-primo-piano-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Per email ricevo spesso domande su come dipingere da una foto e come fare ad imitarne le tinte. Di tanto in tanto questo tema viene ripreso anche sul forum. Per questo motivo ho deciso di dedicare all'argomento un articolo del blog. E' probabile che alcuni concetti già li conosci, ma se avrai la pazienza di leggere tutto l'articolo ti posso assicurare che troverai la visione di insieme molto interessante.
 
 ## Perché dipingere da una Foto?

@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![bocca8]({{ site.baseurl }}/wp-content/uploads/bocca8.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come si disegna la bocca in un Ritratto? La bocca è un elemento fondamentale nel disegno del Ritratto. Questo articolo spiega come disegnare una bocca passo dopo passo. Dopo aver studiato le [proporzioni del viso]({{ site.baseurl }}/proporzioni-viso/), il [disegno dell' occhio]({{ site.baseurl }}/come-disegnare-occhi-ritratto/), [dell'orecchio]({{ site.baseurl }}/come-disegnare-orecchio-ritratto/) e [del naso]({{ site.baseurl }}/come-disegnare-naso-ritratto/) in questo tutorial analizzeremo il disegno della bocca. ![bocca11]({{ site.baseurl }}/wp-content/uploads/bocca11.jpg)
 
 Nel post relativo al [disegno del naso]({{ site.baseurl }}/come-disegnare-naso-ritratto/) abbiamo visto che la lunghezza di quest'ultimo è pari circa alla metà della lunghezza della massa facciale. L'altra metà è occupata dalla bocca e dal mento. Se dividiamo in 3 parti lo spazio che intercorre tra la base del naso e il mento notiamo che 2/3 è occupato dalla bocca e 1/3 dal mento. Gli spigoli laterali della bocca si allineano con il centro delle pupille, quindi la lunghezza della bocca è pari alla distanza dei centri delle due pupille.

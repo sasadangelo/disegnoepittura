@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Tecnica di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Con quale tecnica Caravaggio eseguiva i suoi dipinti? Questa è una serie di articoli il cui obiettivo è quello di illustrarti qual era la  tecnica di Caravaggio per realizzare molti dei suoi dipinti. Approfondirò l'argomento mediante l'analisi di alcuni suoi dipinti e vedrai una serie di progetti eseguiti passo dopo passo, per realizzare alcune copie di suoi dipinti, realizzati dai membri della community Disegno & Pittura.
 
 ## Chi era Caravaggio?

@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![leonardo da vinci]({{ site.baseurl }}/wp-content/uploads/medium_leonardo2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Alcuni lettori potrebbero trovare questo articolo noioso perchè non entra nei dettagli particolari di tecniche pittoriche, tuttavia io ne suggerisco la lettura perchè molte delle frasi di Leonardo riportate qui hanno cambiato la mia visione della pittura, facendomi capire che se è vero che la pratica è lo strumento attraverso cui un artista perfeziona la sua tecnica, questa sarà sempre di scarso livello se non è accompagnata da un profondo studio della teoria.
 
 [_Del primo principio della scienza della pittura ..._](https://it.wikisource.org/wiki/Trattato_della_Pittura_%28da_Vinci%29/Parte_seconda/41._Del_primo_principio_della_scienza_della_pittura)

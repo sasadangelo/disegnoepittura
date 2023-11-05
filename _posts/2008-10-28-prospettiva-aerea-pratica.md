@@ -16,6 +16,8 @@ author: sasadangelo
 
 ![depth-by-color-2-blue-depth]({{ site.baseurl }}/wp-content/uploads/depth-by-color-2-blue-depth.png)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 I tuoi paesaggi sono piatti? Ti piacerebbe dipingere paesaggi con un gran senso di spazio e profondità? La conoscenza della prospettiva aerea può aiutarti a raggiungere questo obiettivo. Dopo aver definito che cos'è la [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/) e le sue caratteristiche principali, in quest'articolo vedremo un esempio pratico di applicazione con una palla verde.
 
 Supponiamo di avere 3 sfere della stessa grandezza ma posti a distanze diverse. La prospettiva lineare ci dice che man mano che un oggetto si allontana esso diventa più piccolo.

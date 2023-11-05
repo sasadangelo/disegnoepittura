@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![nero avorio maimeri classico]({{ site.baseurl }}/wp-content/uploads/nero-avorio-maimeri-classico1.jpg "nero avorio maimeri classico")
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 [Dopo che hai analizzato le varie marche e linee di colori]({{ site.baseurl }}/colori-ad-olio/) e hai effettuato la tua scelta in termini di rapporto qualità/prezzo, devi scegliere con quali colori comporre la tua tavolozza.
 
 L'idea di quest'articolo è di farti iniziare con una tavolozza molto semplice composta da pochi colori che poi puoi arricchire con nuovi colori man mano che la tua esperienza aumenta.

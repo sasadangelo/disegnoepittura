@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![helen van wyk]({{ site.baseurl }}/wp-content/uploads/helen.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Helen van Wyk (1930-1994) è nata in Fair Lawn nel New Jersey. Nella sua [biografia](http://www.askart.com/artist/Helen_Van_Wyk/117592/Helen_Van_Wyk.aspx) si legge che ha iniziato a dipingere all'età di 12 anni studiando con artisti del calibro di Ralph Entwistle e Maximillian Rasko. Nel 1990 ha realizzato per la PBS una serie televisiva dal titolo "Welcome to my Studio" dove insegnava la sua tecnica pittorica.
 
 Helen van Wyk è stata, essenzialmente, un'artista figurativa con una tecnica molto accademica e con un elevata competenza nella realizzazione di ritratti  e  nature morte. Il modo di insegnare di Helen van Wyk può essere considerato opposto a quello di Bob Ross. Mentre quest'ultimo si preoccupava di fornire ricette di mescolanze e di applicazione della pittura già pronte per l'uso, l'aproccio di Helen era sicuramente più orientato alla spiegazione del perchè certe cose bisognave realizzarle in un certo modo. Helen van Wyk iniziava sempre le sue opere con uno studio tonale in acrilico realizzato solo con il bianco e nero, su cui poi applicava i colori ad olio una volta che questo strato fosse asciutto.

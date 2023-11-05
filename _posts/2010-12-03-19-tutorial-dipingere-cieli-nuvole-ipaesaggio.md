@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![19 Fantastici Tutorial per imparare a dipingere il cielo e le nuvole in un paesaggio]({{ site.baseurl }}/wp-content/uploads/dipingere-cielo-nuvole.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo articolo ho raccolto 16 tutorial, video e testuali, su come dipingere cieli e nuvole in un paesaggio. Penso che saranno molto utili sia all'artista principiante che a quello più esperto. Tutti i tutorial sono in lingua inglese, ad ogni modo credo che le immagini siano auto esplicative. Per gli articoli si potrà utilizzare Google Translator per farsi aiutare nella traduzione.
 
 1. **[Clouds with Color Oil Painting (Olio)](https://www.draw-n-paint.com/Art.Work.History/Clouds/Clouds_with_Color/Clouds_with_Color.html)** Questo tutorial mostra passo dopo passo come dipingere un cielo con una bella nuvola paffuta. I colori sono molto belli e anche la forma della nuvola, questo è il motivo per cui ho selezionato questo tutorial.

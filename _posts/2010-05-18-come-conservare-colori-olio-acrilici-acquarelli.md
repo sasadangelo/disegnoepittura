@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/come-conservare-colori-olio-71.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quando si termina una sessione di pittura è inevitabile che sulla tavolozza rimangono dei resti di colore inutilizzato, come fare per conservarlo ed evitare di buttarlo via?
 
 I miei materiali li tengo in una cassetta degli attrezzi di plastica tipo quelli che usano gli idraulici, elettricisti, ecc. Adoro questi contenitori perchè sono molto spaziosi, ricchi di ripiani e contenitori. Li trovate anche nei centri commerciali. In queste cassette ci sono contenitori che io riservo alla conservazione dei colori. La prima cosa che faccio è quella di dedicare un piccolo foglio di alluminio a ciascun colore.

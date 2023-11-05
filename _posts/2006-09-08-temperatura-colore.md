@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![temperatura]({{ site.baseurl }}/wp-content/uploads/temperatura.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Che cos'è la temperatura di un colore? Conoscere che cos'è la temperatura di un colore come può aiutarti a dipingere meglio?
 
 In questo articolo impareremo che cosa si intende con il termine temperatura e come questo concetto può essere utile al pittore per dipingere meglio.

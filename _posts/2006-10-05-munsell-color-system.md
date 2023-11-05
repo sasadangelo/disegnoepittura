@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![munsell1]({{ site.baseurl }}/wp-content/uploads/munsell1.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 A partire da oggi, vedremo come mescolare i colori con il metodo di Munsell. Molti artisti usano questo modello perchè fornisce un modo semplice e intuitivo per descrivere un colore e riuscire a mescolarlo mediante la combinazione di due o più colori. Questo sistema si basa sulla teoria di [Albert Munsell](https://en.wikipedia.org/wiki/Albert_Henry_Munsell), un pittore americano che fu l'ideatore di questo sistema e da cui esso prendo il nome.
 
 Essendo un modello creato da un artista esso si basa molto sulla percezione dell'occhio umano. Quindi non è un sistema matematico, bensì più un sistema intuitivo, diciamo adatto agli scopi di un artista.

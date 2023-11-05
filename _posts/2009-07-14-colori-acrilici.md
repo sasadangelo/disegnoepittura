@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Colori acrilici]({{ site.baseurl }}/wp-content/uploads/jerry-1.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quest'articolo è una breve introduzione all'uso dei colori acrilici in cui elencheremo i vantaggi e gli svantaggi. L' articolo, inoltre, offre anche alcuni suggerimenti su come ovviare agli svantaggi offerti da questo strumento pittorico.
 
 ### I vantaggi dei colori acrilici

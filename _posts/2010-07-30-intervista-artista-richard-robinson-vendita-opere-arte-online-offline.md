@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/richard-robinson-painter.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 [Richard Robinson](http://www.livepaintinglessons.com/) è un artista neozelandese autodidatta che da dieci anni è artista professionista ed utilizza Internet come veicolo di promozione del suo lavoro. Richard ha anche un [blog](http://thecompleteartist.ning.com/) che io seguo attraverso gli RSS feed. Richard si occupa prevalentemente di paesaggi e il suo business model è basato su:
 
 - vendita di opere

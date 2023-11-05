@@ -12,6 +12,8 @@ author: salvomarchesani
 
 ![Vernice Provvisoria a base d'uovo]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Hai realizzato un dipinto ad olio e sai che devi aspettare almeno sei mesi per poterlo verniciare. Allo stesso tempo, però, sei ansioso di mostrarlo ai tuoi familiari ed amici, ma non vuoi che vedano le imperfezioni della superficie dovuti ai prosciughi che spesso è impossibile evitare. Come fare?
 
 La soluzione è aspettare che il dipinto asciughi e passare sopra al dipinto una vernice provvisoria che poi rimuoverai dopo sei mesi prima di applicare la vernice finale vera e propria. In quest'articolo voglio mostrarti come applicare al tuo dipinto una vernice a chiara d'uovo provvisoria. Questa è una ricetta antichissima utilizzata anche dai grandi maestri del passato.

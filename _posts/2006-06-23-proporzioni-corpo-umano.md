@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Proporzioni del corpo umano]({{ site.baseurl }}/wp-content/uploads/body.gif)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come per il viso anche per il corpo umano è possibile definire le relazioni tra le varie parti di un modello ideale. 
 
 Generalmente il corpo umano è alto 7/7.5 volte la testa, anche se è prassi comune (per questione di bellezza visiva) sostenere che sia uguale a 8 la lunghezza della tesa. Il centro del corpo è il pube.

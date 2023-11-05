@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![come mescolare scala grigi colori olio]({{ site.baseurl }}/wp-content/uploads/come-mescolare-scala-grigi-6.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Più volte su questo blog ho parlato delle tre importanti caratteristiche del colore: hue, tono e saturazione. Il tono come sappiamo è il grado di chiarezza del colore, ossia quanto esso sia chiaro o scuro. Ho più volte sottolineato che un buon studio tonale  o [chiaroscuro]({{ site.baseurl }}/chiaroscuro/) rappresenta l'80% della complessità di qualsiasi dipinto. Ci sono alcune tecniche, [come quelle dei pittori fiamminghi]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt/) e rinascimentali, che richiedono uno studio tonale preciso primo di passare alla colorazione del dipinto. Questa fase viene comunemente denominata grisaglia. La grisaglia, tipicamente, si realizza con un solo colore mescolato in gradi diversi con il bianco. In genere, il numero di gradi non supera mai 10 o 11. Un tipico colore con cui si realizzavano le grisaglie erano i verdi (verdaccio), bruni o neri. In questo tutorial vi mostrerò  la procedura che utilizzo per mescolare una scala di grigi composta da nero e bianco.
 
 ![come mescolare scala grigi colori olio](/wp-content/uploads/come-mescolare-scala-grigi-1.jpg)

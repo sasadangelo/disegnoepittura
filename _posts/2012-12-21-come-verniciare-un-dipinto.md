@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Verniciare un dipinto - seconda mano]({{ site.baseurl }}/wp-content/uploads/vernice-finale-stesura-2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come verniciare un dipinto?
 
 In quest'articolo voglio spiegarti, in dettaglio, come verniciare un quadro ad olio quand'è finito. Se frequenti da tempo Disegno & Pittura, soprattutto il forum, probabilmente avrai letto centinaia di opinioni su questo tema. Se mi dedicherai però un po' del tuo tempo credo che quest'articolo sarà per te comunque molto interessante.

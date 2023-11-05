@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![come-disegnare-ritratto-donna-carboncino-27]({{ site.baseurl }}/wp-content/uploads/come-disegnare-ritratto-donna-carboncino-27.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo vedremo come realizzare il Ritratto di una donna con un carboncino. Per fare ciò analizzeremo un video in due parti su Youtube di [Lon Haverly](http://www.lonhaverly.com/) che a me è piaciuto molto e da cui ho imparato alcune cose che spero ora di condividere con voi.
 
 Cominciamo con il prendere un foglio 45x60 bianco e leggermente ruvido e un carboncino che troverete facilmente in qualsiasi negozio di belle arti.

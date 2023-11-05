@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![body8]({{ site.baseurl }}/wp-content/uploads/body8.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Fino ad oggi abbiamo discusso le [proporzioni del corpo umano]({{ site.baseurl }}/proporzioni-corpo-umano/), in riferimento ad una figura ideale. Abbiamo validato poi quelle proporzioni analizzando l'[uomo vitruviano di Leonardo]({{ site.baseurl }}/uomo-vitruviano/). Lo scopo di questo tutorial è quello di costruire, passo dopo passo, una figura umana tenendo in considerazioni le proporzioni ideali definite secoli orsono da Vitruvio prima e i pittori rinascimentali poi.
 
 ![disegno figura umana]({{ site.baseurl }}/wp-content/uploads/body1.jpg)

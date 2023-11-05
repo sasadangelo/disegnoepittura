@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Dipingere gocce di acqua]({{ site.baseurl }}/wp-content/uploads/dipingere-gocce-acqua-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo voglio spiegarti come dipingere gocce di acqua.
 
 Diversi anni fa ho tradotto un articolo su [Come dipingere gocce di acqua]({{ site.baseurl }}/dipingere-una-goccia/). Oggi voglio approfondire l'argomento mostrandoti come dipingere gocce di acqua con un sistema molto rapido, veloce ma, soprattutto, pratico.

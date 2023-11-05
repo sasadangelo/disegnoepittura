@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Come dipingere forme geometriche in scala di grigi]({{ site.baseurl }}/wp-content/uploads/come-colorare-forme-geometriche-scala-grigi-9.png)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la Lezione 11 del _[corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).__
 
 Uno dei principali problemi in pittura è quello di dipingere su tela, che per sua natura è bidimensionale, oggetti della vita reale che sono tridimensionali. Il problema venne risolto definitivamente nel Rinascimento con la Prospettiva, che Brunelleschi ideò per rappresentare su carta progetti architettonici e Masaccio applicò per primo alla pittura. Oltre alla rappresentazione dei contorni degli oggetti, in pittura esiste il problema di dare un volume a questi oggetti. Sappiamo che in combinazione alla prospettiva si può utilizzare il [chiaroscuro per fornire una perfetta percezione dei volumi]({{ site.baseurl }}/percezione-volume/). Questo è vero per i disegni in chiaroscuro, per dipinti monocromatici (es. in scala di grigi) ma anche per i dipinti a colori. Uno dei problemi più frequenti che vedo anche in artisti di media esperienza è la difficoltà nel dare volume agli oggetti. Non è raro vedere alcuni dei classici errori che ho evidenziato nell'articolo [17 errori da evitare quando si dipinge con i colori ad olio]({{ site.baseurl }}/17-errori-evitare-quando-dipinge-colori-olio/). Questa difficoltà probabilmente è dovuta ad alcune lacune di base che possono essere risolte attraverso un semplice esercizio che ora andrò ad illustrarvi.

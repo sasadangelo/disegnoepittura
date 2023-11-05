@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Regola dei Terzi]({{ site.baseurl }}/wp-content/uploads/regola-terzi-2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Nell'[articolo sui punti e le aree focali]({{ site.baseurl }}/punti-aree-focali/) abbiamo visto l'importanza di creare un centro di interesse nelle nostre opere artistiche. La domanda a cui vogliamo dare una risposta in questo articolo è la seguente: **dove collocheremo questo centro di interesse sul nostro foglio da disegno?** Un possibile approccio è la famosa **regola dei terzi**. Fondamentalmente, dato un foglio rettangolare disposto in senso orizzontale o verticale, dividiamo ciascun lato in tre parti e uniamo con segmenti paralleli ai lati questi punti tra loro come mostrato nella seguente figura.
 
 ![Regola dei Terzi]({{ site.baseurl }}/wp-content/uploads/regola-terzi-1.jpg)

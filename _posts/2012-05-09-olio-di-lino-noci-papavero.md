@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Olio di lino]({{ site.baseurl }}/wp-content/uploads/olio-lino.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Per dipingere con la tecnica a olio, generalmente, vengono impiegati tre tipi di olio: lino, noci e papavero.
 
 Tra i tre l'olio di lino è sicuramente quello più utilizzato sia per il costo inferiore che per la sua maggiore siccatività.

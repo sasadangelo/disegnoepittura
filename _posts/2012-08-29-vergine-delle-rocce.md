@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come fu dipinta da Leonardo la Vergine delle Rocce oggi custodita alla National Gallery?
 
 Come forse ben sai Leonardo dipinse due versioni della Vergine delle Rocce. [Una custodita al Louvre](https://it.wikipedia.org/wiki/Vergine_delle_Rocce_%28Parigi%29 "Vergine delle Rocce al Louvre") e l'altra alla [National Gallery di Londra](https://it.wikipedia.org/wiki/Vergine_delle_Rocce_%28Londra%29 "Vergine delle Rocce alla National Gallery").

@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![munsellsphere]({{ site.baseurl }}/wp-content/uploads/munsellsphere.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Il termine **saturazione** (o **croma**) è quello che confonde di più gli artisti. Generalmente, con questo termine si intende il grado di brillantezza di un colore e non va confuso con il tono che, invece, indica quanto chiaro o scuro è un colore. Si può anche dire molto grossolanamente che la saturazione indica la quantità di grigio in un colore.
 
 Il grado di saturazione di un colore può essere regolato mescolando quest'ultimo con un grigio di pari tonalità- Ad esempio, supponendo di avere un viola di tono 7, come mostra la seguente figura, il suo grado di saturazione potrà essere regolato mescolando questo viola con un grigio di pari tonalità (7).

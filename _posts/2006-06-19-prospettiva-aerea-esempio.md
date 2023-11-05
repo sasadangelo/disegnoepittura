@@ -16,6 +16,8 @@ author: sasadangelo
 
 ![prospettiva-aerea]({{ site.baseurl }}/wp-content/uploads/prospettiva-aerea.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 I tuoi paesaggi sono piatti e privi di profondità? Uno dei motivi ricorrenti di questo problema è la non conoscenza della prospettiva aerea. In quest'articolo illustro come ho realizzato un semplice paesaggio marino utilizzando i principi della prospettiva aerea.
 
 In passato, su questo blog, abbiamo parlato di [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/) mostrando anche qualche [esempio pratico]({{ site.baseurl }}/prospettiva-aerea-pratica/). In un altro articolo ho spiegato una [semplicissima tecnica su come simularla]({{ site.baseurl }}/prospettiva-aerea-esempio-applicazione/). Infine, ho pubblicato anche un articolo su [come la luce del sole e dell'atmosfera influenzano gli elementi di un paesaggio]({{ site.baseurl }}/colore-luce-sole-atmosfera/). Mettendo insieme tutti i concetti esposti in questi articoli ho realizzato un semplice paesaggio marino la cui realizzazione voglio ora qui illustrare per dare un seguito pratico ai concetti teorici finora esposti..

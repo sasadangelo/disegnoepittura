@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Underpainting Paesaggio in terra d'ombra bruciata]({{ site.baseurl }}/wp-content/uploads/underpainting-terra-ombra-bruciata.JPG)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 14 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Nell'[ultimo articolo del corso]({{ site.baseurl }}/tecnica-bagnato-bagnato-grasso-magro/), parlando della tecnica grasso su magro, ho dato una definizione di underpainting. Esso è uno strato pittorico realizzato mediante uno o più colori e un medium su cui poi, una volta asciugato, si sovrappongono altri strati di pittura.

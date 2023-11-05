@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Matite Colorate]({{ site.baseurl }}/wp-content/uploads/matite-colorate.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Le matite colorate, insieme alla classica matita da disegno, sono gli strumenti artistici più comuni. Da piccoli ognuno di noi ha posseduto una scatola di matite colorate. Quelle che interessano a noi, però, non sono le stesse che utilizzavamo da bambini perchè spesso le matite per studenti non sono di qualità eccellente.
 
 In commercio esistono diversi brand per le matite colorate, le più comuni sono [Prismacolor](http://www.prismacolor.com/products/colored-pencils). Cito questo brand perchè molti dei tutorial disponibili in rete o sui libri artistici fanno riferimento ad esso. Questi tutorial spesso citano nomi di colori che diventa facile da trovare se si possiede quello specifico brand, altrimenti bisogna fare delle prove per scovare il colore giusto. Personalmente non utilizzo i colori Prismacolor bensì utilizzo matite colorate di varie marche collezionati di volta in volta nel corso di questi anni.

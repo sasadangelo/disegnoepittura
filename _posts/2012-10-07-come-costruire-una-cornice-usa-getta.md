@@ -12,6 +12,8 @@ author: efiorentini
 
 ![Enrico Fiorentini]({{ site.baseurl }}/wp-content/uploads/enrico-fiorentini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Spiego, a chi è interessato, come costruire una cornice usa e getta che uso quando devo regalare un quadro.
 
 Quando devo regalare o vendere un dipinto - ma non è il mio caso, perché non ne ho mai venduto uno - sapendo che il dipinto acquista di gradevolezza se incorniciato, cerco di abbellirlo con una cornice. Non volendo sobbarcarmi la spesa di una costosa cornice, correndo il rischio che magari venga sostituita da chi riceve il regalo, perché non in tono con l’arredamento, realizzo da me una cornice Usa e Getta!

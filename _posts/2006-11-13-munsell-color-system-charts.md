@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![munsell-25r]({{ site.baseurl }}/wp-content/uploads/munsell-25r.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Dopo aver [introdotto il modello di Munsell]({{ site.baseurl }}/munsell-color-system/) e aver dato una definizione delle tre caratteristiche di  un colore: [hue]({{ site.baseurl }}/munsell-color-system-hue/), [tono]({{ site.baseurl }}/munsell-color-system-parte-tono/) e [saturazione]({{ site.baseurl }}/munsell-color-system-saturazione/); è il momento di dare un'occhiata alla tabelle dei colori. Esse possono essere usate per confrontarle con una data tinta e capire così che posizione assume nell'albero di Munsell.
 
 Allo stesso modo può servire per capire un dato tubetto di colore che posizione occupa nell'albero. A tal proposito, bisogna ricordare che un colore avente un dato nome può essere completamente diverso da un brand all'altro. Ad esempio, un rosso di cadmio chiaro può assumere una posizione se è Maimeri, un'altra se è Winsor & Newton.

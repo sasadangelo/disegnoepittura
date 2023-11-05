@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![semplici-regole-composizione-disegno-ritratto-3]({{ site.baseurl }}/wp-content/uploads/semplici-regole-composizione-disegno-ritratto-3.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Nell'articolo [I diversi tipi di Inquadratura nel Disegno del Ritratto e della Figura Umana]({{ site.baseurl }}/inquadratura-disegno-ritratto-figura-umana/) abbiamo visto le tre possibili inquadrature del ritratto:
 
 - primissimo piano

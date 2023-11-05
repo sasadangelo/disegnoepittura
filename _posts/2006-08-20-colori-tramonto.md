@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![sunset31]({{ site.baseurl }}/wp-content/uploads/sunset31.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Su questo blog, in diverse occasioni, abbiamo parlato di [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/). Con quest'articolo vogliamo fare un ulteriore passo avanti discutendo anche di cosa accade al tramonto.
 
 Consideriamo un osservatore sulla terra che osserva l'orizzonte. Il suo cono visuale è, ovviamente, limitato. Tutto quello che vede, viene proiettato su un piano di proiezione. L'osservatore, così come ogni cosa sulla terra è avvolto dall'atmosfera. Possiamo immaginare, quindi, che tra lui è l'orizzonte ci siano veli di atmosfera. Come si può verificare nella parte alta del suo cono visuale, ci sono meno veli di atmosfera rispetto all'orizzonte. Questo comporta che a parità di distanza gli oggetti posti più in alto (es. cime montagne) sono più scure rispetto alla base.

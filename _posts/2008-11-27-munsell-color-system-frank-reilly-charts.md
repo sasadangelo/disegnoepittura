@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Frank Reilly Charts]({{ site.baseurl }}/wp-content/uploads/palettefrankreilly-ylarge.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Ti piacerebbe sapere come realizzare le tabelle dei colori di Frank Reilly?
 
 Cominciamo con il dire che queste tabelle ti serviranno come guida quando dovrai mescolare i colori per ottenere le tinte desiderate. Abbiamo visto nelle semplificazioni del modello di Munsell di Frank Reilly che il suo metodo prevede solo 10 hue, quindi 10 tabelle di colori, una per ciascuno hue.Per prima cosa bisognerà [mescolare i grigi neutri di Frank Reilly]({{ site.baseurl }}/munsell-color-system-grigi-frank-reilly/) necessari per regolare la saturazione dei colori.

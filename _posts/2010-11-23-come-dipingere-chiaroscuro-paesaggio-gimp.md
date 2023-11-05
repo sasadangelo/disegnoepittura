@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Chiaroscuro di un Paesaggio](/wp-content/uploads/paesaggio-chiaroscuro-16.PNG)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la Lezione 12 del _[corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).__
 
 In questa lezione impareremo a riconoscere i toni in un paesaggio in modo da riuscire a dipingerlo in chiaroscuro. Nel precedente articolo abbiamo visto [come eseguire il chiaroscuro]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-chiaroscuro-forme-geometriche-base/) di alcuni oggetti di base. Ora però è tempo di applicare quei concetti ad un vero paesaggio che, come sappiamo, è il soggetto che sempre utilizzeremo durante questo corso.

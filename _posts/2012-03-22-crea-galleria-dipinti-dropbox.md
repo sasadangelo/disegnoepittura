@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Crea la tua Galleria di dipinti con Dropbox]({{ site.baseurl }}/wp-content/uploads/galleria-dipinti-dropbox-1.JPG)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Non hai un sito web e vuoi far conoscere i tuoi dipinti sul web?
 
 Crea la tua galleria di dipinti con pochi click.

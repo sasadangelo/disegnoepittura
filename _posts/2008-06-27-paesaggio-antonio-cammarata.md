@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![cammarata1]({{ site.baseurl }}/wp-content/uploads/cammarata1.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo cercherò di illustrarvi il mio tentativo (non so quanto riuscito) di imitare una delle opere di [Antonio Cammarata]({{ site.baseurl }}/antonino-cammarata/). Per questo lavoro ho utilizzato dei colori ad olio ad acqua. I colori li ho scelti in base al mio gusto personale e se lo desidera il maestro potrà suggerire le sue miscele in un commento a questo post.
 
 Il dipinto è stato eseguito su cartone telato 30 x 40. ![cammarata2]({{ site.baseurl }}/wp-content/uploads/cammarata2.jpg)

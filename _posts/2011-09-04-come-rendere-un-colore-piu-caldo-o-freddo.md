@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Tavolozza colori primari]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-primari.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 21 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Sei un principiante e hai sempre dubbi su come mescolare i colori per ottenere le tinte desiderate? Questo è il quarto articolo della serie in cui spiego come mescolare i colori per imitare le tinte della natura, in esso vedremo che cos'è la temperatura di un colore e come regolarla.

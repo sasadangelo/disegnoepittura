@@ -12,6 +12,8 @@ author: sasadangelo
 ---
 ![figura-umana-drappeggio-punti-ancoraggio][1]
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 ![figura-umana-drappeggio-punti-ancoraggio]({{ site.baseurl }}/wp-content/uploads/figura-umana-drappeggio-punti-ancoraggio-thumb.jpg)
 
 Nell'articolo [Come Disegnare il Drappeggio nella Figura Vestita: movimenti che generano le pieghe]({{ site.baseurl }}/come-disegnare-drappeggio-movimenti-causano-pieghe/) abbiamo visto che le pieghe di un vestito sono sempre il risultato di alcune forze che si generano da azioni compiute dalla figura, a partire da punti specifici. Questi punti vengono definiti **punti di ancoraggio** e, tipicamente, risiedono: sul collo, sotto le ascelle, nei gomiti e ginocchia, all'altezza dell'ombelico e lungo linguine e i glutei.

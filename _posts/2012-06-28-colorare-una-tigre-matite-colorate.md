@@ -15,6 +15,8 @@ author: giadaottone
 
 ![Colorare una Tigre con le Matite Colorate]({{ site.baseurl }}/wp-content/uploads/matite-colorate-tigre-completo-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo articolo cercherò di illustrare tutte le fasi per colorare una tigre con le matite colorate,  prendendo come esempio una mia opera.
 
 SUPPORTO: Il disegno verrà realizzato su un foglio bianco F4 Liscio di cm 40x50.

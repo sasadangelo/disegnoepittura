@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Giovanni Paolo Lomazzo]({{ site.baseurl }}/wp-content/uploads/giovanni-paolo-lomazzo.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questo è un guest post di Marco Fenocchio. Se vuoi scrivere anche tu un guest post per questo blog leggi il [regolamento qui]({{ site.baseurl }}/scrivi-articolo)._
 
 Come dipingevano il viso gli antichi maestri? Come mescolavano i colori? Probabilmente tutti gli artisti si pongono queste domande e quest'articolo proverà a dare delle risposte in base agli scritti di uno di loro.

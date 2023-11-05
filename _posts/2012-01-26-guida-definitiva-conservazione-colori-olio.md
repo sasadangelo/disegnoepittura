@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Conservazione dei colori ad olio in acqua]({{ site.baseurl }}/wp-content/uploads/conservazione-colori-acqua-1.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Devi dipingere un quadro in più sessioni ma sei stanco di preparare ogni volta le miscele? Ad ogni sessione le miscele non vengono mai uguali a quelle precedenti? Vorresti conservare i colori tra una sessione e l'altra ma non sai esattamente quale metodo usare? I colori costano troppo e vorresti evitare di buttare via il colore non usato quando hai finito di dipingere?
 
 Su questo blog e sul [forum di Disegno & Pittura](http://forum.disegnoepittura.it/) abbiamo parlato spesso di conservazione dei colori e dei diversi metodi esistenti. Purtroppo non esiste un metodo adatto ad ogni occasione e ciascuno ha i suoi pro e contro. Conoscere questi pro e contro ti aiuterà ad usare il metodo giusto nell'occasione giusta.

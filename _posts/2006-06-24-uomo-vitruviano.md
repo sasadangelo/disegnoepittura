@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![uomo vitruviano]({{ site.baseurl }}/wp-content/uploads/homovit.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Che cos'è l'uomo vitruviano? Perchè può essere importante per un artista studiarlo? Quest'articolo vi aiuterà a rispondere a queste domande affinchè il tema delle proporzioni del corpo non abbia per voi più segreti.
 
 In esso approfondiremo le considerazioni di Leonardo su l'uomo vitruviano tratte da un [articolo dell'Università Bocconi di Milano](http://matematica.unibocconi.it/articoli/misura-duomo-leonardo-e-luomo-vitruviano).

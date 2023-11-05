@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Imprimitura di una Tela]({{ site.baseurl }}/wp-content/uploads/0-Imprimitura_di_una_Tela.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo voglio spiegare come preparo la tela per dipingere a olio.
 
 ## Perché preparare la tela prima di dipingere?

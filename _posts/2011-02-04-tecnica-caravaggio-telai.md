@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Fanciullo con il canestro di frutta]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest'articolo.
 
 ## I Telai al tempo di Caravaggio

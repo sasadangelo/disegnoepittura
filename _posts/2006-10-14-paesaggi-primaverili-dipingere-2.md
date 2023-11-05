@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![paesaggioprim]({{ site.baseurl }}/wp-content/uploads/paesaggioprim.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Hai mai pensato di poter dipingere un giorno paesaggi primaverili con montagne, alberi e laghi di grande impatto visivo? Questo è il secondo di una serie di tre articoli che se leggerai ti mostreranno come è semplice dipingere bellissimi paesaggi primaverili. Se non hai letto il [primo articolo]({{ site.baseurl }}/paesaggi-primaverili-dipingere/) ti consiglio di leggerlo prima di proseguire nella lettura di quest'articolo.
 
 Nel precedente articolo abbiamo analizzato la tecnica di Bob Ross mediante un tutorial dal titolo [Paesaggi primaverili da dipingere]({{ site.baseurl }}/paesaggi-primaverili-dipingere/). Nella prima fase abbiamo visto come dipingere il cielo, il lago e la montagna innevata, completando così lo sfondo del dipinto. In quest'articolo, invece, ci occuperemo del secondo piano, ossia gli alberi in lontananza e il terreno.

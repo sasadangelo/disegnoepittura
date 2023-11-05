@@ -16,6 +16,8 @@ author: sasadangelo
 
 ![Bal au Moulin de la Galette]({{ site.baseurl }}/wp-content/uploads/impressionisti-pranzo-canottieri.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 13 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Quando si comincia a dipingere si hanno tanti dubbi circa il processo da seguire per realizare i propri dipinti. Le domande che ci si pone sono del tipo: questo quadro devo finirlo tutto in una sessione? Per dipingere una certa area è giusto creare una base, lasciarla asciugare e poi finirla in una seconda sessione? I dubbi sono tanti e, come vedremo, non esiste una risposta giusta. Fondamentalmente, gli approcci alla pittura ad olio sono di due tipi:

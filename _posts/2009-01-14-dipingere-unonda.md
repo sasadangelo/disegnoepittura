@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Dipingere Un'Onda]({{ site.baseurl }}/wp-content/uploads/dipingere-onda.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Vuoi imparare a dipingere un paesaggio marino con le onde? Il seguente tutorial ti insegnerà come fare passo dopo passo.
 
 Il soggetto prevede un’onda che si infrange sugli scogli in primo piano e alcuni scogli che si intravedono in lontananza. L’onda sarà il centro di interesse del nostro soggetto.

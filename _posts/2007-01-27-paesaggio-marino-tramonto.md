@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![twilight-mist-7]({{ site.baseurl }}/wp-content/uploads/twilight-mist-7.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Con questo semplice tutorial vorrei illustrare l'applicazione pratica di alcuni articoli sulla [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea-esempio-applicazione/) illustrati su questo blog. Il protagonista principale di questo dipinto è l'atmosfera calda del cielo al tramonto. Nei post precedenti abbiamo parlato di prospettiva aerea e di come simularla. Abbiamo parlato, fondamentalmente, di due tecniche:
 
 - riduzione del tono e della saturazione mediante lo schiarimento dei colori e l'aggiunta dei complementari.

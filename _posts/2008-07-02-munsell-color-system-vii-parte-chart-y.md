@@ -12,7 +12,11 @@ tags:
 author: sasadangelo
 ---
 
-![munsell_y_chart]({{ site.baseurl }}/wp-content/uploads/munsell_y_chart.jpg) In questo [post]({{ site.baseurl }}/munsell-color-system-pratica/) abbiamo visto la posizione dei pigmenti ad acquarello Maimeri Venezia nello spazio colorimetrico di Munsell. Ora proviamo a costruire la chart Y (quella del Giallo) con i pigmenti a nostra disposizione.
+![munsell_y_chart]({{ site.baseurl }}/wp-content/uploads/munsell_y_chart.jpg)
+
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
+In questo [post]({{ site.baseurl }}/munsell-color-system-pratica/) abbiamo visto la posizione dei pigmenti ad acquarello Maimeri Venezia nello spazio colorimetrico di Munsell. Ora proviamo a costruire la chart Y (quella del Giallo) con i pigmenti a nostra disposizione.
 
 In questa chart utilizzeremo i seguenti colori: giallo indiano, ocra gialla, terra di siena naturale e terra ombra naturale. Il Giallo indiano ha tono 8 e saturazione 11. Ocra gialla ha tono 6 e saturazione 9. Terra di siena naturale ha tono 4 e saturazione 7. Terra ombra naturale ha tono 1 e saturazione 1. Iniziamo a posizionare questi pigmenti sulla chart.
 

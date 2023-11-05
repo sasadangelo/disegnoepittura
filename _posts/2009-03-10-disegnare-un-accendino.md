@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/still_life_drawing_tutorial_12.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo tutorial vedremo come disegnare un accendino.
 
 Per realizzare il disegno di questo accendino utilizzeremo matite di diversi gradi di durezza, da quelle più dure (9H-H) a quelle più morbide (9B-B) a cui aggiungiamo anche la matita HB.

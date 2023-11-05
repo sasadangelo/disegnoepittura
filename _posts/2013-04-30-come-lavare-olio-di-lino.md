@@ -12,6 +12,8 @@ author: salvomarchesani
 
 ![Lavaggio olio di lino]({{ site.baseurl }}/wp-content/uploads/Olio-lavaggio-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo voglio spiegare il metodo che utilizzo per rendere l'olio per dipingere (lino, noce o papavero) più incolore e siccativo. Questo metodo è utile per avere un olio che ingiallisce poco le tinte (soprattutto i bianchi e gli azzurri) e secca più velocemente.
 
 Questa è una procedura che eseguo una volta all'anno nel mese di Luglio e Agosto perché il sole forte favorisce la chiarificazione dell'olio.

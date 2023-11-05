@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![Ragazzo che monda un frutto]({{ site.baseurl }}/wp-content/uploads/ragazzo-monda-frutto.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Con quest'articolo raccolgo l'invito di MELO (Carmelo Gigliuto) ad organizzare l'evento **Incontra il Maestro  Michelangelo Merisi detto Caravaggio** il cui obiettivo è quello di divertirci insieme dipingendo un'opera di [Caravaggio](https://it.wikipedia.org/wiki/Michelangelo_Merisi_da_Caravaggio) o una qualsiasi opera di fantasia o della vita reale nello stile del maestro. Ovviamente nessuno si sogna di voler imitare l'inarrivabile maestro, bensì è solo l'occasione per imparare qualcosa sulla sua tecnica e su questo artista. Del resto  lo stesso Leonardo diceva nel suo Trattato:
 
 > Il giovane debbe prima imparare prospettiva; poi le misure d'ogni cosa; poi di mano in mano imparare da buon maestro, per assefuarsi a buone membra; poi dal naturale, per confermarsi la ragione delle cose imparate, poi vedere un tempo l'opere di mano di diversi maestri; poi far abito di mettere in pratica, ed operare l'arte.

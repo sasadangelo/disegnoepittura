@@ -11,6 +11,7 @@ tags:
 author: sasadangelo
 ---
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
 
 
   Navigando sulla rete ho trovato questo tutorial che enuncia alcune semplici regole di composizione. Per composizione si intende la capacità di riuscire ad organizzare tutti gli elementi da ritrarre in modo tale che agli occhi dell&#8217;osservatore possano apparire il più gradevole possibile. A volte è sufficiente avere un pò di buon gusto, tuttavia alcune semplici regole non guastano.

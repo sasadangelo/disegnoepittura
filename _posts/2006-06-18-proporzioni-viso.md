@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![proporzioni-viso-8]({{ site.baseurl }}/wp-content/uploads/proporzioni-viso-8.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In precedenza abbiamo parlato delle [proporzioni nel ritratto]({{ site.baseurl }}/il-ritratto/), fornendo le misure di un modello ideale che dovrebbe fungere da punto di riferimento durante l'esecuzione di un ritratto. In questo post vedremo la costruzione di questo modello spiegato passo per passo con maggiori dettagli sull'esecuzione.
 
 Quando si ritrae una persona bisogna tenere in mente alcune misure standard di un modello ideale. La bravura dell'artista sarà quella di comprendere quanto il soggetto si discosta da questo modello ideale. Su Internet ci sono diversi tutorial del tipo che sto esponendo qui. Ognuno si differenzia per qualche misura. Il mio invito è quello di fissarne nella vostra mente uno che a voi sembra plausibile. L'importante è poi avere la capacità di osservare le differenze tra il soggetto da ritrarre e il modello ideale che avete fissato nella vostra mente.

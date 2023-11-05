@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Prospettiva Centrale]({{ site.baseurl }}/wp-content/uploads/prospettiva-centrale-thumb.png)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quest'articolo è un'introduzione alla prospettiva centrale. Leggendolo inizierai ad apprendere alcuni concetti che ti aiuteranno a creare disegni più belli e realistici.
 
 Nell’articolo sulla [percezione dello spazio]({{ site.baseurl }}/percezione-spazio/) abbiamo compreso come linee convergenti verso un punto danno un senso di profondità. Il prossimo passo è quello di comprendere i principi base della [prospettiva]({{ site.baseurl }}/composizione-prospettiva/).

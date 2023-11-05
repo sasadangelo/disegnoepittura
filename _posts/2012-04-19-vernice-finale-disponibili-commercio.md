@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Vernice Finale]({{ site.baseurl }}/wp-content/uploads/Vernice-Finale.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Le vernici sono composti liquidi formati da uno o più resine e da un solvente ed hanno diversi impieghi nella pittura a olio. Possono essere usati per creare medium, vernici finali o da ritocco. In quest'articolo faremo una panoramica delle vernici disponibili in commercio.
 
 ## Classificazione delle vernici in base al solvente

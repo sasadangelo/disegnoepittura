@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![rose]({{ site.baseurl }}/wp-content/uploads/rose.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 ### Grisaglia
 
 La grisaglia può essere considerato, a tutti gli effetti, un sinonimo di chiaroscuro. In questa fase esso non verrà realizzato con un solo colore diluito con la miscela di damar e trementina, bensì con una scala di grigi. Gli artisti di lingua anglossassone che utilizzano questa tecnica chiamano questa fase Dead Layer che, tradotto letteralmente, sarebbe una specie di “strato morto” che sicuramente non suona molto bene. Il termine “morto” viene usato perchè in questa fase si utilizza una scala di grigi ottenuto mediante una tavolozza di terra (o tavolozza “morta”) composta principalmente da bianco e nero più alcuni colori come: giallo ocra, terra d'ombra bruciata ecc.

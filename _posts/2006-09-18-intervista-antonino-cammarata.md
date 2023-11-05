@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![fuori]({{ site.baseurl }}/wp-content/uploads/fuori.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Nei giorni scorsi ho avuto la possibilità di scambiare qualche email con il pittore [Antonino Cammarata]({{ site.baseurl }}/antonino-cammarata/).
 
 Da questo scambio di email, che potremo quasi definire un'intervista, è venuto fuori un quadro abbastanza interessante circa la tecnica da egli utilizzata. In quest'articolo riporterò una sintesi di quanto ci siamo detti. Il maestro può intervenire quando vuole se per caso ho commesso errori o omissioni. I lettori possono aggiungere i loro commenti se lo desiderano.

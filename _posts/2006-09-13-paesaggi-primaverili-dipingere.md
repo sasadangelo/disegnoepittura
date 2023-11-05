@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![dipingere paesaggio primaverile]({{ site.baseurl }}/wp-content/uploads/paesaggio-primaverile.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Hai mai pensato di poter dipingere un giorno paesaggi primaverili con montagne, alberi e laghi di grande impatto visivo? Questo è il primo di una serie di tre articoli che se leggerai ti mostreranno come è semplice dipingere bellissimi paesaggi primaverili.
 
 I materiali richiesti per questa opera sono i seguenti. Colori: bianco titanio, giallo di cadmio, carminio d'alzarina, verde vescica, arancio di cadmio e nero d'avorio. Materiali: pennellessa da 2 ½", pennello medio a ventaglio, spatola, acqua ragia inodore, tela 40x50, tovaglioli, pennellessa da 1", pennello sottile, contenitore per pulire i pennelli, tavolozza e cavalletto.

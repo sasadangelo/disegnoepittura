@@ -16,6 +16,8 @@ author: sasadangelo
 
 ![Colori Olio]({{ site.baseurl }}/wp-content/uploads/colori-olio.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In qualsiasi opera d'arte sia essa un paesaggio, natura morta, ritratto, figura umana o contemporanea si compone di una o più delle seguenti caratteristiche:
 
 1. Composizione Per [composizione]({{ site.baseurl }}/composizione-prospettiva/) si intende come disporre le varie figure sulla superficie da disegnare. Queste figure possono essere linee, poligoni, figure complesse ecc. Se le linee, i punti e le figure si possono considerare come l'alfabeto del disegno, la composizione ne è la grammatica, perchè detta le regole di come disporre tali punti, linee e figure al fine di avere qualcosa di sensato. Su questo blog ho dedicato già molti articoli a quest'argomento per cui, quando sarà necessario, vi rimanderò ad essi piuttosto che ripetermi. La prima cosa da fare per dipingere ad olio un paesaggio è [scegliere il tipo di supporto e la sua forma]({{ site.baseurl }}/forma-supporto/). Il cartone telato, la tela o il pannello telato sono scelte obbligate e la forma rettangolare in posizione orizzontale è sicuramente quella più adatta al paesaggio. Consiglio, inoltre, di rileggere il seguente articolo che contiene alcune [semplici regole di composizione nel paesaggio]({{ site.baseurl }}/12-regole-composizione/) molto utili. Quest'articolo fornisce alcuni utili suggerimenti come:

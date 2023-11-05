@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Tecniche di pittura ad olio: la patata]({{ site.baseurl }}/wp-content/uploads/pulire-dipinto-con-patata-5.JPG)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Hai per lungo tempo lasciato un dipinto e ora vuoi riprenderlo? Durante tutto questo tempo il dipinto si è impolverato? Il colore sembra che scivoli via e non si lega perfettamente al supporto? Quest'articolo ti spiegherà una delle tecniche di pittura ad olio più antica che ti aiuterà a risolvere questi problemi.
 
 Lavorando grasso su magro spesso, tra una fase e l'altra, i dipinti riposano per diverso tempo. Con gli impegni di lavoro e familiari è possibile che per lungo tempo non si tocca un dipinto e lo si vuole riprendere dopo diverse settimane se non addirittura mesi. Dopo tutto questo tempo capita spesso che il colore non sembra si leghi bene al supporto sottostante o, più semplicemente, nonostante tutti gli accorgimenti presi ci si accorge che la superficie non appare perfettamente pulita.

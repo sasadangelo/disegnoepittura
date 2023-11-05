@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/acquarello-2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo post vorrei illustrarvi un esempio su come dipingere un paesaggio innevato con fienile in rovina.
 
 **Materiali**

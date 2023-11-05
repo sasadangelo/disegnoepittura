@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Ragazzo che monda un frutto]({{ site.baseurl }}/wp-content/uploads/ragazzo-monda-frutto-imprimitura.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest'articolo.
 
 Il tema dell'imprimitura è abbastanza complesso perchè dalle analisi statigrafiche sembra che in opere diverse Caravaggio abbia usato materiali diversi. E' evidente che una tela grezza è completamente inadatta a ricevere il colore, da qui la necessità di applicare su di essa uno strato preparatorio. In generale si può dire che qualsiasi imprimitura è composta da 3 elementi fondamentali:

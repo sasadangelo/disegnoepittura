@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Tavolozza dei colori completa]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-completa.jpg "Tavolozza dei colori completa")
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 19 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 Sei un principiante e hai difficoltà a capire quali colori usare sulla tua tavolozza? Hai sempre dubbi su come mescolare i colori per ottenere la tinta desiderata? Quando mescoli i colori ottieni sempre tinte morte e prive di vita? Non sai come schiarire o scurire un colore?

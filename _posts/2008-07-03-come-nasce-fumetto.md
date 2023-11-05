@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![topolino]({{ site.baseurl }}/wp-content/uploads/topolino.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Dopo aver introdotto e spiegato cos'è un [fumetto]({{ site.baseurl }}/fumetto/) e quali sono [le fasi per la sua realizzazione]({{ site.baseurl }}/fasi-fumetto/) in quest'articolo vorrei riportare un ipotetico scenario di realizzazione di un fumetto ispirandomi ad un articolo letto su [www.fumetto.org](https://www.fumetto.org).
 
 1. L'editore decide di creare una nuova pubblicazione che può essere composto da una o più storie. Nomina un direttore che la dirigerà. Il direttore a sua volta creerà il suo staff. Non è obiettivo di quest'articolo capire quali sono le figure che compongono tale staff.

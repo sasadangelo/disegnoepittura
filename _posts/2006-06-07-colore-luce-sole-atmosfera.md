@@ -11,6 +11,8 @@ tags:
 author: sasadangelo
 ---
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Non ricordo se è stato Seurat a dire: "un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso". Allo stesso modo la pensa sicuramente [John E. Robinson]({{ site.baseurl }}/dipingere-mare-lezioni-artista-john-robinson/) che sostiene che un quadro è un susseguirsi di decisioni (compositive, tonali, colorimetriche, ecc.).
 
 Quando si dipinge un paesaggio o una marina, tra le tante decisioni da prendere sicuramente ci sono le seguenti:

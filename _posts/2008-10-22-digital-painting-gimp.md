@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-10.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Dal [Wikipedia](https://it.wikipedia.org/wiki/Pittura_digitale) leggiamo la seguente definizione di Pittura Digitale:
 
 > La Pittura Digitale (o Digital Painting) è una nuova forma d'arte inglobata nell'[arte digitale](https://it.wikipedia.org/wiki/Arte_digitale) o nell'[arte visiva](https://it.wikipedia.org/wiki/Arte_visiva). Essa utilizza strumenti tecnologici che simulano il tratto del pennello reale. I numerosi software creati appositamente a tale scopo possiedono ormai una vastissima libreria di pennelli, tratti e tecniche di ogni tipo: dalla tempera, all'olio, all'acquerello, all'aerografia e così via. Anche le tavolozze dei colori hanno una gamma vastissima, e pressoché infinita di scelte possibili.

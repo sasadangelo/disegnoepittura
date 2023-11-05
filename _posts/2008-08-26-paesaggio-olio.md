@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Paesaggio Olio]({{ site.baseurl }}/wp-content/uploads/lago-ross-8.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In questo tutorial impareremo a dipingere un paesaggio ad olio.
 
 Colori: Giallo Cadmio Chiaro, Giallo Indiano, Ocra Gialla, Terra Siena Bruciata, Bruno Van Dyck, Rosso Cadmio Chiaro, Cremisi d'Alzarina, Blu di Prussia, Blu Ftalo, Verde Ftalo, Verde Vescica, Nero Avorio e Bianco Titanio.

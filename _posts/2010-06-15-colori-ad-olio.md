@@ -15,6 +15,8 @@ author: sasadangelo
 
 ![Terra di Siena Naturale]({{ site.baseurl }}/wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quando si comincia a dipingere a olio una delle difficoltà più grandi è la scelta dei colori da usare. In quest'articolo cercherò di chiarire quali sono i prodotti disponibili in commercio.
 
 ## Marche e Linee di Colori

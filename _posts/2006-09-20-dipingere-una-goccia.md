@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![dipingere una goccia]({{ site.baseurl }}/wp-content/uploads/medium_drops4.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come dipingere una goccia? Quante volte ti è capitato di vedere quelle stupende nature morte ricche di dettagli e effeti speciali come le gocce d'acqua e ti sei chiesto: ma come fanno? Questo tutorial ti spiegherà, in breve, come dipingere una goccia.
 
 Questa è una libera traduzione di un articolo di [Pierre Labeau](http://www.wetcanvas.com/ArtSchool/QuikTips/index.html) presente sul forum Wetcanvas. Il tutorial mostra come dipingere due tipi di gocce e, per ciascuna di esse, fornisce 4 foto progressive di avanzamento che ti aiuteranno nella comprensione.

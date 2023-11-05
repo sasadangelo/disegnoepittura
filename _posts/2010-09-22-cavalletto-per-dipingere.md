@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Cavalletto per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-14-Cavalletti-100.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest’articolo voglio spiegare quali cavalletti per dipingere sono disponibili in commercio e, inoltre, mi piacerebbe parlare anche di altri materiali usati nella pittura a olio come: solventi, medium e spatole.
 
 ## Il Cavalletto per dipingere

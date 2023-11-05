@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![rose-fig1]({{ site.baseurl }}/wp-content/uploads/rose-fig1.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Oggi inizieremo ad analizzare la tecnica che, presumibilmente, hanno utilizzato molti pittori fiamminghi come Rubens, Vermeer e Rembrant con un piccolo progetto che realizzeremo passo per passo. Mi sono interessato a questa tecnica qualche tempo fa partecipando ad una discussione sul tema della [tecnica dei fiamminghi](http://www.wetcanvas.com/forums/showthread.php?t=141627). In pratica sul forum di Pittura ad Olio di Wetcanvas un artista pubblicò una procedura già descritta sul sito di [Artpapa](http://www.artpapa.com/). Poichè la lettura di una discussion di un forum in inglese potrebbe essere per qualcuno troppo difficile da seguire, ho pensato di scrivere un articolo integrando le informazioni ivi riportate con altre in mio possesso derivanti sia da siti come Artpapa sia da altre fonti. Nel frattempo, per chi lo desiderasse, sul sito di Artpapa troverà due lezioni gratuite su questa tecnica: [Lezione 1](http://www.1art.com/tips.htm) e [Lezione 2.](http://www.artpapa.com/oil-painting-lesson-1/index.html)
 
 ### Introduzione

@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![medium_pigmenti2]({{ site.baseurl }}/wp-content/uploads/medium_pigmenti2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Nell'articolo [Osservazioni sui colori per aiutare l'artista a mescolare i colori in Pittura]({{ site.baseurl }}/osservazioni-colori/) abbiamo visto come in natura esistono solo 6 colori: giallo, rosso, blu, verde, viola, arancio. Ovviamente a questi si aggiungono il bianco e nero (anche se qualcuno, a ragione, potrà sostenere che il bianco e il nero non esistono in natura).
 
 A volte qualcuno afferma che un oggetto è di colore: marrone, beige, carne, etc. Un artista che ha buona conoscenza della teoria dei colori dovrebbe sapere che in natura queste tinte non esistono, esse sono solo variazioni di hue, tono e saturazione dei colori citati sopra. In commercio, però, esistono dei pigmenti dai nomi un pò curiosi: giallo cadmio chiaro, rosso carminio, terra di siena, ecc.

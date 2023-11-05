@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Quale tavolozza dei colori usare per la pittura ad olio? Come la si usa? Come si pulisce?
 
 Nel corso degli anni ho provato numerose tavolozze e, come già spiegato nella serie di articoli [Materiali per Pittura ad Olio]({{ site.baseurl }}/materiali-per-pittura-ad-olio/ "Materiali per pittura ad olio"), quella che mi sento di consigliare è la tavolozza  in legno scuro di grandezza almeno pari a quella di un foglio A3 o A4.

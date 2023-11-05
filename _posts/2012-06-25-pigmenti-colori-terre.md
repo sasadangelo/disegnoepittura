@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Calcinazione Ocra Rossa]({{ site.baseurl }}/wp-content/uploads/pigmento-ocra-rossa.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Come preparavano i colori di "terra" gli antichi maestri?
 
 Quest'articolo deriva da una [discussione aperta poco tempo fa sul forum circa la preparazione e le ricette dei colori antichi](http://forum.disegnoepittura.it/viewtopic.php?f=5&t=1059). I colori possono essere di origine animale, vegetale o minerale. Le cosiddette "terre" sono tutti colori di origine minerale e i colori più noti sono sicuramente: giallo ocra, ocra rossa (o terra rossa), terra di siena naturale, terra di siena bruciata, terra d'ombra naturale, terra d'ombra bruciata e terra di cassel (comunemente nota con il nome bruno van dyck). Il processo che dalla materia grezza (di origine animale, vegetale o minerale) porta al colore che siamo abituati ad usare prevede due fasi:

@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Paesaggio di Van Gogh con impasto]({{ site.baseurl }}/wp-content/uploads/impasto-van-gogh.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 _Questa è la lezione 16 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._
 
 L'impasto, in inglese si usa lo stesso termine italiano, è l'applicazione di uno spesso strato di pittura. Le differenze tra impasto e [velatura]({{ site.baseurl }}/velature/) sono le seguenti:

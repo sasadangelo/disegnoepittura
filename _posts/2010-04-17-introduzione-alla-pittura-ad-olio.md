@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Questo è l'articolo d'introduzione del mio "mini corso" sulla pittura a olio in cui cerco di spiegare, passo dopo passo, come eseguo i miei dipinti. Questo corso è da considerare un "work in progress" che terrò sempre aggiornato con l'evoluzione che subirà la mia tecnica con la pittura a olio.
 
 Con quest'articolo risponderò alle domande che generalmente si pone chi comincia a dipingere.

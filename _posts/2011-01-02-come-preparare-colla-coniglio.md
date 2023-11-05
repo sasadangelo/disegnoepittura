@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Colla di Coniglio]({{ site.baseurl }}/wp-content/uploads/colla-coniglio-2.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 In quest'articolo voglio spiegare come preparare la colla di coniglio.
 
 Quella [di coniglio](https://it.wikipedia.org/wiki/Colla_di_coniglio) è una colla di origine animale tradizionalmente usata nella preparazione della tela.

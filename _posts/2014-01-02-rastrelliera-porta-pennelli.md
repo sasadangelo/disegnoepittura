@@ -13,6 +13,8 @@ author: sasadangelo
 
 ![Rastrelliera Porta Pennelli]({{ site.baseurl }}/wp-content/uploads/rastrelliera-pennelli-mini.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Oggi voglio mostrarvi un utilissimo strumento che utilizzo quando dipingo che potete costruire anche voi facilmente: **una rastrelliera porta pennelli**.
 
 ## Il Problema

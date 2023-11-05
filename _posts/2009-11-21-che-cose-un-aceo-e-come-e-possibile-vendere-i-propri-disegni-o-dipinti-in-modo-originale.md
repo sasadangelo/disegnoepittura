@@ -12,6 +12,8 @@ author: sasadangelo
 
 ![aceo]({{ site.baseurl }}/wp-content/uploads/aceo.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 Un pò di tempo fa venne in Italia una mia cugina inglese che non vedevo da anni. Parlando del più e del meno venni a conoscenza di una tipica tradizione anglosassone che ignoravo: il regalo delle cartoline. Nelle festività o particolari ricorrenze sembra che sia consuetudine tra amici e parenti scambiarsi delle cartoline. Queste cartoline rappresentano anche una specie di status symbol, nel senso che chi ne riceve molte  è una persona con tanti amici e persone che le vogliono bene. Lo potremmo considerare come un equivalente dei regali di Natale. Questa cosa fa comprendere perchè si è diffusa l'usanza tra gli artisti di vendere, anche online, gli ACEO.
 
 La sigla ACEO sta per Art Card Editions and Originals, sono delle piccole opere in miniatura la cui dimensione è fissa: 6.4 cm (2.5 pollici) x 8.9 cm (3.5 pollici); ed è pari a quelle delle carte da baseball molto diffuse negli USA. Un ACEO può essere sia un disegno che un'opera pittorica realizzata con qualsiasi medium (matite colorate, acquarelli, acrilici e così via).

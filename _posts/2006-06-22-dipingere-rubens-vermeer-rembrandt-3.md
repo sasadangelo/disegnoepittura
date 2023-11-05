@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![rose]({{ site.baseurl }}/wp-content/uploads/rose.jpg)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 ### Chiaroscuro
 
 La fase di chiarscuro serve a risolvere un altro problema fondamentale del processo pittorico: la definizione dei toni. Con il termine tono, generalmente, si intende il chiaroscuro di una data tinta. Prima di iniziare bisogna stendere, come già visto nel passo precedente, una mano di olio di lino su tutta la tela e rimuovere quello in eccedenza con uno straccio. Si utilizzi poi una lama di rasoio per rimuovere i granelli di polvere che si sono accumulati durante la settimana di attesa. Questa base di olio essiccherà in un giorno e questo è il motivo per cui bisogna partire dai dettagli, nel nostro caso le rose e le foglie, e lasciare per ultimo le aree più estese come ad esempio lo sfondo. Le zone che non vengono dipinte in giornata possono essere dipinte il giorno successivo, facendo però attenzione a rivuore l'olio dalla superficie con uno straccio asciutto, altrimenti esso ingiallirà la nostra superficie pittorica. Quando si riprenderà il lavoro il giorno seguente, bisognerà stendere di nuovo l'olio sulle aree non ancora dipinte.

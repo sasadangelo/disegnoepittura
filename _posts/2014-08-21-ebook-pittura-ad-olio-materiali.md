@@ -14,6 +14,8 @@ author: sasadangelo
 
 ![Pittura ad Olio - Materiali]({{ site.baseurl }}/wp-content/uploads/3d-100.png)
 
+_Pubblicato il **{{ page.date | date_to_string }}**_
+
 A Maggio ho annunciato che avrei sospeso le attività di Disegno & Pittura per un anno in modo da potermi dedicare ad altri miei interessi. Nella mia mente questo periodo doveva anche essere l'opportunità per riflettere su come gestire in futuro questo spazio web. Una decisione che all'inizio sembrava così difficile e dolorosa si è rivelata, invece, molto saggia.
 
 Ho riscoperto la gioia di fare tante cose che non facevo da tempo. Alcuni utenti si sono un po' spaventati di questa mia decisione intravedendo in essa l'inizio della fine di Disegno & Pittura. La realtà è che le cose stanno esattamente all'opposto e questo articolo ne è la prova tangibile.
