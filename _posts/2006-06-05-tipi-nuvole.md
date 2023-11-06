@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![cumlon]({{ site.baseurl }}/wp-content/uploads/cumlon.jpg) 
 
+# Tipi di nuvole
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Nei paesaggi spesso le nuvole rivestono un ruolo fondamentale. Le nuvole si dividono in 3 categorie in base alla loro distanza dal suolo:

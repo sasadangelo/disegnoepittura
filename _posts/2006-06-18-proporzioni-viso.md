@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![proporzioni-viso-8]({{ site.baseurl }}/wp-content/uploads/proporzioni-viso-8.jpg)
 
+# Proporzioni del viso
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In precedenza abbiamo parlato delle [proporzioni nel ritratto]({{ site.baseurl }}/il-ritratto/), fornendo le misure di un modello ideale che dovrebbe fungere da punto di riferimento durante l'esecuzione di un ritratto. In questo post vedremo la costruzione di questo modello spiegato passo per passo con maggiori dettagli sull'esecuzione.

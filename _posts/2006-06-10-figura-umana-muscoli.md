@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![th_stand]({{ site.baseurl }}/wp-content/uploads/th_stand.jpg)
 
+# Figura umana e muscoli
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Questo blog finora ha parlato poco della figura umana, ma presto verranno pubblicati vari articoli su questa materia.

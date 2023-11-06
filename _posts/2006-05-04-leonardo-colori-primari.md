@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![medium_leonardo2]({{ site.baseurl }}/wp-content/uploads/medium_leonardo2.jpg)
 
+# Leonardo e i colori primari
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Nel suo Trattato di Pittura leonardo si esprimeva così sui colori primari. Nella prima parte egli cita i 6 colori primari: giallo, rosso e blu (cioè i primari) insieme a bianco e nero più due colori come il verde e l'azzurro che, in realtà, non sono semplici. Infatti, Leonardo lo chiarisce poi successivamente.

@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Limone]({{ site.baseurl }}/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg)
 
+# Osservazioni sui colori per aiutare l'artista a mescolare i colori in Pittura
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 [Nell'articolo sul colore]({{ site.baseurl }}/colore/) abbiamo definito che cos'è il colore e abbiamo sottolineato la sua natura tridimensionale. Abbiamo visto, verso la fine dell'articolo, che per comprendere il colore di un oggetto bisogna porsi sempre 4 domande.

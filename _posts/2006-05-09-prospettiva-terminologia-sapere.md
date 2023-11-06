@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![prospettiva]({{ site.baseurl }}/wp-content/uploads/eyelevel.gif)
 
+# Prospettiva, la terminologia da sapere
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quasi tutti i libri o articoli che parlano di prospettiva, definiscono una propria serie di termini per descriverne i diversi elementi. Per evitare equivoci riporto la terminologia che utilizzeremo sul blog, nella speranza che essa sia anche di aiuto alle persone che muovono i primi passi in questo mondo affascinante.

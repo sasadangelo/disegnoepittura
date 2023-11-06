@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Composizione e Prospettiva]({{ site.baseurl }}/wp-content/uploads/composizione-prospettiva.gif)
 
+# Composizione e Prospettiva
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Foto da [www.daube.ch](http://www.daube.ch/docu/glossary/drawingtools.html)_

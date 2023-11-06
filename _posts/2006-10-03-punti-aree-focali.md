@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![focal-point]({{ site.baseurl }}/wp-content/uploads/focal-point.jpg)
 
+# Come migliorare la composizione dei vostri disegni con i punti e le aree focali
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quando uno spettatore guarderà il vostro dipinto percorrerà sulla tela diversi percorsi con i propri occhi. Avendo le giuste conoscenze è possibile guidarlo attraverso questi percorsi così come un navigatore satellitare ci guida tra le strade di una città di un paese che non conosciamo.

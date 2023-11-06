@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![rose-fig11]({{ site.baseurl }}/wp-content/uploads/rose-fig11.jpg)
 
+# Dipingere come Rubens, Vermeer e Rembrandt. (II parte)
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 ### Disegno

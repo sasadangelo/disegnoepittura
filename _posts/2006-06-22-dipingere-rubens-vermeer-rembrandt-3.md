@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![rose]({{ site.baseurl }}/wp-content/uploads/rose.jpg)
 
+# Dipingere come Rubens, Vermeer e Rembrandt. (III parte)
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 ### Chiaroscuro

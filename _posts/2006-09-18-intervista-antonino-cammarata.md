@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![fuori]({{ site.baseurl }}/wp-content/uploads/fuori.jpg)
 
+# Intervista ad Antonino Cammarata
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Nei giorni scorsi ho avuto la possibilità di scambiare qualche email con il pittore [Antonino Cammarata]({{ site.baseurl }}/antonino-cammarata/).

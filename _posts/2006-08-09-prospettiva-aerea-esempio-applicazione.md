@@ -14,7 +14,7 @@ author: sasadangelo
 
 ![aerial-perspective]({{ site.baseurl }}/wp-content/uploads/aerial-perspective.jpg)
 
-_Pubblicato il **{{ page.date | date_to_string }}**_
+# Come dipingere oggetti nei diversi piani di un paesaggio con l'uso della prospettiva aerea _Pubblicato il **{{ page.date | date_to_string }}**_
 
 I tuoi paesaggi sono piatti e privi di profondità? Una delle cause frequenti di questo problema è la non conoscenza della prospettiva aerea. Dopo aver spiegato che cos'è la [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/) e aver mostrato un esempio di [come l''atmosfera influenza i colori di un paesaggio]({{ site.baseurl }}/prospettiva-aerea-pratica/), in quest'articolo spiegherò  come simulare praticamente la prospettiva aerea con una tecnica semplicissima.
 

@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![leonardo da vinci]({{ site.baseurl }}/wp-content/uploads/medium_leonardo2.jpg)
 
+# Leonardo: principi di pittura
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Alcuni lettori potrebbero trovare questo articolo noioso perchè non entra nei dettagli particolari di tecniche pittoriche, tuttavia io ne suggerisco la lettura perchè molte delle frasi di Leonardo riportate qui hanno cambiato la mia visione della pittura, facendomi capire che se è vero che la pratica è lo strumento attraverso cui un artista perfeziona la sua tecnica, questa sarà sempre di scarso livello se non è accompagnata da un profondo studio della teoria.

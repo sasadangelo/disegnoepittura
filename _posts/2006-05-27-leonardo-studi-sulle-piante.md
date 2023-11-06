@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![medium_piante2]({{ site.baseurl }}/wp-content/uploads/medium_piante2.jpg)
 
+# 11 Consigli di Leonardo da Vinci per disegnare gli alberi
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Ti piace disegnare gli alberi ma hai qualche difficoltà a renderli realistici? Ti piacerebbe migliorare il disegno dei tuoi alberi? In quest'articolo riporto 11 Consigli di Leonardo da Vinci tratti dal suo famoso [Trattato di Pittura](http://www.franuvolo.it/sito/doc/Leonardo-in/126.pdf), che ti saranno utili la prossima volta che disegnerai un albero.Leonardo da Vinci è stato sicuramente uno degli artisti più grande di tutti i tempi. Egli non ci ha lasciato solo opere di altissimo valore artistico che hanno segnato la storia dell'arte. Egli ha scritto anche un [Trattato di Pittura](http://www.franuvolo.it/sito/doc/Leonardo-in/126.pdf) per tramandare ai posteri non solo le sue conoscenze pittoriche ma anche le sue conoscenze sulla natura. Nel Trattato, parlando di alberi egli enuncia 11 consigli per chi si accinge a disegnarli. Consigli che sono il frutto dei suoi studi e dell'osservazione dal vero. Credo che essi possono essere preziosi per chi si avvicina al mondo del disegno. Ecco gli 11 consigli così come furono scritti da Leonardo:

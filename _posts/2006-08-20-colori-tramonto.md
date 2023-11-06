@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![sunset31]({{ site.baseurl }}/wp-content/uploads/sunset31.jpg)
 
+# Come dipingere i colori del tramonto nel paesaggio?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Su questo blog, in diverse occasioni, abbiamo parlato di [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/). Con quest'articolo vogliamo fare un ulteriore passo avanti discutendo anche di cosa accade al tramonto.

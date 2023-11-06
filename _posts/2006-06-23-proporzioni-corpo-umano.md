@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Proporzioni del corpo umano]({{ site.baseurl }}/wp-content/uploads/body.gif)
 
+# Proporzioni del corpo umano
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Come per il viso anche per il corpo umano è possibile definire le relazioni tra le varie parti di un modello ideale. 

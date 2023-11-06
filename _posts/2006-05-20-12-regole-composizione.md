@@ -11,6 +11,7 @@ tags:
 author: sasadangelo
 ---
 
+# 12 Regole di Composizione
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 

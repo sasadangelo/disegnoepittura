@@ -16,6 +16,7 @@ author: sasadangelo
 
 ![prospettiva-aerea]({{ site.baseurl }}/wp-content/uploads/prospettiva-aerea.jpg)
 
+# Come dipingere un paesaggio marino con l'uso della prospettiva aerea
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 I tuoi paesaggi sono piatti e privi di profondità? Uno dei motivi ricorrenti di questo problema è la non conoscenza della prospettiva aerea. In quest'articolo illustro come ho realizzato un semplice paesaggio marino utilizzando i principi della prospettiva aerea.

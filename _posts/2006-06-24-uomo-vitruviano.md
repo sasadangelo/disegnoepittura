@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![uomo vitruviano]({{ site.baseurl }}/wp-content/uploads/homovit.jpg)
 
+# Uomo Vitruviano
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Che cos'è l'uomo vitruviano? Perchè può essere importante per un artista studiarlo? Quest'articolo vi aiuterà a rispondere a queste domande affinchè il tema delle proporzioni del corpo non abbia per voi più segreti.

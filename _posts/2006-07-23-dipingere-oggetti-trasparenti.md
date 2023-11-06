@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![dipingere oggetti trasparenti]({{ site.baseurl }}/wp-content/uploads/glass-distortion.jpg)
 
+# Dipingere Oggetti Trasparenti
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Nell'articolo sul [chiaroscuro]({{ site.baseurl }}/chiaroscuro/) abbiamo visto come una sfera (non trasparente) sottoposta ad un'unica fonte di luce, genera cinque toni diversi. Ma cosa succede se l'oggetto in esame è trasparente?

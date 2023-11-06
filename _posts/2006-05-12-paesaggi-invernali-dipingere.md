@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Paesaggi invernali da dipingere]({{ site.baseurl }}/wp-content/uploads/lago-inverno.jpg)
 
+# Paesaggi invernali da dipingere
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Hai mai pensato di poter dipingere un giorno paesaggi invernali con montagne, alberi e laghi? Questo articolo ti mostrerà come è semplice dipingere bellissimi paesaggi invernali.

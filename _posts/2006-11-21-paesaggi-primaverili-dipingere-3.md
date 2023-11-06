@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![dipingere paesaggio primaverile]({{ site.baseurl }}/wp-content/uploads/paesaggio-primaverile.jpg)
 
+# Paesaggi primaverili da dipingere • Fase 3
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Hai mai pensato di poter dipingere un giorno paesaggi primaverili con montagne, alberi e laghi di grande impatto visivo? Questo è il secondo di una serie di tre articoli che se leggerai ti mostreranno come è semplice dipingere bellissimi paesaggi primaverili. Se non hai letto il [primo articolo]({{ site.baseurl }}/paesaggi-primaverili-dipingere/) e il [secondo articolo]({{ site.baseurl }}/paesaggi-primaverili-dipingere-2/) ti consiglio di leggerli prima di proseguire nella lettura di quest'articolo.

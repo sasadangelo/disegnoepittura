@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Cubo in Prospettiva Accidentale]({{ site.baseurl }}/wp-content/uploads/prospettiva-accidentale-4.jpg)
 
+# Disegnare un paesaggio cittadino in prospettiva accidentale
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quest'articolo è un'introduzione alla prospettiva accidentale che ti aiuterà a migliorare i tuoi disegni rendendoli più realistici.

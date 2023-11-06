@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Prospettiva aerea]({{ site.baseurl }}/wp-content/uploads/atmopsp7.jpg)
 
+# Prospettiva Aerea
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 I tuoi paesaggi sono piatti e privi di profondità? Ti piacerebbe dipingere paesaggi con una buona profondità spaziale? Leggi quest'articolo per imparare che cos'è la prospettiva aerea e come essa può aiutarti a dipingere paesaggi migliori.

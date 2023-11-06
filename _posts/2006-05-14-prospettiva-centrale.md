@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Prospettiva Centrale]({{ site.baseurl }}/wp-content/uploads/prospettiva-centrale-thumb.png)
 
+# Prospettiva Centrale
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quest'articolo è un'introduzione alla prospettiva centrale. Leggendolo inizierai ad apprendere alcuni concetti che ti aiuteranno a creare disegni più belli e realistici.

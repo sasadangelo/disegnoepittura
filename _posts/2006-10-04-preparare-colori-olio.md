@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![oil1]({{ site.baseurl }}/wp-content/uploads/oil7.jpg) 
 
+# Preparare i colori ad olio da se
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Tempo fa mi ritrovavo a via Margutta alla mostra dei Cento Pittori. Mi capitò di parlare con un artista che effettuava riproduzioni di quadri antichi utilizzando tecniche antiche. Io avevo intuito che si preparava i colori da solo ma volevo una conferma così gli faci la seguente domanda: "ma lei utilizza tubetti di colore o se li prepara da solo?".

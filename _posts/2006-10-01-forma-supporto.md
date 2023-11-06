@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![thumb_frame]({{ site.baseurl }}/wp-content/uploads/thumb_frame.jpg)
 
+# Come scegliere la forma del foglio da disegno o della tela per dipingere
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _"Realizzare un dipinto è come eseguire il dilitto perfetto, tutto deve essere pianificato nei minimi dettagli"_
