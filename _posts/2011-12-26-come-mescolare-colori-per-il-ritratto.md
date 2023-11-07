@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Ritratto]({{ site.baseurl }}/wp-content/uploads/ritratto-mini1.gif)
 
+# Come mescolare i colori per il ritratto con il metodo di John Howard Sanden
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Con questo articolo iniziamo ad occuparci delle tecniche per realizzare il ritratto, cominciando con un breve cenno sulle proporzioni del viso. Nel disegno si usano spesso dei trucchi per agevolare il lavoro dell'artista. Nell'esecuzione di un ritratto il ritrattista ha bene in mente le proporzioni tra le varie parti del viso di un modello ideale. La sua abilità sta nel trovare le differenze tra le proporzioni del soggetto che sta ritraendo e quelle del modello ideale. Per maturare anche noi questa capacità dobbiamo fissare bene nella nostra mente le proporzioni di un modello ideale.

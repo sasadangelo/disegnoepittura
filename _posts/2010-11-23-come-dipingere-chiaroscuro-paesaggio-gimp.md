@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![Chiaroscuro di un Paesaggio](/wp-content/uploads/paesaggio-chiaroscuro-16.PNG)
 
+# Come dipingere il chiaroscuro di un paesaggio con l'aiuto di Gimp
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la Lezione 12 del _[corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).__

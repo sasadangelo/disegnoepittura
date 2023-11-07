@@ -10,6 +10,7 @@ tags:
 author: sasadangelo
 ---
 
+# 17 errori da evitare quando si dipinge con i colori ad olio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
   Per imparare a dipingere un primo metodo è quello di studiare tutorial che spiegano &#8220;Come fare per &#8230;&#8221;. Un altro metodo altrettanto efficace è quello di conoscere &#8220;Cosa non fare per &#8230;&#8221;. In quest&#8217;articolo vorrei adottare questo secondo principio elencando le 17 errori  che ho commesso in passato e che ora non ripeterò più. 

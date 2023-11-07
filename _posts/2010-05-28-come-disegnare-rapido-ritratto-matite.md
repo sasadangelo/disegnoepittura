@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/disegno-chiaroscuro-ritratto-10.jpg)
 
+# Come disegnare un rapido ritratto con le matite
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Circa un mese fa sono tornato al mio paese natio con mia moglie e mio figlio. Solitamente porto sempre con me le matite,  le matite colorate o i pastelli per ammazzare il tempo nel caso in cui capita qualche momento di noia. Se, invece, ho voglia di dipingere ho una mansarda vuota con tele, pennelli e cavaletto pronti ad aspettarmi. Avevo da poco pubblicato l'articolo [Come individuare i piani facciali nel Disegno del Ritratto]({{ site.baseurl }}/come-individuare-piani-facciali-disegno-ritratto/) e quasi ogni giorno facevo qualche esercizio con i volti che trovavo su giornali e riviste. Erano circa le 21.00 e in TV non c'era nulla di interessante per cui decisi di sfogliare un giornale locale per individuare qualche viso interessante da ritrarre. Mi capitò sotto tiro il viso di un signore sconosciuto che pubblicizzava formaggi e che aveva un viso i cui i piani facciali erano piuttosto evidenti. Decisi così di farne il ritratto.

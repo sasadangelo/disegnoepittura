@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Sezione Aurea]({{ site.baseurl }}/wp-content/uploads/sezione-aurea.jpg)
 
+# Sezione Aurea, verità o bufala?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Foto da [fotografiapuntodincontro.](http://www.fotografiapuntodincontro.com/ "Fotografia Punto d'Incontro")_

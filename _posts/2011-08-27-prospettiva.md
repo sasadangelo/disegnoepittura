@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Prospettiva]({{ site.baseurl }}/wp-content/uploads/prospettiva-accidentale-4.jpg "Prospettiva")
 
+# Prospettiva
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Questa è una serie di articoli il cui obiettivo è quello di spiegare che cos'è la prospettiva e come usarla nelle proprie opere.

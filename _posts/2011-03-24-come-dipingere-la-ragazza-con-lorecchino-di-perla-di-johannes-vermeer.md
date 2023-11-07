@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Ragazza con l'orecchino di perla di Johannes-Vermeer]({{ site.baseurl }}/wp-content/uploads/ragazza-orecchino-perla-johannes-vermeer-1.jpg)
 
+# Come dipingere la Ragazza con l'orecchino di perla di Johannes Vermeer
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quest'articolo è la traduzione dell'[articolo in lingua inglese dell'artista Thomas Penrose](http://www.penroseart.com/vermeer01.htm) tradotto da Carmelo Gigliuto. Il motivo per cui ho deciso di pubblicare questa traduzione è che il prossimo evento di [Incontra il Maestro]({{ site.baseurl }}/incontra-maestro-caravaggio/) sarà dedicato proprio a [Johannes Vermeer]({{ site.baseurl }}/vermeer/) e, quindi, questo tutorial può essere preso come punto di partenza per i nostri studi.

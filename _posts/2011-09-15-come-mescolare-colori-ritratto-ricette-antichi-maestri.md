@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Giovanni Paolo Lomazzo]({{ site.baseurl }}/wp-content/uploads/giovanni-paolo-lomazzo.jpg)
 
+# Come mescolare i colori del Ritratto con le ricette degli antichi maestri?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questo è un guest post di Marco Fenocchio. Se vuoi scrivere anche tu un guest post per questo blog leggi il [regolamento qui]({{ site.baseurl }}/scrivi-articolo)._

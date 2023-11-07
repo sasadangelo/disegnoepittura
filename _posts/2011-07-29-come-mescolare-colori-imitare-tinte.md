@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Come mescolare i colori per imitare le tinte della natura]({{ site.baseurl }}/wp-content/uploads/munsell.jpg)
 
+# Come mescolare i colori per imitare le tinte della natura
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la lezione 18 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._

@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![]({{ site.baseurl }}/wp-content/uploads/come-conservare-colori-olio-71.jpg)
 
+# Come conservare i colori ad olio, acrilici o acquarelli
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quando si termina una sessione di pittura è inevitabile che sulla tavolozza rimangono dei resti di colore inutilizzato, come fare per conservarlo ed evitare di buttarlo via?

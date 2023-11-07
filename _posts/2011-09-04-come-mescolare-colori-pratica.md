@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Mescolare colore verde uva]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG)
 
+# Come mescolare i colori in pratica
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la lezione 22 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._

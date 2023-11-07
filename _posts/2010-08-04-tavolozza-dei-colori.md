@@ -16,6 +16,7 @@ author: sasadangelo
 
 ![Tavolozza dei colori in legno]({{ site.baseurl }}/wp-content/uploads/Fig-14-Tavolozza-Legno-100.jpg)
 
+# La Tavolozza dei colori
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In commercio esistono numerosi tipi di tavolozze che variano per: forma, dimensione e materiale. I materiali comunemente utilizzati per la pittura a olio sono: plastica, legno, ceramica e supporto cartaceo usa e getta.

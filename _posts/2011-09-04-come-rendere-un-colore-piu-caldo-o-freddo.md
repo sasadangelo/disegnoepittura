@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Tavolozza colori primari]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-primari.jpg)
 
+# Come rendere un colore più caldo o freddo?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la lezione 21 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._

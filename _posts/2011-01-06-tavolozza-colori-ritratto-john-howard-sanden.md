@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![John Howard Sanden]({{ site.baseurl }}/wp-content/uploads/sanden.jpg)
 
+# La Tavolozza dei colori per il Ritratto di John Howard Sanden
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 [John Howard Sanden](http://www.johnhowardsanden.com) è un famoso ritrattista statunitense membro del [Portrait Institute](http://www.portraitinstitute.com), un'organizzazione che, originariamente, teneva un convegno annuale di 5 giorni sul tema del Ritratto. Dal sito dell'artista è possibile vedere i suoi lavori, le onoreficenze ricevute, i clienti e molte altre informazioni. E' curioso leggere come l'artista sia stato [selezionato dallo staff della Casa Bianca per il ritratto del 43° Presidente degli Stati Uniti George W. Bush](http://www.whitehouse.gov/the-press-office/2012/05/31/background-information-presentation-portraits-president-george-w-bush-an).

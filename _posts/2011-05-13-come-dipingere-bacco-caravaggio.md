@@ -15,6 +15,7 @@ author: wcozzoli
 
 ![Come dipingere il Bacco di Caravaggio]({{ site.baseurl }}/wp-content/uploads/come-dipingere-bacco-caravaggio-finale.jpg){:width="282" height="302" .responsive_img}
 
+# Come dipingere il Bacco di Caravaggio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questo è un articolo di Walter Cozzoli. Se desideri scrivere un articolo leggi le seguenti [linee guida]({{ site.baseurl }}/scrivi-articolo)._

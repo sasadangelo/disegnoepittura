@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Paesaggio dipinto con sfregazzi]({{ site.baseurl }}/wp-content/uploads/paesaggio-dipinto-con-sfregazzi.jpg)
 
+# Che cos'è la tecnica dello sfregazzo e come si usa nella pittura ad olio?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la lezione 17 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._

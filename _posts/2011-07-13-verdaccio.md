@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![verdaccio]({{ site.baseurl }}/wp-content/uploads/verdaccio.jpg "verdaccio")
 
+# Verdaccio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Che cos'è il verdaccio? Come può aiutarti questo colore  realizzare ritratti più realistici? Lo sapevi che il verdaccio era un colore fondamentale per gli artisti del Pre Rinascimento come Giotto e del Rinascimento come Leonardo, Michelangelo e Raffaello?

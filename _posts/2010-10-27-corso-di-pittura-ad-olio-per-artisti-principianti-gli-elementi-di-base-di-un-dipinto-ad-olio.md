@@ -16,6 +16,7 @@ author: sasadangelo
 
 ![Colori Olio]({{ site.baseurl }}/wp-content/uploads/colori-olio.jpg)
 
+# Corso di pittura ad olio per artisti principianti. Lezione 9. Gli elementi di base di un paesaggio ad olio.
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In qualsiasi opera d'arte sia essa un paesaggio, natura morta, ritratto, figura umana o contemporanea si compone di una o più delle seguenti caratteristiche:

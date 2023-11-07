@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Colla di Coniglio]({{ site.baseurl }}/wp-content/uploads/colla-coniglio-2.jpg)
 
+# Come preparare la colla di coniglio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo voglio spiegare come preparare la colla di coniglio.

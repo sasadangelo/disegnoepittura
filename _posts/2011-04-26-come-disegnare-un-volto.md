@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Come disegnare un ritratto]({{ site.baseurl }}/wp-content/uploads/ritratto-mini1.gif)
 
+# Come disegnare un volto
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Sul blog ho scritto diversi articoli sul come disegnare un volto. Ho anche pubblicato diversi tutorial. Mi rendo conto, però, che l'ordinamento cronologico del blog non sempre aiuta a trovare le informazioni che l'utente cerca. E' vero c'è la categoria Ritratto ma spesso gli articoli non sono stati pubblicati nell'ordine in cui andavo letti. Su molti articoli ci sono riferimenti incrociati e con un pò di buona volontà si riesce a ricostruire l'ordine giusto. Poichè non tutti gli utenti sono pazienti ho deciso di semplificare la navigazione scrivendo articoli riassuntivi come questo che presto saranno navigabili attraverso il menù del blog.

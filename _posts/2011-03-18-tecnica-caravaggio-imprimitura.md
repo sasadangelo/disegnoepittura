@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Ragazzo che monda un frutto]({{ site.baseurl }}/wp-content/uploads/ragazzo-monda-frutto-imprimitura.jpg)
 
+# Quale imprimitura utilizzava Caravaggio?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest'articolo.

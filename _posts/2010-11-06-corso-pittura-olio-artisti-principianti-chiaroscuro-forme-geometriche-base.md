@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Come dipingere forme geometriche in scala di grigi]({{ site.baseurl }}/wp-content/uploads/come-colorare-forme-geometriche-scala-grigi-9.png)
 
+# Come dipingere un Chiaroscuro
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la Lezione 11 del _[corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).__

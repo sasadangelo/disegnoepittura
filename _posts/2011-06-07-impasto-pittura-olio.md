@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Paesaggio di Van Gogh con impasto]({{ site.baseurl }}/wp-content/uploads/impasto-van-gogh.jpg)
 
+# Che cos'è la tecnica ad Impasto e come si usa nella pittura ad olio?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 _Questa è la lezione 16 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/)._

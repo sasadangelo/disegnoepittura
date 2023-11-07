@@ -13,6 +13,7 @@ author: marcofenocchio
 
 ![Lastra vetro per colori ad olio]({{ site.baseurl }}/wp-content/uploads/lastra-vetro.jpg) 
 
+# Come preparavano e conservavano i colori ad olio gli antichi maestri?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Per preparare i colori a olio da quelli in polvere è necessario impastare molto bene il pigmento con la minore quantità di olio possibile. Generalmente si può usare l'olio di lino ma per i colori che patiscono l'ingiallimento con questo olio (bianco, azzurro, violetto, rosa e verde-azzurro) è possibile usare olio di noci o di papaveri. Il colore va impastato fino ad ottenere una pasta morbida e scorrevole. Non deve colare dalla spatola. E' indispensabile usare il macinello e la lastra di vetro spessa ben ancorata su un tavolo come mostra il disegno.

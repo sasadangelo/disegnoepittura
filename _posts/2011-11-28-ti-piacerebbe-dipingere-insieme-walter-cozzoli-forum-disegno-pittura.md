@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![Frutti e Calici]({{ site.baseurl }}/wp-content/uploads/Frutti-Calici.jpg)
 
+# Ti piacerebbe Dipingere insieme a Walter Cozzoli e a tutta la community Disegno & Pittura una bella Natura Morta?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Ti piacerebbe dipingere insieme a Walter Cozzoli e tutta la community Disegno & Pittura una Natura Morta dall'inizio alla fine seguendo un video corso in italiano che ti spiegherà come fare? Allora leggi il resto dell'articolo per capire come fare a partecipare all'iniziativa **Dipingere Insieme** promossa da Walter Cozzoli.

@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Ritratto Bambino Overlap]({{ site.baseurl }}/wp-content/uploads/ritratto-bambino-overlap-7.jpg)
 
+# Come disegnare a mano libera e correggere gli errori con Gimp
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Sul [Forum di Disegno & Pittura](http://forum.disegnoepittura.it/) è capitato spesso che, a chi chiedeva un parere su un disegno paragonato all'originale, io rispondessi con un immagine in cui sovrapponevo, in trasparenza, l'originale con il disegno per evidenziare in maniera oggettiva e inequivocabile le differenze tra di essi.
