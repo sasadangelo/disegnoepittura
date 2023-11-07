@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![william andrew loomis]({{ site.baseurl }}/wp-content/uploads/loomis.gif)
 
+# Come Disegnare il Volto secondo l'Artista Andrew Loomis
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 [William Andrew Loomis](http://www.bpib.com/illustrat/loomis.htm) (1892 – 1959) è stato un illustratore statunitense nato a New York ma che ha trascorso la maggior parte della sua vita a Chicago. Quest'artista è molto noto per una serie di libri che dal 2004 non vengono più stampati ma che ancora oggi influenzano numerosi artisti. I libri pubblicati da Andrew Loomis sono 6 e sono scaricabili dalla rete (sembra che siano scaduti i termini di copyright negli USA) ai seguenti links:

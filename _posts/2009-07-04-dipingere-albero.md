@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![dipingere albero]({{ site.baseurl }}/wp-content/uploads/painting-tree-9.jpg)
 
+# Dipingere un albero
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In questo semplice tutorial vedremo come dipingere un albero utilizzando i colori acrilici. Questo è un piccolo esercizio che ho realizzato in questi giorni per fare un po' di pratica con gli elementi del paesaggio.

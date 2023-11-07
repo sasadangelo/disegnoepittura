@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![dipingere rubens rembrandt vermeer]({{ site.baseurl }}/wp-content/uploads/rose-fig1-thumb.JPG) 
 
+# Dipingere come Rubens, Vermeer e Rembrandt (V° parte)
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 **1° Fase di Colore**

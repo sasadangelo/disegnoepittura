@@ -16,6 +16,7 @@ author: sasadangelo
 
 ![figura-intera]({{ site.baseurl }}/wp-content/uploads/figura-intera.jpg)
 
+# I diversi tipi di Inquadratura nel Disegno del Ritratto e della Figura Umana
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Con il termine inquadratura si indica quale parte del soggetto verrà rappresentato sul supporto da disegno, sia esso una tela che un foglio. Questo termine non appartiene solo al mondo della pittura, ma lo ritroviamo anche nel cinema,  nella fotografia e nel fumetto. Un ritratto o un nudo può essere eseguito utilizzando i seguenti tipi di inquadratura:

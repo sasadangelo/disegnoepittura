@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![aceo]({{ site.baseurl }}/wp-content/uploads/aceo.jpg)
 
+# Che cos'è un ACEO e come è possibile vendere i propri disegni o dipinti in modo originale
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Un pò di tempo fa venne in Italia una mia cugina inglese che non vedevo da anni. Parlando del più e del meno venni a conoscenza di una tipica tradizione anglosassone che ignoravo: il regalo delle cartoline. Nelle festività o particolari ricorrenze sembra che sia consuetudine tra amici e parenti scambiarsi delle cartoline. Queste cartoline rappresentano anche una specie di status symbol, nel senso che chi ne riceve molte  è una persona con tanti amici e persone che le vogliono bene. Lo potremmo considerare come un equivalente dei regali di Natale. Questa cosa fa comprendere perchè si è diffusa l'usanza tra gli artisti di vendere, anche online, gli ACEO.

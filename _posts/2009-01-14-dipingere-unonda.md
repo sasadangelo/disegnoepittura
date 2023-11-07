@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![Dipingere Un'Onda]({{ site.baseurl }}/wp-content/uploads/dipingere-onda.jpg)
 
+# Dipingere un' Onda
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Vuoi imparare a dipingere un paesaggio marino con le onde? Il seguente tutorial ti insegnerà come fare passo dopo passo.

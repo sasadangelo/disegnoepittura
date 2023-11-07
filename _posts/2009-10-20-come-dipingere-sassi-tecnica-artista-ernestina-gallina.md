@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![ernestina-gallina]({{ site.baseurl }}/wp-content/uploads/ernestina-gallona.jpg)
 
+# Come Dipingere sui sassi: la tecnica dell'artista Ernestina Gallina
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo parleremo di **Rockpainting**, una tecnica che consiste nel dipingere sui sassi soggetti come: cani, gatti, ritratti, insetti e molto altro ancora. Scopriremo gli elementi fondamentali di questa tecnica attraverso un'intervista ad [Ernestina Gallina](http://www.pietrevive.it/) un'artista i cui lavori apprezzo molto.

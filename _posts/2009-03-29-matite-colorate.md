@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Matite Colorate]({{ site.baseurl }}/wp-content/uploads/matite-colorate.jpg)
 
+# Matite Colorate
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Le matite colorate, insieme alla classica matita da disegno, sono gli strumenti artistici più comuni. Da piccoli ognuno di noi ha posseduto una scatola di matite colorate. Quelle che interessano a noi, però, non sono le stesse che utilizzavamo da bambini perchè spesso le matite per studenti non sono di qualità eccellente.

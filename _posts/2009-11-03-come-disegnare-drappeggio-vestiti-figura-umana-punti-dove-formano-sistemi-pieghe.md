@@ -12,6 +12,7 @@ author: sasadangelo
 ---
 ![figura-umana-drappeggio-punti-ancoraggio][1]
 
+# Come Disegnare il Drappeggio nella Figura Vestita: punti dove si formano le pieghe
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 ![figura-umana-drappeggio-punti-ancoraggio]({{ site.baseurl }}/wp-content/uploads/figura-umana-drappeggio-punti-ancoraggio-thumb.jpg)
