@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![bozza1]({{ site.baseurl }}/wp-content/uploads/bozza1.jpg)
 
+# Bozza di Ritratto ad Acquarello
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Oggi volevo mostrarvi un semplice esercizio. Un acquarello che mostra a grandi linee un esempio di ombreggiatura di un volto. Il volto sarà anch'esso solo abbozzato: il classico ovale.

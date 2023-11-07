@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Piani Facciali]({{ site.baseurl }}/wp-content/uploads/piani-facciali2.jpg) 
 
+# Come disegnare i piani facciali in un Ritratto
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Finora su questo blog abbiamo visto ben poco sul tema del Ritratto. Abbiamo parlato delle [proporzioni del viso]({{ site.baseurl }}/proporzioni-viso/) e del disegno degli [disegno degli occhi]({{ site.baseurl }}/come-disegnare-occhi-ritratto/). Abbiamo, infine, accennato al problema dell'ombreggiatura. Quest'ultimo problema, in realtà, va ulteriormente approfondito e non si può affrontare se non si ha ben chiaro come individuare i piani facciali in un ritratto. La testa ha una forma tondeggiante e capire come va ombreggiata può diventare molto complesso. Per questa ragione si cerca di descriverla attraverso una semplicazione geometrica che evidenzi quali siano i piani principali. Una volta noti i piani principali è chiaro che un piano direttamente colpito dalla luce sarà più chiaro rispetto ad uno che non lo è. In generale la regola è:

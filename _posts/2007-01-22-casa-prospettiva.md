@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![prospettiva-casa]({{ site.baseurl }}/wp-content/uploads/prospettiva-casa.jpg)
 
+# Casa in Prospettiva
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In molti articoli abbiamo parlato di Prospettiva. Abbiamo dato una [definizione di Prospettiva]({{ site.baseurl }}/composizione-prospettiva/) spiegando anche che cos'è. Abbiamo introdotto la [terminologia della Prospettiva]({{ site.baseurl }}/prospettiva-terminologia-sapere/), abbiamo analizzato anche due tipi di prospettive: [centrale]({{ site.baseurl }}/prospettiva-centrale/) e [accidentale]({{ site.baseurl }}/prospettiva-accidentale/). In quest'articolo voglio mostrarvi un video che illustra come disegnare una casa in prospettiva centrale e accidentale.

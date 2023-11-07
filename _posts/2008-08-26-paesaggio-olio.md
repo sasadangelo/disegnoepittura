@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![Paesaggio Olio]({{ site.baseurl }}/wp-content/uploads/lago-ross-8.jpg)
 
+# Paesaggio ad Olio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In questo tutorial impareremo a dipingere un paesaggio ad olio.

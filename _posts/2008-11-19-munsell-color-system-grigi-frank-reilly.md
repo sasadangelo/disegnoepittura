@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![gray-scale]({{ site.baseurl }}/wp-content/uploads/gray-scale.jpg)
 
+# Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. La scala dei grigi di Reilly
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 La prima cosa da fare per utilizzare  in pratica il metodo di Munsell con [le semplificazioni proposte anni fa da Frank Reilly]({{ site.baseurl }}/munsell-color-system-pratica/) è quello di pre mescolare i toni di grigio che serviranno a regolare il livello di saturazione del colori. Ho preparato [questa scala di grigi]({{ site.baseurl }}/munsell-color-system-scala-grigi/) come riferimento che potete stampare e utilizzare ogni volta che è necessario creare queste mescolanze.  Come già [anticipato nell'articolo precedente]({{ site.baseurl }}/munsell-color-system-pratica/) è sufficiente preparare solo quattro toni di grigio: 2, 4, 6 e 8; e mescolare quando servono i toni intermedi mescolando i due toni adiacenti. I colori base che servono a preparare questi toni sono bianco di titanio e nero avorio. C'è da dire che Frank Reilly utilizzava il nero avorio per soggetti come natura morta, ritratti, figura umana, ecc., mentre usava nero fumo per il paesaggio.

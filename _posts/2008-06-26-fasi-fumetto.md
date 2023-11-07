@@ -11,6 +11,9 @@ tags:
 author: sasadangelo
 ---
 
+![Yellow Kid]({{ site.baseurl }}/wp-content/uploads/yellow_kid001.gif)
+
+# Le fasi del Fumetto
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Il [fumetto]({{ site.baseurl }}/fumetto/), come qualsiasi forma d'arte, parte sempre da un'idea. Affinchè questa idea si tramuti in un vero e proprio fumetto sono necessarie le seguenti fasi:

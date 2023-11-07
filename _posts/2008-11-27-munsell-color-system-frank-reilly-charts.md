@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Frank Reilly Charts]({{ site.baseurl }}/wp-content/uploads/palettefrankreilly-ylarge.jpg)
 
+# Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. Le tabelle dei colori di Frank Reilly
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Ti piacerebbe sapere come realizzare le tabelle dei colori di Frank Reilly?

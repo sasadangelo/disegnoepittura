@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![munsell_y_chart]({{ site.baseurl }}/wp-content/uploads/munsell_y_chart.jpg)
 
+# Come mescolare i colori con il metodo di Munsell dell'artista Frank Reilly. La tabella dei colori per la gamma dei gialli
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In questo [post]({{ site.baseurl }}/munsell-color-system-pratica/) abbiamo visto la posizione dei pigmenti ad acquarello Maimeri Venezia nello spazio colorimetrico di Munsell. Ora proviamo a costruire la chart Y (quella del Giallo) con i pigmenti a nostra disposizione.

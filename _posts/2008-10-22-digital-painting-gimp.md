@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-10.jpg)
 
+# Come disegnare un limone con Gimp
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Dal [Wikipedia](https://it.wikipedia.org/wiki/Pittura_digitale) leggiamo la seguente definizione di Pittura Digitale:
