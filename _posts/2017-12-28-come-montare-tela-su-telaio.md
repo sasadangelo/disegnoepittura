@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![Montaggio Tela su Telaio]({{ site.baseurl }}/wp-content/uploads/Montaggio_Tela_su_Telaio_mini.jpg)
 
+# Come montare una tela su un telaio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo voglio mostrare come eseguo il montaggio di una tela su un telaio.

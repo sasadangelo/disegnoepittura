@@ -13,8 +13,6 @@ author: sasadangelo
 
 ![Chiaroscuro Sfera]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-sfera-mini.png){:width="301" height="200" .responsive_img}
 
-_Pubblicato il **{{ page.date | date_to_string }}**_
-
 # Il Chiaroscuro
 _Pubblicato il **{{ page.date | date_to_string }}**_
 

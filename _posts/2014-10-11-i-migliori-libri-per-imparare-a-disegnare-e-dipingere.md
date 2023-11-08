@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![I Migliori Libri per Imparare a Disegnare e Dipingere]({{ site.baseurl }}/wp-content/uploads/color-light.png)
 
+# I Migliori Libri per Imparare a Disegnare e Dipingere
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo voglio presentarti quelli che sono, a mio avviso, i migliori libri per imparare a disegnare e dipingere.

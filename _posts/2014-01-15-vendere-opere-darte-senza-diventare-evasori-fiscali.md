@@ -12,6 +12,7 @@ author: simonecois
 
 ![Vendere Opere d'Arte]({{ site.baseurl }}/wp-content/uploads/vendere-opere-arte.jpg)
 
+# Come vendere le tue opere d'arte senza diventare evasore fiscale?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Dipingi da un pò di tempo e parenti, amici e conoscenti chiedono di acquistare una tua opera ma mille dubbi ti assalgono: devo rilasciare una ricevuta? Serve una partita IVA? Devo segnalare le mie opere alla SIAE per tutelare i miei diritti di autore? Devo essere iscritto in uno speciale registro o categoria commerciale?

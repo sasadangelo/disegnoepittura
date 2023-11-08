@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Lustri]({{ site.baseurl }}/wp-content/uploads/posizione-del-lustro-mini.png)
 
+# Come dipingere i Lustri
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Il lustro è uno dei 5 elementi fondamentali del [chiaroscuro]({{ site.baseurl }}/chiaroscuro/) insieme a: lume, ombra, riflessi e mezzi toni. In quest'articolo voglio illustrare alcuni principi che ne regolano il funzionamento e come sfruttarli in pittura.

@@ -16,6 +16,7 @@ author: sasadangelo
 
 ![Disegno Inchiostrato]({{ site.baseurl }}/wp-content/uploads/13-Disegno-Inchiostrato-2-mini.jpg)
 
+# Come Disegnare il soggetto per un dipinto
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo voglio mostrare come eseguo il disegno per un dipinto a mano libera.
