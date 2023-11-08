@@ -12,6 +12,7 @@ author: cinziarispoli
 
 ![La Piccola Maglierista]({{ site.baseurl }}/wp-content/uploads/La-Piccola-Maglierista-Mini.jpg)
 
+# La Piccola Maglierista - William-Adolphe Bouguereau
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Questo è un dipinto che ho realizzato qualche tempo fa e, su richiesta di Salvatore, mi piacerebbe spiegare agli amici del blog come l'ho realizzato. Il dipinto è una copia de "La Piccola Maglierista" di William Adolphe Bougeureau.

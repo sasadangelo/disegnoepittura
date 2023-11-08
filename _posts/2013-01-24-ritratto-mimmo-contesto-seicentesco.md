@@ -15,6 +15,7 @@ author: efiorentini
 
 ![Ritratto di Mimmo in contesto seicentesco]({{ site.baseurl }}/wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg)
 
+# Ritratto di Mimmo in contesto seicentesco
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Qualche tempo fa, navigando fra siti d’arte sul web, mi sono imbattuto in un dipinto di [Gerrit Dou](https://en.wikipedia.org/wiki/Gerrit_Dou) altrimenti conosciuto come Gerard e Douw o Dow, pittore olandese della classe di Vermeer, se non superiore! Fece addirittura apprendistato, qualche anno, nello studio di Rembrandt (fonte Wikipedia). Il dipinto è un cane accucciato a sonnecchiante accanto ad un orcio e una canestra di vimini posti su di un ripiano accanto ad una fascina di legna con uno zoccolo di legno seminascosto. Non si capisce se il piano in legno su cui poggia tutta la composizione sia un tavolo, una panca o una mensola bassa posizionata in una cucina o altro ambiente del ‘600. La luce sembra provenga da una finestra. L’atmosfera trasmette l’intimità serena di un interno domestico e anche i caldi colori accompagnano questa sensazione di pace e tranquillità che scaturisce dalla posizione accovacciata della bestiola.

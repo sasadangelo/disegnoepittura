@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Problema inchiostro nella Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/problema-inchiostro-nella-pittura-olio-mini.jpg)
 
+# Problemi con l'inchiostro nella Pittura ad Olio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Oggi vorrei parlarvi di un [problema che ha avuto un utente del forum (Walter Cozzoli)](http://forum.disegnoepittura.it/viewtopic.php?f=4&t=1743) e che potrebbe accadere anche a voi.

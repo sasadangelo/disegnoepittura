@@ -14,6 +14,7 @@ author: edoardo
 
 ![Canestra di Frutta di Caravaggio]({{ site.baseurl }}/wp-content/uploads/Canestro-Frutta-Caravaggio.jpg)
 
+# Canestra di Frutta di Caravaggio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 ## Prefazione

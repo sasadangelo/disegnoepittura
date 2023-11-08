@@ -15,6 +15,7 @@ author: simonecois
 
 ![Quadro Materico - Foto quadro finito]({{ site.baseurl }}/wp-content/uploads/FOTO-QUADRO-FINITO-MINI.jpg)
 
+# Come creare un quadro materico
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 In quest'articolo spiegherò che cos'è un quadro materico e come si realizza passo dopo passo.
