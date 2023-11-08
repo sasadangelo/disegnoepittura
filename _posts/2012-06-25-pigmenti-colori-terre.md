@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Calcinazione Ocra Rossa]({{ site.baseurl }}/wp-content/uploads/pigmento-ocra-rossa.jpg)
 
+# I Pigmenti dei colori di Terra
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Come preparavano i colori di "terra" gli antichi maestri?

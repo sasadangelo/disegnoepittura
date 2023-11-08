@@ -14,6 +14,7 @@ author: robertorizzo
 
 ![Dipingere una volpe ad acrilico - Lavoro finito]({{ site.baseurl }}/wp-content/uploads/volpe-12.jpg)
 
+# Dipingere una volpe ad acrilico
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Dipingo e disegno animali da moltissimi anni, sono soggetti che amo e che ho sempre inserito nelle mie opere a sfondo allegorico, visionabili all'interno delle [gallerie del mio sito web (www.robertorizzo.com)](https://www.robertorizzo.com/). Negli ultimi tempi mi sono avvicinato però a uno stile più classico e rappresentativo, sotto certi aspetti meno 'contaminato', entrando a far parte della nutrita comunità dei wildilfe artists e dedicandomi anche ai ritratti di animali domestici e non su commissione. La wildlife art è una corrente che attrae sempre più appassionati da ogni parte del globo e che fa della contemplazione del mondo animale e vegetale (soprattutto in quest'epoca di devastazione e saccheggio delle risorse naturali planetarie) il fulcro della rappresentazione, spesso estremamente realistica e curata nel minimo dettaglio.

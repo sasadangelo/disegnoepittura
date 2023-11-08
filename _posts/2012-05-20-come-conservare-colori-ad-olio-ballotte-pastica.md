@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![Come conservare colori ad olio in ballotte di plastica]({{ site.baseurl }}/wp-content/uploads/conservare-colori-ballotte-3.JPG)
 
+# Come conservare colori ad olio in ballotte di plastica
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Come conservare colori ad olio ed evitare di dover preparare ogni volta le tinte di base?

@@ -12,11 +12,12 @@ author: sasadangelo
 
 ![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg)
 
+# Vergine delle Rocce
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Come fu dipinta da Leonardo la Vergine delle Rocce oggi custodita alla National Gallery?
 
-Come forse ben sai Leonardo dipinse due versioni della Vergine delle Rocce. [Una custodita al Louvre](https://it.wikipedia.org/wiki/Vergine_delle_Rocce_%28Parigi%29 "Vergine delle Rocce al Louvre") e l'altra alla [National Gallery di Londra](https://it.wikipedia.org/wiki/Vergine_delle_Rocce_%28Londra%29 "Vergine delle Rocce alla National Gallery").
+Come forse ben sai Leonardo dipinse due versioni della Vergine delle Rocce. [Una custodita al Louvre](https://it.wikipedia.org/wiki/Vergine_delle_Rocce_%28Parigi%29) e l'altra alla [National Gallery di Londra](https://it.wikipedia.org/wiki/Vergine_delle_Rocce_%28Londra%29).
 
 **Ma come dipinse quest'ultima Vergine delle Rocce?**
 
@@ -28,9 +29,9 @@ Piu' volte ho scritto su questo blog che esistono 3 modi per conoscere le tecnic
 2. leggendo gli antichi testi scritti dagli stessi artisti;
 3. leggendo le relazioni di restauro.
 
-Proprio grazie al terzo punto oggi l'artista ha qualche strumento in più. Il direttore della National Gallery ha avviato un progetto il cui obiettivo è il pieno recupero delle tecniche degli antichi maestri attraverso studi di restauro sui dipinti conservati nel museo stesso. Il risultato di queste ricerche [è un bollettino tecnico periodico](https://www.nationalgallery.org.uk/technical-bulletin/ "Technical Bulletin"), pubblicato gratuitamente sul sito ufficiale, dove si analizzano tecniche e curiosità degli innumerevoli dipinti conservati nel museo.
+Proprio grazie al terzo punto oggi l'artista ha qualche strumento in più. Il direttore della National Gallery ha avviato un progetto il cui obiettivo è il pieno recupero delle tecniche degli antichi maestri attraverso studi di restauro sui dipinti conservati nel museo stesso. Il risultato di queste ricerche [è un bollettino tecnico periodico](https://www.nationalgallery.org.uk/technical-bulletin/), pubblicato gratuitamente sul sito ufficiale, dove si analizzano tecniche e curiosità degli innumerevoli dipinti conservati nel museo.
 
-Tra le varie pubblicazioni c'è [questo documento](https://www.nationalgallery.org.uk/upload/pdf/keith_roy_morrison_schade2011.pdf "Technical Bulletin sulla Vergine delle Rocce") che spiega in dettaglio la tecnica usata da Leonardo per dipingere la Vergine delle Rocce, ovviamente con tutti i limiti che studi di restauro possono avere.
+Tra le varie pubblicazioni c'è [questo documento](https://www.nationalgallery.org.uk/upload/pdf/keith_roy_morrison_schade2011.pdf) che spiega in dettaglio la tecnica usata da Leonardo per dipingere la Vergine delle Rocce, ovviamente con tutti i limiti che studi di restauro possono avere.
 
 ## Le Fasi eseguite da Leonardo per dipingere la Vergine delle Rocce
 

@@ -15,6 +15,7 @@ author: sasadangelo
 
 ![Dipingere una mano in chiaroscuro]({{ site.baseurl }}/wp-content/uploads/dipingere-mani-chiaroscuro-14.jpg)
 
+# Dipingere una mano in chiaroscuro
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Come dipingere una mano in chiaroscuro?

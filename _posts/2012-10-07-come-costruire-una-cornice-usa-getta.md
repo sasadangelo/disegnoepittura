@@ -12,6 +12,7 @@ author: efiorentini
 
 ![Enrico Fiorentini]({{ site.baseurl }}/wp-content/uploads/enrico-fiorentini.jpg)
 
+# Come costruire una cornice Usa e Getta
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Spiego, a chi è interessato, come costruire una cornice usa e getta che uso quando devo regalare un quadro.

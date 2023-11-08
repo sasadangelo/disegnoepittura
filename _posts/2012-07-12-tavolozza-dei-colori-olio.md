@@ -14,6 +14,7 @@ author: sasadangelo
 
 ![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-mini.jpg)
 
+# Come usare la Tavolozza dei colori ad olio
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Quale tavolozza dei colori usare per la pittura ad olio? Come la si usa? Come si pulisce?

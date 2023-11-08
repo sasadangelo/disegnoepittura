@@ -15,6 +15,7 @@ author: amalialarosa
 
 ![Copia Cristo - Guido Reni - Thumbnail]({{ site.baseurl }}/wp-content/uploads/copia-cristo-guido-reni-mini.jpg)
 
+# Copia del Cristo di Guido Reni
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 **Materiali:** Tela 30x40 a trama fine, pennelli martora n.0, n.1, pelo di bue n.4 n.6, liquin original.

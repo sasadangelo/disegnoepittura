@@ -12,6 +12,7 @@ author: sasadangelo
 
 ![Ruben Belloso Adorna - Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg)
 
+# Corso di Pastello di Ruben Belloso Adorna
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Lo scorso weekend ho partecipato al corso di pastello di 1° livello tenuto a Roma da Ruben Belloso Adorna.

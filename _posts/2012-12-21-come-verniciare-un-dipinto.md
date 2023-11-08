@@ -13,6 +13,7 @@ author: sasadangelo
 
 ![Verniciare un dipinto - seconda mano]({{ site.baseurl }}/wp-content/uploads/vernice-finale-stesura-2.jpg)
 
+# Come verniciare un dipinto ad olio?
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
 Come verniciare un dipinto?
