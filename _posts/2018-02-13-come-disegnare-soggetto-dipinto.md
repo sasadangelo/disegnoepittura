@@ -52,7 +52,7 @@ Eseguo sempre il disegno su un foglio molto sottile e di grandezza pari a quella
 
 ![Misure Fogli Ax]({{ site.baseurl }}/wp-content/uploads/Misure_Fogli_Ax.jpg)
 
-_Foto da [www.studiopetrillo.com](https://www.studiopetrillo.com/formati.html)_
+_Foto da [www.studiopetrillo.com](https://www.studiopetrillo.com/formati.html){:target="_blank"}_
 
 ## L'Inquadratura
 

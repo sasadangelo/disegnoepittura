@@ -19,9 +19,6 @@ author: sasadangelo
 # Come fare la Campitura di una Tela
 _Pubblicato il **{{ page.date | date_to_string }}**_
 
-# Come fare la Campitura di una Tela
-_Pubblicato il **{{ page.date | date_to_string }}**_
-
 In quest'articolo proverò a spiegare che cos'è la campitura, a cosa serve e come la eseguo. 
 
 ## Che cos'è la Campitura?
@@ -32,8 +29,6 @@ La [campitura](https://it.wiktionary.org/wiki/campitura){:target="_blank"} è la
 * armonico.
 
 ![Campitura]({{ site.baseurl }}/wp-content/uploads/Campitura.jpg){:width="450" height="300" .responsive_img}
-
-_Foto da [https://www.paintersonline.co.uk](https://www.paintersonline.co.uk/){:target="_blank"}_
 
 Nelle tecniche più libere e disinvolte lasciar trasparire questa base colorata spesso è un effetto desiderato. Dipingendo un paesaggio in cui il colore dominante è il blu del cielo si può usare una campitura arancio (complementare) per renderlo più vibrante. Una natura morta con sfondo neutro può risultare più armonica se si sceglie una campitura di un colore similare di media tonalità.
 
@@ -46,11 +41,9 @@ Le origini di questa pratica sono antichissime e basta guardare alcuni dipinti i
 Iniziare a dipingere partendo da una base colorata, oltre agli effetti sopra menzionati, offre alcuni vantaggi:
 
 
-dipingendo  "Alla Prima" ho potuto constatare che anche non ricercando l'effetto di trasparenza è inevitabile che una minima parte del colore sottostante traspaia attraverso il dipinto, soprattutto se si usano colori trasparenti. In tali situazioni avere una base colorata è preferibile rispetto al bianco della tela.
-
-La percezione di un colore varia in base allo sfondo della superficie su cui si applica. L'idea è avere sulla tela una tinta di media tonalità così da ridurre al minimo queste differenze di percezione.
-
-1. Trattiene gli ultimi residui di grafite evitando che si mescoli con lo strato pittorico vero e proprio.
+1. dipingendo  "Alla Prima" ho potuto constatare che anche non ricercando l'effetto di trasparenza è inevitabile che una minima parte del colore sottostante traspaia attraverso il dipinto, soprattutto se si usano colori trasparenti. In tali situazioni avere una base colorata è preferibile rispetto al bianco della tela.
+2. La percezione di un colore varia in base allo sfondo della superficie su cui si applica. L'idea è avere sulla tela una tinta di media tonalità così da ridurre al minimo queste differenze di percezione.
+3. Trattiene gli ultimi residui di grafite evitando che si mescoli con lo strato pittorico vero e proprio.
 
 
 Usare o meno la campitura dipende dalla tecnica che si utilizza e spesso è anche una questione di gusto personale, io preferisco sempre partire da una base colorata.

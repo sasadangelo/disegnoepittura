@@ -55,7 +55,7 @@ Per eseguire l'apprettatura di una tela utilizzo i seguenti materiali:
 
 La colla Vinavil 59 si differenzia dalla comune Vinavil perché ha un pH neutro che non aggredisce il tessuto della tela. Si trova facilmente in ferramenta e il suo costo è paragonabile a quello della Vinavil comune.
 
-Sul sito della [Gambling Colors](https://www.gamblincolors.com/oil-painting/sizes-and-grounds/) si legge in inglese (evito di tradurre per non alterarne il senso):
+Sul sito della [Gambling Colors](https://www.gamblincolors.com/oil-painting/sizes-and-grounds/){:target="_blank"} si legge in inglese (evito di tradurre per non alterarne il senso):
 
 > Diluted with distilled water, PVA size is a contemporary size for fabric support. Conservation scientists recommend painters use neutral pH PVA size on linen and canvas instead of rabbit skin glue. PVA provides a good size layer that seals the fabric but does not re-absorb atmospheric moisture, swell and shrink like rabbit skin glue does. There are hundreds of different formulae of PVA. We acknowledge and appreciate the research of the Canadian Conservation Institute that helps painters and conservators identify the best PVA to use. Gamblin PVA Size is made from PVA that has a neutral pH and does not yellow. It also retains its flexibility and does not emit harmful volatiles.
 

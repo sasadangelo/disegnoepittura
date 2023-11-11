@@ -90,7 +90,7 @@ Quando la luce colpisce la sfera su di essa si formano le seguenti cinque aree:
 
 ![Chiaroscuro Sfera]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-sfera.png){:width="450" height="299" .responsive_img}
 
-L'area più chiara e piccola è il lustro di cui abbiamo parlato ampiamente in quest'articolo. La posizione del lustro non è al centro dell'area in luce come molti erroneamente pensano, bensì la sua posizione dipende dalla posizione dell'osservatore e quella della sorgente luminosa.
+L'area più chiara e piccola è il lustro di cui abbiamo parlato ampiamente in [quest'articolo]({{ site.baseurl }}/come-dipingere-lustri/). La posizione del lustro non è al centro dell'area in luce come molti erroneamente pensano, bensì la sua posizione dipende dalla posizione dell'osservatore e quella della sorgente luminosa.
 
 L'area più chiara dopo il lustro è l'area in luce direttamente illuminata dalla sorgente luminosa.
 
@@ -192,7 +192,7 @@ Questo avviene perché in quell'area la luce è radente e consente alle textures
 
 ![Moon Man]({{ site.baseurl }}/wp-content/uploads/Moon-man-2.jpg){:width="392" height="394" .responsive_img}
 
-_Foto da [gurneyjourney.blogspot.com](https://gurneyjourney.blogspot.co.uk/2010/12/texture-on-moon-man.html)_
+_Foto da [gurneyjourney.blogspot.com](https://gurneyjourney.blogspot.co.uk/2010/12/texture-on-moon-man.html){:target="_blank"}_
 
 Internet è piena di tutorial che mostrano come questi principi si applicano nella pratica, ad esempio [questo tutorial](https://www.youtube.com/watch?v=5GQPDs9RjJM){:target="_blank"} mostra come disegnare la textures della pelle. Come potete notare l'autore non fa altro che creare punti scuri affiancandoli a punti chiari come micro superfici concave.
 
