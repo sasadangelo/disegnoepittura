@@ -1,0 +1,62 @@
+title: Disegno & Pittura
+email: sasadangelo@google.com
+description: >-
+  Disegno e Pittura è un blog dedicato al disegno e alla pittura tradizionale:
+  tecniche artistiche, chiaroscuro, materiali, tutorial pratici e riflessioni
+  sull’arte per chi vuole imparare, migliorare e approfondire.
+baseurl: "/disegnoepittura"
+url: "https://sasadangelo.github.io"
+twitter_username: jekyllrb
+github_username: jekyll
+
+logo: /assets/images/Logo2.png
+
+# Build settings
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:slug/
+
+assets:
+  stylesheets:
+    - /assets/css/main.scss
+    - /_sass/custom.scss
+
+locale: "it-IT"
+classes: wide
+
+pagination:
+  enabled: true
+  per_page: 7
+  permalink: "/blog/:num/" # URL per le pagine successive
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: ""
+    anonymize_ip: false
+google_site_verification: ""
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/sasadangelo"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/scopriroma.it/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/sasadangeloo"
+
+exclude:
+  - "README.md"
+  - "docs"
+  - "tools"
+
+sass:
+  style: compressed

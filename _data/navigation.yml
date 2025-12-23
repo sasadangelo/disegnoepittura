@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Chi Sono"
+    url: /chi-sono/
+  - title: "Nuovo Utente? Inizia Qui"
+    url: /nuovo-utente-inizia-qui/
+  - title: "Contatti"
+    url: /contatti/
+  - title: "Blog"
+    url: /blog/
+  - title: "Risorse"
+    url: /risorse/
