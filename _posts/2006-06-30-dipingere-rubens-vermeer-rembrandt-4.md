@@ -6,7 +6,7 @@ tags: ['nature morte', 'tutorial']
 layout: single
 ---
 
-![rose](https://www.disegnoepittura.it/wp-content/uploads/rose.jpg "rose")
+![rose]({{ site.baseurl }}/wp-content/uploads/rose.jpg "rose")
 
 ### Grisaglia
 
@@ -22,19 +22,19 @@ Si comincia preparando il colore più scuro (nero) e più chiaro (bianco) della 
 
 Tra il mezzotono e il mix più scuro creiamo due toni intermedi. Tra il mezzotono e il mix chiaro creiamo 5 ulteriori toni intermedi. In totale i toni saranno 10.
 
-![rose-fig6](https://www.disegnoepittura.it/wp-content/uploads/rose-fig6.jpg "rose-fig6")
+![rose-fig6]({{ site.baseurl }}/wp-content/uploads/rose-fig6.jpg "rose-fig6")
 
 **Applicazione del colore**
 
 E’ necessario, a questo punto, fare qualche considerazione su come applicare il colore sulla tela. In figura è possibile notare che il colore va applicato in piccole pennellate. Tra una pennellata e un’altra si lascia un pò di spazio da cui traspare lo strato pittorico sottostante. Questa modalità di applicazione del colore va eseguita su tutta la tela anche nelle zone più ampie. Terminata l’applicazione si procede a sfumare il colore con un pennello piatto largo asciutto.
 
-![rose-fig7](https://www.disegnoepittura.it/wp-content/uploads/rose-fig7.jpg "rose-fig7")
+![rose-fig7]({{ site.baseurl }}/wp-content/uploads/rose-fig7.jpg "rose-fig7")
 
 Per le zone in ombra è conveniente applicare il colore più diluito in modo che traspaia di più, nelle zone di luce (più chiare) il colore va applicato ad impasto (cioè più carico di colore). Il motivo per cui si fa ciò è semplice. L’impasto tende ad avanzare, mentre la trasparenza a recedere.
 
 Questo è il risultato finale, una volta completato si lasci asciugare il lavoro per 3-4 settimane.
 
-![rose-fig8](https://www.disegnoepittura.it/wp-content/uploads/rose-fig8.jpg "rose-fig8")
+![rose-fig8]({{ site.baseurl }}/wp-content/uploads/rose-fig8.jpg "rose-fig8")
 
 ### Grisaglia fase 2 (opzionale)
 
@@ -42,10 +42,10 @@ Dopo la prima fase di grisaglia è possibile ripetere il processo solo nel caso 
 
 Hai letto le altre puntate della serie di articoli Dipingere come Rubens, Vermeer e Rembrandt? Segui i seguenti link per leggere le altre puntate:
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (I parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (I parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt/)
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (II parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-2/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (II parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-2/)
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (III parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-3/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (III parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-3/)
 
-[Dipingere come Rubens, Vermeer e Rembrandt. (V parte)](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-5/)
+[Dipingere come Rubens, Vermeer e Rembrandt. (V parte)]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-5/)

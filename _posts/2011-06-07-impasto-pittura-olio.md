@@ -6,11 +6,11 @@ tags: ['corso pittura ad olio', 'pittura ad olio']
 layout: single
 ---
 
-![Paesaggio di Van Gogh con impasto](https://www.disegnoepittura.it/wp-content/uploads/impasto-van-gogh.jpg "Paesaggio di Van Gogh con impasto")
+![Paesaggio di Van Gogh con impasto]({{ site.baseurl }}/wp-content/uploads/impasto-van-gogh.jpg "Paesaggio di Van Gogh con impasto")
 
-*Questa è la lezione 16 del [corso di pittura ad olio per artisti principianti](https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-2/).*
+*Questa è la lezione 16 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 
-L’impasto, in inglese si usa lo stesso termine italiano, è l’applicazione di uno spesso strato di pittura. Le differenze tra impasto e [velatura](https://www.disegnoepittura.it/velature/) sono le seguenti:
+L’impasto, in inglese si usa lo stesso termine italiano, è l’applicazione di uno spesso strato di pittura. Le differenze tra impasto e [velatura]({{ site.baseurl }}/velature/) sono le seguenti:
 
 1. Si utilizzano colori opachi o mescolanze con colori opachi invece dei colori trasparenti o semitrasparenti.
 2. E’ possibile utilizzare il bianco. Anzi, spesso esso compare in quasi tutte le mistioni coprenti. Essendo il bianco coprente rende tutte le mistioni coprenti.
@@ -23,8 +23,8 @@ Il colore ad impasto si può applicare sia con il pennello, sia con la spatola c
 
 Riporto qui anche alcune immagini di opere in cui si nota l’uso del colore applicato ad impasto tratte dal sito [EmptyEasel.com](https://emptyeasel.com/2007/07/26/what-is-impasto-thick-textured-paint/).
 
-![Ritratto eseguito ad impasto](https://www.disegnoepittura.it/wp-content/uploads/impasto-ritratto.jpg "Ritratto eseguito ad impasto")
+![Ritratto eseguito ad impasto]({{ site.baseurl }}/wp-content/uploads/impasto-ritratto.jpg "Ritratto eseguito ad impasto")
 
-![Paesaggio di Van Gogh con impasto](https://www.disegnoepittura.it/wp-content/uploads/impasto-van-gogh.jpg "Paesaggio di Van Gogh con impasto")
+![Paesaggio di Van Gogh con impasto]({{ site.baseurl }}/wp-content/uploads/impasto-van-gogh.jpg "Paesaggio di Van Gogh con impasto")
 
-*Leggi gli altri  articoli del [corso di pittura ad olio per artisti principianti](https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-2/). Se vuoi puoi ricevere gli aggiornamenti sui futuri articoli del corso iscrivendoti gratuitamente ai [feed RSS](https://feeds2.feedburner.com/DisegnoPittura).*
+*Leggi gli altri  articoli del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/). Se vuoi puoi ricevere gli aggiornamenti sui futuri articoli del corso iscrivendoti gratuitamente ai [feed RSS](https://feeds2.feedburner.com/DisegnoPittura).*

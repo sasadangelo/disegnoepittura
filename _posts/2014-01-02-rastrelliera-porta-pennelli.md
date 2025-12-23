@@ -6,7 +6,7 @@ tags: ['materiali']
 layout: single
 ---
 
-![Rastrelliera Porta Pennelli](/wp-content/uploads/rastrelliera-pennelli-mini.jpg "Rastrelliera Porta Pennelli")
+![Rastrelliera Porta Pennelli]({{ site.baseurl }}/wp-content/uploads/rastrelliera-pennelli-mini.jpg "Rastrelliera Porta Pennelli")
 
 Oggi voglio mostrarvi un utilissimo strumento che utilizzo quando dipingo che potete costruire anche voi facilmente: **una rastrelliera porta pennelli**.
 
@@ -24,7 +24,7 @@ Di recente ho dovuto costruire qualche nuova rastrelliera perché quelle vecchie
 
 ## I Materiali
 
-![Materiali](/wp-content/uploads/1-rastrelliere-pennelli-materiali.jpg "Materiali")
+![Materiali]({{ site.baseurl }}/wp-content/uploads/1-rastrelliere-pennelli-materiali.jpg "Materiali")
 
 I materiali per costruire la rastrelliera sono:
 
@@ -41,23 +41,23 @@ Acquistate listelli di balsa che è un legno molto tenero e semplice da tagliare
 
 ## La costruzione delle Rastrelliere Porta Pennelli
 
-![Pezzi Rastrelliera](/wp-content/uploads/3-rastrelliere-pennelli-pezzi.jpg "Pezzi Rastrelliera")
+![Pezzi Rastrelliera]({{ site.baseurl }}/wp-content/uploads/3-rastrelliere-pennelli-pezzi.jpg "Pezzi Rastrelliera")
 
 Ho tagliato qui due listelli di sezione 1×1.5 cm della misura di 26.5 cm. Poi ho tagliato altri due listelli di misura più piccola proporzionati alla lunghezza dei pennelli.  Ho tagliato poi nove listelli di sezione 1×1 cm.
 
-![Base Rastrelliera](/wp-content/uploads/5-rastrelliera-base.jpg "Base Rastrelliera")
+![Base Rastrelliera]({{ site.baseurl }}/wp-content/uploads/5-rastrelliera-base.jpg "Base Rastrelliera")
 
 Unendo insieme i quattro listelli ho creato la base per la rastrelliera. Per unire i listelli ho usato la colla vinavil e la spillatrice.
 
-![Contenitori della Rastrelliera](/wp-content/uploads/7-rastrelliera-contenitori.jpg "Contenitori della Rastrelliera")
+![Contenitori della Rastrelliera]({{ site.baseurl }}/wp-content/uploads/7-rastrelliera-contenitori.jpg "Contenitori della Rastrelliera")
 
 Con colla e chiodini ho attaccato i listelli da 1×1 cm sulla base. Quest’ultimi sono ad una distanza di 1.5 cm l’uno dall’altro.
 
-![Rastrelliera porta pennelli](/wp-content/uploads/8-rastrelliera.jpg "Rastrelliera porta pennelli")
+![Rastrelliera porta pennelli]({{ site.baseurl }}/wp-content/uploads/8-rastrelliera.jpg "Rastrelliera porta pennelli")
 
 La foto mostra la rastrelliera quasi al completo, per finirla ho rimosso gli angoli in eccesso.
 
-![Rastrelliera con pennelli](/wp-content/uploads/9-rastrelliera-pennelli-2.jpg "Rastrelliera con pennelli")
+![Rastrelliera con pennelli]({{ site.baseurl }}/wp-content/uploads/9-rastrelliera-pennelli-2.jpg "Rastrelliera con pennelli")
 
 Questa è la rastrelliera con i pennelli. Io uso fondamentalmente due rastrelliere:
 
@@ -71,4 +71,4 @@ L’uso della rastrelliera migliora l’efficienza della gestione dei pennelli d
 
 Poiché sono un amante dell’ordine, ho realizzato anche un comodo astuccio dove riporre le mie due rastrelliere porta pennelli a lavoro finito.
 
-![Astuccio per Rastrelliera Porta Pennelli](/wp-content/uploads/rastrelliera-pennelli-astuccio-9.jpg "Astuccio per Rastrelliera Porta Pennelli")
+![Astuccio per Rastrelliera Porta Pennelli]({{ site.baseurl }}/wp-content/uploads/rastrelliera-pennelli-astuccio-9.jpg "Astuccio per Rastrelliera Porta Pennelli")

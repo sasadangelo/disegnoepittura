@@ -6,7 +6,7 @@ tags: ['paesaggi']
 layout: single
 ---
 
-![pierre](/wp-content/uploads/pierre.jpg "pierre")
+![pierre]({{ site.baseurl }}/wp-content/uploads/pierre.jpg "pierre")
 
 Ieri e oggi ho avuto un pò di problemi con Internet, ma finalmete sono ritornato. Questo fine settimana ho lavorato su due dipinti utilizzando la tecnica di Bob Ross. Pubblicherò le immagini in questi giorni insieme ad alcuni studi su paesaggi marini. Spero che riusciate a resistere all’orrore.
 

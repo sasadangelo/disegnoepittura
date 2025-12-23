@@ -6,7 +6,7 @@ tags: ['interviste']
 layout: single
 ---
 
-![](https://www.disegnoepittura.it/wp-content/uploads/richard-robinson-painter.jpg "Richard Robinson")
+![]({{ site.baseurl }}/wp-content/uploads/richard-robinson-painter.jpg "Richard Robinson")
 
 [Richard Robinson](http://www.livepaintinglessons.com/) è un artista neozelandese autodidatta che da dieci anni è artista professionista ed utilizza Internet come veicolo di promozione del suo lavoro. Richard ha anche un [blog](http://thecompleteartist.ning.com/) che io seguo attraverso gli RSS feed. Richard si occupa prevalentemente di paesaggi e il suo business model è basato su:
 
@@ -33,4 +33,4 @@ Volendo sintetizzare le risposte di Richard possiamo concludere, da un suo punto
 
 Richard con l’ultima risposta credo abbia toccato il più importante tasto del web marketing che un artista può sfruttare a proprio vantaggio. Può sembrare strano ma il marketing via email ancora oggi è considerato lo strumento di promozione più efficace. Spesso le persone associano al marketing via email il concetto di spamming il che è completamente sbagliato. Gestire una newsletter in maniera professionale è cosa molto difficile e richiede grande esperienza proprio per evitare che diventi un mezzo di spamming. Torneremo su questo tema più avanti nel tempo.
 
-Se ti è piaciuta questa intervista [leggi le altre interviste del blog](https://www.disegnoepittura.it/tag/interviste/) che troverai sicuramente interessanti.
+Se ti è piaciuta questa intervista [leggi le altre interviste del blog]({{ site.baseurl }}/tag/interviste/) che troverai sicuramente interessanti.

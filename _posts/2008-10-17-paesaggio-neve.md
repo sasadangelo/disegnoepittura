@@ -6,7 +6,7 @@ tags: ['acquarello', 'paesaggi', 'tutorial']
 layout: single
 ---
 
-![Paesaggio con neve](/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")
+![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")
 
 In questo post vorrei illustrarvi un esempio su come dipingere un paesaggio innevato con fienile in rovina.
 
@@ -30,7 +30,7 @@ Straccio per asciugare i pennelli.
 
 **Procedimento**
 
-![Paesaggio con neve](/wp-content/uploads/paesaggio-acquarello-1.jpg "Paesaggio con neve")
+![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/paesaggio-acquarello-1.jpg "Paesaggio con neve")
 
 **Cielo**
 
@@ -44,14 +44,14 @@ Con un pennello tondo n° 6 con blu ceruleo e rosso scarlatto stendete il colore
 
 I colori e la tecnica sono gli stessi del lato sinistro. Notate come per l’albero a destra lo sfondo è scuro sotto (terra di siena bruciata) e chiaro sopra (terra di sinea naturale), viceversa accade per tronco e rami. L’effetto non è realistico ma è molto piacevole.
 
-![Paesaggio con neve](/wp-content/uploads/paesaggio-acquarello-2.jpg "Paesaggio con neve")
+![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/paesaggio-acquarello-2.jpg "Paesaggio con neve")
 
 Il colore di base del fienile è terra di siena naturale con pochissimo terra di siena bruciata. Con uno straccio tamponate sul fienile del colore composto dal colore precedente + terra di siena bruciata + blu cobalto + rosso scarlatto, così da suggerire le macchie che devono essere più scure in basso. Utilizzare lo stesso colore per la parte in ombra. Gli stessi colori vanno utilizzati per il muretto terra di sinea naturale + pochissima terra di sine abruciata a sinistra e man mano che si va nell’ombra aggiungere blu cobalto + pochissimo rosso.
 
-![Paesaggio con neve](/wp-content/uploads/paesaggio-acquarello-3.jpg "Paesaggio con neve")
+![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/paesaggio-acquarello-3.jpg "Paesaggio con neve")
 
 Per il muretto che dal fienile va fino alla fine del foglio a sinistra, il procedimento è sempre lo stesso. Si parte con un base di terra di sinea naturale + pochissima terra siena bruciata. Poi con la base ancora bagnata si aggiunge al colore precedente blu cobalto + pochissimo rosso. Lasciare in bianco la parte superiore ad indicare la copertura di neve.  
-![Paesaggio con neve](/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")
+![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")
 
 Il muretto a destra è blu ceruleo + blu cobalto. La parte coperta di neve va lasciata bianca. Qua è la sul muretto ci sono pietre e piccoli rametti che vanno dipinti sempre con i colori terra di sinea naturale, terra di sinea bruciata, blu cobalto e pochissimo rosso.
 

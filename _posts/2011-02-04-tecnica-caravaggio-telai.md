@@ -6,9 +6,9 @@ tags: ['pittura ad olio']
 layout: single
 ---
 
-![Fanciullo con il canestro di frutta](https://www.disegnoepittura.it/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Fanciullo con il canestro di frutta")
+![Fanciullo con il canestro di frutta]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Fanciullo con il canestro di frutta")
 
-Questo è un articolo della serie [Tecnica di Caravaggio](https://www.disegnoepittura.it/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest’articolo.
+Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest’articolo.
 
 ## I Telai al tempo di Caravaggio
 
@@ -32,19 +32,19 @@ Innanzittutto, scelto il dipinto da voler riprodurre è facile reperire sui libr
 
 1. Costruire da se il telaio.
 2. Contattare negozi di belle arti che offrono la possibilità di ordinare telai su misura rilasciati mediante kit di montaggio.
-3. Scegliere una misura standard ed adattare l’opera alla tela. Nell’articolo [Incontra il Maestro Michelangelo Merisi detto Caravaggio](https://www.disegnoepittura.it/incontra-maestro-caravaggio/) spiego come realizzare questa operazione con l’ausilio del software [PostRazor](http://posterazor.sourceforge.net/).
+3. Scegliere una misura standard ed adattare l’opera alla tela. Nell’articolo [Incontra il Maestro Michelangelo Merisi detto Caravaggio]({{ site.baseurl }}/incontra-maestro-caravaggio/) spiego come realizzare questa operazione con l’ausilio del software [PostRazor](http://posterazor.sourceforge.net/).
 
 ## Montaggio della tela sul telaio
 
 Il montaggio della tela sul telaio è una procedua abbastanza semplice. Innanzittutto è necessario che la tela sia più grande rispetto al telaio. E’ necessario avere una spillatrice e una forbice come illustrato in figura.
 
-![Spillatrice e Forbice](https://www.disegnoepittura.it/wp-content/uploads/spillatrice-forbice.jpg "Spillatrice e Forbice")
+![Spillatrice e Forbice]({{ site.baseurl }}/wp-content/uploads/spillatrice-forbice.jpg "Spillatrice e Forbice")
 
 *Foto da [emptyeasel.com](http://emptyeasel.com/2007/07/06/how-to-stretch-canvas-a-tutorial-with-step-by-step-instructions/ "emptyeasel.com")*
 
 Si piega la tela sul telaio e si comincia a spillare nei punti indicati dalla numerazione nella foto che segue.  Si spillano poi gli angoli piegandoli opportunamente e, solo alla fine, si rimuovono le eccedenze con la forbice.
 
-![Montaggio di una Tela su un Telaio](https://www.disegnoepittura.it/wp-content/uploads/montaggio-tela-su-telaio.jpg "Montaggio di una Tela su un Telaio")
+![Montaggio di una Tela su un Telaio]({{ site.baseurl }}/wp-content/uploads/montaggio-tela-su-telaio.jpg "Montaggio di una Tela su un Telaio")
 
 *Foto da [emptyeasel.com](http://emptyeasel.com/2007/07/06/how-to-stretch-canvas-a-tutorial-with-step-by-step-instructions/ "emptyeasel.com")*
 
@@ -52,11 +52,11 @@ Il tutorial completo del montaggio lo trovate in [quest’articolo su emptyeasel
 
 ## Apprettatura
 
-Costruito il telaio e montata la tela su di esso e necessario [eseguire l’operazione di apprettatura](https://www.disegnoepittura.it/colla-coniglio-apprettatura-tela-lino/). Essa consiste nello spargere sulla tela uno strato di colla che ha una duplice funzione: riempire i buchi della tela così da poter usare minor quantità di imprimitura per lo strato preparatorio e impedire che gli acidi dell’olio aggrediscano la tela. La procedura precisa per eseguire l’apprettatura è già stata descritta in [quest’articolo](https://www.disegnoepittura.it/colla-coniglio-apprettatura-tela-lino/).
+Costruito il telaio e montata la tela su di esso e necessario [eseguire l’operazione di apprettatura]({{ site.baseurl }}/colla-coniglio-apprettatura-tela-lino/). Essa consiste nello spargere sulla tela uno strato di colla che ha una duplice funzione: riempire i buchi della tela così da poter usare minor quantità di imprimitura per lo strato preparatorio e impedire che gli acidi dell’olio aggrediscano la tela. La procedura precisa per eseguire l’apprettatura è già stata descritta in [quest’articolo]({{ site.baseurl }}/colla-coniglio-apprettatura-tela-lino/).
 
 Credi che quest’articolo abbia trattato il tema dei telai in maniera esauriente? Se pensi di no, aggiungi pure la tua opinione con un commento così da arricchire questa discussione.
 
-**Hai letto i restanti articoli della serie Tecnica di Caravaggio? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/tecnica-di-caravaggio/ "Tecnica di Caravaggio").**
+**Hai letto i restanti articoli della serie Tecnica di Caravaggio? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio").**
 
 **Fonti:**
 

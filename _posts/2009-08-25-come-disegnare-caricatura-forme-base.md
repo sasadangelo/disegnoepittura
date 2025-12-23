@@ -6,7 +6,7 @@ tags: ['caricatura']
 layout: single
 ---
 
-![caricatura](/wp-content/uploads/caricatura-5-forme-5.jpg "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-5.jpg "caricatura")
 
 Quali sono le 5 forme base in una caricatura? Leggendo quest’articolo lo scoprirai e imparerai anche come l’esagerazione di una forma influisce sulle altre.
 
@@ -14,7 +14,7 @@ Quali sono le 5 forme base in una caricatura? Leggendo quest’articolo lo scopr
 
 Il volto umano viene percepito, non a torto, come qualcosa di complesso da riprodurre. Il motivo risiede nel fatto che ci sono numerosi dettagli come ciglia, sopracciglie, bocca, naso, denti, narici e tanto altro ancora. Volendo semplificare al massimo, notiamo che esso è essenzialmente composto da 5 forme di base: testa, 2 occhi, naso e bocca.
 
-![caricatura](/wp-content/uploads/caricatura-5-forme-1.jpg "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-1.jpg "caricatura")
 
 ## Le relazioni tra le 5 forme di base
 
@@ -34,19 +34,19 @@ Quindi, volendo sintetizzare quanto detto finora possiamo dire che, eseguire una
 
 Qui di seguito riportiamo alcuni esempi di esagerazione con relativa conservazione delle relazioni.
 
-![caricatura](/wp-content/uploads/caricatura-5-forme-2.jpg "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-2.jpg "caricatura")
 
 Il naso è stato allungato. Come reazione gli occhi sono stati avvicinati. La bocca è stata allargata e avvicinata al naso. Come reazione abbiamo allungato il mento e allargato la mascella. L’allargamento della mascella ha provocato, come reazione, un restringimento della testa.
 
-![caricatura](/wp-content/uploads/caricatura-5-forme-3.jpg "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-3.jpg "caricatura")
 
 Per ingrandire gli occhi abbiamo accorciato il naso e ridotta la bocca. Essendo una figura minuta abbiamo ristretto la mascella e come reazione abbiamo allargato la testa.
 
-![caricatura](/wp-content/uploads/caricatura-5-forme-4.jpg "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-4.jpg "caricatura")
 
 Anche qui il naso è stato allungato e gli occhi avvicinati. Tuttavia, per avere un viso magro abbiamo ristretto la bocca. Qui di seguito riporto un esempio di caricatura e la relativa semplificazione nelle 5 forme di base.
 
-![caricatura](/wp-content/uploads/caricatura-5-forme-5.jpg "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-5.jpg "caricatura")
 
 *Ti è piaciuto quest’articolo? Leggi gli altri articoli del corso per [Disegnare una Caricatura](/corso-disegnare-una-caricatura/).*
 

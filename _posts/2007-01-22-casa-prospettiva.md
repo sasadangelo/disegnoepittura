@@ -6,9 +6,9 @@ tags: ['prospettiva']
 layout: single
 ---
 
-![prospettiva-casa](https://www.disegnoepittura.it/wp-content/uploads/prospettiva-casa.jpg "prospettiva-casa")
+![prospettiva-casa]({{ site.baseurl }}/wp-content/uploads/prospettiva-casa.jpg "prospettiva-casa")
 
-In molti articoli abbiamo parlato di Prospettiva. Abbiamo dato una [definizione di Prospettiva](https://www.disegnoepittura.it/composizione-prospettiva/) spiegando anche che cos’è. Abbiamo introdotto la [terminologia della Prospettiva](https://www.disegnoepittura.it/prospettiva-terminologia-sapere/), abbiamo analizzato anche due tipi di prospettive: [centrale](https://www.disegnoepittura.it/prospettiva-centrale/) e [accidentale](https://www.disegnoepittura.it/prospettiva-accidentale/). In quest’articolo voglio mostrarvi un video che illustra come disegnare una casa in prospettiva centrale e accidentale.
+In molti articoli abbiamo parlato di Prospettiva. Abbiamo dato una [definizione di Prospettiva]({{ site.baseurl }}/composizione-prospettiva/) spiegando anche che cos’è. Abbiamo introdotto la [terminologia della Prospettiva]({{ site.baseurl }}/prospettiva-terminologia-sapere/), abbiamo analizzato anche due tipi di prospettive: [centrale]({{ site.baseurl }}/prospettiva-centrale/) e [accidentale]({{ site.baseurl }}/prospettiva-accidentale/). In quest’articolo voglio mostrarvi un video che illustra come disegnare una casa in prospettiva centrale e accidentale.
 
 Ecco i passi per disegnare una casa in prospettiva centrale:
 
@@ -47,4 +47,4 @@ Il risultato finale ha sicuramente qualche imperfezione ma il modo in cui avvien
 
 Il video illustra anche come realizzare la casa in una prospettiva a tre punti ma evitiamo di descriverla perchè non è obiettivo di quest’articolo.
 
-*Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/prospettiva/ "La Prospettiva").*
+*Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/prospettiva/ "La Prospettiva").*

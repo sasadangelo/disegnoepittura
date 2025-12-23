@@ -6,9 +6,9 @@ tags: ['ritratto']
 layout: single
 ---
 
-![Giovanni Paolo Lomazzo](https://www.disegnoepittura.it/wp-content/uploads/giovanni-paolo-lomazzo.jpg "Giovanni Paolo Lomazzo")
+![Giovanni Paolo Lomazzo]({{ site.baseurl }}/wp-content/uploads/giovanni-paolo-lomazzo.jpg "Giovanni Paolo Lomazzo")
 
-*Questo è un guest post di Marco Fenocchio. Se vuoi scrivere anche tu un guest post per questo blog leggi il [regolamento qui](https://www.disegnoepittura.it/scrivi-articolo).*
+*Questo è un guest post di Marco Fenocchio. Se vuoi scrivere anche tu un guest post per questo blog leggi il [regolamento qui]({{ site.baseurl }}/scrivi-articolo).*
 
 Come dipingevano il viso gli antichi maestri? Come mescolavano i colori? Probabilmente tutti gli artisti si pongono queste domande e quest’articolo proverà a dare delle risposte in base agli scritti di uno di loro.
 
@@ -49,11 +49,11 @@ Quindi il tipo collerico ha un eccesso di bile gialla, il melanconico di bile ne
 
 Il seguente diagramma mostra la relazione tra tipologia di umore e le caratteristiche della personalità.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/personalita.png "Personalita")
+![]({{ site.baseurl }}/wp-content/uploads/personalita.png "Personalita")
 
 Artisti del calibro di Leonardo nei propri scritti hanno dimostrato di conoscere bene questa teoria ma non possiamo dire se l’approccio pittorico è analogo a quello illustrato da Lomazzo. Ad ogni modo, credo che il suo studio ha una grande valenza didattica considerando anche le opere del maestro che sono, sicuramente, di alto livello.
 
-![Madonna con bambino e santi di Giovanni Paolo Lomazzo](https://www.disegnoepittura.it/wp-content/uploads/Madonna-bambino-santi-Lomazzo1.jpg "Madonna con bambino e santi di Giovanni Paolo Lomazzo")
+![Madonna con bambino e santi di Giovanni Paolo Lomazzo]({{ site.baseurl }}/wp-content/uploads/Madonna-bambino-santi-Lomazzo1.jpg "Madonna con bambino e santi di Giovanni Paolo Lomazzo")
 
 *Foto da [Wikipedia (Madonna col bambino)](https://it.wikipedia.org/wiki/Giovanni_Paolo_Lomazzo)*
 
@@ -63,7 +63,7 @@ Quindi nel ritrarre una persona prima lo classificava in base all’umore e poi 
 
 **Temperamento Collerico**
 
-![Beethoven](https://www.disegnoepittura.it/wp-content/uploads/Beethoven-collerico.jpg "Beethoven")
+![Beethoven]({{ site.baseurl }}/wp-content/uploads/Beethoven-collerico.jpg "Beethoven")
 
 *[Foto di Beethoven da Empaticamente](http://blog.libero.it/EMPATICAMENTE/6961012.html)*
 
@@ -91,7 +91,7 @@ I colori citati in queste ricette sono, ovviamente, pigmenti in uso nel ‘500 e
 
 **Temperamento Sanguigno**
 
-![Mozart](https://www.disegnoepittura.it/wp-content/uploads/Mozart-sanguigno.jpg "Mozart")
+![Mozart]({{ site.baseurl }}/wp-content/uploads/Mozart-sanguigno.jpg "Mozart")
 
 *[Foto di Mozart da Empaticamente](http://blog.libero.it/EMPATICAMENTE/7001319.html)*
 
@@ -117,7 +117,7 @@ La terra (o nero) di campana è un colore che può essere sostituito da un nero 
 
 **Temperamento Melanconico**
 
-![Chopin](https://www.disegnoepittura.it/wp-content/uploads/chopin.jpg "Chopin")
+![Chopin]({{ site.baseurl }}/wp-content/uploads/chopin.jpg "Chopin")
 
 *[Foto di Chopin da Empaticamente](http://blog.libero.it/EMPATICAMENTE/7028981.html)*
 
@@ -167,7 +167,7 @@ Queste tinte per dipingere le carnagioni, consigliate da Lomazzo, sono uno stand
 
 **Lomazzo vs John Howard Sanden**
 
-Chi segue il blog, leggendo questo articolo avrà probabilmente notato alcune analogie con il [promix system color di John Howard Sanden](https://www.disegnoepittura.it/tavolozza-colori-ritratto-john-howard-sanden/). Il principio che regola la costruzione delle tinte è simile anche se ci sono delle differenze. La tavolozza di Sanden prevede un tipo di carnagione di base, mentre Lomazzo ne prevede 4. Entrambi usano 3 colori per le aree in luce. Il colore base dell’incarnato per Sanden è Light 2 mentre per Lomazzo è Light 3. Il colore Light 3 di Sanden è un po’ più rosato per le aree più rosee come guance, naso e mento. Lomazzo prevede 3 tinte per l’area in ombra. Sanden ne prevede 2 ma poi ha due colori per i mezzi toni uno caldo (per l’area di intersezione luce-ombra generalmente più intensa) e una fredda per i  piani che recedono. In entrambi i sistemi i colori non vanno usati così come mescolati ma sono punti di partenza con i quali poi costruire le tinte del soggetto da ritrarre. Infine, Sanden usa tre grigi neutri che usa per regolare la saturazione o intensità dei colori mediante un sistema simile a quello da me descritto in questi giorni.
+Chi segue il blog, leggendo questo articolo avrà probabilmente notato alcune analogie con il [promix system color di John Howard Sanden]({{ site.baseurl }}/tavolozza-colori-ritratto-john-howard-sanden/). Il principio che regola la costruzione delle tinte è simile anche se ci sono delle differenze. La tavolozza di Sanden prevede un tipo di carnagione di base, mentre Lomazzo ne prevede 4. Entrambi usano 3 colori per le aree in luce. Il colore base dell’incarnato per Sanden è Light 2 mentre per Lomazzo è Light 3. Il colore Light 3 di Sanden è un po’ più rosato per le aree più rosee come guance, naso e mento. Lomazzo prevede 3 tinte per l’area in ombra. Sanden ne prevede 2 ma poi ha due colori per i mezzi toni uno caldo (per l’area di intersezione luce-ombra generalmente più intensa) e una fredda per i  piani che recedono. In entrambi i sistemi i colori non vanno usati così come mescolati ma sono punti di partenza con i quali poi costruire le tinte del soggetto da ritrarre. Infine, Sanden usa tre grigi neutri che usa per regolare la saturazione o intensità dei colori mediante un sistema simile a quello da me descritto in questi giorni.
 
 **Considerazioni finali**
 

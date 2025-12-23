@@ -6,7 +6,7 @@ tags: ['chiaroscuro', 'colori', 'mescolare i colori', 'nature morte', 'pittura a
 layout: single
 ---
 
-![Grisaglia dell'Uva](/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
+![Grisaglia dell'Uva]({{ site.baseurl }}/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
 
 Quali colori usare per una grisaglia?
 
@@ -30,7 +30,7 @@ No. Se sei abbastanza bravo da riuscire a [dipingere opere come queste](https://
 
 Non esistono regole certificate per realizzare una grisaglia o un abbozzo in generale. Ci sono grisaglie realizzate in verdaccio, con tinte bruno rossastre (in tal caso si chiama brunaille) e grigiastre. Il termine grisaglia deriva dal francese griseille (da gris che in francese significa grigio) che era appunto il termine usato per descrivere l’abbozzo monocromo grigiasto. Proprio in questi giorni sto realizzando una natura morta con la tecnica della grisaglia. Questo è un dipinto di Alexei Antonov e la tecnica della grisaglia qui spiegata deriva dai suoi corsi online. Io ho semplicemente interpretato in maniera diversa e personale la realizzazione di questa grisaglia, combinando la sua tecnica, il mio modo di mescolare i grigi e [il metodo di conservazione dei colori di Marco Maria Fenocchio](/come-preparavano-conservavano-colori-olio-antichi-maestri/).
 
-![Grisaglia dell'Uva](/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
+![Grisaglia dell'Uva]({{ site.baseurl }}/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
 
 *Grisaglia – Uva*
 
@@ -38,39 +38,39 @@ Ho cominciato preparando la tela con due mani di gesso acrilico e stendendo una 
 
 A questo punto, avendo un’idea precisa delle zone in luce e in ombra ero pronto per una modellazione più precisa dei volumi. Ho così realizzato una grisaglia molto dettagliata in toni di grigio. Per realizzare questo chiaroscuro non ho usato bianco e nero come erroneamente qualcuno può pensare. Questo perchè l’aspetto finale sarebbe stato troppo freddo mentre io volevo una grisaglia di tonalità calda. Ho usato quindi un colore nero che chiameremo BLACK composto da due parti nero, una di terra d’ombra bruciata e un pizzico di blu d’oltremare. Notate come io uso sempre un vetro per preparare le tinte base del dipinto. In questo modo potrò sempre cominciare da una tavolozza pulita. Il vetro è costituita dal vetro delle cornici che vendono al supermercato incollato sul pannello di legno che vendono incluso nella cornice.
 
-![Grisaglia - Colore BLACK](/wp-content/uploads/grisaglia-colore-nero.jpg "Grisaglia - Colore BLACK")
+![Grisaglia - Colore BLACK]({{ site.baseurl }}/wp-content/uploads/grisaglia-colore-nero.jpg "Grisaglia - Colore BLACK")
 
 *Grisaglia – Colore Black*
 
 Poi un colore bianco che chiameremo WHITE composto da bianco e una punta microscopica di colore BLACK.
 
-![Grisaglia - Colore WHITE](/wp-content/uploads/grisaglia-colore-bianco-1.jpg "Grisaglia - Colore WHITE")
+![Grisaglia - Colore WHITE]({{ site.baseurl }}/wp-content/uploads/grisaglia-colore-bianco-1.jpg "Grisaglia - Colore WHITE")
 
-![Grisaglia - Colore WHITE](/wp-content/uploads/grisaglia-colore-bianco-2.jpg "Grisaglia - Colore WHITE")
+![Grisaglia - Colore WHITE]({{ site.baseurl }}/wp-content/uploads/grisaglia-colore-bianco-2.jpg "Grisaglia - Colore WHITE")
 
 *Grisaglia – Colore WHITE*
 
-Poi usando i colori BLACK, WHITE e giallo ocra, ho creato 4 toni di grigio [come spiegato qua](/come-mescolare-colori-realizzare-chiaroscuro/). Come prima cosa ho mescolato BLACK e WHITE per ottenere un grigio di tono 6 sulla scala di munsell. Se non ti e’ chiaro cio’ che sto dicendo, praticamente [ho stampato questa scala di toni](/wp-content/uploads/gray-scale.jpg) che anche tu puoi scaricare con un click e stamparla. Poi ho mescolato i colori BLACK e WHITE fino ad ottenere il grigio numerato con 6 su questa scala. Ho aggiunto un pizzico di giallo ocra a questo grigio per riscaldarlo un po’.
+Poi usando i colori BLACK, WHITE e giallo ocra, ho creato 4 toni di grigio [come spiegato qua](/come-mescolare-colori-realizzare-chiaroscuro/). Come prima cosa ho mescolato BLACK e WHITE per ottenere un grigio di tono 6 sulla scala di munsell. Se non ti e’ chiaro cio’ che sto dicendo, praticamente [ho stampato questa scala di toni]({{ site.baseurl }}/wp-content/uploads/gray-scale.jpg) che anche tu puoi scaricare con un click e stamparla. Poi ho mescolato i colori BLACK e WHITE fino ad ottenere il grigio numerato con 6 su questa scala. Ho aggiunto un pizzico di giallo ocra a questo grigio per riscaldarlo un po’.
 
-![Grisaglia - Grigio Medio](/wp-content/uploads/grisaglia-grigio-medio.jpg "Grisaglia - Grigio Medio")
+![Grisaglia - Grigio Medio]({{ site.baseurl }}/wp-content/uploads/grisaglia-grigio-medio.jpg "Grisaglia - Grigio Medio")
 
 *Grisaglia – Grigio Medio*
 
 Ho ripetuto il procedimento per ottenere i grigi di tono 2, 4 e 8, ossia i grigi con numero pari. Poichè sapevo che non sarei mai riuscito a fare un’intera grisaglia in un’unica sessione, [ho confezionato queste tinte con le ballotte di plastica](/come-conservare-colori-ad-olio-ballotte-pastica/). Questo mi ha evitato di preparare i colori nelle successive due sessioni. Con questi grigi preconfezionati più BLACK e WHITE ho realizzato l’intera grisaglia.
 
-![Grisaglia - Ballotte di Plastica](/wp-content/uploads/grisaglia-colori-ballotte-plastica.jpg "Grisaglia - Ballotte di Plastica")
+![Grisaglia - Ballotte di Plastica]({{ site.baseurl }}/wp-content/uploads/grisaglia-colori-ballotte-plastica.jpg "Grisaglia - Ballotte di Plastica")
 
 *Grisaglia – I 4 Grigi + BLACK e WHITE confezionati in 6 ballotte di plastica*
 
 Per ottenere i grigi di tono 1, 3, 5, 7 e 9 (ossia quelli dispari) semplicemente mescolavo con il pennello i due grigi adiacenti. Ad esempio, se osservando la figura notavo che il tono 2 era troppo scuro e quello 4 troppo chiaro allora, con il pennello, mescolavo i due toni tra loro ottenendo un grigio intermedio pari a 3 sulla scala dei toni. Questi numeri sono puramente indicativi, non vanno usati in maniera troppo scientifica e non bisogna perderci troppo la testa. Essi vanno usati solo per orientarsi ed avere ben in mente come procedere con il lavoro. Il resto è solo istinto. La tavolozza mostrata in figura è stata fotografata alla fine della prima sessione di pittura. Notate com’è ordinata e pulita, questo è merito della preparazione dei colori su vetro. Io ritengo che l’ordine sia un prerequisito essenziale per lavorare bene.
 
-![Grisaglia - Tavolozza](/wp-content/uploads/grisaglia-colori-tavolozza.jpg "Grisaglia - Tavolozza")
+![Grisaglia - Tavolozza]({{ site.baseurl }}/wp-content/uploads/grisaglia-colori-tavolozza.jpg "Grisaglia - Tavolozza")
 
 *Grisaglia – I Grigi sulla Tavolozza*
 
 Con i colori così preparati ho realizzato la seguente grisaglia.
 
-![Grisaglia dell'Uva](/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
+![Grisaglia dell'Uva]({{ site.baseurl }}/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
 
 *Grisaglia – Uva*
 

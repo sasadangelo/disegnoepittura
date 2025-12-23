@@ -6,7 +6,7 @@ tags: ['nature morte', 'pittura ad olio']
 layout: single
 ---
 
-![Oliatura - Versare Olio](/wp-content/uploads/oliatura-versare-olio-mini.jpg)
+![Oliatura - Versare Olio]({{ site.baseurl }}/wp-content/uploads/oliatura-versare-olio-mini.jpg)
 
 In quest’articolo spiegherò cos’è l’oliatura di un dipinto e come si esegue.
 
@@ -25,29 +25,29 @@ La soluzione a questi due problemi è quello di eseguire l’oliatura del dipint
 
 Questo è il dipinto dopo la prima fase di colorazione. Vediamo come ho eseguito l’oliatura prima di cominciare la seconda fase.
 
-![oliatura-prima](/wp-content/uploads/oliatura-prima.jpg)
+![oliatura-prima]({{ site.baseurl }}/wp-content/uploads/oliatura-prima.jpg)
 
 *Uva – Olio su Tela 30×40 – Dipinto dopo la prima fase di colorazione*
 
 ## Oliatura del dipinto
 
-![Oliatura - Controllo Asciugatura](/wp-content/uploads/oliatura-controllo.jpg "Oliatura - Controllo Asciugatura")
+![Oliatura - Controllo Asciugatura]({{ site.baseurl }}/wp-content/uploads/oliatura-controllo.jpg "Oliatura - Controllo Asciugatura")
 
 Il primo passo è quello di controllare con uno straccio imbevuto di olio se il dipinto è pronto a ricevere l’oliatura. Si strofina lo straccio in un angolino sui bordi della tela e ci si assicura che il colore non venga rimosso. Questo controllo è importantissimo perchè se il dipinto non è perfettamente asciutto si rischia di rovinarlo. Credo di aver atteso 3 settimane per una perfetta asciugatura.
 
-![Oliatura - Versare l'Olio](/wp-content/uploads/oliatura-versare-olio.jpg "Oliatura - Versare l'Olio")
+![Oliatura - Versare l'Olio]({{ site.baseurl }}/wp-content/uploads/oliatura-versare-olio.jpg "Oliatura - Versare l'Olio")
 
 Ho versato un pò di olio di noci sul dipinto. Ho usato l’olio di noci perchè a differenza di quello di lino non ingiallisce. Avendo l’uva molte aree chiare il rischio di ingiallimento era alto.
 
-![Oliatura - Stendere l'olio](/wp-content/uploads/oliatura-stendere-olio.jpg "Oliatura - Stendere l'olio")
+![Oliatura - Stendere l'olio]({{ site.baseurl }}/wp-content/uploads/oliatura-stendere-olio.jpg "Oliatura - Stendere l'olio")
 
 A questo punto con il palmo della mano ho steso l’olio sull’intero dipinto.
 
-![Oliatura - Rimuovere eccesso di olio](/wp-content/uploads/oliatura-rimuovere-eccesso-olio.jpg "Oliatura - Rimuovere eccesso di olio")
+![Oliatura - Rimuovere eccesso di olio]({{ site.baseurl }}/wp-content/uploads/oliatura-rimuovere-eccesso-olio.jpg "Oliatura - Rimuovere eccesso di olio")
 
 Con uno straccio ho rimosso delicatamente l’olio in eccesso che è molto nocivo per il dipinto.
 
-![Oliatura - dipinto controluce](/wp-content/uploads/oliatura-dipinto-controluce.jpg "Oliatura - dipinto controluce")
+![Oliatura - dipinto controluce]({{ site.baseurl }}/wp-content/uploads/oliatura-dipinto-controluce.jpg "Oliatura - dipinto controluce")
 
 Questo è il dipinto dopo la prima oliatura in controluce. Alcuni colori, ad esempio, sulla foglia più grande avevano perso un pò di forza. Dopo l’oliatura sono tornati brillanti come prima. I prosciughi sono scomparsi e il dipinto è pronto a ricevere un nuovo strato di pittura. Nel mio caso il nuovo strato comprendeva principalmente correzioni, velature per rinforzare gli scuri, impasti per rinforzare i chiari e ridefinizione di tutti i lustri. A volte, però, accade che in un unica sessione di pittura è difficile applicare tutte le correzioni necessarie. In tal caso, la volta successiva si procede ad oliare di nuovo il dipinto ma solo nella zona che si è certi di dipingere in quella sessione.
 
@@ -55,23 +55,23 @@ Questo è il dipinto dopo la prima oliatura in controluce. Alcuni colori, ad ese
 
 Come spiegavo sopra, in un’unica sessione, non sono riuscito a fare tutte le correzioni necessarie. I giorni successivi, quindi, pur non avendo più il problema dei prosciughi c’era il rischio che il nuovo colore applicato staccase troppo dallo strato sottostante. Per evitare questo problema allora ho rifatto l’oliatura, ma solo per la zona che avevo intenzione di dipingere quel giorno. Questo perchè un eccesso di olio può rendere la superficie troppo grassa rendendo difficile l’applicazione dei colori. Dovendo effettuare l’oliatura solo di una piccola zona è necessario l’uso di un pennello.
 
-![Oliatura - fase 2](/wp-content/uploads/oliatura-fase-2.jpg "Oliatura - fase 2")
+![Oliatura - fase 2]({{ site.baseurl }}/wp-content/uploads/oliatura-fase-2.jpg "Oliatura - fase 2")
 
 Ho versato l’olio di noci i un contenitore e ho imbevuto il pennello nell’olio.
 
-![Oliatura - pulire pennello](/wp-content/uploads/oliatura-pulire-pennello.jpg "Oliatura - pulire pennello")
+![Oliatura - pulire pennello]({{ site.baseurl }}/wp-content/uploads/oliatura-pulire-pennello.jpg "Oliatura - pulire pennello")
 
 Rimuovo l’olio in eccesso da pennello strofinandolo su un pezzo di carta.
 
-![Oliatura - uva](/wp-content/uploads/oliatura-uva.jpg "Oliatura - uva")
+![Oliatura - uva]({{ site.baseurl }}/wp-content/uploads/oliatura-uva.jpg "Oliatura - uva")
 
 In questa fase, avendo già corretto le due foglie più grandi dietro l’uva, ho deciso che avrei corretto l’uva. Così ho passato l’olio solo sull’uva.
 
-![Oliatura - rimozione olio eccesso uva](/wp-content/uploads/oliatura-rimozione-olio-eccesso-uva.jpg "Oliatura - rimozione olio eccesso uva")
+![Oliatura - rimozione olio eccesso uva]({{ site.baseurl }}/wp-content/uploads/oliatura-rimozione-olio-eccesso-uva.jpg "Oliatura - rimozione olio eccesso uva")
 
 Sempre con uno straccio ho rimosso l’olio in eccesso delicatamente. A questo punto, si può cominciare a dipingere sopra l’uva applicando le necessarie correzioni, le velature per rinforzare le ombre, gli impasti per rinforzare i chiari e la ridefinizione dei lustri.
 
-![Uva](/wp-content/uploads/Uva-Web1.jpg "Uva")
+![Uva]({{ site.baseurl }}/wp-content/uploads/Uva-Web1.jpg "Uva")
 
 *Uva – Olio su Tela 30×40 – Dipinto finito*
 

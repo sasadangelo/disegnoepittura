@@ -6,7 +6,7 @@ tags: ['caricatura']
 layout: single
 ---
 
-![Disegnare una caricatura](/wp-content/uploads/amy-winehouse-thumb.jpg "Disegnare una caricatura")
+![Disegnare una caricatura]({{ site.baseurl }}/wp-content/uploads/amy-winehouse-thumb.jpg "Disegnare una caricatura")
 
 Vuoi imparare a disegnare una caricatura? Leggendo quest’articolo avrai accesso ad un intero corso che ti spiegherà come fare.
 

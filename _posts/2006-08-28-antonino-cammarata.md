@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![s880fta](https://www.disegnoepittura.it/wp-content/uploads/s880fta.jpg "s880fta")
+![s880fta]({{ site.baseurl }}/wp-content/uploads/s880fta.jpg "s880fta")
 
 Oggi volevo segnalarvi il sito del maestro [Antonino Cammarat](http://www.artewebcam.com)a. Dalla sua [biografia](http://www.dipinticammarata.it/bio1.htm) si legge:
 

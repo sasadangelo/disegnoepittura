@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![Logo Disegno e Pittura](https://www.disegnoepittura.it/wp-content/uploads/Logo-initial-transparent.jpg)
+![Logo Disegno e Pittura]({{ site.baseurl }}/wp-content/uploads/Logo-initial-transparent.jpg)
 
 Su Internet, in lingua inglese, esiste [una grande varietà di materiale sulle tecniche artistiche](http://www.wetcanvas.com/ "Wetcanvas"), mentre in italiano c’è un po’ di carenza. L’obiettivo di questo blog è proprio quello di colmare questa lacuna.
 

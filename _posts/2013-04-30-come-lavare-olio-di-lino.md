@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![Lavaggio olio di lino](/wp-content/uploads/Olio-lavaggio-mini.jpg "Lavaggio olio di lino")
+![Lavaggio olio di lino]({{ site.baseurl }}/wp-content/uploads/Olio-lavaggio-mini.jpg "Lavaggio olio di lino")
 
 In quest’articolo voglio spiegare il metodo che utilizzo per rendere l’olio per dipingere (lino, noce o papavero) più incolore e siccativo. Questo metodo è utile per avere un olio che ingiallisce poco le tinte (soprattutto i bianchi e gli azzurri) e secca più velocemente.
 
@@ -14,7 +14,7 @@ Questa è una procedura che eseguo una volta all’anno nel mese di Luglio e Ago
 
 ## Quali problemi può presentare l’olio che acquistiamo in negozio?
 
-In [quest’articolo](/olio-di-lino-noci-papavero/) Salvatore ha illustrato, in dettaglio, le peculiarità dei tre tipi di olio maggiormente usati nella pittura a olio: lino, noci e papavero. Abbiamo visto che i problemi sono essenzialmente due:
+In [quest’articolo]({{ site.baseurl }}/olio-di-lino-noci-papavero/) Salvatore ha illustrato, in dettaglio, le peculiarità dei tre tipi di olio maggiormente usati nella pittura a olio: lino, noci e papavero. Abbiamo visto che i problemi sono essenzialmente due:
 
 1. Ingiallimento;
 2. essiccazione.
@@ -27,11 +27,11 @@ In quest’articolo vedremo come questo metodo rimuove gran parte delle mucillag
 
 Vediamo ora in questa sezione il processo per lavare l’olio e renderlo più chiaro e siccativo. Prendere 250 ml di olio di lino, quello comunemente venduto nei negozi di belle arti, e versarlo in un contenitore di vetro con un 30% di acqua. Aggiungere un cucchiaino scarso di sale.
 
-![Lavaggio Olio di Lino](/wp-content/uploads/olio-lavato.jpg "Lavaggio Olio di Lino")
+![Lavaggio Olio di Lino]({{ site.baseurl }}/wp-content/uploads/olio-lavato.jpg "Lavaggio Olio di Lino")
 
 Agitare il composto ogni sera per una settimana. Il risultato è quello che vedete nella foto, si formano i tre strati: acqua in basso, mucillagine al centro e olio in alto.
 
-![Lavaggio Olio di Lino](/wp-content/uploads/Olio-lavaggio.jpg "Lavaggio Olio di Lino")
+![Lavaggio Olio di Lino]({{ site.baseurl }}/wp-content/uploads/Olio-lavaggio.jpg "Lavaggio Olio di Lino")
 
 Dopo una settimana passare il contenuto in un barattolo di plastica o qualsiasi altro materiale resistente alle basse temperature di un congelatore. Lasciare riposare il composto per  una notte e poi mettere nel congelatore. Dopo circa 5 o 6 ore l’acqua si congela e la mucillagine anche. Versare l’olio, che è rimasto liquido, in un barattolo di vetro per farlo riposare. Inizialmente l’olio rimane opaco, ma dopo qualche giorno si schiarisce e tutto il sedimento si deposita sul fondo.
 

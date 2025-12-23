@@ -6,9 +6,9 @@ tags: ['pittura ad olio']
 layout: single
 ---
 
-![Il Ragazzo con Canestra di Frutta di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Il Ragazzo con Canestra di Frutta di Caravaggio")
+![Il Ragazzo con Canestra di Frutta di Caravaggio]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Il Ragazzo con Canestra di Frutta di Caravaggio")
 
-Questo è un articolo della serie [Tecnica di Caravaggio](https://www.disegnoepittura.it/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest’articolo.
+Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest’articolo.
 
 E’ opinione comune che Caravaggio non realizzasse un disegno preparatorio ma bensì tracciasse un disegno a pennello direttamente sulla tela alla maniera di Giorgione che, ricordiamo, fu collega di Tiziano nella bottega di Giovanni Bellini e che Tiziano fu maestro di Simone Peterzano a sua volta maestro di Caravaggio. Tuttavia, quando si parla di disegno preparatorio bisogna distinguere tra disegni preparatori eseguiti su carta e cartoni spesso richiesti per le committenze importanti e i disegni preparatori eseguiti sulla tela come traccia per la fase pittorica. Dei primi c’è sicuramente traccia in un contratto del 5 Aprile 1600 per i disegni preparatori della Cappella Cerasi a S. Maria del Popolo. Nello studio di Gesù Bambino per la natività di Palermo. Data la perfetta sovrapposizione del suonatore di Liuto di New York e Leningrado fa presupporre che Caravaggio abbia trasferito il disegno mediante qualche artificio. Per i disegni eseguiti direttamente su tela bisogna premettere che la preparazione bruno rossastra non essendo riflettente non consente di rilevarli facilmente.
 
@@ -22,7 +22,7 @@ Il primo si ipotizza sia stato utilizzato in varie situazioni. Ad esempio, nel d
 
 [Mancini, nel suo libro Considerazioni sulla Pittura del 1619-1621](https://books.google.it/books?id=qdHqAAAAMAAJ&q=giovanni+mancini+considerazioni+sulla+pittura&dq=giovanni+mancini+considerazioni+sulla+pittura&hl=it&ei=BpIETtmHB8zHsgbkr4mSDA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC4Q6AEwAA) ipotizzò l’uso della camera oscura ottenuta nella bottega mediante un foro  stenopeico in una parete che facesse filtrare la luce all’interno della stanza. L’immagine esterna veniva così proiettata nella stanza capovolta.  E’ probabile anche che la stanza fosse divisa in due da un panno su cui fosse stato praticato un foro da cui filtrava la luce.
 
-![Camera Oscura](https://www.disegnoepittura.it/wp-content/uploads/camera-oscura.gif "Camera Oscura")
+![Camera Oscura]({{ site.baseurl }}/wp-content/uploads/camera-oscura.gif "Camera Oscura")
 
 In entrambi i casi, però, l’immagine poteva apparire sfuocata. Il problema veniva risolto applicando al foro una lente convessa che facesse convergere i raggi su un’area più piccola.  Questo non solo rendeva l’immagine più nitida ma permetteva anche di direzionare il fascio di luce sulla tela.
 
@@ -34,7 +34,7 @@ Altra ipotesi è quella dell’uso dello specchio per riflettere la luce sui mod
 
 > Abbi un vetro grande come un mezzo foglio reale, e quello ferma bene dinanzi agli occhi tuoi, cioè tra l’occhio e la cosa che tu vuoi ritrarre; poi poniti lontano con l’occhio al detto vetro due terzi di braccio, e ferma la testa con un istrumento, in modo che tu non possa muoverla punto. Dipoi serra, o copriti un occhio, e col pennello o con il lapis a matite segna sul vetro ciò che di là appare, e poi lucida con carta tal vetro, e spolverizzalo sopra buona carta, e dipingila, se ti piace, usando bene di poi la prospettiva aerea.
 
-![Tecnica della copia con vetro di Leonardo da Vinci](https://www.disegnoepittura.it/wp-content/uploads/strumento-disegno-leonardo.jpg "Tecnica della copia con vetro di Leonardo da Vinci")
+![Tecnica della copia con vetro di Leonardo da Vinci]({{ site.baseurl }}/wp-content/uploads/strumento-disegno-leonardo.jpg "Tecnica della copia con vetro di Leonardo da Vinci")
 
 Queste ipotesi sono state oggetto della recente mostra su Caravaggio [La bottega del genio](https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_160694150.html) e riprese Giovedì sera 23 Giugno 2011 dalla trasmissione Superquark.
 
@@ -50,9 +50,9 @@ L’incisione decorativa veniva utilizzata come elemento di rifinitura per simul
 
 Le seguenti due figure mostrano esempi di incisioni sulla Resurrezione di Lazzaro e sul Sacrificio di Isacco.
 
-![Incisioni nella Resurrezione di Lazzaro di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/caravaggio-incisioni-resurrezione-lazzaro.jpg "Incisioni nella Resurrezione di Lazzaro di Caravaggio")
+![Incisioni nella Resurrezione di Lazzaro di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-incisioni-resurrezione-lazzaro.jpg "Incisioni nella Resurrezione di Lazzaro di Caravaggio")
 
-![Incisioni nel Sacrificio di Isacco di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/caravaggio-incisioni-sacrificio-isacco.jpg "Incisioni nel Sacrificio di Isacco di Caravaggio")
+![Incisioni nel Sacrificio di Isacco di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-incisioni-sacrificio-isacco.jpg "Incisioni nel Sacrificio di Isacco di Caravaggio")
 
 ## **Pentimenti**
 
@@ -92,7 +92,7 @@ Da tutto quello che abbiamo scritto finora appare evidente che Caravaggio dopo l
 
 Con quest’articolo termina la serie di articoli dedicati alla tecnica di Caravaggio. Abbiamo così un’idea a grandi linee della tecnica usata dal grande maestro che credo ora possa essere approfondita solo mediante l’analisi delle singole opere che probabilmente effetueremo in futuro su questo blog.
 
-***Hai letto i restanti articoli della serie Tecnica di Caravaggio? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/tecnica-di-caravaggio/ "Tecnica di Caravaggio").***
+***Hai letto i restanti articoli della serie Tecnica di Caravaggio? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio").***
 
 **Fonti:**
 

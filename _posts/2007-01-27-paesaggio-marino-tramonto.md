@@ -6,14 +6,14 @@ tags: ['paesaggi', 'pittura ad olio', 'tutorial']
 layout: single
 ---
 
-![twilight-mist-7](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-7.jpg "twilight-mist-7")
+![twilight-mist-7]({{ site.baseurl }}/wp-content/uploads/twilight-mist-7.jpg "twilight-mist-7")
 
-Con questo semplice tutorial vorrei illustrare l’applicazione pratica di alcuni articoli sulla [prospettiva aerea](https://www.disegnoepittura.it/prospettiva-aerea-esempio-applicazione/) illustrati su questo blog. Il protagonista principale di questo dipinto è l’atmosfera calda del cielo al tramonto. Nei post precedenti abbiamo parlato di prospettiva aerea e di come simularla. Abbiamo parlato, fondamentalmente, di due tecniche:
+Con questo semplice tutorial vorrei illustrare l’applicazione pratica di alcuni articoli sulla [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea-esempio-applicazione/) illustrati su questo blog. Il protagonista principale di questo dipinto è l’atmosfera calda del cielo al tramonto. Nei post precedenti abbiamo parlato di prospettiva aerea e di come simularla. Abbiamo parlato, fondamentalmente, di due tecniche:
 
 * riduzione del tono e della saturazione mediante lo schiarimento dei colori e l’aggiunta dei complementari.
 * l’aggiunta del colore dell’atmosfera nei diversi gradi di distanza.
 
-In quest’articolo desidero approfondire la seconda tecnica che, secondo me, è anche la più semplice. In un articolo sul [chiaroscuro](https://www.disegnoepittura.it/chiaroscuro/) abbiamo visto come un’ unica fonte di luce che illumina un oggetto genera 5 zone:
+In quest’articolo desidero approfondire la seconda tecnica che, secondo me, è anche la più semplice. In un articolo sul [chiaroscuro]({{ site.baseurl }}/chiaroscuro/) abbiamo visto come un’ unica fonte di luce che illumina un oggetto genera 5 zone:
 
 * zona del colore locale proprio;
 * la zona in ombra;
@@ -24,7 +24,7 @@ In quest’articolo desidero approfondire la seconda tecnica che, secondo me, è
 
 Voi direte: ma non dovevano essere 5 le zone? Si è vero, spesso però si tende a considerare un’unica cosa la prima zona (detta anche penombra, cioè quella del colore locale) e quella dell’ombra vera e propria.
 
-Nell’articolo [Mescolare i Colori](https://www.disegnoepittura.it/mescolare-colori/) abbiamo visto, invece, come dipingere ciascuna zona.
+Nell’articolo [Mescolare i Colori]({{ site.baseurl }}/mescolare-colori/) abbiamo visto, invece, come dipingere ciascuna zona.
 
 A questo punto la domanda è: cosa succede se il colore della luce L e quello dell’atmosfera A coincidono?
 
@@ -32,38 +32,38 @@ Quest’articolo si propone come primo obiettivo di rispondere a questa domanda.
 
 **La Tavolozza**
 
-Terra di siena bruciata  
-Carminio d’Alzarina  
-Giallo cadmio chiaro  
-Giallo cadmio scuro  
-Verde smerado (viridian in inglese – da non confondere con esmerald green)  
-Blu ceruleo  
-Blu oltremare  
+Terra di siena bruciata
+Carminio d’Alzarina
+Giallo cadmio chiaro
+Giallo cadmio scuro
+Verde smerado (viridian in inglese – da non confondere con esmerald green)
+Blu ceruleo
+Blu oltremare
 Bianco titanio
 
 **Disegno**
 
 Come primo passo di questa marina riporto il disegno molto semplice. Una semplice scogliera a sinistra, un mare un pò agitato con un’onda e il sole al tramonto che illumina la scena. Inizialmente ho eseguito il disegno con una matita molto sottile, una HB può andare bene così come quelle 2H, 3H, ecc. Ho ricalcato il disegno con una penna stilografica marrone (color sanguigna) in modo che il colore si amalgamasse con i successivi strati di pittura. Ho lasciato un pò asciugare e ho cancellato la matita.
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/tramonto-1.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/tramonto-1.jpg "dipingere marina tramonto")
 
 **Studio Tonale**
 
-In questo [post](https://www.disegnoepittura.it/schema-valori/) avevamo discusso la necessità di eseguire uno studio tonale dei paesaggi che si andavano ad eseguire. In quel post avevamo esaminato il caso in cui i toni siano solo 3. Nella seguente foto potete notare lo schema tonale del nostro dipinto. Fondamentalmente il cielo, il sole e la zona di mare illuminata direttamente dal sole è chiara, la roccia a sinistra e la parte bassa del mare è scura, mentre le montagne in lontananza e la parte distante del mare è di media chiarezza.
+In questo [post]({{ site.baseurl }}/schema-valori/) avevamo discusso la necessità di eseguire uno studio tonale dei paesaggi che si andavano ad eseguire. In quel post avevamo esaminato il caso in cui i toni siano solo 3. Nella seguente foto potete notare lo schema tonale del nostro dipinto. Fondamentalmente il cielo, il sole e la zona di mare illuminata direttamente dal sole è chiara, la roccia a sinistra e la parte bassa del mare è scura, mentre le montagne in lontananza e la parte distante del mare è di media chiarezza.
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-2.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-2.jpg "dipingere marina tramonto")
 
 **Campitura**
 
 Con il termine campitura si intende il ricomprire l’intero spazio pittorico con un unico colore. Questo serve a confire al dipinto un colore di fondo di base che sarà poi anche il colore dominante dell’intero dipinto. Poichè il nostro soggetto è una marina al tramonto, il nostro obiettivo è quello di definire un’atmosfera calda. Per far ciò ricopriremo la superficie con della terra di siena bruciata ben diluita con la trementina (in modo che si asciughi presto). Per la stesura si utilizzi un pennello piatto molto largo. Per ricoprire la tela in modo uniforme e trasparente si consiglia anche l’utilizzo di uno straccio per stendere il colore. Lo strato di colore tende spesso a ricoprire il disegno sottostante (specialmente se si utilizza la matita). Un’alternativa possibile è quella di stendere prima la campitura e poi eseguire il disegno. Qui di seguito riporto la foto della tela dopo la campitura.
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-3.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-3.jpg "dipingere marina tramonto")
 
 **Il Cielo**
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-4.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-4.jpg "dipingere marina tramonto")
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-5-1.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-5-1.jpg "dipingere marina tramonto")
 
 Con giallo di cadmio scuro + bianco (che è più caldo del cadmio chiaro e medio) iniziamo a dipingere intorno al sole. E’ importante che si suggerisca un moto circolare (vedi frecce rosse). Lasciate il disco del sole bianco, non dipingete per ora quella zona. Con questo colore invado anche lo spazio delle montagne in lontananza, infatti, quest’ultimo dovranno mescolarsi con l’atmosfera.
 
@@ -73,7 +73,7 @@ Ai lati aggiungete al giallo di cadmio scuro un pò di terra di siena bruciata. 
 
 Al colore dell’atmosfera aggiungere un pochino di terra di siena bruciata in più e si inizi a dipingere le montagne in lontananza. Poichè il sole sta in mezzo alle due punte ed è molto più arretrato, fare le parti in ombra poco più scure e quelle colpite dalla luce poco più chiare. Alla fine del procedimento dovrete ottenere delle montagne che si individuano tra l’atmosfera in maniera impercettibile.
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-5.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-5.jpg "dipingere marina tramonto")
 
 **La roccia a sinistra**
 
@@ -83,11 +83,11 @@ Si colori la roccia a sinistra con terra di siena bruciata + poco blu oltremare 
 
 Generalmente le onde del mare più o meno agitate riflettono i colori circostanti soprattutto quello dell’atmosfera. Le creste sono scure alla base (perchè lì l’onda ha uno spessore maggiore) e se ci sono raggi del sole il colore diventa più traslucente man mano che si sale lungo la cresta. Lo spazio tra due onde riflette molto il colore dell’atmosfera. Rifletterà quindi il giallo dell’atmosfera? Non proprio. Tenete presente che noi vediamo solo una parte del cielo con il sole alto. La parte non visibile ha un colore blu per cui questa parte si riflettera nello spazio tra due onde consecutive (parlo delle onde più vicine). Per quelle più lontane ritroviamo, invece, il giallo dell’atmosfera. Con carminio d’alzarina e blu oltremare dipingiamo la base delle onde. Qua è la ho aggiunto anche verde smeraldo. Con terra di siena bruciata + giallo cadmio scuro creo un arancio molto caldo con cui dipingo qua è la le creste traslucenti delle onde. Attenzione!!! le zone traslucenti devono essere allineate più o meno con il sole. Immaginate una linea che congiunge il vostro punto di oservazione e il sole. Lungo questa linea bisogna dipingere queste zone di traslucenza. Abbiamo visto che l’atmosfera è terra di siena bruciata + giallo cadmio + bianco. Immaginando il cielo come una porzione di sfera abbiamo detto che man mano che si sale e si procede verso l’osservatore l’atmosfera diventa sempre più blu. Diciamo Blu oltremare più bianco. Questo sarà il colore che si riflettera sulle onde più vicine. Adoperiamo questo colore per dipingere la parte in ombra della schiuma dell’onda più grande. Questo stesso colore va usato per dipingere gli spazi tra due onde e va messo anche qua è la in lontananza dove in precedenza avevamo utilizzato il giallo dell’atmosfera che si rifletteva nel mare.
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-6.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-6.jpg "dipingere marina tramonto")
 
 Si osservi come l’onda più grande nella parte superiore rifletta anche quel colore di traslucenza dipinto in precedenza lungo la cresta. Si osservi pure come la roccia a sinisra più vicina a noi sia attraversata dagli spruzzi d’acqua. Si utilizzi pure, a questo punto, la pennellessa per sfumare tra loro le varie tinte del mare. A questo punto abbiamo definito i colori per le varie zone del dipinto. Si lasci asciugare. Nella fase successiva andremo avanti con i dettagli.
 
-![dipingere marina tramonto](https://www.disegnoepittura.it/wp-content/uploads/twilight-mist-7.jpg "dipingere marina tramonto")
+![dipingere marina tramonto]({{ site.baseurl }}/wp-content/uploads/twilight-mist-7.jpg "dipingere marina tramonto")
 
 **I Dettagli**
 

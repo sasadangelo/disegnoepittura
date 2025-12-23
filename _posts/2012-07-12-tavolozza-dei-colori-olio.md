@@ -6,13 +6,13 @@ tags: ['materiali', 'pittura ad olio']
 layout: single
 ---
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-mini.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-mini.jpg "Pulire la tavolozza dei colori")
 
 Quale tavolozza dei colori usare per la pittura ad olio? Come la si usa? Come si pulisce?
 
 Nel corso degli anni ho provato numerose tavolozze e, come già spiegato nella serie di articoli [Materiali per Pittura ad Olio](/materiali-per-pittura-ad-olio/ "Materiali per pittura ad olio"), quella che mi sento di consigliare è la tavolozza  in legno scuro di grandezza almeno pari a quella di un foglio A3 o A4.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-9.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-9.jpg "Pulire la tavolozza dei colori")
 
 Con questa tavolozza è facile giudicare le tinte, è facile mescolarle ed è facile da pulire. L’unica eccezione a questo suggerimento è l’uso della tavolozza di ceramica per le tinte trasparenti da usare in fase di velatura. In tal caso un piatto della pizza (o uno più piccolo) va più che bene.
 
@@ -20,15 +20,15 @@ Con questa tavolozza è facile giudicare le tinte, è facile mescolarle ed è fa
 
 Dopo aver acquistato la tavolozza non si può usare subito, bisogna prima trattarla. Per fare ciò prendi dell’olio di lino con un pennello piatto e largo.
 
-![Preparazione della tavolozza dei colori](/wp-content/uploads/preparazione-tavolozza-1.jpg "Preparazione della tavolozza dei colori")
+![Preparazione della tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/preparazione-tavolozza-1.jpg "Preparazione della tavolozza dei colori")
 
 Stendi l’olio sulla tavolozza.
 
-![Preparazione della tavolozza dei colori](/wp-content/uploads/preparazione-tavolozza-2.jpg "Preparazione della tavolozza dei colori")
+![Preparazione della tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/preparazione-tavolozza-2.jpg "Preparazione della tavolozza dei colori")
 
 Con uno straccio rimuovi l’olio in eccesso.
 
-![Preparazione della tavolozza dei colori](/wp-content/uploads/preparazione-tavolozza-3.jpg "Preparazione della tavolozza dei colori")
+![Preparazione della tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/preparazione-tavolozza-3.jpg "Preparazione della tavolozza dei colori")
 
 **Ripeti il processo almeno quattro o cinque volte facendo asciugare l’olio prima di ricominciare**. Potrebbe trascorrere pure qualche settimana prima che tu possa iniziare ad usare la tavolozza. Se non applichi questa preparazione il colore andrà a finire tra le fibre del legno, la tavolozza sarà poco scorrevole perché è molto assorbente e anche pulirla sarà difficile.
 
@@ -38,7 +38,7 @@ Quasi tutti i libri di pittura consigliano di usare questo o quell’ordine di d
 
 Se pensate di aver bisogno di più sessioni per completare il vostro lavoro e volete evitare di mescolare ogni volta le tinte di base, può essere utile prepararle su un vetro con una spatola quando si comincia la prima volta il dipinto. Questo perché poi si possono [conservare in ballotte di plastica e usarle nelle varie sessioni di pittura](/come-conservare-colori-ad-olio-ballotte-pastica/) senza doverle mescolare ogni volta. Un vetro adatto a tale scopo si acquista facilmente al supermercato acquistando quelle cornici solo vetro con il retro di legno. Potremo così cominciare a dipingere con una tavolozza perfettamente ordinata e pulita.
 
-![Tavolozza di vetro per preparare i colori](/wp-content/uploads/conservare-colori-ballotte-1.jpg "Tavolozza di vetro per preparare i colori")
+![Tavolozza di vetro per preparare i colori]({{ site.baseurl }}/wp-content/uploads/conservare-colori-ballotte-1.jpg "Tavolozza di vetro per preparare i colori")
 
 Direi, in generale, che l’uso della tavolozza passa attraverso 3 passi principali:
 
@@ -50,37 +50,37 @@ Direi, in generale, che l’uso della tavolozza passa attraverso 3 passi princip
 
 Terminata la sessione di pittura è assolutamente necessario pulire la tavolozza. Non lasciare mai la vostra tavolozza sporca di colore. Come prima cosa prendo i pezzi di colore più grandi e li trasferisco su vetro per conservarli.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-1.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-1.jpg "Pulire la tavolozza dei colori")
 
 Esistono diversi modi per conservare i colori ad olio, ti consiglio di leggere la [Guida Definitiva su Come Conservare i Colori ad Olio](/guida-definitiva-conservazione-colori-olio/) che ho scritto qualche mese fa su questo blog.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-2.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-2.jpg "Pulire la tavolozza dei colori")
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-3.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-3.jpg "Pulire la tavolozza dei colori")
 
 Poi sempre con la spatola rimuovo gli ultimi residui di colore e la pulisco con un tovagliolo.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-4.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-4.jpg "Pulire la tavolozza dei colori")
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-5.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-5.jpg "Pulire la tavolozza dei colori")
 
 A questo punto il grosso dei colori è stato rimosso ma ci sono ancora tracce.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-6.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-6.jpg "Pulire la tavolozza dei colori")
 
 E’ sufficiente prendere un pezzo di panno carta e rimuovere il colore. Una tavolozza ben preparata e sempre oliata si pulisce subito senza ausilio di solventi. **Quindi non usate acqua ragia o trementina per pulire la tavolozza.**
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-7.jpg "Pulire la tavolozza dei colori")  
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-8.jpg "Pulire la tavolozza dei colori")  
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-9.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-7.jpg "Pulire la tavolozza dei colori")  
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-8.jpg "Pulire la tavolozza dei colori")  
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-9.jpg "Pulire la tavolozza dei colori")
 
 Ripassiamo con un nuovo pezzo di Panno Carta.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-10.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-10.jpg "Pulire la tavolozza dei colori")
 
 Come ultimo passo stendi un po’ di olio sulla tavolozza aiutandoti sempre con il panno carta. In questo modo la tavolozza si manterrà sempre oliata.
 
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-11.jpg "Pulire la tavolozza dei colori")  
-![Pulire la tavolozza dei colori](/wp-content/uploads/pulire-tavolozza-12.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-11.jpg "Pulire la tavolozza dei colori")  
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-12.jpg "Pulire la tavolozza dei colori")
 
 Saper gestire la propria tavolozza è fondamentale per un pittore. Io ho voluto condividere con te quello che, secondo me, è il modo migliore per farlo. Probabilmente tu userai un metodo diverso per gestire la tavolozza. In tal caso, ti sarei grato se condividessi con tutti i lettori quale metodo ritieni opportuno per farlo lasciando un commento.

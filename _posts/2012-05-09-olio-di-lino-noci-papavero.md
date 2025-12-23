@@ -6,7 +6,7 @@ tags: ['materiali', 'pittura ad olio']
 layout: single
 ---
 
-![Olio di lino](https://www.disegnoepittura.it/wp-content/uploads/olio-lino.jpg "Olio di lino")
+![Olio di lino]({{ site.baseurl }}/wp-content/uploads/olio-lino.jpg "Olio di lino")
 
 Per dipingere con la tecnica a olio, generalmente, vengono impiegati tre tipi di olio: lino, noci e papavero.
 

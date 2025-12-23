@@ -6,21 +6,21 @@ tags: []
 layout: single
 ---
 
-![temperatura](https://www.disegnoepittura.it/wp-content/uploads/temperatura.jpg "temperatura")
+![temperatura]({{ site.baseurl }}/wp-content/uploads/temperatura.jpg "temperatura")
 
 Che cos’è la temperatura di un colore? Conoscere che cos’è la temperatura di un colore come può aiutarti a dipingere meglio?
 
 In questo articolo impareremo che cosa si intende con il termine temperatura e come questo concetto può essere utile al pittore per dipingere meglio.
 
-I colori sulla ruota cromatica oltre ad essere classificati in termini di: [hue, tono e saturazione](https://www.disegnoepittura.it/colore/); possono essere categorizzati anche in base alla temperatura del colore. Comunemente le gamme dei gialli, aranci e rossi vengono definiti colori caldi, mentre viola, blu e verde vengono definiti colori freddi. Quindi delle 6 gamme in cui gli artisti dividono lo spettro della luce visibile 3 sono considerati come gamme di colori caldi e le altre 3 come gamme di colori fredde.
+I colori sulla ruota cromatica oltre ad essere classificati in termini di: [hue, tono e saturazione]({{ site.baseurl }}/colore/); possono essere categorizzati anche in base alla temperatura del colore. Comunemente le gamme dei gialli, aranci e rossi vengono definiti colori caldi, mentre viola, blu e verde vengono definiti colori freddi. Quindi delle 6 gamme in cui gli artisti dividono lo spettro della luce visibile 3 sono considerati come gamme di colori caldi e le altre 3 come gamme di colori fredde.
 
-![Temperatura dei colori](https://www.disegnoepittura.it/wp-content/uploads/hotice.gif "Temperatura dei colori")
+![Temperatura dei colori]({{ site.baseurl }}/wp-content/uploads/hotice.gif "Temperatura dei colori")
 
 Probabilmente questa terminologia deriva dall’associazione dei colori ad alcuni oggetti a cui tipicamente si associa il concetto di caldo e freddo. Ad esempio, un cubetto di ghiaccio può essere associato al colore blu e, quindi, al concetto di freddo. Il giallo, l’arancio e il rosso sono i colori del fuoco, quindi associabili al concetto di caldo.
 
-![Colori caldi e freddi](https://www.disegnoepittura.it/wp-content/uploads/colori-caldi-freddi.jpg "Colori caldi e freddi")
+![Colori caldi e freddi]({{ site.baseurl }}/wp-content/uploads/colori-caldi-freddi.jpg "Colori caldi e freddi")
 
-La figura qui sopra mostra la [tavolozza dei primari estesa](https://www.disegnoepittura.it/scelta-dei-colori-da-acquistare/). Come potete osservare, in termini assoluti, il giallo di cadmio chiaro, il giallo indiano, il rosso di cadmio chiaro e il carminio sono colori caldi. Il viola, il blu oltremare, il blu cobalto, il verde sono colori freddi. Analizzando singolarmente i colori è ovvio che andando verso il rosso cadmio chiaro i colori diventano sempre più caldi. Viceversa, andando verso il verde i colori diventano più freddi. In base a questo principio è evidente che il giallo indiano è più caldo rispetto al giallo cadmio chiaro, così come il blu cobalto è più freddo rispetto al blu oltremare. Quindi il concetto di caldo o freddo è relativo perchè un colore può apparire caldo se comparato ad un dato colore, freddo se comparato ad un altro.
+La figura qui sopra mostra la [tavolozza dei primari estesa]({{ site.baseurl }}/scelta-dei-colori-da-acquistare/). Come potete osservare, in termini assoluti, il giallo di cadmio chiaro, il giallo indiano, il rosso di cadmio chiaro e il carminio sono colori caldi. Il viola, il blu oltremare, il blu cobalto, il verde sono colori freddi. Analizzando singolarmente i colori è ovvio che andando verso il rosso cadmio chiaro i colori diventano sempre più caldi. Viceversa, andando verso il verde i colori diventano più freddi. In base a questo principio è evidente che il giallo indiano è più caldo rispetto al giallo cadmio chiaro, così come il blu cobalto è più freddo rispetto al blu oltremare. Quindi il concetto di caldo o freddo è relativo perchè un colore può apparire caldo se comparato ad un dato colore, freddo se comparato ad un altro.
 
 **Ma perchè è così importante il concetto di temperatura del colore?**
 

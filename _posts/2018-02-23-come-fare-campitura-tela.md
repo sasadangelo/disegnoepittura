@@ -6,7 +6,7 @@ tags: ['corso pittura ad olio', 'nature morte', 'pittura ad olio', 'tutorial']
 layout: single
 ---
 
-![Campitura](/wp-content/uploads/Campitura-mini.jpg)
+![Campitura]({{ site.baseurl }}/wp-content/uploads/Campitura-mini.jpg)
 
 In quest’articolo proverò a spiegare che cos’è la campitura, a cosa serve e come la eseguo.
 
@@ -17,14 +17,14 @@ La [campitura](https://it.wiktionary.org/wiki/campitura "Campitura") è la ste
 * più vibrante;
 * armonico.
 
-![Campitura](/wp-content/uploads/Campitura.jpg)  
+![Campitura]({{ site.baseurl }}/wp-content/uploads/Campitura.jpg)  
 *Foto da <https://www.paintersonline.co.uk>*
 
 Nelle tecniche più libere e disinvolte lasciar trasparire questa base colorata spesso è un effetto desiderato. Dipingendo un paesaggio in cui il colore dominante è il blu del cielo si può usare una campitura arancio (complementare) per renderlo più vibrante. Una natura morta con sfondo neutro può risultare più armonica se si sceglie una campitura di un colore similare di media tonalità.
 
 Le origini di questa pratica sono antichissime e basta guardare alcuni dipinti incompiuti del passato per rendersene conto. In essi la campitura svolgeva un ruolo simile a quello della carta tinta per il disegno dal vero.
 
-![](/wp-content/uploads/magi.gif)
+![]({{ site.baseurl }}/wp-content/uploads/magi.gif)
 
 ## Perché usare la Campitura?
 
@@ -58,78 +58,78 @@ Questi sono i materiali che utilizzerò:
 * panno carta;
 * gomma pane.
 
-![Materiali per la Campitura](/wp-content/uploads/1-Materiali-Campitura.jpg)
+![Materiali per la Campitura]({{ site.baseurl }}/wp-content/uploads/1-Materiali-Campitura.jpg)
 
 Cancello i residui di grafite così da evitare che si mescolino con il colore.
 
-![Cancellazione della Grafite dalla Tela](/wp-content/uploads/2-Cancellazione-Grafite.jpg)
+![Cancellazione della Grafite dalla Tela]({{ site.baseurl }}/wp-content/uploads/2-Cancellazione-Grafite.jpg)
 
 ### Preparazione del colore
 
 Come medium uso la sola trementina perché asciuga presto. Prendo la trementina dal vasetto di plastica e la stendo sulla tavolozza. Quest’area, inumidita con la trementina, sarà il luogo dove preparerò la miscela di colore da applicare alla tela.
 
-![Diluizione della Trementina](/wp-content/uploads/3-Diluizione-Trementina.jpg)
+![Diluizione della Trementina]({{ site.baseurl }}/wp-content/uploads/3-Diluizione-Trementina.jpg)
 
 Comincio a preparare il colore aggiungendo l’ocra gialla alla trementina e rendendo la miscela molto liquida e abbondante.
 
-![Aggiunta Ocra Gialla alla Trementina](/wp-content/uploads/4-Mescolare-Ocra-Gialla.jpg)
+![Aggiunta Ocra Gialla alla Trementina]({{ site.baseurl }}/wp-content/uploads/4-Mescolare-Ocra-Gialla.jpg)
 
 Alla miscela aggiungo poi il nero avorio che aggiunto all’ocra gialla formerà un colore verdastro.
 
-![Mescolare Nero Avorio](/wp-content/uploads/5-Mescolare-Nero-Avorio.jpg)
+![Mescolare Nero Avorio]({{ site.baseurl }}/wp-content/uploads/5-Mescolare-Nero-Avorio.jpg)
 
 Infine, aggiungo la terra d’ombra. Questa miscela bruno verdastra molto diluita e abbondante è il colore con cui copro l’intera tela.
 
-![Mescolare Terra Ombra](/wp-content/uploads/6-Mescolare-Terra-Ombra.jpg)
+![Mescolare Terra Ombra]({{ site.baseurl }}/wp-content/uploads/6-Mescolare-Terra-Ombra.jpg)
 
 ### Stesura del colore
 
 Comincio a stendere il colore che all’inizio apparirà tutt’altro che trasparente. In genere, non copro mai l’intera tela. La trementina asciuga in fretta e bisogna essere veloci se si vuole una campitura uniforme.
 
-![Inizio Stesura Campitura](/wp-content/uploads/7-Inizio-Stesura-Campitura.jpg)
+![Inizio Stesura Campitura]({{ site.baseurl }}/wp-content/uploads/7-Inizio-Stesura-Campitura.jpg)
 
 Coperta una prima area della tela ecco che avviene la magia. Prendete il panno carta e, con movimento circolare della mano, stendete il colore che diventerà molto più chiaro, trasparente e uniforme.
 
-![](/wp-content/uploads/8-Sfumare-Campitura-con-Panno.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/8-Sfumare-Campitura-con-Panno.jpg)
 
 Come vedete il colore è ora chiaro, uniforme e trasparente. A questo punto bisognerà continuare il procedimento sul resto della tela.
 
-![](/wp-content/uploads/9-Sfumare-Campitura-con-Panno-Risultato.jpg) ![](/wp-content/uploads/10-Campitura-Seconda-Stesura.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/9-Sfumare-Campitura-con-Panno-Risultato.jpg) ![]({{ site.baseurl }}/wp-content/uploads/10-Campitura-Seconda-Stesura.jpg)
 
 Stendiamo altro colore in maniera rapida. Non pensate a renderlo subito omogeneo, lo farete dopo con il panno carta. Pensate ora a essere rapidi e coprire un’ampia zona.
 
-![](/wp-content/uploads/11-Campitura-Terza-Stesura.jpg)![](/wp-content/uploads/11-Campitura-Quarta-Stesura.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/11-Campitura-Terza-Stesura.jpg)![]({{ site.baseurl }}/wp-content/uploads/11-Campitura-Quarta-Stesura.jpg)
 
 Rendete uniforme l’area con il panno carta.
 
-![](/wp-content/uploads/13-Campitura-Quarta-Stesura-Panno.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/13-Campitura-Quarta-Stesura-Panno.jpg)
 
 Continuate la procedura fino a coprire l’intera tela.
 
-![](/wp-content/uploads/13-Campitura-Quinta-Stesura.jpg) ![](/wp-content/uploads/15-Campitura-Quinta-Stesura.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/13-Campitura-Quinta-Stesura.jpg) ![]({{ site.baseurl }}/wp-content/uploads/15-Campitura-Quinta-Stesura.jpg)
 
 Potrebbe accadere che guardando contro luce la tela si notino delle aree un po’ più chiare. In tal caso, basta stendere un po’ di colore in quelle zone e ripassarle con il panno carta.
 
-![](/wp-content/uploads/16-Campitura-Rifiniture.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/16-Campitura-Rifiniture.jpg)
 
 A questo punto la superficie della tela è interamente coperta e uniforme con il disegno ben visibile. Lasciate asciugare qualche ora.
 
-![](/wp-content/uploads/17-Stesura-della-Campitura-Finita.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/17-Stesura-della-Campitura-Finita.jpg)
 
 Durante la fase di campitura è possibile che il colore dell’inchiostro si sia leggermente schiarito. È sufficiente ripassare il disegno con pennino e inchiostro.
 
-![](/wp-content/uploads/20-Ripasso-Inchiostro-di-China.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/20-Ripasso-Inchiostro-di-China.jpg)
 
 Questo è il risultato finale. Abbiamo la tela con il nostro disegno ben visibile e coperto da una tinta uniforme pronta a ricevere i colori del dipinto.
 
-![](/wp-content/uploads/21-Campitura-Finita.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/21-Campitura-Finita.jpg)
 
 ## Altri esempi di Campitura
 
 Qui di seguito vi mostro alcune campiture eseguite in passato su alcuni miei dipinti utilizzando sempre la medesima procedura. Questa campitura, ad esempio, è stata realizzata con giallo ocra, nero avorio e bianco di zinco. Si noti come il bianco ha reso questa campitura più chiara e fredda.
 
-![Campitura Dipinto Uva](/wp-content/uploads/22-Campitura-Dipinto-Uva.jpg)
+![Campitura Dipinto Uva]({{ site.baseurl }}/wp-content/uploads/22-Campitura-Dipinto-Uva.jpg)
 
 Questo è un altro esempio di campitura realizzato con gli stessi colori usati per la natura morta di quest’articolo: terra d’ombra bruciata, nero avorio e ocra gialla. La tonalità generale, però, risulta più calda e giallognola perché la quantità di ocra gialla è maggiore.
 
-![Campitura Natura Morta con Melograno](/wp-content/uploads/23-Natura-Morta-con-Melograno-Campitura.jpg)
+![Campitura Natura Morta con Melograno]({{ site.baseurl }}/wp-content/uploads/23-Natura-Morta-con-Melograno-Campitura.jpg)

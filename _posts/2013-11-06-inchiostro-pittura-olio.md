@@ -6,18 +6,18 @@ tags: ['materiali', 'pittura ad olio']
 layout: single
 ---
 
-![Problema inchiostro nella Pittura ad Olio](/wp-content/uploads/problema-inchiostro-nella-pittura-olio-mini.jpg)  
+![Problema inchiostro nella Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/problema-inchiostro-nella-pittura-olio-mini.jpg)  
 Oggi vorrei parlarvi di un [problema che ha avuto un utente del forum (Walter Cozzoli)](http://forum.disegnoepittura.it/viewtopic.php?f=4&t=1743 "Compatibilità inchiostro e Pittura ad Olio") e che potrebbe accadere anche a voi.
 
 ## Problema
 
 Immaginate di aver speso un mese per dipingere un quadro come questo.
 
-![Divine Inspiration of Music](/wp-content/uploads/divine-inspiration-of-music.jpg)
+![Divine Inspiration of Music]({{ site.baseurl }}/wp-content/uploads/divine-inspiration-of-music.jpg)
 
 Immaginate di essere arrivati quasi alla fine e mancano solo gli ultimi ritocchi. La mattina arrivate davanti al cavalletto e scoprite quello che nessun pittore credo voglia trovare su una sua tela.
 
-![Problema inchiostro nella Pittura ad Olio](/wp-content/uploads/problema-inchiostro-nella-pittura-olio.jpg)
+![Problema inchiostro nella Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/problema-inchiostro-nella-pittura-olio.jpg)
 
 L’intero disegno del dipinto, ripassato a inchiostro, è riemerso dallo strato pittorico rovinando il lavoro di diverse settimane.
 
@@ -45,4 +45,4 @@ Personalmente io utilizzo [l’inchiostro di china della Winsor & Newton](https:
 
 [Ripassare il disegno eseguito con la matita](/come-disegnare-soggetto-dipinto/) con quest’inchiostro svolge un’altra importante funzione. Quando l’inchiostro si asciuga cattura le particelle di grafite ed impedisce che esse vadano in contatto con il colore evitando così anche il problema descritto sopra da Bill Creevy.
 
-![Penna ed Inchiostro](/wp-content/uploads/penna-inchiostro.jpg)
+![Penna ed Inchiostro]({{ site.baseurl }}/wp-content/uploads/penna-inchiostro.jpg)

@@ -6,9 +6,9 @@ tags: ['corso pittura ad olio', 'pittura ad olio']
 layout: single
 ---
 
-![Bal au Moulin de la Galette](https://www.disegnoepittura.it/wp-content/uploads/impressionisti-pranzo-canottieri.jpg "Bal au Moulin de la Galette")
+![Bal au Moulin de la Galette]({{ site.baseurl }}/wp-content/uploads/impressionisti-pranzo-canottieri.jpg "Bal au Moulin de la Galette")
 
-*Questa è la lezione 13 del [corso di pittura ad olio per artisti principianti](https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-2/).*
+*Questa è la lezione 13 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 
 Quando si comincia a dipingere si hanno tanti dubbi circa il processo da seguire per realizare i propri dipinti. Le domande che ci si pone sono del tipo: questo quadro devo finirlo tutto in una sessione? Per dipingere una certa area è giusto creare una base, lasciarla asciugare e poi finirla in una seconda sessione? I dubbi sono tanti e, come vedremo, non esiste una risposta giusta. Fondamentalmente, gli approcci alla pittura ad olio sono di due tipi:
 
@@ -17,7 +17,7 @@ Quando si comincia a dipingere si hanno tanti dubbi circa il processo da seguire
 
 **Tecnica bagnato su bagnato**
 
-Nella tecnica bagnato su bagnato si tende a finire il quadro in un’unica sessione. La tecnica si chiama così perchè è possibile applicare un colore fresco (cioè bagnato) sopra un colore non ancora asciugato (quindi un colore fresco, ossia bagnato). Applicare un colore su un’opera ancora fresca, però, va fatto con cura altrimenti si rischia che il colore sottostante rovini il nuovo colore. Nell’esercizio sul [chiaroscuro delle forme geometriche di base](https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-chiaroscuro-forme-geometriche-base/), abbiamo visto che non c’è mai stato bisogno di sovrapporre colore su colore, bensì le tinte venivano affiancate e alla fine sfumate. Considerate che utilizzando la tecnica bagnato su bagnato nell’80% dei casi vi capiteranno situazioni di questo tipo. Tuttavia, come vedremo nei paesaggi che andremo a dipingere c’è un 20% di casi in cui si avrà necessità di sovrapporre i colori tra loro. Nella tecnica bagnato su bagnato il medium tipicamente usato è l’olio. Tutte le opere degli impressionisti sono realizzati seguendo questa tecnica.
+Nella tecnica bagnato su bagnato si tende a finire il quadro in un’unica sessione. La tecnica si chiama così perchè è possibile applicare un colore fresco (cioè bagnato) sopra un colore non ancora asciugato (quindi un colore fresco, ossia bagnato). Applicare un colore su un’opera ancora fresca, però, va fatto con cura altrimenti si rischia che il colore sottostante rovini il nuovo colore. Nell’esercizio sul [chiaroscuro delle forme geometriche di base]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-chiaroscuro-forme-geometriche-base/), abbiamo visto che non c’è mai stato bisogno di sovrapporre colore su colore, bensì le tinte venivano affiancate e alla fine sfumate. Considerate che utilizzando la tecnica bagnato su bagnato nell’80% dei casi vi capiteranno situazioni di questo tipo. Tuttavia, come vedremo nei paesaggi che andremo a dipingere c’è un 20% di casi in cui si avrà necessità di sovrapporre i colori tra loro. Nella tecnica bagnato su bagnato il medium tipicamente usato è l’olio. Tutte le opere degli impressionisti sono realizzati seguendo questa tecnica.
 
 **Tecnica grasso su magro**
 
@@ -47,4 +47,4 @@ Su web e anche su questo blog si discute spesso di quali siano le ricette degli 
 
 E voi, quale tecnica di pittura utilizzate?
 
-*Leggi gli altri  articoli del [corso di pittura ad olio per artisti principianti](https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-2/). Se vuoi puoi ricevere gli aggiornamenti sui futuri articoli del corso iscrivendoti gratuitamente ai [feed RSS](http://feeds2.feedburner.com/DisegnoPittura).*
+*Leggi gli altri  articoli del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/). Se vuoi puoi ricevere gli aggiornamenti sui futuri articoli del corso iscrivendoti gratuitamente ai [feed RSS](http://feeds2.feedburner.com/DisegnoPittura).*

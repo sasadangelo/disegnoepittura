@@ -6,7 +6,7 @@ tags: ['materiali', 'matite colorate']
 layout: single
 ---
 
-![Matite Colorate](https://www.disegnoepittura.it/wp-content/uploads/matite-colorate.jpg "Matite Colorate")
+![Matite Colorate]({{ site.baseurl }}/wp-content/uploads/matite-colorate.jpg "Matite Colorate")
 
 Le matite colorate, insieme alla classica matita da disegno, sono gli strumenti artistici più comuni. Da piccoli ognuno di noi ha posseduto una scatola di matite colorate. Quelle che interessano a noi, però, non sono le stesse che utilizzavamo da bambini perchè spesso le matite per studenti non sono di qualità eccellente.
 
@@ -18,7 +18,7 @@ Le matite colorate sono uno strumento pittorico semiopaco. E’ possibile mischi
 
 I materiali necessari per dipingere con le matite colorate sono molto pochi e semplici: matite colorate, fogli bristol, temperamatite e gomma pane.
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate.jpg "Matite Colorate")
 
 Quando si lavora con le matite colorate entrano in gioco 4 fattori:
 
@@ -44,7 +44,7 @@ Nella foto seguente è possibile osservare 4 possibili tipi di punte partendo da
 
 Nei tutorial che seguiranno se leggete P1 capirete che la punta (cioè P) della matita deve essere molto appuntita. Il numero indica i grado di smussamento e il valore va dalla più appuntita (1) a quella meno (4).
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-punta.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-punta.jpg "Matite Colorate")
 
 ### Forza esercitata
 
@@ -55,7 +55,7 @@ Quando si colora con le matite colorate è possibile esercitare vari livelli di 
 * forte (F2), lo strato di colore sottostante è appena percettibile;
 * molto forte (F1), il colore è uniforme e molto marcato;
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-shadow.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-shadow.jpg "Matite Colorate")
 
 ### Tipo di tratto
 
@@ -68,13 +68,13 @@ Il risultato che si ottiene nell’applicare il colore dipende molto dal tipo di
 * tratto lungo (TL), il tratto è, in questo caso, molto allungato;
 * tratto incrociato (TX), è la classica ombreggiatura incrociata;
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-tratti.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-tratti.jpg "Matite Colorate")
 
 Nelle due figure che seguono riportiamo un esempio di mistione di due colori (il giallo e il blu) mediante sovrapposizione. Stendiamo il blu in modo tale che sia molto marcato a destra e man mano più lieve andando verso sinistra. Lo stesso avviene stendendo il giallo ma in ordine inverso. Nella zona in cui i due colori si incontrano osserviamo il formarsi del colore verde. Nella foto il colore verde non è molto evidente, vi assicuro, però, che dal vivo l’effetto è sicuramente migliore.
 
-![Matite Colorate1](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-sfumatura-1.jpg "Matite Colorate")
+![Matite Colorate1](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-sfumatura-1.jpg "Matite Colorate")
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-sfumatura-2.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-sfumatura-2.jpg "Matite Colorate")
 
 Nei tutorial che seguiranno, vedremo ulteriori esempi di mistione mediante sovrapposizione di colore.
 
@@ -82,13 +82,13 @@ Campitura
 
 Il temine campitura lo abbiamo già analizzato in altri contesti. Nel caso delle matite colorate, il suo significato non è molto diverso. Con tale termine intendiamo la stesura uniforme di un dato colore. In inglese questo concetto si esprime con il termine “washing”.
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-campitura.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-campitura.jpg "Matite Colorate")
 
 Imbrunitura
 
 Con questo termine si intende la stesura di uno strato di colore molto scuro su cui si passa successivamente un colore molto chiaro. Non conosco il relativo temine in “italiano”, per cui lascio il temine in inglese per evitare pessime traduzioni.
 
-![Matite Colorate](http://www.disegnoepittura.it/wp-content/uploads/matite-colorate-imbrunitura.jpg "Matite Colorate")
+![Matite Colorate](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/matite-colorate-imbrunitura.jpg "Matite Colorate")
 
 Riassumendo, se in uno dei nostri futuri tutorial scriverò:
 

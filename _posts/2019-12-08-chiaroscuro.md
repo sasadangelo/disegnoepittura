@@ -6,7 +6,7 @@ tags: ['chiaroscuro']
 layout: single
 ---
 
-![Chiaroscuro](/wp-content/uploads/chiaroscuro-sfera-mini.png)
+![Chiaroscuro]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-sfera-mini.png)
 
 In quest’articolo voglio spiegare alcuni concetti sul **chiaroscuro** che credo possano tornare utile a chi ama disegnare e dipingere.
 
@@ -16,13 +16,13 @@ Il chiaroscuro è un concetto fondamentale per gli artisti che perseguono il rea
 
 Nella seguente figura mostro due foto di una mela. Nella seconda foto, nonostante io abbia rimosso il colore, essa è ben riconoscibile e non ha perso nulla del suo carattere tridimensionale.
 
-![Mela](/wp-content/uploads/apple.jpg)
+![Mela]({{ site.baseurl }}/wp-content/uploads/apple.jpg)
 
 Consideriamo ora il dipinto *100 Mile Smile* dell’artista Stephen Bennet. Come potete notare i colori nella prima immagine sembrano apparentemente casuali eppure il volto è ben riconoscibile e tridimensionale. **Com’è possibile ciò?**
 
 Il segreto è che nonostante i colori appaiono casuali, il tono (ossia il chiaroscuro) di ciascuno di esso è scelto con molta attenzione come si nota nella foto a destra.
 
-![100 Mile Smile](/wp-content/uploads/bennet.jpg)
+![100 Mile Smile]({{ site.baseurl }}/wp-content/uploads/bennet.jpg)
 
 E’ evidente da queste immagini quanto il chiaroscuro sia importante per l’artista che persegue il realismo. Per ben comprenderne i meccanismi dobbiamo spiegare diversi concetti il primo dei quali è il **tono**.
 
@@ -34,19 +34,19 @@ E’ evidente da queste immagini quanto il chiaroscuro sia importante per l’ar
 
 Se prendiamo un qualsiasi oggetto in scala di grigi noteremo che tra la tonalità dell’ombra e quella in luce esistono infinite variazioni di tonalità. Il compito dell’artista è quello di creare questo passaggio graduale utilizzando il minor numero di colori possibili.
 
-![Sfera mezzitoni](/wp-content/uploads/halftones.jpg)
+![Sfera mezzitoni]({{ site.baseurl }}/wp-content/uploads/halftones.jpg)
 
 *Foto da [https://www.dorian-iten.com](https://www.dorian-iten.com/shading-mistakes/)*
 
-Generalmente, per i miei disegni e dipinti utilizzo la seguente scala di riferimento che potete scaricare e stampare [cliccando a questo link](/wp-content/uploads/gray-scale.jpg). Come potete notare il tono più chiaro è il bianco a cui ho associato il valore 10, quello più scuro è il nero a cui ho associato il numero 0.
+Generalmente, per i miei disegni e dipinti utilizzo la seguente scala di riferimento che potete scaricare e stampare [cliccando a questo link]({{ site.baseurl }}/wp-content/uploads/gray-scale.jpg). Come potete notare il tono più chiaro è il bianco a cui ho associato il valore 10, quello più scuro è il nero a cui ho associato il numero 0.
 
-![Scala di Grigi](/wp-content/uploads/gray-scale-1.jpg)
+![Scala di Grigi]({{ site.baseurl }}/wp-content/uploads/gray-scale-1.jpg)
 
 Oltre al bianco e al nero, generalmente, sono sufficienti pochi toni per realizzare un chiaroscuro.
 
 La seguente foto mostra uno schizzo eseguito da Marco Bucci in [questo video](https://www.youtube.com/watch?v=xcCJ2CU-bFw) con solo tre tonalità. Come si può notare, nonostante il numero limitato di toni egli è riuscito a creare l’**illusione del volume** del volto.
 
-![Sketch studio tonale](/wp-content/uploads/Tone_Study.png)
+![Sketch studio tonale]({{ site.baseurl }}/wp-content/uploads/Tone_Study.png)
 
 *Foto da [video di Marco Bucci](https://www.youtube.com/watch?v=xcCJ2CU-bFw)*
 
@@ -54,7 +54,7 @@ La seguente foto mostra uno schizzo eseguito da Marco Bucci in [questo video](ht
 
 Quando una superficie è colpita dalla luce essa diventa più chiara o più scura a seconda della sua inclinazione rispetto alla direzione della luce stessa. La superficie diventa più chiara quando essa è perpendicolare ai raggi luminosi, mentre è scura quando è parallela ad essi. La seguente immagine rende bene l’idea.
 
-![Rotazione Piano](/wp-content/uploads/Rotazione-Piano.gif)
+![Rotazione Piano]({{ site.baseurl }}/wp-content/uploads/Rotazione-Piano.gif)
 
 *Foto da [https://www.dorian-iten.com](https://www.dorian-iten.com/shading-mistakes/)*
 
@@ -62,7 +62,7 @@ Quando una superficie è colpita dalla luce essa diventa più chiara o più scur
 
 Immaginando di avere una roccia notiamo che le diverse facce offrono angolazioni diverse ai raggi luminosi. La superifie 1 essendo quasi perpendicolare ad essi sarà la più chiara, la superficie 2 avendo una maggiore inclinazione sarà leggermente più scura, fino ad arrivare alla superficie 4 che offrendo la maggiore inclinazione è la più scura tra tutte.
 
-![L'Illusione del Volume](/wp-content/uploads/Illusione-del-Volume.png)
+![L'Illusione del Volume]({{ site.baseurl }}/wp-content/uploads/Illusione-del-Volume.png)
 
 Osservando la roccia in figura potete notare che il tono di ciascuna faccia è uniforme. Purtroppo, nella realtà, per ciascun piano i punti più lontani dalla sorgente luminosa saranno leggermente più scuri rispetto a quelli più vicini. La differenza è minima ma percebibile.
 
@@ -78,7 +78,7 @@ Quando la luce colpisce la sfera su di essa si formano le seguenti cinque aree:
 * ombra portata;
 * riflesso.
 
-![Chiaroscuro di una Sfera](/wp-content/uploads/chiaroscuro-sfera.png)
+![Chiaroscuro di una Sfera]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-sfera.png)
 
 L’area più chiara e piccola è il **lustro** di cui abbiamo parlato ampiamente in [quest’articolo](/come-dipingere-lustri/). **La posizione del lustro non è al centro dell’area in luce come molti erroneamente pensano**, bensì la sua posizione dipende dalla posizione dell’osservatore e quella della sorgente luminosa.
 
@@ -96,17 +96,17 @@ Tra le superfici curve di particolare interesse ci sono quelle concave e convess
 
 La seguente figura mostra esempi di tali superfici. Le superfici concave sono caratterizzate dal fatto che l’area illuminata è più lontana dalla sorgente luminosa rispetto all’area in ombra. L’opposto avviene per le superfici convesse.
 
-![Superfici concave e convesse](/wp-content/uploads/chiaroscuro-superfici-concave-convesse.gif)
+![Superfici concave e convesse]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-superfici-concave-convesse.gif)
 
 *Foto da [quora.com](https://www.quora.com/What-is-an-optical-illusion-related-to-science)*
 
 Volendo prendere ad esempio casi reali possiamo considerare la seguente ciotola. Quando essa è in posizione normale è visibile il suo interno che è concavo, per cui la parte illuminata è più lontana dalla parte in ombra rispetto alla luce. Tra ombra e luce c’è una transizione morbida che avviene grazie ai mezzitoni. L’opposto avviene per la ciotola capovolta.
 
-![Chiaroscuro superfici concave e convesse](/wp-content/uploads/chiaroscuro-superfici-convesse.jpg)
+![Chiaroscuro superfici concave e convesse]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-superfici-convesse.jpg)
 
 I drappeggi, che generalmente ci appaiono sempre molto confusi, possiamo semplificarli immaginandoli come sequenze contigue di pieghe concave e convesse.
 
-![Chiaroscuro drappeggio](/wp-content/uploads/drappeggio.jpg)
+![Chiaroscuro drappeggio]({{ site.baseurl }}/wp-content/uploads/drappeggio.jpg)
 
 Talvolta, quando le pieghe sono ampie la luce interagisce nello stesso modo che abbiamo visto per le due ciotole di sopra. E’ visibile l’area in luce, in ombra e il passaggio graduale dall’una all’altra con i mezzitoni. Altre volte, quando le pieghe concave sono molto strette è visibile solo l’ombra come visibile nelle pieghe a destra.
 
@@ -118,7 +118,7 @@ Per padroneggiare il chiaroscuro, oltre ai concetti finora esposti, è necessari
 
 Il **terminatore** è la linea di separazione tra luce e ombra. Quando un soggetto è illuminato con  luce diffusa (es. quella naturale) il terminatore è sfumato, mentre con una luce diretta (es. un faretto) il terminatore è molto marcato.
 
-![Terminatore della Sfera](/wp-content/uploads/Terminatore-Sfera.jpg)
+![Terminatore della Sfera]({{ site.baseurl }}/wp-content/uploads/Terminatore-Sfera.jpg)
 
 Storicamente gli artisti hanno sempre preferito il primo tipo di illuminazione perché dona al soggetto ombre più soffuse.
 
@@ -138,7 +138,7 @@ Nella seconda immagine ho evidenziato in rosso i mezzitoni scuri, mentre nella t
 
 Identificare queste macchie potrebbe non essere facile all’inizio e, fortunatamente, non esiste un modo corretto o sbagliato per farlo, questo dipende molto dalla sensibilità che ognuno di noi sviluppa con la pratica.
 
-![Mezzitoni chiari e scuri](/wp-content/uploads/Mezzitoni-chiari-scuri.jpg)
+![Mezzitoni chiari e scuri]({{ site.baseurl }}/wp-content/uploads/Mezzitoni-chiari-scuri.jpg)
 
 *Foto da [https://www.dorian-iten.com](https://www.dorian-iten.com/figure-shading/)*
 
@@ -146,7 +146,7 @@ Identificare queste macchie potrebbe non essere facile all’inizio e, fortunata
 
 L’ombra propria di un oggetto non è mai di una stessa tonalità. In essa c’è sempre un’area più scura in prossimità del terminatore che chiameremo **nucleo dell’ombra**. Quando dipingi cerca di individuare quest’area e la sua forma e assicurati che sia la più scura dell’oggetto che stai dipingendo (ad esclusione dell’occlusione).
 
-![Sfera - Nucleo Ombra](/wp-content/uploads/sfera-nucleo-ombra.jpg)
+![Sfera - Nucleo Ombra]({{ site.baseurl }}/wp-content/uploads/sfera-nucleo-ombra.jpg)
 
 Anche in questo caso ragionare in termini di macchie ti aiuterà a vedere il soggetto non per quello che è ma per come appare come entità astratta.
 
@@ -158,7 +158,7 @@ Le textures sono semplicemente il risultato dell’interazione della luce con le
 
 La seguente figura mostra quattro momenti del [seguente video](https://www.youtube.com/watch?v=puTpnQRKzUQ) che illustra come creare texture con la pittura digitale. Come potete notare l’autore per creare l’illusione del buco **non fa altro che dipingere una superficie concava**, per fare ciò utilizza due toni più scuri del colore di base di cui uno più chiaro per la parte in luce e uno più scuro per la parte in ombra, infine sfuma il passaggio tra le tre zone di colore.
 
-![Textures](/wp-content/uploads/Textures1.jpg)
+![Textures]({{ site.baseurl }}/wp-content/uploads/Textures1.jpg)
 
 *Foto da video di* [*Paintable*](https://www.youtube.com/watch?v=puTpnQRKzUQ)
 
@@ -166,7 +166,7 @@ Guardando, invece, quest’altra figura, estratta sempre dallo stesso video, not
 
 Questa figura è interessante perché mostra la realizzazione di una spaccatura all’interno della roccia. Per creare l’illusione della spaccatura non è sufficiente disegnare una linea come nella figura in alto a sinistra. Bisogna creare un area in luce, una in ombra e creare delle leggere microsfumature per il passaggio dall’uno all’altro come visto per le superifici concave.
 
-![Textures](/wp-content/uploads/Textures2.jpg)
+![Textures]({{ site.baseurl }}/wp-content/uploads/Textures2.jpg)
 
 *Foto da video di* [*Paintable*](https://www.youtube.com/watch?v=puTpnQRKzUQ)
 
@@ -180,7 +180,7 @@ La buona notizia è che i principi sono simili a quelli delle superficie concave
 
 Questo avviene perché in quell’area la luce è radente e consente alle textures di essere maggiormente visibili. Si noti comunque come anche nell’area in ombra vicino al terminatore e nei mezzitoni chiari è possibile intravederle.
 
-![](/wp-content/uploads/Moon-man-2.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/Moon-man-2.jpg)
 
 Internet è piena di tutorial che mostrano come questi principi si applicano nella pratica, ad esempio [questo tutorial](https://www.youtube.com/watch?v=5GQPDs9RjJM) mostra come disegnare la textures della pelle. Come potete notare l’autore non fa altro che creare punti scuri affiancandoli a punti chiari come micro superfici concave.
 
@@ -188,7 +188,7 @@ Internet è piena di tutorial che mostrano come questi principi si applicano nel
 
 Quando la luce colpisce un oggetto questo ostacola il suo passaggio e crea un’ombra portata sul piano di appoggio. Quest’ombra non ha la medesima tonalità, bensì essa è più scura in prossimità dell’oggetto (occlusione) e più soffusa man mano che si allontana da essa (penombra). Come l’ombra propria anche l’ombra portata varia a seconda del tipo di sorgente luminosa che l’illumina. Una luce naturale crea un’ombra portata più morbida mentre una luce artificiale e diretta un’ombra più netta.
 
-![Ombra Portata di una Sfera](/wp-content/uploads/sphere.jpg)
+![Ombra Portata di una Sfera]({{ site.baseurl }}/wp-content/uploads/sphere.jpg)
 
 L’occlusione è particolarmente importante perché realizzandola della giusta tonalità scura consente alla figura di staccarsi dal foglio.
 
@@ -196,7 +196,7 @@ L’occlusione è particolarmente importante perché realizzandola della giusta 
 
 La differenza tra i toni di due colori viene detto **contrasto di tono** ed è, a mio avviso, **il concetto più importante per creare l’illusione del volume**. Il bianco e il nero hanno il massimo contrasto che può essere quantificato con il numero 10 (10-0=10). Il contrasto tra due toni uguali è sempre pari a 0 come mostra la coppia di toni pari a 5 in figura.
 
-![](/wp-content/uploads/contrasto-tono-chiaroscuro.png)
+![]({{ site.baseurl }}/wp-content/uploads/contrasto-tono-chiaroscuro.png)
 
 **Ma perché è così importante il contrasto di tono?**
 
@@ -211,7 +211,7 @@ Questo, a mio avviso, avviene per due motivi:
 
 Il nostro occhio è continuamente ingannato dalla realtà. Sicuramente tutti voi avete acquistato almeno una volta un libro di disegno o pittura e avete visto questa figura.
 
-![Contrasto Simultaneo](/wp-content/uploads/contrasto-simultaneo.gif)
+![Contrasto Simultaneo]({{ site.baseurl }}/wp-content/uploads/contrasto-simultaneo.gif)
 
 I due grigi al centro dei quadrati pur essendo dello stesso tono appaiono diversi ai nostri occhi. Quello nel quadrato chiaro appare più scuro di quello nel quadrato scuro. Questo fenomeni si chiama **contrasto simultaneo** e avviene perché le tonalità circostanti influenzano la percezione dei toni.
 
@@ -219,7 +219,7 @@ Il problema di alcuni libri di disegno e pittura è che pur mostrando quest’im
 
 Consideriamo il seguente ritratto e prendiamo due tonalità in luce e ombra sulla fronte. Notate come i due toni quando sono isolati appaiono di un contrasto maggiore rispetto a quando li vediamo nel contesto del dipinto. Questo perché nel secondo caso siamo influenzati dai toni circostanti.
 
-![Sfumatura Graduale](/wp-content/uploads/sfumatura-graduale.jpg)
+![Sfumatura Graduale]({{ site.baseurl }}/wp-content/uploads/sfumatura-graduale.jpg)
 
 Questo problema porta il pittore a mescolare delle tonalità che in ombra sono più chiare e in luce più scure del dovuto.
 
@@ -233,7 +233,7 @@ Quando dipingiamo un qualsiasi soggetto applichiamo il colore in ombra, il color
 
 Il range (o intervallo) dei toni di un oggetto è l’insieme dei toni che va dal tono più scuro (nucleo dell’ombra) al tono più chiaro (centro dell’area illuminata). All’aumentare del suo contrasto aumenta il suo range dei toni.
 
-![Range dei Toni](/wp-content/uploads/Range_dei_toni.png)
+![Range dei Toni]({{ site.baseurl }}/wp-content/uploads/Range_dei_toni.png)
 
 *[Foto dal video di Proko.tv](https://www.youtube.com/watch?v=-dqGkHWC5IU)*
 
@@ -253,7 +253,7 @@ Nella [serie di articoli](/prospettiva/) dedicati alla Prospettiva abbiamo visto
 
 Considerando la seguente figura notiamo due cerchi, uno più chiaro e uno più scuro. Notiamo che arretrando il primo diventa più scuro e il secondo più chiaro, entrambi però tenderanno alla tonalità dello sfondo.
 
-![](/wp-content/uploads/prospettiva-aerea-chiaroscuro-tono-6.png)
+![]({{ site.baseurl }}/wp-content/uploads/prospettiva-aerea-chiaroscuro-tono-6.png)
 
 Questa variazione è causata dall’aria che si interpone tra l’occhio dell’osservatore e l’oggetto, maggiore è la quantità di aria maggiore sarà la tendenza del colore/tono dell’oggetto al colore/tono dello sfondo.
 
@@ -261,7 +261,7 @@ Da questa osservazione è possibile estrarre uno dei principi della [prospettiva
 
 Al variare della distanza variano anche i dettagli che il nostro occhio riesce a catturare, per cui è normale che per oggetti troppo distanti siano distinguibili solo le aree di luce e ombra e talvolta l’oggetto, se troppo distante, può apparire di una singola tonalità.
 
-![Sfera in Prospettiva Aerea](/wp-content/uploads/sfera_prospettiva_aerea_1.jpg)
+![Sfera in Prospettiva Aerea]({{ site.baseurl }}/wp-content/uploads/sfera_prospettiva_aerea_1.jpg)
 
 *Foto da http://www.arthints.com*
 

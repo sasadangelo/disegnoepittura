@@ -6,9 +6,9 @@ tags: ['mescolare i colori', 'munsell']
 layout: single
 ---
 
-![Tavolozza di Frank Reilly](https://www.disegnoepittura.it/wp-content/uploads/small_sketchbox.gif "Tavolozza di Frank Reilly")
+![Tavolozza di Frank Reilly]({{ site.baseurl }}/wp-content/uploads/small_sketchbox.gif "Tavolozza di Frank Reilly")
 
-Dopo aver analizzato le [semplificazioni che Frank Reilly applicò al modello di Munsell](https://www.disegnoepittura.it/munsell-color-system-pratica/) per renderlo utilizzabile dagli artisti e, dopo aver visto [come mescolare i grigi](https://www.disegnoepittura.it/munsell-color-system-grigi-frank-reilly/) che serviranno a regolare la saturazione dei colori, è venuto il momento di parlare del metodo di Frank Reilly per mescolare i colori. La fonte è il libro [Artist’s Atelier. Reference guide to Structural Concepts and Principles](https://www.amazon.com/Artists-Atelier-Reference-Structural-Principles/dp/1553690877) di J.T.Doren allievo della Frank Reilly School of New York. Oltre al modello originale proposto da Reilly vedremo anche le variazioni sperimentate da Doren e i suoi allievi.
+Dopo aver analizzato le [semplificazioni che Frank Reilly applicò al modello di Munsell]({{ site.baseurl }}/munsell-color-system-pratica/) per renderlo utilizzabile dagli artisti e, dopo aver visto [come mescolare i grigi]({{ site.baseurl }}/munsell-color-system-grigi-frank-reilly/) che serviranno a regolare la saturazione dei colori, è venuto il momento di parlare del metodo di Frank Reilly per mescolare i colori. La fonte è il libro [Artist’s Atelier. Reference guide to Structural Concepts and Principles](https://www.amazon.com/Artists-Atelier-Reference-Structural-Principles/dp/1553690877) di J.T.Doren allievo della Frank Reilly School of New York. Oltre al modello originale proposto da Reilly vedremo anche le variazioni sperimentate da Doren e i suoi allievi.
 
 Partiamo dalla tavolozza dei colori di Frank Reilly che era composta dai seguenti colori:
 
@@ -42,6 +42,6 @@ Premesso che colori aventi medesimo nome commerciale possono variare da marca a 
 
 Come vedete nella tavolozza di Reilly manca un pigmento blu (B) e uno giallo verde (GY). Il primo si otterrà mescolando il blu oltremare con il viridian ossia i due colori adiacenti, ottenendo un blu di tono 2 e saturazione 10. Il colore giallo verde, invece, lo si ottiene mescolando il verde di cobalto al giallo di cadmio chiaro. Si otterrà un giallo verde di tono 7 e saturazione 12 circa.
 
-J.T. Doren e i suoi allievi, nel libro [Artist’s Atelier. Reference guide to Structural Concepts and Principles](https://www.disegnoepittura.it/the-artists-atelier-reference-guide-to-structural-concepts-and-principles/), propongono una leggera variazione alla tavolozza di Frank Reilly che prevede l’uso di due colori: blu cobalto e blu ceruleo. Entrambi sono due colori blu (B). Il primo ha tono 1 e l’altro ha tono 3, entrambi di saturazione circa 10.
+J.T. Doren e i suoi allievi, nel libro [Artist’s Atelier. Reference guide to Structural Concepts and Principles]({{ site.baseurl }}/the-artists-atelier-reference-guide-to-structural-concepts-and-principles/), propongono una leggera variazione alla tavolozza di Frank Reilly che prevede l’uso di due colori: blu cobalto e blu ceruleo. Entrambi sono due colori blu (B). Il primo ha tono 1 e l’altro ha tono 3, entrambi di saturazione circa 10.
 
 Sono convinto che confrontando i vostri colori con le tabelle di munsell presentate sul blog potreste rilevare delle differenze nella loro classificazione. Ricordatevi che siete artisti, questo è un modello e come tale deve aiutarvi a rendere semplici cose che in realtà non lo sono, quindi consideratelo sempre come una guida e non fatelo diventare la vostra gabbia.

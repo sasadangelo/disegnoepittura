@@ -6,7 +6,7 @@ tags: ['figura umana']
 layout: single
 ---
 
-![Proporzioni del corpo umano](/wp-content/uploads/body.gif "Proporzioni del corpo umano")
+![Proporzioni del corpo umano]({{ site.baseurl }}/wp-content/uploads/body.gif "Proporzioni del corpo umano")
 
 Come per il viso anche per il corpo umano è possibile definire le relazioni tra le varie parti di un modello ideale. 
 

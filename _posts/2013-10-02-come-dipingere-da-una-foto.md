@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![Come dipingere da una Foto](/wp-content/uploads/Colore-foglia-primo-piano-mini.jpg "Come dipingere da una Foto")
+![Come dipingere da una Foto]({{ site.baseurl }}/wp-content/uploads/Colore-foglia-primo-piano-mini.jpg "Come dipingere da una Foto")
 
 Per email ricevo spesso domande su come dipingere da una foto e come fare ad imitarne le tinte. Di tanto in tanto questo tema viene ripreso anche sul forum. Per questo motivo ho deciso di dedicare all’argomento un articolo del blog. E’ probabile che alcuni concetti già li conosci, ma se avrai la pazienza di leggere tutto l’articolo ti posso assicurare che troverai la visione di insieme molto interessante.
 
@@ -60,7 +60,7 @@ Qualcuno potrà obiettare che con un telefonino non è possibile fare foto di al
 
 La qualità di una foto stampata è misurata in DPI (Dot per Inch), ossia punti di inchiostro per pollice. Maggiore è il valore di DPI, più alta è la qualità della foto. Una foto stampata a 300 DPI, ad esempio, significa che in un quadrato di lato 1 pollice (2.54 cm) sono stampati 300 pixel in orizzontale e 300 in verticale per un totale di 90.000 pixel. Per comprendere meglio il concetto di DPI osservate la seguente figura:
 
-![Dot per Inch](/wp-content/uploads/dpi.png "Dot per Inch")
+![Dot per Inch]({{ site.baseurl }}/wp-content/uploads/dpi.png "Dot per Inch")
 
 La prima mostra una risoluzione di stampa a 4 dpi. Ovviamente non è una risoluzione di stampa realmente esistente, serve solo a far comprendere il concetto. In questa stampa avrai 4 pixel in orizzontale e 4 in verticale. Le successive due figure mostrano due stampe di qualità più alta. Nella seconda, in un pollice quadrato, ci sono 64 pixel (8 orizzontale e 8 in verticale). Nella terza, in un pollice quadrato, ci sono 256 pixel (16 orizzontale e 16 verticale).
 
@@ -99,7 +99,7 @@ Quindi per stampare la nostra foto in un formato 20×30 a 300 DPI senza perdere 
 
 Probabilmente queste semplici formulette, per quanto semplici, ti hanno spaventato. Si sa gli artisti non vanno proprio d’accordo con le formule matematiche. Per questo motivo riporto qui di seguito due tabelline, una per i formati di stampa di pellicole tradizionali e una per i formati digitali. In ciascuna tabella sarà possibile vedere, per ciascun formato e ciascuna risoluzione di stampa, la risoluzione minima dell’immagine consigliata.
 
-![Formati di stampa](/wp-content/uploads/Formati-stampa.png)
+![Formati di stampa]({{ site.baseurl }}/wp-content/uploads/Formati-stampa.png)
 
 *Foto da [https://www.photobox.it](https://www.photobox.it/contenuto/risoluzione-delle-foto "Formati stampa")*
 
@@ -167,11 +167,11 @@ Per poter preservare l’aspect ratio della foto che era 1.33 (1600/1200=1.33) h
 
 Per la foglia in primo piano ho preparato un solo colore base composto da: blu oltremare + giallo ocra +pochissima terra d’ombra bruciata. In questa foto potete vedere il colore da me applicato sulla foto per verificare che la tinta sia giusta.
 
-![Colore foglia in primo piano](/wp-content/uploads/Colore-foglia-primo-piano.jpg "Colore foglia in primo piano")
+![Colore foglia in primo piano]({{ site.baseurl }}/wp-content/uploads/Colore-foglia-primo-piano.jpg "Colore foglia in primo piano")
 
 E’ ovvio che un solo colore non era sufficiente per dipingere tutte le variazioni di colore della foglia. Durante la fase pittorica, infatti, ho poi provveduto con il pennello a mescolare varie gradazioni partendo da questo colore.
 
-![Gradazioni foglia in primo piano](/wp-content/uploads/Gradazioni-foglia-primo-piano.jpg "Gradazioni foglia in primo piano")
+![Gradazioni foglia in primo piano]({{ site.baseurl }}/wp-content/uploads/Gradazioni-foglia-primo-piano.jpg "Gradazioni foglia in primo piano")
 
 Come puoi notare, partendo dal colore di base (il quinto da sinistra) ho mescolato dei verdi più scuri aggiungendo sempre più terra d’ombra bruciata e blu oltremare. Solo il colore più scuro l’ho ottenuto aggiungendo al colore base il nero avorio e il blu oltremare. Le gradazioni più chiare, invece, le ho ottenute mescolando al colore base il giallo cadmio chiaro, il giallo ocra e il bianco. Con questa moltitudine di colori preparati al momento, dipingere la foglia è stato abbastanza semplice.
 
@@ -190,14 +190,14 @@ Per l’uva ho individuato tre colori fondamentali:
 
 La seguente foto mostra i 3 colori confrontati sulla foto.
 
-![Colore uva](/wp-content/uploads/Colore-uva.jpg "Colore uva")
+![Colore uva]({{ site.baseurl }}/wp-content/uploads/Colore-uva.jpg "Colore uva")
 
 Se guardi bene la foto noterai che sull’uva e sulle foglie ci sono dei riflessi blu in alcune zone più intense in altre meno intense ma più chiare. Per dipingere queste aree ho preparato due colori:
 
 * Miscela 1: blu cobalto+verde cadmio+bianco
 * Miscela 2:Molto bianco+blu oltremare+pochissimo carminio
 
-![Colore riflessi dell'uva](/wp-content/uploads/Colore-riflessi.jpg "Colore riflessi dell'uva")
+![Colore riflessi dell'uva]({{ site.baseurl }}/wp-content/uploads/Colore-riflessi.jpg "Colore riflessi dell'uva")
 
 ### Le foglie posteriori e laterali
 
@@ -207,7 +207,7 @@ Il principio è analogo ai casi precedenti. I colori preparati sono:
 * colore in luce=blu oltremare+giallo cadmio chiaro+bianco
 * colore in ombra=blu oltremare+giallo cadmio chiaro
 
-![Colore foglie](/wp-content/uploads/Colori-foglie.jpg "Colore foglie")
+![Colore foglie]({{ site.baseurl }}/wp-content/uploads/Colori-foglie.jpg "Colore foglie")
 
 Per le foglie laterali i colori usati nelle miscele sono sempre queste ma il verde è leggermente più intenso.
 
@@ -220,7 +220,7 @@ Per il colore dello sfondo ho utilizzato due colori base:
 
 Purtroppo ho a disposizione la foto del solo colore chiaro.
 
-![Colore dello sfondo](/wp-content/uploads/Uva-colore-sfondo.jpg "Colore dello sfondo")
+![Colore dello sfondo]({{ site.baseurl }}/wp-content/uploads/Uva-colore-sfondo.jpg "Colore dello sfondo")
 
 ## Conclusioni
 

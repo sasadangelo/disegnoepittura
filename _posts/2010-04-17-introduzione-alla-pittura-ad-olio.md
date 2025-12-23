@@ -6,7 +6,7 @@ tags: ['corso pittura ad olio', 'pittura ad olio']
 layout: single
 ---
 
-![](https://www.disegnoepittura.it/wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg "corso-pittura-olio-artisti-principianti")
+![]({{ site.baseurl }}/wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg "corso-pittura-olio-artisti-principianti")
 
 Questo è l’articolo d’introduzione del mio “mini corso” sulla pittura a olio in cui cerco di spiegare, passo dopo passo, come eseguo i miei dipinti. Questo corso è da considerare un “work in progress” che terrò sempre aggiornato con l’evoluzione che subirà la mia tecnica con la pittura a olio.
 
@@ -46,11 +46,11 @@ Ad esempio, il problema di dipingere un paesaggio può essere scomposto: dipinge
 
 L’approccio che personalmente uso nei miei studi è quello di dividere la tela in quattro parti e, in ciascuna di essa, eseguire l’elemento che voglio studiare.
 
-![](/wp-content/uploads/corso-pittura-olio-artisti-principianti-lezione3-1.jpg "corso-pittura-olio-artisti-principianti-lezione3-1")
+![]({{ site.baseurl }}/wp-content/uploads/corso-pittura-olio-artisti-principianti-lezione3-1.jpg "corso-pittura-olio-artisti-principianti-lezione3-1")
 
 Per gli studi prendi in considerazione la possibilità di utilizzare i cartoni o pannelli telati che costano meno rispetto alle tele.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/cartone-telato.jpg "cartone-telato") ![](https://www.disegnoepittura.it/wp-content/uploads/cartone-telato-2.jpg "cartone-telato-2") ![](https://www.disegnoepittura.it/wp-content/uploads/pannello-telato.jpg "pannello-telato") ![](https://www.disegnoepittura.it/wp-content/uploads/pannello-telato-2.jpg "pannello-telato-2") ![](https://www.disegnoepittura.it/wp-content/uploads/tela.jpg "tela")
+![]({{ site.baseurl }}/wp-content/uploads/cartone-telato.jpg "cartone-telato") ![]({{ site.baseurl }}/wp-content/uploads/cartone-telato-2.jpg "cartone-telato-2") ![]({{ site.baseurl }}/wp-content/uploads/pannello-telato.jpg "pannello-telato") ![]({{ site.baseurl }}/wp-content/uploads/pannello-telato-2.jpg "pannello-telato-2") ![]({{ site.baseurl }}/wp-content/uploads/tela.jpg "tela")
 
 ## Le frustrazioni di quando si comincia a dipingere
 
@@ -72,7 +72,7 @@ Non mi era chiaro da dove cominciare, se dovevo dipingere in una o più sessioni
 2. Utilizzate il minor numero di tubetti di colore possibile, in questa fase iniziale avere tanti colori vi farà solo confondere. Per cominciare un tubetto di colore rosso, giallo e blu più il bianco e nero possono bastare. Molte tinte non riuscirete a realizzarle ma quelle che realizzerete si armonizzeranno tutte tra loro.
 3. Comprate pochi pennelli. Tre tondi (grande, medio e piccolo) più uno largo e piatto possono bastare. Assicuratevi che siano di ottima qualità e che non perdano i peli.
 4. Acquistate olio di noci (o lino se volete spendere meno) e acqua ragia inodore. Non dovrete intingere i pennelli nell’olio, ricordatevi che i tubetti contengono già olio, quindi aggiungetene altro solo se avete difficoltà a stenderli. Usate l’acqua ragia solo per pulire i pennelli.
-5. Cercate di abituarvi all’uso del cavalletto. Le prime volte può sembrare difficoltoso, soprattutto nei lavori di dettaglio dove non avete appoggi per la vostra mano. [Ci sono piccoli strumenti per risolvere questi problemi](https://www.disegnoepittura.it/come-costruire-bastone-poggiapolso/).
+5. Cercate di abituarvi all’uso del cavalletto. Le prime volte può sembrare difficoltoso, soprattutto nei lavori di dettaglio dove non avete appoggi per la vostra mano. [Ci sono piccoli strumenti per risolvere questi problemi]({{ site.baseurl }}/come-costruire-bastone-poggiapolso/).
 6. Dipingetei soggetti semplici in un’unica sessione, il vostro lavoro sembrerà più fresco e naturale.
 7. Non dipingete contorni per gli oggetti, ricordatevi che dipingere non è come colorare un fumetto.
 8. Non utilizzate il colore così come esce dal tubetto. Le case produttrici di colori producono colori ad alto grado di saturazione per dare la possibilità a chi dipinge di poter mescolare il maggior numero di tinte possibili. In natura i colori sono meno intensi rispetto a quelli dei tubetti.
@@ -81,4 +81,4 @@ Non mi era chiaro da dove cominciare, se dovevo dipingere in una o più sessioni
 
 Termina qui l’introduzione al mio “mini corso”. Spero di aver dato una risposta alle prime domande che qualsiasi aspirante artista si pone quando comincia a dipingere.
 
-*Leggi gli altri  articoli del [corso di pittura ad olio per artisti principianti](https://www.disegnoepittura.it/corso-pittura-olio-artisti-principianti-2/).*
+*Leggi gli altri  articoli del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*

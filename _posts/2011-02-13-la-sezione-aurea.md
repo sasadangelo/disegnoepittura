@@ -6,7 +6,7 @@ tags: ['composizione']
 layout: single
 ---
 
-![Sezione Aurea](https://www.disegnoepittura.it/wp-content/uploads/sezione-aurea.jpg "Sezione Aurea")
+![Sezione Aurea]({{ site.baseurl }}/wp-content/uploads/sezione-aurea.jpg "Sezione Aurea")
 
 *Foto da [fotografiapuntodincontro.](http://www.fotografiapuntodincontro.com/ "Fotografia Punto d'Incontro")*
 
@@ -46,11 +46,11 @@ Terminato il periodo ellenistico per molto tempo non si è parlato più di quest
 
 Per scoprire la relazione tra la serie di Fibonacci e il numero aureo bisognerà aspettare il 1611 quando Keplero intuì che il rapporto di due numeri consecutivi della serie approssimavano sempre di più il numero aureo.
 
-2/1 = 2  
-3/2 = 1,5  
-5/3 = 1,6666  
-8/5 = 1,6  
-13/8 = 1,625  
+2/1 = 2
+3/2 = 1,5
+5/3 = 1,6666
+8/5 = 1,6
+13/8 = 1,625
 21/13 =  1,615
 
 Infatti, scrisse:
@@ -72,7 +72,7 @@ Su molti libri e siti internet è facile trovare riferimenti all’uso della sez
 1. sostenere la presenza di buone approssimazioni di rapporti aurei quando in realtà questi rapporti sono uguali a valori non proprio vicini a 1,618033 (es. 1,5 oppure 1,7). Ad esempio, nella piramide di Cheope ciascun lato triangolare ha una base di 230 m e un’altezza di 145 m, da cui si ricava 230/145=1,5862 e su molti libri, in maniera molto sbrigativa, si sostiene che questo numero ben approssima il numero aureo.
 2. sostenere la presenza di rapporti aurei non avendo chiari i sistemi di riferimento di partenza anzi descrivendoli in maniera del tutto vaga. Ad esempio, nella Monna Lisa di Leonardo si sostiene che il volto del soggetto è inscrivibile in un rettangolo aureo. Purtroppo da quali punti questo rettangolo parte non è proprio chiaro.
 
-![Rettangolo Aureo sul viso della Gioconda](https://www.disegnoepittura.it/wp-content/uploads/gioconda-sezione-aurea.jpg "Rettangolo Aureo sul viso della Gioconda")
+![Rettangolo Aureo sul viso della Gioconda]({{ site.baseurl }}/wp-content/uploads/gioconda-sezione-aurea.jpg "Rettangolo Aureo sul viso della Gioconda")
 
 Alcuni libri come  *La geometria segreta dei pittori* di Charles Bouleau sostengono la tesi che l’uso della sezione aurea fosse nota a pittori come Cimabue, Duccio e Giotto e che fosse ampiamente usata nelle loro opere. Questo per dimostrare che l’uso della sezione aurea è antecedente all’opera di Pacioli. Purtroppo, però, queste tesi non sembra siano unanimemente condivise perché, probabilmente, manca la prova evidente che lo dimostri.
 

@@ -6,13 +6,13 @@ tags: []
 layout: single
 ---
 
-![Frutti e Calici](https://www.disegnoepittura.it/wp-content/uploads/Frutti-Calici.jpg "Frutti e Calici")
+![Frutti e Calici]({{ site.baseurl }}/wp-content/uploads/Frutti-Calici.jpg "Frutti e Calici")
 
 Ti piacerebbe dipingere insieme a Walter Cozzoli e tutta la community Disegno & Pittura una Natura Morta dall’inizio alla fine seguendo un video corso in italiano che ti spiegherà come fare? Allora leggi il resto dell’articolo per capire come fare a partecipare all’iniziativa **Dipingere Insieme** promossa da Walter Cozzoli.
 
 L’8 Novembre ho chiesto a Walter Cozzoli di diventare moderatore del [forum Disegno & Pittura](http://forum.disegnoepittura.it) e di aiutarmi a farlo crescere. Come prima iniziativa Walter ha deciso di regalarci un video corso gratuito online in cui lui mostrerà come realizzare una Natura Morta dall’inizio alla fine mostrandoci le procedure, i medium,  e tutti gli strumenti necessari per riprodurre la seguente Natura Morta che lui ha intitolato Frutta & Calici.
 
-![Frutti e Calici](https://www.disegnoepittura.it/wp-content/uploads/Frutti-Calici.jpg "Frutti e Calici")
+![Frutti e Calici]({{ site.baseurl }}/wp-content/uploads/Frutti-Calici.jpg "Frutti e Calici")
 
 Chiunque vuole partecipare basta che fornisce la sua adesione sul forum, il tutto è assolutamente gratuito. Partecipare all’iniziativa significa innanzittutto guardare Walter lavorare e, in seconda battuta, provare da soli a rifare a casa ciò che lui mostra nei video per poi mostrare il risultato raggiunto sul forum. E’ necessario, quindi, essere iscritto al forum perché è poi lì che dovrete pubblicare lo stato di avanzamento del vostro lavoro. Chi aderisce all’iniziativa dipingerà insieme a Walter  e tutta la Community la Natura Morta e riceverà i feedback necessari per rendere la sua opera quanto più fedele all’originale. Quando tutti i partecipanti avranno finito uno step si passerà a quello successivo.
 

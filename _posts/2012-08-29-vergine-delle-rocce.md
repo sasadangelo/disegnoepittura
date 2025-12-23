@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![Vergine delle Rocce](/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg "Vergine delle Rocce")
+![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg "Vergine delle Rocce")
 
 Come fu dipinta da Leonardo la Vergine delle Rocce oggi custodita alla National Gallery?
 
@@ -14,7 +14,7 @@ Come forse ben sai Leonardo dipinse due versioni della Vergine delle Rocce. [Una
 
 **Ma come dipinse quest’ultima Vergine delle Rocce?**
 
-![Vergine delle Rocce](/wp-content/uploads/vergine-rocce-national-gallery.jpg "Vergine delle Rocce")
+![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery.jpg "Vergine delle Rocce")
 
 Piu’ volte ho scritto su questo blog che esistono 3 modi per conoscere le tecniche degli antichi maestri:
 
@@ -50,7 +50,7 @@ Il disegno come lo ammiriamo oggi fu rifatto con una nuova composizione, che pre
 
 La seguente figura mostra, in sezione, gli strati finora citati. Il campione appartiene alla fodera gialla del mantella della Madonna.
 
-![Sezione di Imprimitura nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-imprimitura-sezione.jpg "Sezione di Imprimitura nella Vergine delle Rocce")
+![Sezione di Imprimitura nella Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-imprimitura-sezione.jpg "Sezione di Imprimitura nella Vergine delle Rocce")
 
 In figura possiamo notare, nell’ordine:
 
@@ -75,11 +75,11 @@ E’ curioso constatare da questo documento come Leonardo non eseguisse un abboz
 
 Il cielo è stato realizzato mediante un primo abbozzo con azzurrite e bianco di piombo steso direttamente sulla seconda imprimitura nelle aree delimitate dal secondo disegno. Una volta asciugato questo strato Leonardo ha steso una velatura di oltremare. In alcune aree del cielo è stato rilevato l’uso dell’olio di noci riscaldato come medium. In altre aree a destra sembra sia stato usato l’olio di lino. La seguente foto mostra in dettaglio questa modalità di esecuzione.
 
-![Il Cielo nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-cielo.jpg "Il Cielo nella Vergine delle Rocce")
+![Il Cielo nella Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-cielo.jpg "Il Cielo nella Vergine delle Rocce")
 
 Per chi non si accontenta della sola prova visiva c’è anche la prova scientifica di un campione di cielo. La seguente foto mostra la sezione di un campione del dipinto nell’area del cielo dove si notano i due strati.
 
-![Sezione di cielo nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-cielo-sezione.jpg "Sezione di cielo nella Vergine delle Rocce")
+![Sezione di cielo nella Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-cielo-sezione.jpg "Sezione di cielo nella Vergine delle Rocce")
 
 ### Le Rocce
 
@@ -91,7 +91,7 @@ Le piante visibili tra le rocce in alto sono state realizzate  con un marrone t
 
 La seguente figura mostra la sezione di un campione delle foglie in primo piano in basso a sinistra. Proprio in questo campione è stato rilevato l’uso dei colori citati sopra e lo sfregazzo con il nero per ridurre il tono delle piante in alcuni punti.
 
-![Sezione verdure nella Vergine delle Rocce](/wp-content/uploads/vergine-rocce-verdure-sezione-2.jpg "Sezione verdure nella Vergine delle Rocce")
+![Sezione verdure nella Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-verdure-sezione-2.jpg "Sezione verdure nella Vergine delle Rocce")
 
 ### Drappeggio
 
@@ -109,7 +109,7 @@ Molti sostengono che il famoso di Leonardo sia ottenuto per sovrapposizione di s
 
 Nelle aree in ombra c’è uno strato di colore molto traslucente (velatura) composto da nero carbone, ocra marrone e un colore di terra aranciato. Quest’ultimo accorgimento credo sia la chiave di volta per rendere i volti, nelle aree in ombra, più profondi e traslucenti.
 
-![Giovanni Battista](/wp-content/uploads/volto-giovanni-battista-underpainting.jpg "Giovanni Battista")
+![Giovanni Battista]({{ site.baseurl }}/wp-content/uploads/volto-giovanni-battista-underpainting.jpg "Giovanni Battista")
 
 ### Dettagli d’orati
 

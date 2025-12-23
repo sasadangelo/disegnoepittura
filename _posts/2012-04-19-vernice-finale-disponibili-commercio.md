@@ -6,7 +6,7 @@ tags: ['materiali', 'pittura ad olio']
 layout: single
 ---
 
-![Vernice Finale](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Finale.jpg "Vernice Finale")
+![Vernice Finale]({{ site.baseurl }}/wp-content/uploads/Vernice-Finale.jpg "Vernice Finale")
 
 Le vernici sono composti liquidi formati da uno o più resine e da un solvente ed hanno diversi impieghi nella pittura a olio. Possono essere usati per creare medium, vernici finali o da ritocco. In quest’articolo faremo una panoramica delle vernici disponibili in commercio.
 
@@ -19,7 +19,7 @@ Le vernici possono essere classificate in quattro categorie distinte in funzione
 * agli oli essenziali;
 * agli oli grassi.
 
-Le **vernici all’acqua** sono vernici il cui solvente è l’acqua. Generalmente, sono usate come vernici da ritocco o per verniciare provvisoriamente un dipinto. Due esempi classici di vernici all’acqua sono: la [vernice a chiara d’uovo](https://www.disegnoepittura.it/vernice-chiara-duovo/) e quella a base di gomma.
+Le **vernici all’acqua** sono vernici il cui solvente è l’acqua. Generalmente, sono usate come vernici da ritocco o per verniciare provvisoriamente un dipinto. Due esempi classici di vernici all’acqua sono: la [vernice a chiara d’uovo]({{ site.baseurl }}/vernice-chiara-duovo/) e quella a base di gomma.
 
 Le **vernici a spirito** usano l’alcol come solvente. Questo tipo di vernici trovano impiego nell’ambito della pittura a tempera.
 
@@ -29,7 +29,8 @@ Le **vernici agli oli grassi** sono generalmente composte da una resina, un olio
 
 ## Vernici finali e da ritocco
 
-![Vernice da Ritocco Vibert](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Vibert.jpg "Vernice da Ritocco Vibert")  
+![Vernice da Ritocco Vibert]({{ site.baseurl }}/wp-content/uploads/Vernice-Vibert.jpg "Vernice da Ritocco Vibert")
+
 Le **vernici da ritocco** si utilizzano durante l’esecuzione di un dipinto per ritoccare un’area già asciutta e fare in modo che il nuovo colore non appaia diverso da quello sottostante. Si possono usare anche per eliminare un prosciugo o per verniciare temporaneamente un dipinto prima che siano trascorsi sei mesi dalla data di completamento. Queste vernici avendo un maggiore quantitativo di solvente consentono all’olio di completare il processo di polimerizzazione fino all’asciugatura completa.
 
 Le **vernici finali**, invece, si applicano dopo almeno sei mesi dal completamento del dipinto per proteggerlo, rendere l’aspetto della superficie uniforme e priva di prosciughi. Avendo queste ultime una maggiore quantità di resina non consentono all’olio di polimerizzare e asciugarsi completamente. Ecco perché bisogna aspettare che l’olio impieghi almeno sei mesi prima di applicare questo tipo di vernice.
@@ -42,7 +43,7 @@ Le vernici possono essere classificate anche in base al tipo di resina utilizzat
 
 Risponderò a questa domanda con un’immagine che vale più di mille parole. Nella foto puoi osservare un quadro prima e dopo la verniciatura. Quale dei due appenderesti nel salone di casa tua? Sicuramente il secondo.
 
-![Vernice finale su un dipinto ad olio](https://www.disegnoepittura.it/wp-content/uploads/vernice-finale-dipinto.JPG "Vernice finale su un dipinto ad olio")
+![Vernice finale su un dipinto ad olio]({{ site.baseurl }}/wp-content/uploads/vernice-finale-dipinto.JPG "Vernice finale su un dipinto ad olio")
 
 Finito un quadro è frequente avere aree più brillanti e altre opache. L’uso della vernice darà al tuo dipinto una superficie uniforme ravvivando i colori dello stesso.
 
@@ -57,7 +58,7 @@ La vernice protegge il dipinto da agenti atmosferici e dai graffi e ne favorisce
 
 ## Il Liquin come vernice finale
 
-![Liquin Original](https://www.disegnoepittura.it/wp-content/uploads/Fig-18-Liquin-Original.jpg "Liquin Original")
+![Liquin Original]({{ site.baseurl }}/wp-content/uploads/Fig-18-Liquin-Original.jpg "Liquin Original")
 
 In tempi recenti è sempre più frequente osservare come molti pittori utilizzano il Liquin Original come vernice finale. Il Liquin Original è veramente semplice da applicare e l’effetto estetico è molto gradevole. Il problema è che il Liquin Original non è stato progettato per essere utilizzato come vernice finale, bensì come medium. Non svolge alcun ruolo protettivo e non è removibile, la stessa [Winsor & Newton ne sconsiglia l’uso come vernice finale](http://www.winsornewton.com/uk/shop/oils-solvents-mediums-and-varnishes/oil-colour/mediums/liquin-original-2-53-us-fl-oz-75ml-bottle-3021751).
 
@@ -71,21 +72,21 @@ Le vernici disponibili in commercio che ho testato personalmente sono le seguent
 
 * **V****ernice mastice.** Vernice brillante dal costo abbastanza elevato (250 ml 40-50 Euro), semplice da applicare e con un risultato visivo di grande impatto. Potrebbe dare non pochi problemi se non si aspetta almeno sei mesi prima di verniciare il dipinto, si possono verificare fenomeni di affondamento o rallentamenti drastici nell’asciugatura. Nei periodi più umidi dell’anno la vernice potrebbe diventare appiccicosa al tatto. Questo è un comportamento abbastanza normale che si risolve facilmente lasciando asciugare la vernice per una o due settimane. Gli strati di vernice devono essere ben tirati per evitare l’effetto specchio e ritardi nell’asciugatura.
 
-  ![Vernice Mastice](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Mastice.jpg "Vernice Mastice")
+  ![Vernice Mastice]({{ site.baseurl }}/wp-content/uploads/Vernice-Mastice.jpg "Vernice Mastice")
 * **Vernice damar.** Vernice brillante molto usata dai pittori per via del costo contenuto. Essa deve essere applicata con rapidità, con pennellate ben tirate per evitare l’effetto specchio e ritardi nell’asciugatura. Non sono un estimatore di questa vernice.
 
-  ![Vernice Damar](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Damar.jpg "Vernice Damar")
-* **Vernice finale acrilica Maimeri 667**. Questa vernice è una delle migliori vernici che io abbia mai provato. Facile da applicare, dall’aspetto brillante e che non ha controindicazioni. Essa non va confusa con la [vernice brillante Maimeri 670](https://www.bellearti.it/vernici-finali/2762-Vernice-Finale-Brillante-Maimeri-670.html) o la vernice finale ad acqua 668.  
-  ![Vernice Finale Maimeri Acrilica 667](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Finali-Acrilica-667-e1520258083512.jpg)
+  ![Vernice Damar]({{ site.baseurl }}/wp-content/uploads/Vernice-Damar.jpg "Vernice Damar")
+* **Vernice finale acrilica Maimeri 667**. Questa vernice è una delle migliori vernici che io abbia mai provato. Facile da applicare, dall’aspetto brillante e che non ha controindicazioni. Essa non va confusa con la [vernice brillante Maimeri 670](https://www.bellearti.it/vernici-finali/2762-Vernice-Finale-Brillante-Maimeri-670.html) o la vernice finale ad acqua 668.
+  ![Vernice Finale Maimeri Acrilica 667]({{ site.baseurl }}/wp-content/uploads/Vernice-Finali-Acrilica-667-e1520258083512.jpg)
 * **Vernice finale satinata Lefranc & Bourgeois**. Questa vernice l’ho provata su suggerimento di alcuni amici. Purtroppo, però, i risultati ottenuti non mi hanno soddisfatto.
 
-  ![Vernice Lefranc & Bourgeois](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Lefranc.jpg "Vernice Lefranc & Bourgeois")
+  ![Vernice Lefranc & Bourgeois]({{ site.baseurl }}/wp-content/uploads/Vernice-Lefranc.jpg "Vernice Lefranc & Bourgeois")
 * **Vernici finali brillante e opaca Winsor & Newton.** Queste vernici sono a mio avviso eccezionali. Costano poco, sono facili da applicare e l’effetto finale è molto bello. Potete mescolare tra loro le vernici per ottenere livelli intermedi di brillantezza.
 
-  ![Vernice Finale Winsor & Newton Lucida](https://www.disegnoepittura.it/wp-content/uploads/Fig-54-Vernice-Finale-Winsor-Newton-Lucida.jpg "Vernice Finale Winsor & Newton Lucida")
+  ![Vernice Finale Winsor & Newton Lucida]({{ site.baseurl }}/wp-content/uploads/Fig-54-Vernice-Finale-Winsor-Newton-Lucida.jpg "Vernice Finale Winsor & Newton Lucida")
 * **Vernice finale brillante Maimeri 670**. Questa vernice è un prodotto da usare solo in ambito non professionale, ha il vantaggio di costare poco ed è facile da applicare. Su alcuni dipinti lo strato di vernice si è volatilizzato dopo qualche anno.
 
-  ![Vernice Finale Brillante Maimeri 670](https://www.disegnoepittura.it/wp-content/uploads/Vernice-Finale-Brillante-Maimeri-670.jpg)
+  ![Vernice Finale Brillante Maimeri 670]({{ site.baseurl }}/wp-content/uploads/Vernice-Finale-Brillante-Maimeri-670.jpg)
 
 ## Quali vernici acquistare?
 

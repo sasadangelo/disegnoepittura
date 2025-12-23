@@ -6,13 +6,13 @@ tags: []
 layout: single
 ---
 
-![Tecnica di Caravaggio](/wp-content/uploads/caravaggio-mini.jpg "Tecnica di Caravaggio")
+![Tecnica di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-mini.jpg "Tecnica di Caravaggio")
 
 Con quale tecnica Caravaggio eseguiva i suoi dipinti? Questa è una serie di articoli il cui obiettivo è quello di illustrarti qual era la  tecnica di Caravaggio per realizzare molti dei suoi dipinti. Approfondirò l’argomento mediante l’analisi di alcuni suoi dipinti e vedrai una serie di progetti eseguiti passo dopo passo, per realizzare alcune copie di suoi dipinti, realizzati dai membri della community Disegno & Pittura.
 
 ## Chi era Caravaggio?
 
-![Caravaggio](/wp-content/uploads/caravaggio.jpg "Caravaggio")
+![Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio.jpg "Caravaggio")
 
 *Foto da www.biography.com*
 
@@ -33,7 +33,7 @@ Qui di seguito sono elencati gli articoli che spiegano la tecnica di Caravaggio 
 
 ## Analisi di alcuni dipinti di Caravaggio
 
-![Roberta Lapucci](/wp-content/uploads/roberta-lapucci.jpg)
+![Roberta Lapucci]({{ site.baseurl }}/wp-content/uploads/roberta-lapucci.jpg)
 
 *Foto dal sito di [Roberta Lapucci](http://www.robertalapucci.com/ "Roberta Lapucci")*
 
@@ -45,7 +45,7 @@ Nella precedente sezione abbiamo visto, in linea generale, sia i materiali che l
 
 ## Tutorial passo dopo passo di copie di opere di Caravaggio
 
-![Progetti step by step](/wp-content/uploads/Canestro-Frutta-Caravaggio-Edoardo-La-Francesca.jpg "Progetti step by step")
+![Progetti step by step]({{ site.baseurl }}/wp-content/uploads/Canestro-Frutta-Caravaggio-Edoardo-La-Francesca.jpg "Progetti step by step")
 
 Dopo tutta la teoria illustrata nelle precedenti sezioni è venuto il momento di vedere in pratica come realizzare alcune opere di Caravaggio. Qui di seguito troverai i link ai progetti di esecuzione di alcune opere di Caravaggio eseguite da alcuni membri della community di Disegno & Pittura. Credo che l’aggiunta dell’esperienza pratica alla teoria non possa fare altro che consolidare la conoscenza dell’artista Caravaggio.
 

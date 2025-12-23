@@ -6,9 +6,9 @@ tags: []
 layout: single
 ---
 
-![fuori](https://www.disegnoepittura.it/wp-content/uploads/fuori.jpg "fuori")
+![fuori]({{ site.baseurl }}/wp-content/uploads/fuori.jpg "fuori")
 
-Nei giorni scorsi ho avuto la possibilità di scambiare qualche email con il pittore [Antonino Cammarata](https://www.disegnoepittura.it/antonino-cammarata/).
+Nei giorni scorsi ho avuto la possibilità di scambiare qualche email con il pittore [Antonino Cammarata]({{ site.baseurl }}/antonino-cammarata/).
 
 Da questo scambio di email, che potremo quasi definire un’intervista, è venuto fuori un quadro abbastanza interessante circa la tecnica da egli utilizzata. In quest’articolo riporterò una sintesi di quanto ci siamo detti. Il maestro può intervenire quando vuole se per caso ho commesso errori o omissioni. I lettori possono aggiungere i loro commenti se lo desiderano.
 
@@ -27,7 +27,7 @@ Ecco cosa dice il maestro riguardo uno degli elementi costantemente presenti nel
 
 *“L’albero è l’essere vivente per eccellenza che io amo di più , solo la natura può creare sculture viventi come l’albero, esso rappresenta la vita, la serenità, chi di noi non ha sognato di stare sotto un albero e guardare lontano all’orrizonte, come per dire ma dove andiamo? e perchè con tutta questa fretta”.*
 
-Se ti è piaciuta questa intervista [leggi le altre interviste del blog](https://www.disegnoepittura.it/tag/interviste/) che troverai sicuramente interessanti.
+Se ti è piaciuta questa intervista [leggi le altre interviste del blog]({{ site.baseurl }}/tag/interviste/) che troverai sicuramente interessanti.
 
 **PS**
 

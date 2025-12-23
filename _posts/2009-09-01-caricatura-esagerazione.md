@@ -6,7 +6,7 @@ tags: ['caricatura']
 layout: single
 ---
 
-![caricatura arnold schwarzenegger](/wp-content/uploads/caricatura-arnold-schwarzenegger.jpg "caricatura arnold schwarzenegger")
+![caricatura arnold schwarzenegger]({{ site.baseurl }}/wp-content/uploads/caricatura-arnold-schwarzenegger.jpg "caricatura arnold schwarzenegger")
 
 Come individuare l’elemento di esagerazione in una caricatura? La risposta a tale domanda è il pilastro su cui si fonda una buona caricatura.
 
@@ -18,7 +18,7 @@ Purtroppo, però, non esiste una risposta preconfezionata a questa domanda. Rius
 
 Volendo eseguire la caricatura di Amy Winehouse sappiamo che il suo elemento di esagerazione è l’uso eccessivo di alcool, droghe e fumo ben visibili nella sigaretta in bocca e negli occhi un pò spenti. Inoltre, anche i suoi capelli, circondando un viso molto minuto, sembrano quelli di un parruccone. Combinando questi elementi potrebbe venir fuori una caricatura come quella in figura. In una prossima lezione vedremo in dettaglio [come realizzare la caricatura di Amy Winehouse](/come-disegnare-caricatura-amy-winehouse/ "Caricatura Amy Winehouse").
 
-![Caricatura Amy Winehouse](/wp-content/uploads/amy-winehouse-5.jpg "Caricatura Amy Winehouse")
+![Caricatura Amy Winehouse]({{ site.baseurl }}/wp-content/uploads/amy-winehouse-5.jpg "Caricatura Amy Winehouse")
 
 Ti è piaciuto quest’articolo? Leggi gli altri articoli del corso per [Disegnare una Caricatura](/corso-disegnare-una-caricatura/).
 

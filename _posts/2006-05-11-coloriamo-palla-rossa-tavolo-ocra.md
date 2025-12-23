@@ -6,9 +6,9 @@ tags: ['mescolare i colori']
 layout: single
 ---
 
-![color mixing](https://www.disegnoepittura.it/wp-content/uploads/medium_colori2.jpg "color mixing")
+![color mixing]({{ site.baseurl }}/wp-content/uploads/medium_colori2.jpg "color mixing")
 
-Abbiamo visto nei precedenti post [come mescolare i colori](https://www.disegnoepittura.it/mescolare-colori/ "Mescolare i Colori") per colorare una scatola blu. In quel caso avevamo utilizzato 3 colori: il colore locale dell’oggetto (cioè il colore reale), quello in ombra e quello esposto alla luce. I colori erano stati così ottenuti.
+Abbiamo visto nei precedenti post [come mescolare i colori]({{ site.baseurl }}/mescolare-colori/ "Mescolare i Colori") per colorare una scatola blu. In quel caso avevamo utilizzato 3 colori: il colore locale dell’oggetto (cioè il colore reale), quello in ombra e quello esposto alla luce. I colori erano stati così ottenuti.
 
 * colore locale = blu (scelto a mio piacere)
 * colore ombra = colore locale + complementare (cioè arancio)
@@ -17,7 +17,7 @@ Abbiamo visto nei precedenti post [come mescolare i colori](https://www.disegnoe
 
 Volendo dipingere una palla rossa esposta ad un’unica fonte di luce le cose si complicano un po’.
 
-Sappiamo che un oggetto esposto ad una fonte luminosa genera 5 toni nel [chiaroscuro](https://www.disegnoepittura.it/chiaroscuro/ "Chiaroscuro"):
+Sappiamo che un oggetto esposto ad una fonte luminosa genera 5 toni nel [chiaroscuro]({{ site.baseurl }}/chiaroscuro/ "Chiaroscuro"):
 
 * punto massima luce;
 * area illuminata;

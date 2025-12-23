@@ -6,13 +6,13 @@ tags: ['composizione']
 layout: single
 ---
 
-![focal-point](https://www.disegnoepittura.it/wp-content/uploads/focal-point.jpg "focal-point")
+![focal-point]({{ site.baseurl }}/wp-content/uploads/focal-point.jpg "focal-point")
 
 Quando uno spettatore guarderà il vostro dipinto percorrerà sulla tela diversi percorsi con i propri occhi. Avendo le giuste conoscenze è possibile guidarlo attraverso questi percorsi così come un navigatore satellitare ci guida tra le strade di una città di un paese che non conosciamo.
 
 Guardate la seguente figura.
 
-![focal-point](https://www.disegnoepittura.it/wp-content/uploads/focal-point.jpg "focal-point")
+![focal-point]({{ site.baseurl }}/wp-content/uploads/focal-point.jpg "focal-point")
 
 Osservate il riquadro 1. L’occhio vaga senza punti di riferimento.
 
@@ -24,7 +24,7 @@ Quindi in un dipinto ci possono essere anche più punti focali collegati tra lor
 
 Un punto focale può essere anche una linea o un oggetto complesso o, addirittura, un’area.
 
-Nel riquadro 4 l’occhio va dalla casa in basso a sinistra alla casa in alto a sinistra. Già nell’articolo su [12 Regole di Composizione](https://www.disegnoepittura.it/12-regole-composizione/) avevamo elencato la bontà di replicare oggetti a diversa distanza. La strada indica esplicitamente il percorso, cioè aiuta l’occhio dello spettatore ad andare da un centro di interessa all’altro. La strada, però, è troppo dritta e l’occhio va troppo velocemente da un centro di interesse all’altro.
+Nel riquadro 4 l’occhio va dalla casa in basso a sinistra alla casa in alto a sinistra. Già nell’articolo su [12 Regole di Composizione]({{ site.baseurl }}/12-regole-composizione/) avevamo elencato la bontà di replicare oggetti a diversa distanza. La strada indica esplicitamente il percorso, cioè aiuta l’occhio dello spettatore ad andare da un centro di interessa all’altro. La strada, però, è troppo dritta e l’occhio va troppo velocemente da un centro di interesse all’altro.
 
 Nel riquadro 5 si riduce il problema del riquadro 4. La strada zigzagata consente un viaggio più lento allo spettatore che avrà anche il tempo di soffermarsi sull’albero tra le due case.
 

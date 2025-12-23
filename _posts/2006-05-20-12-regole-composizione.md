@@ -6,7 +6,7 @@ tags: ['composizione']
 layout: single
 ---
 
-![medium_cmpsitn2](/wp-content/uploads/medium_cmpsitn2.gif "medium_cmpsitn2")
+![medium_cmpsitn2]({{ site.baseurl }}/wp-content/uploads/medium_cmpsitn2.gif "medium_cmpsitn2")
 
 Navigando sulla rete ho trovato questo [tutorial](http://website.lineone.net/%7Epeter.saw/ctutor/cmpsitn.htm "Tutorial") che enuncia alcune semplici regole di composizione. Per composizione si intende la capacità di riuscire ad organizzare tutti gli elementi da ritrarre in modo tale che agli occhi dell’osservatore possano apparire il più gradevole possibile. A volte è sufficiente avere un pò di buon gusto, tuttavia alcune semplici regole non guastano.
 

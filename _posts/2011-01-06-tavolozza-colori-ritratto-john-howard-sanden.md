@@ -6,77 +6,77 @@ tags: ['mescolare i colori', 'ritratto']
 layout: single
 ---
 
-![John Howard Sanden](https://www.disegnoepittura.it/wp-content/uploads/sanden.jpg "John Howard Sanden")
+![John Howard Sanden]({{ site.baseurl }}/wp-content/uploads/sanden.jpg "John Howard Sanden")
 
 [John Howard Sanden](http://www.johnhowardsanden.com) è un famoso ritrattista statunitense membro del [Portrait Institute](http://www.portraitinstitute.com), un’organizzazione che, originariamente, teneva un convegno annuale di 5 giorni sul tema del Ritratto. Dal sito dell’artista è possibile vedere i suoi lavori, le onoreficenze ricevute, i clienti e molte altre informazioni. E’ curioso leggere come l’artista sia stato [selezionato dallo staff della Casa Bianca per il ritratto del 43° Presidente degli Stati Uniti George W. Bush](http://www.whitehouse.gov/the-press-office/2012/05/31/background-information-presentation-portraits-president-george-w-bush-an).
 
 Vi propongo questa foto dell’artista in posa in uno dei suoi studi perchè in essa è ripreso il mobile indicato dalla freccia rossa che l’autore utilizza come tavolozza. Fondamentalmente il mobile ha un base di appoggio, due cassetti dove riporre i colori e pennelli, un piano bianco con sopra un vetro che l’artista utilizza come tavolozza. E’ possibile osservare come a lato sia collocato il panno carta. Il piano sottostante il vetro è bianco perchè l’artista non usa campiture sulle sue tele, bensì lavora direttamente sulla tela preparata in bianco. Il cavalletto sembra pensato per tenere tele di grandi dimensioni.
 
-![John Howard Sanden](https://www.disegnoepittura.it/wp-content/uploads/john-howard-sanden.jpg "John Howard Sanden")
+![John Howard Sanden]({{ site.baseurl }}/wp-content/uploads/john-howard-sanden.jpg "John Howard Sanden")
 
 Devo dire che guardando l’artista nei suoi video mi fa un pò sorridere perchè vedere un signore che insegna a dipingere in giacca e cravatta è fuori dal comune. Tra i materiali da lui utilizzati troviamo: olio di chiodi di garofano, vernice “Sphinx” da ritocco, vernice damar, fissativo, vernice da ritocco in spray, reggipolso, contenitore per 3 spatole di diversa misura, pennelli e poi la tavolozza dei colori. Come [pennelli](https://www.dickblick.com/products/john-howard-sanden-brush-sets/) utilizza pennelli di setola di diverse misure (2, 4, 6, 8, 10 e 12), pennelli a ventaglio di setola di diverse misure (2, 4 e 6), pennelli piatti in pelo di zibellino di diverse misure (2, 4, e 6),  pennelli tondi in pelo di zibellino di diverse misure (6, 8, e 12), pennelli a lingua di gatto in pelo di zibellino di diverse dimensioni (4, 6, 8, 10,e 12).
 
-![Promix Color System](https://www.disegnoepittura.it/wp-content/uploads/promix-color-system-tavolozza.png "Promix Color System")
+![Promix Color System]({{ site.baseurl }}/wp-content/uploads/promix-color-system-tavolozza.png "Promix Color System")
 
 Tra i materiali più interessanti dell’artista c’è la sua tavolozza denominata anche [Promix Color System](http://www.dickblick.com/products/john-howard-sanden-pro-mix-portrait-artists-oil-colors/). Sembra che nelle lezioni del suo insegnante Samuel Edmund Oppenheim, all’Art Students League di New York, questi faceva preparare dei colori di base da cui poi creare lo spettro dei colori necessari alla realizzazione del Ritratto. Successivamente Sanden chiese all’azienda [Martin/F. Weber Company di Philadelphia](http://www.weberart.com/) di produrre dei colori ad hoc per queste mescolanze sia per ridurre i tempi di esecuzione dei ritratti e sia per un discorso di accuratezza, cioè riuscire ad avere sempre le stesse mescolanze di partenza. La sua tavolozza prevede 13 colori standard: blu oltremare, blu ceruleo, verde smeraldo (viridian), verde ossido cromo, terra ombra naturale, terra ombra bruciata, terra di siena bruciata, arancio cadmio, nero avorio, bianco, rosso cadmio chiaro, giallo ocra e giallo cadmio chiaro. A questi colori poi l’artista aggiunge 10 colori premescolati per le tinte dell’incarnato. C’è da precisare che questi colori non vanno usati così come escono dal tubetto, bensì vanno mescolati tra loro o con altri colori della tavolozza per raggiungere i colori desiderati. Vediamo ora uno per uno questi colori e a cosa servono. Questi colori possono essere usati sia per incarnati caucasici che africani. L’idea è di avere 3 colori per l’incarnato in luce, due mezzitoni (uno freddo e l’altro caldo), e due scuri per le ombre. Volendo potete acquistare questi colori oppure mescolarli da voi perchè [l’artista fornisce la ricetta per ottenerli](http://www.portraitinstitute.com/premiercoup/colorsystem-intro.htm).
 
 **Light 1**
 
-![Light 1](https://www.disegnoepittura.it/wp-content/uploads/Light1.jpg "Light 1")
+![Light 1]({{ site.baseurl }}/wp-content/uploads/Light1.jpg "Light 1")
 
 Light 1 è il colore dell’incarnato nei punti di massima luce. Le stringhe di colore qui riportate sono divise in 3 parti: a sinistra il colore è più spesso, al centro è più sottile e a destra è mescolato con il bianco. Questo colore lo potete mescolare partendo dal colore bianco, poi aggiungete poco giallo ocra e una punta di rosso cadmio chiaro.
 
 **Light 2**
 
-![Light 2](https://www.disegnoepittura.it/wp-content/uploads/Light2.jpg "Light 2")
+![Light 2]({{ site.baseurl }}/wp-content/uploads/Light2.jpg "Light 2")
 
 E’ il color carne di base. Si parte dal colore Light 1 e si aggiunge alla miscela una punta di blu ceruleo. Come è possibile osservare, questa è la classica miscela dell’incarnato composta dal giallo ocra, rosso cadmio chiaro, bianco e blu. Il color carne rientra nella gamma degli aranci e da qui deriva la miscela di giallo ocra e rosso cadmio chiaro. Essendo però la miscela troppo scura viene schiarita con bianco, ed essendo troppo intensa viene  desaturata con il complementare dell’arancio, cioè il blu.
 
 **Light 3**
 
-![Light 3](https://www.disegnoepittura.it/wp-content/uploads/Light3.jpg "Light 3")
+![Light 3]({{ site.baseurl }}/wp-content/uploads/Light3.jpg "Light 3")
 
 Questa tinta è più scura e rossastra della tinta base (Light 2) e viene usata per le zone in luce più rosate. Alla miscela Light 2 l’artista aggiunge una punta di rosso cadmio chiaro e una punta di blu ceruleo.
 
 **Halftone 1**
 
-![Halftone 1](https://www.disegnoepittura.it/wp-content/uploads/Halftone1.jpg "Halftone 1")
+![Halftone 1]({{ site.baseurl }}/wp-content/uploads/Halftone1.jpg "Halftone 1")
 
 Questo è un mezzotono freddo usato per i piani che recedono. Per preparare questa tinta si parte dal bianco che verrà usata in quantità maggiore rispetto agli altri colori. Poi si aggiunge poco giallo ocra e una punta di rosso cadmio chiaro, cioè si mescolano 3 dei 4 colori usati per il color carne di base. A questa miscela si aggiunge verde smeraldo (ossia viridian da non confondere con emerald green). Alla fine otterrete un colore olivastro abbastanza freddo.
 
 **Halftone 2**
 
-![Halftone 2](https://www.disegnoepittura.it/wp-content/uploads/Halftone2.jpg "Halftone 2")
+![Halftone 2]({{ site.baseurl }}/wp-content/uploads/Halftone2.jpg "Halftone 2")
 
 Questo è un mezzotono caldo usato per le aree dove luce e ombra si incontrano. Per preparare questa miscela si parte dal bianco (che sarà sempre in quantità maggiore rispetto ad altri colori), poi giallo ocra e una punta di rosso cadmio. A questa miscela aggiungiano un tocco di verde ossido di cromo e un pò di arancio di cadmio.
 
 **Dark 1**
 
-![Dark 1](https://www.disegnoepittura.it/wp-content/uploads/Dark1.jpg "Dark 1")
+![Dark 1]({{ site.baseurl }}/wp-content/uploads/Dark1.jpg "Dark 1")
 
 Il primo dei colori scuri i ottiene mescolando terra di siena bruciata e viridian. Il colore deve essere in tonalità calda, quindi dovrebbe prevalere la terra di siena sul verde. I colori sono quasi opposti sulla ruota cromatica e quindi tendono ad annullarsi e formare un colore abbastanza neutro. Si aggiunge poi un tocco di arancio di cadmio per alzare leggermente il tono e rendere il colore più caldo. Questo è il colore principale per le aree in ombra. Per incarnati africani questo colore diventa il color carne di base.
 
 **Dark 2**
 
-![Dark 2](https://www.disegnoepittura.it/wp-content/uploads/Dark2.jpg "Dark 2")
+![Dark 2]({{ site.baseurl }}/wp-content/uploads/Dark2.jpg "Dark 2")
 
 Al colore dark 1 aggiungiamo altra terra di siena bruciata e viridian e meno arancio di cadmio, otterremo un’altra miscela da usare nelle zone d’ombra più scura della precedente.
 
 **Neutral 3**
 
-![Neutral 3](https://www.disegnoepittura.it/wp-content/uploads/Neutral3.jpg "Neutral 3")
+![Neutral 3]({{ site.baseurl }}/wp-content/uploads/Neutral3.jpg "Neutral 3")
 
-L’artista utilizza una scala tonale composta da 9 toni dove il tono 1 è il bianco e il tono 9 è il nero. Come si vede utilizza 2 toni in meno rispetto a Frank Reilly e la numerazione è invertita perchè i toni più scuri hanno valore più alto. Per produrre 9 toni l’artista ha bisogno di bianco e nero più 3 valori di grigio di [tono 3, 5 e 7 come spiegato già in altri articoli sul chiaroscuro](https://www.disegnoepittura.it/7-concetti-chiaroscuro/). Tutti e tre le tinte neutre sono realizzate con una miscela di bianco, nero e pochissimo giallo ocra.
+L’artista utilizza una scala tonale composta da 9 toni dove il tono 1 è il bianco e il tono 9 è il nero. Come si vede utilizza 2 toni in meno rispetto a Frank Reilly e la numerazione è invertita perchè i toni più scuri hanno valore più alto. Per produrre 9 toni l’artista ha bisogno di bianco e nero più 3 valori di grigio di [tono 3, 5 e 7 come spiegato già in altri articoli sul chiaroscuro]({{ site.baseurl }}/7-concetti-chiaroscuro/). Tutti e tre le tinte neutre sono realizzate con una miscela di bianco, nero e pochissimo giallo ocra.
 
 **Neutral 5**
 
-![Neutral 5](https://www.disegnoepittura.it/wp-content/uploads/Neutral5.jpg "Neutral 5")
+![Neutral 5]({{ site.baseurl }}/wp-content/uploads/Neutral5.jpg "Neutral 5")
 
 Per questo colore vale già quanto detto per Neutral 3. Esso è ottenuto da una miscela di bianco, nero e pochissimo giallo ocra.
 
 **Neutral 7**
 
-![Neutral 7](https://www.disegnoepittura.it/wp-content/uploads/Neutral7.jpg "Neutral 7")
+![Neutral 7]({{ site.baseurl }}/wp-content/uploads/Neutral7.jpg "Neutral 7")
 
 Per questo colore vale già quanto detto per Neutral 3. Esso è ottenuto da una miscela di bianco, nero e pochissimo giallo ocra.
 

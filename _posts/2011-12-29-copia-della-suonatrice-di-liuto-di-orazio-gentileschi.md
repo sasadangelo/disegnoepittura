@@ -6,7 +6,7 @@ tags: ['figura umana']
 layout: single
 ---
 
-![Copia della Suonatrice di Liuto di Orazio Gentileschi](https://www.disegnoepittura.it/wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg "Copia della Suonatrice di Liuto di Orazio Gentileschi")
+![Copia della Suonatrice di Liuto di Orazio Gentileschi]({{ site.baseurl }}/wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg "Copia della Suonatrice di Liuto di Orazio Gentileschi")
 
 Per dipingere questo quadro rispettando la tecnica, il modo di operare e di preparare i colori e gli attrezzi necessari più vicini a quelli dell’epoca, bisogna tener conto che, non essendo un soggetto  facile, il lavoro va programmato ed eseguito senza fretta. Sono tre fasi di lavoro:
 
@@ -14,7 +14,7 @@ Per dipingere questo quadro rispettando la tecnica, il modo di operare e di prep
 2. Abbozzo completo di tutto il soggetto con i suoi colori.
 3. Rifiniture e ritocchi.
 
-![Copia della Suonatrice di Liuto di Orazio Gentileschi](https://www.disegnoepittura.it/wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg "Copia della Suonatrice di Liuto di Orazio Gentileschi")
+![Copia della Suonatrice di Liuto di Orazio Gentileschi]({{ site.baseurl }}/wp-content/uploads/copia-suonatrice-liuto-orazio-gentileschi.jpg "Copia della Suonatrice di Liuto di Orazio Gentileschi")
 
 **La preparazione della tela**
 

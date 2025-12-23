@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![Ruben Belloso Adorna - Occhio](/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg "Ruben Belloso Adorna - Occhio")
+![Ruben Belloso Adorna - Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg "Ruben Belloso Adorna - Occhio")
 
 Lo scorso weekend ho partecipato al corso di pastello di 1° livello tenuto a Roma da Ruben Belloso Adorna.
 
@@ -35,19 +35,19 @@ Il corso prevede due livelli. Il primo livello può essere frequentato da tutti.
 
 Il 2° giorno come da programma Ruben mostra dal vivo l’esecuzione di un dettaglio del Ritratto. Ad esempio, nel nostro corso ha eseguito un occhio come mostrano le seguenti immagini.
 
-![Ruben Belloso Adorna - Esecuzione Occhio](/wp-content/uploads/ruben-belloso-adorna-occhio-1.jpg "Ruben Belloso Adorna - Esecuzione Occhio")
+![Ruben Belloso Adorna - Esecuzione Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-1.jpg "Ruben Belloso Adorna - Esecuzione Occhio")
 
 *Ruben nella sua dimostrazione di 1 ora al corso*
 
-![Ruben Belloso Adorna - Esecuzione Occhio](/wp-content/uploads/ruben-belloso-adorna-occhio-2.jpg "Ruben Belloso Adorna - Esecuzione Occhio")
+![Ruben Belloso Adorna - Esecuzione Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-2.jpg "Ruben Belloso Adorna - Esecuzione Occhio")
 
 *Ruben nella sua dimostrazione di 1 ora al corso*
 
-![Ruben Belloso Adorna - Esecuzione Occhio](/wp-content/uploads/ruben-belloso-adorna-occhio-3.jpg "Ruben Belloso Adorna - Esecuzione Occhio")
+![Ruben Belloso Adorna - Esecuzione Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-3.jpg "Ruben Belloso Adorna - Esecuzione Occhio")
 
 *Ruben nella sua dimostrazione di 1 ora al corso*
 
-![Ruben Belloso Adorna - Occhio](/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg "Ruben Belloso Adorna - Occhio")
+![Ruben Belloso Adorna - Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg "Ruben Belloso Adorna - Occhio")
 
 *L’occhio dipinto da Ruben al corso con i pastelli*
 
@@ -63,7 +63,7 @@ Il costo del corso è di 300 euro.
 
 Partecipare a questo corso mi ha dato la possibilità di conoscere tante persone che, come me, sono appassionate d’arte e si sono cimentate per la prima volta con questa tecnica. Ruben mi ha fatto notare che io e lui eravamo gli unici due uomini del gruppo. Ciò che mi ha sorpreso di più è scoprire che alcune di loro venivano da altre città  anche molto distanti da Roma. Ho scoperto, inoltre, che lavorare in gruppo aiuta tantissimo perchè puoi vedere il lavoro degli altri e, se ti piace qualcosa, chiedere consigli. Inoltre, poter chiacchierare con i compagni di corso rende l’esperienza piacevole e rilassante.
 
-![Allievi del Corso di Pastello](/wp-content/uploads/foto-gruppo-small.jpg "Allievi del Corso di Pastello")
+![Allievi del Corso di Pastello]({{ site.baseurl }}/wp-content/uploads/foto-gruppo-small.jpg "Allievi del Corso di Pastello")
 
 *Gli allievi del Corso di Pastello*
 
@@ -87,7 +87,7 @@ Anche se da sempre la mia tecnica preferita è l’olio avevo da tempo desiderio
 
 Il soggetto di studio ai corsi di Ruben è ovviamente il Ritratto. Prima che il corso cominci Ruben invia delle foto del soggetto da riprodurre. L’allievo dovrà stampare queste foto su fogli A4 e le utilizzerà come riferimento durante l’esecuzione del Ritratto. Al corso a cui ho partecipato abbiamo riprodotto il ritratto di Raffaele un senzatetto della città natale di Ruben fotografato da lui stesso. Questo è il risultato del mio primo lavoro a pastello. La parte destra della sciarpa non è ancora completa, ho preferito lasciarla incompleta piuttosto che correre rischiando di rovinare il Ritratto. Provvederò appena avrò tempo. Vi garantisco che prima di questo corso non riuscivo a fare nulla di sensato con i pastelli.
 
-![Ritratto di Raffaele - Corso di Ruben Belloso Adorna](/wp-content/uploads/Ritratto-di-Raffaele.jpg "Ritratto di Raffaele - Corso di Ruben Belloso Adorna")
+![Ritratto di Raffaele - Corso di Ruben Belloso Adorna]({{ site.baseurl }}/wp-content/uploads/Ritratto-di-Raffaele.jpg "Ritratto di Raffaele - Corso di Ruben Belloso Adorna")
 
 *Il mio Ritratto di Raffaele*
 
@@ -95,7 +95,7 @@ Il soggetto di studio ai corsi di Ruben è ovviamente il Ritratto. Prima che il 
 
 Credo di aver imparato più in questi 3 giorni di corso che in anni di studi pittorici sul web. Mi ha colpito molto l’approccio di Ruben alla pittura fatta di dedizione, passione, umiltà e disponibilità. Sono doti che non sempre si riesce a preservare quando si raggiungono determinati livelli. Ho imparato l’importanza di essere meticolosi e precisi fin dalle prime fasi di lavoro durante la preparazione della tavola. Mi ha colpito molto quanta attenzione Ruben dedichi già a questa fase. Ho imparato l’importanza della semplificazione. Quando si esegue un primo lavoro con il pastello (ma credo ciò sia vero per qualsiasi tecnica) non si può pretendere di riprodurre tutti i dettagli. Bisogna semplificare al massimo accennando solamente alcuni dettagli meno rilevanti. Veder lavorare Ruben mi ha confermato l’importanza dell’osservazione. Ruben ripeteva in continuazione di osservare con attenzione la foto. Mi ha colpito molto tutte le cose che Ruben mi faceva notare sulla foto su cui io spesso sorvolavo. Ho poi imparato come preparare al meglio la tavola, come usare i vari materiali e come approcciare al Ritratto modellando il viso. Credo che per un primo lavoro è difficile pretendere una resa fotorealistica, questo può venire solo con la pratica e facendo tanti Ritratti.
 
-![Ruben e Salvatore](/wp-content/uploads/ruben-sasa.jpg "Ruben e Salvatore")
+![Ruben e Salvatore]({{ site.baseurl }}/wp-content/uploads/ruben-sasa.jpg "Ruben e Salvatore")
 
 *Io e Ruben al Corso*
 

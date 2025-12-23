@@ -6,7 +6,7 @@ tags: ['corso pittura ad olio', 'materiali', 'pittura ad olio']
 layout: single
 ---
 
-![Terra di Siena Naturale](https://www.disegnoepittura.it/wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg "Terra di Siena Naturale")
+![Terra di Siena Naturale]({{ site.baseurl }}/wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg "Terra di Siena Naturale")
 
 Quando si comincia a dipingere a olio una delle difficoltà più grandi è la scelta dei colori da usare. In quest’articolo cercherò di chiarire quali sono i prodotti disponibili in commercio.
 
@@ -27,13 +27,13 @@ La Winsor & Newton offre:
 
 Ciascuna linea, a sua volta, contiene più colori dai nomi bizzarri come: rosso cadmio chiaro, giallo ocra e così via. Ci sono nomi di colori che forse oggi non ti dicono nulla ma che sono così di largo uso che con il tempo ti diverranno familiari. Ad esempio, nero avorio, bianco titanio, bianco di zinco, giallo cadmio chiaro, giallo ocra, giallo indiano, arancio cadmio, terra di siena bruciata, rosso cadmio chiaro, carminio d’alizarina, terra d’ombra naturale, terra d’ombra bruciata, viola diossazina, blu oltremare, blu cobalto, blu ceruleo, verde vescica e verde cadmio chiaro. Questi nomi li troverai in quasi tutte le linee di colori delle varie marche, ma attenzione due colori dallo stesso nome, di marche diverse, possono variare leggermente l’una dall’altro.
 
-![Blu Cobalto Maimeri e Winsor & Newton](/wp-content/uploads/blu-cobalto-maimeri-winsor-newton.jpg "Blu Cobalto Maimeri e Winsor & Newton")
+![Blu Cobalto Maimeri e Winsor & Newton]({{ site.baseurl }}/wp-content/uploads/blu-cobalto-maimeri-winsor-newton.jpg "Blu Cobalto Maimeri e Winsor & Newton")
 
 ## Qualità dei Colori a Olio
 
 Qualsiasi colore a olio è composto da uno o più pigmenti e un legante: l’olio. Le percentuali di olio e pigmenti determina il costo e la qualità del colore. All’aumentare del legante diminuisce la qualità e il costo, viceversa il contrario. Qualità e prezzo variano anche in funzione dei pigmenti usati, ci sono alcuni più costosi di altri. Molti colori delle linee più economiche (es. Maimeri Classico) non utilizzano pigmenti puri ma miscele di più pigmenti. Ad esempio,  il blu cobalto chiaro della linea Maimeri Classico è ottenuto mediante l’unione del pigmento del blu oltremare, del bianco di titanio e del bianco di zinco. Su ciascun tubetto di colore è scritta la lista dei pigmenti usati.
 
-![Terra di Siena Naturale](/wp-content/uploads/tubetto-colore-maimeri-pigmenti.jpg "Terra di Siena Naturale")
+![Terra di Siena Naturale]({{ site.baseurl }}/wp-content/uploads/tubetto-colore-maimeri-pigmenti.jpg "Terra di Siena Naturale")
 
 Sul tubetto del colore è presente anche un quadratino che indica il suo grado di trasparenza. Il quadratino può essere bianco, nero o entrambi. Nel primo caso il colore è trasparente, nel secondo è opaco, nel terzo è semi opaco.
 

@@ -6,13 +6,13 @@ tags: ['paesaggi', 'prospettiva aerea']
 layout: single
 ---
 
-![aerial-perspective](https://www.disegnoepittura.it/wp-content/uploads/aerial-perspective.jpg "aerial-perspective")
+![aerial-perspective]({{ site.baseurl }}/wp-content/uploads/aerial-perspective.jpg "aerial-perspective")
 
-I tuoi paesaggi sono piatti e privi di profondità? Una delle cause frequenti di questo problema è la non conoscenza della prospettiva aerea. Dopo aver spiegato che cos’è la [prospettiva aerea](https://www.disegnoepittura.it/prospettiva-aerea/) e aver mostrato un esempio di [come l”atmosfera influenza i colori di un paesaggio](https://www.disegnoepittura.it/prospettiva-aerea-pratica/), in quest’articolo spiegherò  come simulare praticamente la prospettiva aerea con una tecnica semplicissima.
+I tuoi paesaggi sono piatti e privi di profondità? Una delle cause frequenti di questo problema è la non conoscenza della prospettiva aerea. Dopo aver spiegato che cos’è la [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/) e aver mostrato un esempio di [come l”atmosfera influenza i colori di un paesaggio]({{ site.baseurl }}/prospettiva-aerea-pratica/), in quest’articolo spiegherò  come simulare praticamente la prospettiva aerea con una tecnica semplicissima.
 
 Si consideri la seguente figura. In alto c’è il colore dell’atmosfera o del cielo, che io ho realizzato mediante la combinazione di blu cobalto e bianco, ma potete scegliere quella più adatta al vostro dipinto. In basso, invece, c’è il colore dell’oggetto che si vuole dipingere nei diversi gradi di profondità. Ho scelto come colore la terra di siena bruciata, il colore di un’ipotetica roccia. Al centro, ho rappresentato il colore della roccia nei diversi gradi di distanza.
 
-![](https://www.disegnoepittura.it/wp-content/uploads/aerial-perspective.jpg)
+![]({{ site.baseurl }}/wp-content/uploads/aerial-perspective.jpg)
 
 Per dipingere più oggetti simili (come ad esempio rocce o montagne) nelle varie distanze, si parte sempre da quella più lontana per arrivare poco per volta al primo piano.
 
@@ -28,4 +28,4 @@ Volendo è possibile fare anche l’inverso, ossia partire mescolando il colore 
 
 In entrambi i casi, però, è’ fondamentale che per ogni mistione non si ricominci mai daccapo, bensì si riparte sempre dal colore precedentemente mescolato. Questo conferisce unità e armonia al dipinto.
 
-*Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/prospettiva/ "La Prospettiva").*
+*Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/prospettiva/ "La Prospettiva").*

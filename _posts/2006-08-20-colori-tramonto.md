@@ -6,13 +6,13 @@ tags: ['paesaggi']
 layout: single
 ---
 
-![sunset31](https://www.disegnoepittura.it/wp-content/uploads/sunset31.jpg "sunset31")
+![sunset31]({{ site.baseurl }}/wp-content/uploads/sunset31.jpg "sunset31")
 
-Su questo blog, in diverse occasioni, abbiamo parlato di [prospettiva aerea](https://www.disegnoepittura.it/prospettiva-aerea/). Con quest’articolo vogliamo fare un ulteriore passo avanti discutendo anche di cosa accade al tramonto.
+Su questo blog, in diverse occasioni, abbiamo parlato di [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/). Con quest’articolo vogliamo fare un ulteriore passo avanti discutendo anche di cosa accade al tramonto.
 
 Consideriamo un osservatore sulla terra che osserva l’orizzonte. Il suo cono visuale è, ovviamente, limitato. Tutto quello che vede, viene proiettato su un piano di proiezione. L’osservatore, così come ogni cosa sulla terra è avvolto dall’atmosfera. Possiamo immaginare, quindi, che tra lui è l’orizzonte ci siano veli di atmosfera. Come si può verificare nella parte alta del suo cono visuale, ci sono meno veli di atmosfera rispetto all’orizzonte. Questo comporta che a parità di distanza gli oggetti posti più in alto (es. cime montagne) sono più scure rispetto alla base.
 
-![colori tramonto](https://www.disegnoepittura.it/wp-content/uploads/conovisuale.jpg "colori tramonto")
+![colori tramonto]({{ site.baseurl }}/wp-content/uploads/conovisuale.jpg "colori tramonto")
 
 Quanto detto sopra, vale anche per il cielo. Chi sa dipingere un cielo basilare sa che esso deve essere più azzurro in alto e più chiaro verso l’orizzonte.
 
@@ -26,7 +26,7 @@ Se nel nostro paesaggio c’è il mare, questi riflette molto i colori dell’at
 
 In alto il cielo è un rosso/blu. Man mano che ci avvicina all’orizzonte il cielo è più chiaro e blu. Per il mare vale un discorso analogo, solo che il colore è più scuro. Nel primo piano, quando il colore della sabbia si mischia con quello del mare un velo verde si aggiunge.
 
-![background](https://www.disegnoepittura.it/wp-content/uploads/background.jpg "background")
+![background]({{ site.baseurl }}/wp-content/uploads/background.jpg "background")
 
 *Foto da <http://www.wetcanvas.com/ArtSchool/Hagan/menu.htm>*
 
@@ -34,7 +34,7 @@ Se collochiamo 2 oggetti identici nella nostra scena, come ad esempio due navi, 
 
 Come già detto più volte nel blog per colorare la seconda nave si utilizzano gli stessi colori usati per la prima ma mischiati con il colore usato per l’atmosfera.
 
-![background-ships](https://www.disegnoepittura.it/wp-content/uploads/background-ships.jpg "background-ships")
+![background-ships]({{ site.baseurl }}/wp-content/uploads/background-ships.jpg "background-ships")
 
 *Foto da <http://www.wetcanvas.com/ArtSchool/Hagan/menu.htm>*
 
@@ -48,13 +48,13 @@ Ricapitolando possiamo dire che quando il sole è basso i suoi raggi attraversan
 
 All’orizzonte la componente rossa è molto forte. Man mano che si sale ritroviamo il gradiente dei colori dell’arcobaleno arancio, giallo, verde, blu, viola.
 
-![sunset](https://www.disegnoepittura.it/wp-content/uploads/sunset.jpg "sunset")
+![sunset]({{ site.baseurl }}/wp-content/uploads/sunset.jpg "sunset")
 
 *Foto da <http://www.wetcanvas.com/ArtSchool/Hagan/menu.htm>*
 
 Se nella scena c’è anche il mare, questi colori li ritroviamo anche in esso.
 
-![sunset31](https://www.disegnoepittura.it/wp-content/uploads/sunset31.jpg "sunset31")
+![sunset31]({{ site.baseurl }}/wp-content/uploads/sunset31.jpg "sunset31")
 
 *Foto da <http://www.wetcanvas.com/ArtSchool/Hagan/menu.htm>*
 

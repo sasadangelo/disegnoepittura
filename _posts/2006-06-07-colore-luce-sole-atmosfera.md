@@ -6,7 +6,7 @@ tags: ['mescolare i colori', 'prospettiva aerea']
 layout: single
 ---
 
-Non ricordo se è stato Seurat a dire: “un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso”. Allo stesso modo la pensa sicuramente [John E. Robinson](https://www.disegnoepittura.it/dipingere-mare-lezioni-artista-john-robinson/) che sostiene che un quadro è un susseguirsi di decisioni (compositive, tonali, colorimetriche, ecc.).
+Non ricordo se è stato Seurat a dire: “un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso”. Allo stesso modo la pensa sicuramente [John E. Robinson]({{ site.baseurl }}/dipingere-mare-lezioni-artista-john-robinson/) che sostiene che un quadro è un susseguirsi di decisioni (compositive, tonali, colorimetriche, ecc.).
 
 Quando si dipinge un paesaggio o una marina, tra le tante decisioni da prendere sicuramente ci sono le seguenti:
 
@@ -23,7 +23,7 @@ Supponiamo, inoltre, di aver deciso che il paesaggio è ritratto di estate verso
 
 * colore sole=giallo limone + bianco
 
-Nell’articolo [Coloriamo una palla rossa su un tavolo ocra](https://www.disegnoepittura.it/coloriamo-palla-rossa-tavolo-ocra/) abbiamo visto i criteri necessari per dipingere un oggetto illuminato. E’ ovvio che la zona illuminata deve essere dipinta con un colore ottenuto dalla mistione del
+Nell’articolo [Coloriamo una palla rossa su un tavolo ocra]({{ site.baseurl }}/coloriamo-palla-rossa-tavolo-ocra/) abbiamo visto i criteri necessari per dipingere un oggetto illuminato. E’ ovvio che la zona illuminata deve essere dipinta con un colore ottenuto dalla mistione del
 
 * colore locale dell’oggetto + colore sole.
 

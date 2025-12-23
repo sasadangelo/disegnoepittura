@@ -6,11 +6,11 @@ tags: ['mescolare i colori']
 layout: single
 ---
 
-![Limone](https://www.disegnoepittura.it/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg "Limone")
+![Limone]({{ site.baseurl }}/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg "Limone")
 
-[Nell’articolo sul colore](https://www.disegnoepittura.it/colore/) abbiamo definito che cos’è il colore e abbiamo sottolineato la sua natura tridimensionale. Abbiamo visto, verso la fine dell’articolo, che per comprendere il colore di un oggetto bisogna porsi sempre 4 domande.
+[Nell’articolo sul colore]({{ site.baseurl }}/colore/) abbiamo definito che cos’è il colore e abbiamo sottolineato la sua natura tridimensionale. Abbiamo visto, verso la fine dell’articolo, che per comprendere il colore di un oggetto bisogna porsi sempre 4 domande.
 
-![Limone](https://www.disegnoepittura.it/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg "Limone")
+![Limone]({{ site.baseurl }}/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg "Limone")
 
 In figura potete osservare un limone poggiato su un tavolo con uno sfondo neutro. Di che colore sono il limone, il tavolo e lo sfondo? Se non vi siete posti le domande di sopra sicuramente avete risposto: il limone è giallo, il tavolo è marrone chiaro mentre lo sfondo è marrone scuro. I termini “giallo” e “marrone”, però, sono termini molto vaghi che non ci aiutano ad identificare la vera natura dei tre colori.
 
@@ -24,4 +24,4 @@ Il tavolo è arancio, il suo tono e il suo grado di saturazione sono medi. Un pi
 
 Lo sfondo è giallo, il tono è scuro e il grado di saturazione è basso. Un pigmento che ha queste caratteristiche è la terra d’ombra bruciata.
 
-Nell’articolo [Classificazione dei Pigmenti](https://www.disegnoepittura.it/classificazione-pigmenti/ "Classificazione dei Pigmenti") abbiamo individuato alcuni colori molto comuni venduti in commercio e, per ciascuno di esso, abbiamo identificato la gamma di appartenenza, il valore, il tono e la saturazione.
+Nell’articolo [Classificazione dei Pigmenti]({{ site.baseurl }}/classificazione-pigmenti/ "Classificazione dei Pigmenti") abbiamo individuato alcuni colori molto comuni venduti in commercio e, per ciascuno di esso, abbiamo identificato la gamma di appartenenza, il valore, il tono e la saturazione.

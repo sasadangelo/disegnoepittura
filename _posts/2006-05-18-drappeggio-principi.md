@@ -6,9 +6,9 @@ tags: ['figura umana']
 layout: single
 ---
 
-![medium_convex2](/wp-content/uploads/medium_convex2.jpg "medium_convex2")
+![medium_convex2]({{ site.baseurl }}/wp-content/uploads/medium_convex2.jpg "medium_convex2")
 
-Nel Rinascimento il drappeggio era una vera e propria disciplina. Leonardo ha dedicato un capitolo ad essa nel suo Trattato della Pittura, Hogarth Burne gli ha addirittura dedicato il libro [Come Disegnare la Figura Vestita](https://www.disegnoepittura.it/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/ "Come Disegnare la Figura Vestita"). Un abito deve essere rappresentato non come un’entità a parte, bensì come parte della persona che lo indossa. Per ottenere ciò, importante è la conoscenza dei [punti di ancoraggio](https://www.disegnoepittura.it/come-disegnare-drappeggio-vestiti-figura-umana-punti-dove-formano-sistemi-pieghe/ "Punti di Ancoraggio"), dei [movimenti che generano le pieghe](https://www.disegnoepittura.it/come-disegnare-drappeggio-vestiti-figura-umana-punti-dove-formano-sistemi-pieghe/ "Movimenti che generano le pieghe") e altri concetti di cui parleremo presto. Un’altra sfida è quella di far apparire le pieghe in modo tale che alcune sembrano andare verso l’interno ed altre verso l’esterno seguendo un motivo convincente.
+Nel Rinascimento il drappeggio era una vera e propria disciplina. Leonardo ha dedicato un capitolo ad essa nel suo Trattato della Pittura, Hogarth Burne gli ha addirittura dedicato il libro [Come Disegnare la Figura Vestita]({{ site.baseurl }}/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/ "Come Disegnare la Figura Vestita"). Un abito deve essere rappresentato non come un’entità a parte, bensì come parte della persona che lo indossa. Per ottenere ciò, importante è la conoscenza dei [punti di ancoraggio]({{ site.baseurl }}/come-disegnare-drappeggio-vestiti-figura-umana-punti-dove-formano-sistemi-pieghe/ "Punti di Ancoraggio"), dei [movimenti che generano le pieghe]({{ site.baseurl }}/come-disegnare-drappeggio-vestiti-figura-umana-punti-dove-formano-sistemi-pieghe/ "Movimenti che generano le pieghe") e altri concetti di cui parleremo presto. Un’altra sfida è quella di far apparire le pieghe in modo tale che alcune sembrano andare verso l’interno ed altre verso l’esterno seguendo un motivo convincente.
 
 Oggi voglio elencarvi alcuni principi base per ottenere tali effetti.
 

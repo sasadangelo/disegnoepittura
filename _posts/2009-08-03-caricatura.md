@@ -6,7 +6,7 @@ tags: ['caricatura']
 layout: single
 ---
 
-![caricatura](/wp-content/uploads/caricatura-obama.JPG "caricatura")
+![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-obama.JPG "caricatura")
 
 Questo è l’articolo di introduzione del [corso per disegnare una caricatura](/corso-disegnare-una-caricatura/ "Corso per Disegnare una Caricatura").
 

@@ -6,9 +6,9 @@ tags: ['fumetto']
 layout: single
 ---
 
-![topolino](https://www.disegnoepittura.it/wp-content/uploads/topolino.jpg "topolino")
+![topolino]({{ site.baseurl }}/wp-content/uploads/topolino.jpg "topolino")
 
-Dopo aver introdotto e spiegato cos’è un [fumetto](https://www.disegnoepittura.it/fumetto/) e quali sono [le fasi per la sua realizzazione](https://www.disegnoepittura.it/fasi-fumetto/) in quest’articolo vorrei riportare un ipotetico scenario di realizzazione di un fumetto ispirandomi ad un articolo letto su [www.fumetto.org](https://www.fumetto.org).
+Dopo aver introdotto e spiegato cos’è un [fumetto]({{ site.baseurl }}/fumetto/) e quali sono [le fasi per la sua realizzazione]({{ site.baseurl }}/fasi-fumetto/) in quest’articolo vorrei riportare un ipotetico scenario di realizzazione di un fumetto ispirandomi ad un articolo letto su [www.fumetto.org](https://www.fumetto.org).
 
 1. L’editore decide di creare una nuova pubblicazione che può essere composto da una o più storie. Nomina un direttore che la dirigerà. Il direttore a sua volta creerà il suo staff. Non è obiettivo di quest’articolo capire quali sono le figure che compongono tale staff.
 2. Il direttore decide così che va scritta una storia a fumetti ed incarica lo sceneggiatore di creare il soggetto.

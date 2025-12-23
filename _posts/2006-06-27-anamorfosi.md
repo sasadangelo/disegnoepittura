@@ -23,25 +23,25 @@ L’anamorfosi è la deformazione di un immagine secondo regole prospettiche ben
 
 Per avere un’idea di cosa sto dicendo, osservate le seguenti immagini che riproducono opere di [Julian Beever](http://www.julianbeever.net "Julian Beever") realizzate tutte per strada:
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-1.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-1.jpg "Anamorfosi di Julian Beever")
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-2.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-2.jpg "Anamorfosi di Julian Beever")
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-3.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-3.jpg "Anamorfosi di Julian Beever")
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-4.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-4.jpg "Anamorfosi di Julian Beever")
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-5.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-5.jpg "Anamorfosi di Julian Beever")
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-6.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-6.jpg "Anamorfosi di Julian Beever")
 
-![Anamorfosi di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-7.jpg "Anamorfosi di Julian Beever")
+![Anamorfosi di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-7.jpg "Anamorfosi di Julian Beever")
 
-![Immagine Anamorfica di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-8.jpg "Immagine Anamorfica di Julian Beever")
+![Immagine Anamorfica di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-8.jpg "Immagine Anamorfica di Julian Beever")
 
-![Immagine Anamorfica di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-9.jpg "Immagine Anamorfica di Julian Beever")
+![Immagine Anamorfica di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-9.jpg "Immagine Anamorfica di Julian Beever")
 
-![Immagine Anamorfica di Julian Beever](/wp-content/uploads/anamorfosi-julian-beever-10.jpg "Immagine Anamorfica di Julian Beever")
+![Immagine Anamorfica di Julian Beever]({{ site.baseurl }}/wp-content/uploads/anamorfosi-julian-beever-10.jpg "Immagine Anamorfica di Julian Beever")
 
 *Foto di Julian Beever*
 

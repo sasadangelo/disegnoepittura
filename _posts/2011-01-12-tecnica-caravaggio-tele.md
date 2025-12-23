@@ -6,9 +6,9 @@ tags: ['pittura ad olio']
 layout: single
 ---
 
-![La tecnica di Caravaggio](https://www.disegnoepittura.it/wp-content/uploads/caravaggio-tecnica-tele.jpg "La tecnica di Caravaggio")
+![La tecnica di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-tecnica-tele.jpg "La tecnica di Caravaggio")
 
-Quest’articolo è il primo di una serie in cui analizzeremo la [Tecnica di Caravaggio](https://www.disegnoepittura.it/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Si partirà da fonti storiche e da documenti di restauro per ricostruire quelli che, probabilmente, sono stati i materiali e la tecnica utilizzata dall’artista per realizzare i suoi dipinti. Vedremo che sia la tecnica che i materiali utilizzati hanno subito delle variazioni nei diversi periodi di vita dell’artista (periodo romano, periodo napoletano, periodo siciliano e periodo maltese). Oltre all’aspetto storico, però, cercheremo di capire anche come è possibile utilizzare la stessa tecnica con i materiali che oggi abbiamo a disposizione.
+Quest’articolo è il primo di una serie in cui analizzeremo la [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Si partirà da fonti storiche e da documenti di restauro per ricostruire quelli che, probabilmente, sono stati i materiali e la tecnica utilizzata dall’artista per realizzare i suoi dipinti. Vedremo che sia la tecnica che i materiali utilizzati hanno subito delle variazioni nei diversi periodi di vita dell’artista (periodo romano, periodo napoletano, periodo siciliano e periodo maltese). Oltre all’aspetto storico, però, cercheremo di capire anche come è possibile utilizzare la stessa tecnica con i materiali che oggi abbiamo a disposizione.
 
 ## Quali tele utilizzava Caravaggio?
 
@@ -18,11 +18,11 @@ Quando parlo di tele non intendo quelle già pronte all’uso che acquistiamo og
 
 > prevede  un intreccio semplice, nel quale tutti i fili di ordito dispari si alzano al passaggio delle trame dispari, e tutti gli orditi pari al passaggio delle trame pari. Il rapporto è 1:1, cioè 2.
 
-![Armatura Tela](https://www.disegnoepittura.it/wp-content/uploads/armatura-tela.png "Armatura Tela")
+![Armatura Tela]({{ site.baseurl }}/wp-content/uploads/armatura-tela.png "Armatura Tela")
 
 I fili di ordito sono i fili verticali, mentre i fili di trama sono quelli orizzontali. Questo tipo di armatura conferisce al tessuto maggiore rigidità e resistenza. Tele con armature di questo tipo sono state utilizzate nella [Buona Ventura](https://it.wikipedia.org/wiki/Buona_ventura_%28Caravaggio_Roma%29 "Buona Ventura"), [Conversione Maddalena](https://it.wikipedia.org/wiki/Marta_e_Maria_Maddalena "Conversione Maddalena") e nel [Ragazzo morso da un ramarro](https://it.wikipedia.org/wiki/Ragazzo_morso_da_un_ramarro "Ragazzo morso da un ramarro").
 
-![Armatura Saia](https://www.disegnoepittura.it/wp-content/uploads/armatura-saia.png "Armatura Saia")
+![Armatura Saia]({{ site.baseurl }}/wp-content/uploads/armatura-saia.png "Armatura Saia")
 
 Esiste poi una variante di tale armatura detta [“olona” o “saia”](https://it.wikipedia.org/wiki/Saia "Olona o Saia") dove:
 
@@ -34,7 +34,7 @@ Esiste un terzo tipo di armatura detto “tovagliato” utilizzato nel [Bacco de
 
 Quindi, quelle che chiamiamo con il termine “tele” sono essenzialmente dei tessuti di lino o canapa intrecciati mediante un’armatura di tipo “tela normale” o le sue varianti tra cui l’ “olona” o “saia”. Un’altra caratteristiche delle tele, oltre al tessuto e l’armatura, è la densità di trama che può essere di varia natura: 12×16 fili al cm^2, 5×5 fili al cm^2 e così via. Per raggiungere le dimensioni desiderate, spesso queste tele grezze venivano cucite tra loro prima di montarli su telai. Poichè le cuciture rappresentavano un punto debole per il dipinto spesso l’artista adattava la composizione alle cuciture. Ad esempio, nell’Adorazione dei Pastori di Messina lo spigolo della capanna segue il profilo di una cucitura. Un altro motivo per cui spesso si richiedeva il ricorso alla cucitura è che un lato delle tele raggiungeva al più la lunghezza di 120 cm che era la lunghezza massima dei bracci dei telai usati per realizzare le stoffe.
 
-![Cuciture Adorazione dei Pastori](https://www.disegnoepittura.it/wp-content/uploads/adorazione-pastori-caravaggio-cuciture.jpg "Cuciture Adorazione dei Pastori")
+![Cuciture Adorazione dei Pastori]({{ site.baseurl }}/wp-content/uploads/adorazione-pastori-caravaggio-cuciture.jpg "Cuciture Adorazione dei Pastori")
 
 Se vi incuriosisce il tema delle cuciture, in questo [documento](http://robertalapucci.com/pdf/1994.pdf) troverete l’analisi di alcune opere con il diagramma delle cuciture.
 
@@ -51,6 +51,6 @@ Quando si acquista una tela grezza in un negozio di belle arti, tra i parametri 
 
 Stando così le cose è evidente che oggi è possibile riprodurre qualsiasi opera di Caravaggio senza necessità di cuciture e scegliendo, possibilmente, il tessuto di lino.
 
-*Hai letto i restanti articoli della serie Tecnica di Caravaggio? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/tecnica-di-caravaggio/ "Tecnica di Caravaggio").*
+*Hai letto i restanti articoli della serie Tecnica di Caravaggio? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio").*
 
-**Fonti:** [Roberta Lapucci](http://www.robertalapucci.com/), [How to paint like old masters](https://www.disegnoepittura.it/how-paint-like-old-masters/)
+**Fonti:** [Roberta Lapucci](http://www.robertalapucci.com/), [How to paint like old masters]({{ site.baseurl }}/how-paint-like-old-masters/)

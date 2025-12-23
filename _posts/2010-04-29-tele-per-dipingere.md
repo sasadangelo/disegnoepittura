@@ -6,11 +6,11 @@ tags: ['materiali', 'pittura ad olio']
 layout: single
 ---
 
-![Tele per dipingere](https://www.disegnoepittura.it/wp-content/uploads/Fig-1-Tela-100.jpg)
+![Tele per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela-100.jpg)
 
 Il supporto per dipingere a olio per eccellenza è la tela che puoi acquistare in un negozio di Belle Arti o su Internet già montata su un telaio.
 
-![Tela per dipingere](https://www.disegnoepittura.it/wp-content/uploads/Fig-1-Tela.jpg "Tela per dipingere")
+![Tela per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela.jpg "Tela per dipingere")
 
 Oltre alla tela, però, i supporti su cui è possibile dipingere a olio sono:
 
@@ -23,19 +23,19 @@ Oltre alla tela, però, i supporti su cui è possibile dipingere a olio sono:
 
 Il cartone telato è forse l’ideale per il principiante perché costa poco. In pratica si tratta di una tela incollata su un cartone già preparata con un’imprimitura bianca universale. Lo svantaggio di questo supporto è che tende a curvarsi con facilità, soprattutto con misure oltre il 50×70.
 
-![Cartone Telato](https://www.disegnoepittura.it/wp-content/uploads/Fig-2-Cartone-Telato.jpg "Cartone Telato")
+![Cartone Telato]({{ site.baseurl }}/wp-content/uploads/Fig-2-Cartone-Telato.jpg "Cartone Telato")
 
 Il pannello telato è simile al cartone telato con l’unica differenza che la tela è incollata su legno anziché su cartone. Costa un pochino in più ma non s’incurva facilmente come il cartone. Con dimensioni oltre il 50×70 comincia a diventare troppo pesante.
 
-![Pannello Telato](https://www.disegnoepittura.it/wp-content/uploads/Fig-3-Pannello-Telato.jpg "Pannello Telato")
+![Pannello Telato]({{ site.baseurl }}/wp-content/uploads/Fig-3-Pannello-Telato.jpg "Pannello Telato")
 
 I fogli per pittura a olio si vendono in blocchi da dieci o venti. Dovrebbero essere ideali per studi e prove, ma a mio avviso sono assolutamente da sconsigliare per via dell’eccessiva assorbenza del supporto.
 
-![Fogli per Pittura ad Olio](https://www.disegnoepittura.it/wp-content/uploads/Fig-4-Fogli-Pittura-Olio.jpg "Fogli per Pittura ad Olio")
+![Fogli per Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/Fig-4-Fogli-Pittura-Olio.jpg "Fogli per Pittura ad Olio")
 
 Infine, è possibile acquistare pannelli di legno (es. Pioppo) o MDF in falegnameria e preparare poi il supporto per dipingerci sopra. Per fare ciò basta impermeabilizzarlo con acqua e colla vinavil [come spiego nella parte finale di quest’articolo](/come-fare-imprimitura-tela/). Questi supporti, come il pannello telato, tendono a diventare troppo pesanti con misure superiori a 50×70.
 
-![Pannelli MDF](https://www.disegnoepittura.it/wp-content/uploads/Fig-5-Pannelli-MDF.jpg "Pannelli MDF")
+![Pannelli MDF]({{ site.baseurl }}/wp-content/uploads/Fig-5-Pannelli-MDF.jpg "Pannelli MDF")
 
 ## I Tipi di Tele
 
@@ -54,4 +54,4 @@ Le tele, sono vendute in commercio in formato grezzo o con un’imprimitura univ
 
 Per verificare l’assorbenza di una tela bianca già pronta traccio in un angolino una piccola linea con un pennino e inchiostro di china, se la linea si espande allora la tela è troppo assorbente e necessità di un’ulteriore [preparazione come spiego qua](/come-fare-imprimitura-tela/).
 
-*Leggi gli altri articoli della serie [Materiali per pittura a olio](https://www.disegnoepittura.it/materiali-per-pittura-ad-olio/ "Materiali per pittura ad olio").*
+*Leggi gli altri articoli della serie [Materiali per pittura a olio]({{ site.baseurl }}/materiali-per-pittura-ad-olio/ "Materiali per pittura ad olio").*

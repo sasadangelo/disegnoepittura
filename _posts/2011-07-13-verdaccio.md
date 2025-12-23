@@ -6,7 +6,7 @@ tags: ['chiaroscuro', 'ritratto']
 layout: single
 ---
 
-![verdaccio](https://www.disegnoepittura.it/wp-content/uploads/verdaccio.jpg "verdaccio")
+![verdaccio]({{ site.baseurl }}/wp-content/uploads/verdaccio.jpg "verdaccio")
 
 Che cos’è il verdaccio? Come può aiutarti questo colore  realizzare ritratti più realistici? Lo sapevi che il verdaccio era un colore fondamentale per gli artisti del Pre Rinascimento come Giotto e del Rinascimento come Leonardo, Michelangelo e Raffaello?
 
@@ -42,4 +42,4 @@ Dopo il disegno con un pennello di setole grosse e con della terra verde liquido
 
 Visto che l’obiettivo dell’articolo era il verdaccio non andrò oltre con l’analisi del testo di Cennini ,sperando di aver chiarito, una volta per tutte, che cos’è il verdaccio, come lo si mescola e come lo si utilizza per dipingere un viso. La fonte mi sembra autorevolissima.
 
-L’underpainting in verdaccio è l’equivalente della [grisaglia della pittura fiamminga](https://www.disegnoepittura.it/dipingere-rubens-vermeer-rembrandt-4/) e veniva usato in prevalenza per la resa degli incarnati. Tracce dell’uso del verdaccio sono visibili in alcune opere incompiute di Leonardo, in molte decorazioni della Cappella Sistina e tante altre opere.
+L’underpainting in verdaccio è l’equivalente della [grisaglia della pittura fiamminga]({{ site.baseurl }}/dipingere-rubens-vermeer-rembrandt-4/) e veniva usato in prevalenza per la resa degli incarnati. Tracce dell’uso del verdaccio sono visibili in alcune opere incompiute di Leonardo, in molte decorazioni della Cappella Sistina e tante altre opere.

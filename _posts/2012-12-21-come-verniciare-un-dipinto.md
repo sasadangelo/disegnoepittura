@@ -6,7 +6,7 @@ tags: ['pittura ad olio']
 layout: single
 ---
 
-![Verniciare un dipinto - seconda mano](/wp-content/uploads/vernice-finale-stesura-2.jpg "Verniciare un dipinto - seconda mano")
+![Verniciare un dipinto - seconda mano]({{ site.baseurl }}/wp-content/uploads/vernice-finale-stesura-2.jpg "Verniciare un dipinto - seconda mano")
 
 Come verniciare un dipinto?
 
@@ -48,18 +48,18 @@ Su questo tema discute anche Bouvier nel suo manuale (pag. 282) continuando la f
 
 ## Come si vernicia un quadro?
 
-A questa domanda ho già parzialmente [risposto in quest’articolo](https://www.disegnoepittura.it/vernice-finale-dipinto/). Vorrei aggiungere, però, in questa sede qualche ulteriore dettaglio che credo ti tornerà utile.
+A questa domanda ho già parzialmente [risposto in quest’articolo]({{ site.baseurl }}/vernice-finale-dipinto/). Vorrei aggiungere, però, in questa sede qualche ulteriore dettaglio che credo ti tornerà utile.
 
 1. Finito un dipinto è necessario riporlo in un luogo asciutto ed esposto alla luce. Quando riponiamo il dipinto non appoggiarlo mai rivolto con l’interno ad una parete. Se si dispone di un cavalletto che non si usa, il miglior sistema è appoggiarlo su di esso. I primi giorni è conveniente rivolgerlo in avanti così che il colore non attragga troppe particelle di polvere che girano nell’atmosfera. Dopo una ventina di giorni, quando ormai il dipinto è già apparentemente asciutto lo si può mettere perpendicolare o un po’ rivolto verso l’alto affinché prenda più luce e asciughi più rapidamente.
 2. Trascorsi almeno 6 mesi bisogna prima pulire il dipinto da eventuali residui di polvere. Per tale scopo può essere conveniente usare una lama di rasoio tenuta perpendicolarmente al dipinto e con tocco leggero su tutto il dipinto. Per esperienza diretta posso assicurarvi che questa pratica non comprometterà il vostro dipinto. Chi ha avuto la possibilità di leggere un tutorial o vedere un video di Alexei Antonov avrà avuto modo di vedere utilizzare questo strumento anche durante la fase di oliatura tra una fase di colorazione e la successiva.
 3. Con una [patata bisogna poi sgrassare il dipinto](/tecniche-di-pittura-ad-olio-patata/). Questa pratica consentirà alla vernice di aderire meglio al dipinto.
-4. Si lavi poi la superficie del dipinto con acqua pulita e si pulisca con uno straccio come [mostrato qui](/tecniche-di-pittura-ad-olio-patata/). L’umidità è una nemica della verniciatura, quindi bisogna far asciugare bene il dipinto per un giorno esponendolo al sole.  
-   ![Lavatura di un dipinto prima della Verniciatura](/wp-content/uploads/vernice-finale-lavatura.jpg "Lavatura di un dipinto prima della Verniciatura")
+4. Si lavi poi la superficie del dipinto con acqua pulita e si pulisca con uno straccio come [mostrato qui](/tecniche-di-pittura-ad-olio-patata/). L’umidità è una nemica della verniciatura, quindi bisogna far asciugare bene il dipinto per un giorno esponendolo al sole.
+   ![Lavatura di un dipinto prima della Verniciatura]({{ site.baseurl }}/wp-content/uploads/vernice-finale-lavatura.jpg "Lavatura di un dipinto prima della Verniciatura")
 5. Prendi un pennello piatto e largo (es. 12, 14 o 16) e intingilo nella vernice. Non prenderne troppa.
-6. Stendere una prima mano in senso verticale (o orizzontale). Lasciare asciugare.  
-   ![Verniciare un dipinto - prima mano](/wp-content/uploads/vernice-finale-stesura-1.jpg "Verniciare un dipinto - prima mano")
-7. Stendere una seconda mano in verso opposto. Con lo stesso pennello, senza intingerlo nella vernice passalo sul dipinto in senso orizzontale o verticale. E’ consigliabile scegliere il verso in base al soggetto. Per un Paesaggio è conveniente che il verso sia orizzontale, con il Ritratto o la Figura Umana è conveniente che sia verticale.  
-   ![Verniciare un dipinto - seconda mano](/wp-content/uploads/vernice-finale-stesura-2.jpg "Verniciare un dipinto - seconda mano")
+6. Stendere una prima mano in senso verticale (o orizzontale). Lasciare asciugare.
+   ![Verniciare un dipinto - prima mano]({{ site.baseurl }}/wp-content/uploads/vernice-finale-stesura-1.jpg "Verniciare un dipinto - prima mano")
+7. Stendere una seconda mano in verso opposto. Con lo stesso pennello, senza intingerlo nella vernice passalo sul dipinto in senso orizzontale o verticale. E’ consigliabile scegliere il verso in base al soggetto. Per un Paesaggio è conveniente che il verso sia orizzontale, con il Ritratto o la Figura Umana è conveniente che sia verticale.
+   ![Verniciare un dipinto - seconda mano]({{ site.baseurl }}/wp-content/uploads/vernice-finale-stesura-2.jpg "Verniciare un dipinto - seconda mano")
 8. Lasciare asciugare e dopo la verniciatura il quadro e pronto per essere incorniciato.
 
 Le mie parole, però, potrebbero avere lo stesso valore dei numerosi siti web e manuali in cui si parla di verniciatura dei dipinti. Spesso per il lettore diventa difficile districarsi tra le innumerevoli opinioni contrastanti. Per tale ragione riporto qui di seguito il pensiero di Bouvier sicuramente più autorevole del mio. A pag. 192 del suo manuale c’è scritto:

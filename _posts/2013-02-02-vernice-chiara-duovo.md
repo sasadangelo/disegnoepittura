@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![Vernice Provvisoria a base d'uovo](/wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg "Vernice Provvisoria a base d'uovo")
+![Vernice Provvisoria a base d'uovo]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg "Vernice Provvisoria a base d'uovo")
 
 Hai realizzato un dipinto ad olio e sai che devi aspettare almeno sei mesi per poterlo verniciare. Allo stesso tempo, però, sei ansioso di mostrarlo ai tuoi familiari ed amici, ma non vuoi che vedano le imperfezioni della superficie dovuti ai prosciughi che spesso è impossibile evitare. Come fare?
 
@@ -42,21 +42,21 @@ Gli ingredienti per preparare questa vernice sono 4 uova e 5g di zucchero. Serve
 
 Dividere gli albumi dai rossi (a noi interessano gli albumi), metterli in un contenitire con lo zucchero e frullare rendendoli schiumosi. Una volta fatto questo procedimento lasciarli riposare per 5 minuti. Si formeranno due strati, sopra la schiuma e sotto i chiari.
 
-![Vernice Provvisoria a base di bianco d'uovo - Prima Fase](/wp-content/uploads/vernice-provvisoria-uovo-prima-fase.jpg "Vernice Provvisoria a base di bianco d'uovo - Prima Fase")
+![Vernice Provvisoria a base di bianco d'uovo - Prima Fase]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo-prima-fase.jpg "Vernice Provvisoria a base di bianco d'uovo - Prima Fase")
 
 Tenere con il cucchiaio la schiuma e versare i chiari nel secondo contenitore.
 
-![Vernice Provvisoria a base di bianco d'uovo - Schiuma](/wp-content/uploads/vernice-provvisoria-uovo-schiuma.jpg "Vernice Provvisoria a base di bianco d'uovo - Schiuma")
+![Vernice Provvisoria a base di bianco d'uovo - Schiuma]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo-schiuma.jpg "Vernice Provvisoria a base di bianco d'uovo - Schiuma")
 
 Questo procedimento va ripetuto almeno tre o quattro volte. Più si ripete e più viene chiara la vernice, cosi quando viene applicata sulla tela con il pennello evitiamo l’effetto schiumoso.
 
 ## Come applicarla sul dipinto?
 
-![Vernice Provvisoria a base di bianco d'uovo - Applicazione](/wp-content/uploads/vernice-provvisoria-uovo-applicazione.jpg "Vernice Provvisoria a base di bianco d'uovo - Applicazione")
+![Vernice Provvisoria a base di bianco d'uovo - Applicazione]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo-applicazione.jpg "Vernice Provvisoria a base di bianco d'uovo - Applicazione")
 
 La vernice provvisoria si applica come una vernice finale qualunque, ma io consiglio di non caricare troppo il pennello e di non passarlo ripetutamente sulla stessa zona. Questo serve per evitare l’effetto schiumoso che rende difficile la rimozione prima di passare la finale. Voglio aggiungere una cosa, lo zucchero serve sia per dare l’effetto lucido, così chi guarda il quadro vede l’effetto della vernice finale, e sia per quando dobbiamo togliere la vernice provvisoria per passare quella finale.
 
-![Vernice Provvisoria a base di bianco d'uovo](/wp-content/uploads/vernice-provvisoria-uovo.jpg "Vernice Provvisoria a base di bianco d'uovo")
+![Vernice Provvisoria a base di bianco d'uovo]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo.jpg "Vernice Provvisoria a base di bianco d'uovo")
 
 In figura potete notare che ho steso la vernice solo su una piccola area. Ho eseguito la fotografia con il flash proprio per mostrare la lucentezza della vernice e come essa appare uniforme laddove viene stesa.
 

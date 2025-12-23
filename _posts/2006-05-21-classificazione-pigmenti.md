@@ -6,7 +6,7 @@ tags: ['colori', 'mescolare i colori']
 layout: single
 ---
 
-![medium_pigmenti2](/wp-content/uploads/medium_pigmenti2.jpg "medium_pigmenti2")
+![medium_pigmenti2]({{ site.baseurl }}/wp-content/uploads/medium_pigmenti2.jpg "medium_pigmenti2")
 
 Nell’articolo [Osservazioni sui colori per aiutare l’artista a mescolare i colori in Pittura](/osservazioni-colori/) abbiamo visto come in natura esistono solo 6 colori: giallo, rosso, blu, verde, viola, arancio. Ovviamente a questi si aggiungono il bianco e nero (anche se qualcuno, a ragione, potrà sostenere che il bianco e il nero non esistono in natura).
 
@@ -20,8 +20,8 @@ Con un pò di pazienza si arriva ad una classificazione cromatica di questo tipo
 
 **Giallo**
 
-Giallo cadmio chiaro. Tono: chiaro; saturazione: brillante; complementare: Crimisi Alzarina + Nero + Bianco  
-Giallo ocra. Tono: medio; saturazione: media; complementare: Crimisi Alzarina + Nero + Bianco  
+Giallo cadmio chiaro. Tono: chiaro; saturazione: brillante; complementare: Crimisi Alzarina + Nero + Bianco
+Giallo ocra. Tono: medio; saturazione: media; complementare: Crimisi Alzarina + Nero + Bianco
 Terra d’ombra bruciata. Tono: scuro; saturazione: neutra; complementare: Phtalo Blu + Bianco
 
 **Giallo-Arancio**
@@ -30,12 +30,12 @@ Terra di siena naturale. Tono: chiaro; saturazione: brillante; complementare: Cr
 
 **Arancio**
 
-Arancio Cadmio. Tono: chiaro; saturazione: brillante; complementare: Blu Phtalo + Nero + Bianco.  
+Arancio Cadmio. Tono: chiaro; saturazione: brillante; complementare: Blu Phtalo + Nero + Bianco.
 Terra di siena bruciata. Tono: scuro; saturazione: neutra; complementare: Blu Phtalo.
 
 **Rosso**
 
-Rosso cadmio chiaro. Tono: chiaro; saturazione: brillante; complementare: Verde Phtalo + Giallo Cadmio Chiaro.  
+Rosso cadmio chiaro. Tono: chiaro; saturazione: brillante; complementare: Verde Phtalo + Giallo Cadmio Chiaro.
 Rosso veneziano. Tono: medio; saturazione: media; complementare: Crimisi Alzarina + Phtalo Blu + Bianco + Nero.
 
 **Rosso-Viola**
@@ -56,4 +56,4 @@ Giallo-verde phtalo. Tono: chiaro; saturazione: brillante; complementare: Crimis
 
 Mancano molti altri pigmenti a questa classificazione che provvederò ad aggiungere di volta in volta. Nei successivi post analizzeremo più approfonditamente ciascun pigmento. Per ora potete provare a ripetere questo l’esercizio su come [mescolare i colori](/mescolare-colori/) utilizzando un pigmento a scelta più il complementare (per le ombre) + bianco e nero avorio. Nei complementari compare il Bianco e Nero semplicemente perchè il suo tono deve essere ricondotto a quello del colore in oggetto.
 
-Fonte: [Color Mixing. The Van Wyk Way](https://www.disegnoepittura.it/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/).
+Fonte: [Color Mixing. The Van Wyk Way]({{ site.baseurl }}/i-migliori-libri-per-imparare-a-disegnare-e-dipingere/).

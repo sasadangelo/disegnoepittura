@@ -6,7 +6,7 @@ tags: ['composizione', 'prospettiva']
 layout: single
 ---
 
-![Composizione e Prospettiva](https://www.disegnoepittura.it/wp-content/uploads/composizione-prospettiva.gif "Composizione e Prospettiva")
+![Composizione e Prospettiva]({{ site.baseurl }}/wp-content/uploads/composizione-prospettiva.gif "Composizione e Prospettiva")
 
 *Foto da [www.daube.ch](http://www.daube.ch/docu/glossary/drawingtools.html "Drawing Tools")*
 
@@ -20,4 +20,4 @@ Non è difficile, inoltre, vedere artisti che studiano sia teoria che pratica ma
 
 > Alcuni si può chiaramente dire che s’ingannano, i quali chiamano buon maestro quel pittore il quale solamente fa bene una testa o una figura. Certo non è gran fatto che, studiando una sola cosa tutto il tempo della sua vita, non ne venga a qualche perfezione; ma conoscendo noi che la pittura abbraccia e contiene in sé tutte le cose che produce la natura, e che conduce l’accidentale operazione degli uomini, ed in ultimo ciò che si può comprendere cogli occhi, mi pare un tristo maestro quello che solo una figura fa bene. Or non vedi tu quanti e quali atti sieno fatti dagli uomini? Non vedi tu quanti diversi animali, e cosí alberi ed erbe e fiori e varietà di siti montuosi e piani, fonti, fiumi, città, edifizi pubblici e privati, strumenti opportuni all’uso umano, varî abiti ed ornamenti ed arti? Tutte queste cose appartengono di essere di pari operazione e bontà usate da quello che tu vuoi chiamare buon pittore.
 
-*Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili](https://www.disegnoepittura.it/prospettiva/ "La Prospettiva").*
+*Hai letto i restanti articoli della serie La Prospettiva? Ecco [l’indice degli articoli disponibili]({{ site.baseurl }}/prospettiva/ "La Prospettiva").*

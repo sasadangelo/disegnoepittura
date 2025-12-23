@@ -6,7 +6,7 @@ tags: ['paesaggi', 'pittura ad olio', 'tutorial']
 layout: single
 ---
 
-![Dipingere Un'Onda](/wp-content/uploads/dipingere-onda.jpg "Dipingere Un'Onda")
+![Dipingere Un'Onda]({{ site.baseurl }}/wp-content/uploads/dipingere-onda.jpg "Dipingere Un'Onda")
 
 Vuoi imparare a dipingere un paesaggio marino con le onde? Il seguente tutorial ti insegnerà come fare passo dopo passo.
 
@@ -21,7 +21,7 @@ Il soggetto prevede un’onda che si infrange sugli scogli in primo piano e alcu
 ## Dipingere l’Onda
 
 Con un pennello sottile effettuiamo il disegno del soggetto. Questo disegno deve essere molto accurato in modo da poter garantire il miglior risultato finale. Per il disegno si può utilizzare un colore blu chiaro (blu ceruleo ad esempio) completato il quale va lasciato asciugare. Mischiando un pò di trementina con il colore ad olio si può accelerare i tempi di asciugatura.  
-![Disegno della Marina con Onda](/wp-content/uploads/disegno-onda.jpg "Disegno della Marina con Onda")  
+![Disegno della Marina con Onda]({{ site.baseurl }}/wp-content/uploads/disegno-onda.jpg "Disegno della Marina con Onda")  
 Iniziamo con il dipingere il centro di interesse che in questo soggetto corrisponde alla parte traslucente dell’onda.
 
 Con una spatola e utilizzando i colori: verde smeraldo (viridian), giallo limone e carminio d’alzarina; prepariamo 3 miscele di colori:
@@ -32,15 +32,15 @@ Con una spatola e utilizzando i colori: verde smeraldo (viridian), giallo limone
 
 Nella figura sotto è possibile notare il risultato dell’applicazione di queste 3 tinte.
 
-![Stesura dei colori per l'Onda](/wp-content/uploads/stesura-colori.jpg "Stesura dei colori per l'Onda")
+![Stesura dei colori per l'Onda]({{ site.baseurl }}/wp-content/uploads/stesura-colori.jpg "Stesura dei colori per l'Onda")
 
 A questo punto si può procedere con lo sfumare le 3 tinte tra loro. Per eseguire questa sfumatura si utilizzi un pennello piatto #14 o #16. Il pennello deve essere asciugato e pulito man mano che si procede nella sfumatura. La pressione del pennello deve essere leggera altrimenti si porta via troppo colore.
 
-![Sfumatura dei colori della Cresta](/wp-content/uploads/sfumatura-colori.jpg "Sfumatura dei colori della Cresta")
+![Sfumatura dei colori della Cresta]({{ site.baseurl }}/wp-content/uploads/sfumatura-colori.jpg "Sfumatura dei colori della Cresta")
 
 Il risultato è visibile nella seguente figura.
 
-![Cresta dell'Onda](/wp-content/uploads/cresta-onda.jpg "Cresta dell'Onda")
+![Cresta dell'Onda]({{ site.baseurl }}/wp-content/uploads/cresta-onda.jpg "Cresta dell'Onda")
 
 ### La Schiuma
 
@@ -49,7 +49,7 @@ Per la parte di schiuma in ombra utilizzo una miscela di verde smeraldo e cremis
 ### Cima dell’Onda
 
 In questa fase possiamo dipingere anche la cima dell’onda riutizzando gli stessi colori utilizzati per la parte traslucente. La miscela 3 può essere utilizzata per il centro e la 2 e la 1 per i lati. Dove la cima tocca la schiuma utilizzate il colore dell’atmosfera.  
-![Ombra della Schiuma](/wp-content/uploads/ombra-schiuma.jpg "Ombra della Schiuma")
+![Ombra della Schiuma]({{ site.baseurl }}/wp-content/uploads/ombra-schiuma.jpg "Ombra della Schiuma")
 
 Utilizzando sempre un pennello tondo sottile e il colore dell’atmosfera dipingiamo il margine sinistro della cima dell’onda. Sempre con lo stesso pennello e lo stesso colore si dipingano le linee tondeggianti che compaiono sulla cima dell’onda. Questi dettagli aggiungono contrasto e danno all’onda un aspetto tondeggiante e tridimensionale. Alla fine sia la zona d’ombra della schiuma che la cima vanno leggermente sfumati con una pennellessa con tocco leggero e seguendo il verso delle linee.
 
@@ -65,7 +65,7 @@ Dopo l’onda principale ci sono altre onde dietro che man mano diventano sempre
 
 Per le altre onde notiamo che viene riflesso il colore del cielo senza traslucenze. Il colore diventa via via più chiaro man mano che le onde si allontanano.
 
-![Riflessi del cielo sull'Onda](/wp-content/uploads/riflessi-onda.jpg "Riflessi del cielo sull'Onda")
+![Riflessi del cielo sull'Onda]({{ site.baseurl }}/wp-content/uploads/riflessi-onda.jpg "Riflessi del cielo sull'Onda")
 
 ## I Motivi della Schiuma
 
@@ -73,17 +73,17 @@ A questo punto bisogna dipingere i pattern di schiuma sull’acqua, ma prima di 
 
 Sulla base la schiuma, rispetto al nostro punto di osservazione è in posizione orizzontale, quindi non intravediamo nulla attraverso di essa. Man mano che questi pattern salgono lungo la cresta, spinti dalla forza dell’onda, tendono ad assumere una posizione verticale, quindi questi pattern si aprono assumendo in prospettiva forme ellissoidi diventando veri e propri cerchi nella parte alta della cresta. Quando ciò accade si intravede attraverso di esse l’acqua sottostante.
 
-![Forma dei Pattern della Schiuma](/wp-content/uploads/forma-pattern-schiuma.gif "Forma dei Pattern della Schiuma")
+![Forma dei Pattern della Schiuma]({{ site.baseurl }}/wp-content/uploads/forma-pattern-schiuma.gif "Forma dei Pattern della Schiuma")
 
 Quindi con pennello tondo sottile e il colore dell’atmosfera, iniziamo a dipingere questi pattern ricordandoci delle considerazioni prospettiche fatte prima. E’ importante che la forma di questi pattern quando si aprono sia sempre di un’elisse. I pattern sono fondamentali quando si dipinge il mare, specialmente quando esso è agitato. Essi forniscono all’osservatore informazioni sulla dinamica dell’acqua e conferiscono un aspetto realistico all’intero soggetto.
 
-![Pattern della Schiuma](/wp-content/uploads/pattern-schiuma.jpg "Pattern della Schiuma")
+![Pattern della Schiuma]({{ site.baseurl }}/wp-content/uploads/pattern-schiuma.jpg "Pattern della Schiuma")
 
 Per completare il dipinto aggiungiamo alla schiuma le zone di max luce. Le zone di schiuma lasciate non dipinte vanno ora realizzante utilizzando il bianco (si sperimenti l’aggiunta di pochissimo colore atmosfera). Per questo lavoro utilizziamo un pennello a lingua di gatto piccolo su cui carichiamo da un lato il colore bianco. Poi applichiamo il colore partendo dall’esterno verso l’interno. Sulla parte esterna va lasciato un bel impasto di colore (cioè con maggiore spessore), questo perchè il colore ad impasto tende ad attirare l’occhio dell’osservatore.
 
-![Schiuma](/wp-content/uploads/schiuma.jpg "Schiuma")
+![Schiuma]({{ site.baseurl }}/wp-content/uploads/schiuma.jpg "Schiuma")
 
 Questo è il risultato finale.
 
-![Marina con Onda Finita](/wp-content/uploads/marina-onda-finito.jpg "Marina con Onda Finita")  
+![Marina con Onda Finita]({{ site.baseurl }}/wp-content/uploads/marina-onda-finito.jpg "Marina con Onda Finita")  
 *Fonte: www.pickeringstudio.com*

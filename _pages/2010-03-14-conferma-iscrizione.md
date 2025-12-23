@@ -10,7 +10,7 @@ layout: single
 
 Ti è stata inviata una email che contiene un **link di conferma**, come mostra la seguente figura:
 
-![Conferma iscrizione Newsletter](http://www.disegnoepittura.it/wp-content/uploads/email-confirm-subscription.png)
+![Conferma iscrizione Newsletter](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/email-confirm-subscription.png)
 
 Per attivare la tua iscrizione, **controlla la tua casella postale e clicca sul link in essa contenuto**. La tua iscrizione non verrà considerata completa finchè non l’avrai confermata cliccando su tale link.
 

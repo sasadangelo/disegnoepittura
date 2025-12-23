@@ -6,7 +6,7 @@ tags: ['paesaggi']
 layout: single
 ---
 
-![cumlon](/wp-content/uploads/cumlon.jpg "cumlon")  
+![cumlon]({{ site.baseurl }}/wp-content/uploads/cumlon.jpg "cumlon")  
 Nei paesaggi spesso le nuvole rivestono un ruolo fondamentale. Le nuvole si dividono in 3 categorie in base alla loro distanza dal suolo:
 
 * nuvole alte;

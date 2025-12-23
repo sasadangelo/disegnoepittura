@@ -6,7 +6,7 @@ tags: []
 layout: single
 ---
 
-![aceo](/wp-content/uploads/aceo.jpg "aceo")
+![aceo]({{ site.baseurl }}/wp-content/uploads/aceo.jpg "aceo")
 
 Un pò di tempo fa venne in Italia una mia cugina inglese che non vedevo da anni. Parlando del più e del meno venni a conoscenza di una tipica tradizione anglosassone che ignoravo: il regalo delle cartoline. Nelle festività o particolari ricorrenze sembra che sia consuetudine tra amici e parenti scambiarsi delle cartoline. Queste cartoline rappresentano anche una specie di status symbol, nel senso che chi ne riceve molte  è una persona con tanti amici e persone che le vogliono bene. Lo potremmo considerare come un equivalente dei regali di Natale. Questa cosa fa comprendere perchè si è diffusa l’usanza tra gli artisti di vendere, anche online, gli ACEO.
 
@@ -14,7 +14,7 @@ La sigla ACEO sta per Art Card Editions and Originals, sono delle piccole opere 
 
 I supporti utilizzabili per la realizzazione degli ACEO sono molteplici e spesso dipendono dal medium utilizzato, si possono utilizzare carte da 300 o 600 gr per acquarello, carte canson o qualsiasi carta per uso artistico sia liscia che con leggera texture.
 
-![aceo](/wp-content/uploads/aceo.jpg "aceo")
+![aceo]({{ site.baseurl }}/wp-content/uploads/aceo.jpg "aceo")
 
 Una versione non commerciale degli ACEO sono gli ACT (Art Card Trade) che sono del tutto simili agli ACEO, l’unica differenza è che si scambiano e non si vendono.
 

@@ -6,7 +6,7 @@ tags: ['composizione']
 layout: single
 ---
 
-![thumb_frame](https://www.disegnoepittura.it/wp-content/uploads/thumb_frame.jpg "thumb_frame")
+![thumb_frame]({{ site.baseurl }}/wp-content/uploads/thumb_frame.jpg "thumb_frame")
 
 *“Realizzare un dipinto è come eseguire il dilitto perfetto, tutto deve essere pianificato nei minimi dettagli”*
 
@@ -14,7 +14,7 @@ layout: single
 
 La frase di Seurat non è stata scelta a caso. Un dipinto ben eseguito è sempre il risultato di una serie decisioni prese dopo un’attenta valutazione. L’arte è istinto ma spesso anche logica, una logica che l’artista deve usare affinchè l’osservatore subisca consciamente o inconsciamente gli stimoli che l’autore vuole dettargli.
 
-Tra le scelte dell’artista sicuramente c’è la forma del supporto che ospiterà l’opera. Spesso diamo per scontato che la forma debba essere rettangolare. In commercio la maggior parte delle tele è rettangolare con dimensioni standard (40×50, 50×70, ecc.). I più esigenti creano da se i propri supporti dimensionando (a volte) il supporto in base alle [regole auree](https://www.disegnoepittura.it/la-sezione-aurea/ "Sezione Aurea") (un pò come facevano gli artisti del passato).
+Tra le scelte dell’artista sicuramente c’è la forma del supporto che ospiterà l’opera. Spesso diamo per scontato che la forma debba essere rettangolare. In commercio la maggior parte delle tele è rettangolare con dimensioni standard (40×50, 50×70, ecc.). I più esigenti creano da se i propri supporti dimensionando (a volte) il supporto in base alle [regole auree]({{ site.baseurl }}/la-sezione-aurea/ "Sezione Aurea") (un pò come facevano gli artisti del passato).
 
 La forma rettangolare può essere usata in due varianti: **orizzontale** e **verticale**. La prima usata spesso per i paesaggi mentre la seconda per i ritratti. Il motivo è semplice. Quando i nostri occhi guardano un paesaggio (spesso apparenetemente sconfinato) il cono visuale è sempre più esteso in direzione orizzontale rispetto a quella verticale. Fateci caso, quando guardate qualcosa riuscite a vedere più da destra a sinistra che non da sopra a sotto.
 

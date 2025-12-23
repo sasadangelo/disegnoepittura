@@ -6,7 +6,7 @@ tags: ['mescolare i colori', 'munsell']
 layout: single
 ---
 
-![munsell1](https://www.disegnoepittura.it/wp-content/uploads/munsell1.jpg "munsell1")
+![munsell1]({{ site.baseurl }}/wp-content/uploads/munsell1.jpg "munsell1")
 
 A partire da oggi, vedremo come mescolare i colori con il metodo di Munsell. Molti artisti usano questo modello perchè fornisce un modo semplice e intuitivo per descrivere un colore e riuscire a mescolarlo mediante la combinazione di due o più colori. Questo sistema si basa sulla teoria di [Albert Munsell](https://en.wikipedia.org/wiki/Albert_Henry_Munsell), un pittore americano che fu l’ideatore di questo sistema e da cui esso prendo il nome.
 
@@ -26,26 +26,26 @@ Ho conosciuto questo sistema leggendo i post su Wetcanvas di [Michael Georges](h
 
 *Vuoi leggere gli altri articoli della serie? Questo è l’indice di tutte le lezioni:*
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Che cos’è lo hue?](https://www.disegnoepittura.it/munsell-color-system-hue/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Che cos’è lo hue?]({{ site.baseurl }}/munsell-color-system-hue/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Che cos’è il tono?](https://www.disegnoepittura.it/munsell-color-system-parte-tono/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Che cos’è il tono?]({{ site.baseurl }}/munsell-color-system-parte-tono/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Che cos’è la saturazione?](https://www.disegnoepittura.it/munsell-color-system-saturazione/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Che cos’è la saturazione?]({{ site.baseurl }}/munsell-color-system-saturazione/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Le tabelle dei colori.](https://www.disegnoepittura.it/munsell-color-system-charts/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Le tabelle dei colori.]({{ site.baseurl }}/munsell-color-system-charts/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Dalla teoria alla pratica.](https://www.disegnoepittura.it/munsell-color-system-pratica/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly.  Dalla teoria alla pratica.]({{ site.baseurl }}/munsell-color-system-pratica/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La scala dei grigi.](https://www.disegnoepittura.it/munsell-color-system-scala-grigi/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La scala dei grigi.]({{ site.baseurl }}/munsell-color-system-scala-grigi/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La scala dei grigi di Reilly.](https://www.disegnoepittura.it/munsell-color-system-grigi-frank-reilly/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La scala dei grigi di Reilly.]({{ site.baseurl }}/munsell-color-system-grigi-frank-reilly/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. Qual era la tavolozza di Reilly.](https://www.disegnoepittura.it/come-mescolare-colori-munsell-frank-reilly-tavolozza/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. Qual era la tavolozza di Reilly.]({{ site.baseurl }}/come-mescolare-colori-munsell-frank-reilly-tavolozza/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. Le tabelle dei colori di Frank Reilly.](https://www.disegnoepittura.it/munsell-color-system-frank-reilly-charts/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. Le tabelle dei colori di Frank Reilly.]({{ site.baseurl }}/munsell-color-system-frank-reilly-charts/)
 
 Questa serie di articoli è stata completamente riscritta tranne i seguenti due articoli. Quindi potreste trovare delle incongruenze con gli articoli precedenti. A breve saranno riscritti anche essi (Lunedì 11/07/2011).
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La tabella dei colori per la gamma dei gialli.](https://www.disegnoepittura.it/munsell-color-system-vii-parte-chart-y/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La tabella dei colori per la gamma dei gialli.]({{ site.baseurl }}/munsell-color-system-vii-parte-chart-y/)
 
-[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La tabella dei colori per la gamma degli aranci.](https://www.disegnoepittura.it/munsell-color-system-chart-yr/)
+[Come mescolare i colori con il metodo di Munsell dell’artista Frank Reilly. La tabella dei colori per la gamma degli aranci.]({{ site.baseurl }}/munsell-color-system-chart-yr/)
