@@ -1,5 +1,6 @@
 ---
+title: Disegno & Pittura
 layout: home
-title: Disegno e Pittura
+pagination:
+  enabled: true
 ---
-Benvenuto sul blog di Disegno e Pittura!

@@ -1,12 +1,11 @@
 ---
 title: "Il Chiaroscuro"
+layout: single
 date: 2019-12-08 21:51:52
 categories: ['Disegno']
 tags: ['chiaroscuro']
-layout: single
+feature_image: "/wp-content/uploads/chiaroscuro-sfera-mini.png"
 ---
-
-![Chiaroscuro]({{ site.baseurl }}/wp-content/uploads/chiaroscuro-sfera-mini.png)
 
 In quest’articolo voglio spiegare alcuni concetti sul **chiaroscuro** che credo possano tornare utile a chi ama disegnare e dipingere.
 
@@ -172,7 +171,7 @@ Questa figura è interessante perché mostra la realizzazione di una spaccatura 
 
 Ci sono poi textures così microscopiche che abbiamo difficoltà a comprendere. Il problema con queste textures è come realizzarle e dove realizzarle.
 
-### 
+###
 
 *Foto da [gurneyjourney.blogspot.com](https://gurneyjourney.blogspot.co.uk/2010/12/texture-on-moon-man.html)*
 

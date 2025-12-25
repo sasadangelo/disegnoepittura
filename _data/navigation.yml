@@ -3,12 +3,12 @@ main:
   - title: "Home"
     url: /
   - title: "Chi Sono"
-    url: /chi-sono/
-  - title: "Nuovo Utente? Inizia Qui"
-    url: /nuovo-utente-inizia-qui/
+    url: /info/
   - title: "Contatti"
     url: /contatti/
-  - title: "Blog"
-    url: /blog/
-  - title: "Risorse"
-    url: /risorse/
+  - title: "Corso di pittura ad Olio"
+    url: /corso-pittura-olio-artisti-principianti-2/
+  - title: "Materiali"
+    url: /materiali-per-pittura-ad-olio/
+  - title: "Libri"
+    url: /i-migliori-libri-per-imparare-a-disegnare-e-dipingere/

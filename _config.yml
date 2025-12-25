@@ -9,30 +9,39 @@ url: "https://sasadangelo.github.io"
 twitter_username: jekyllrb
 github_username: jekyll
 
-logo: /assets/images/Logo2.png
+logo: /assets/images/logo.png
 
 # Build settings
 theme: minimal-mistakes-jekyll
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate-v2
 
 permalink: /:slug/
-
+masthead_title: ""
 assets:
   stylesheets:
     - /assets/css/main.scss
     - /_sass/custom.scss
 
+lang: it
 locale: "it-IT"
 classes: wide
 
 pagination:
   enabled: true
-  per_page: 7
-  permalink: "/blog/:num/" # URL per le pagine successive
+  collection: "posts"
+  per_page: 6
+  permalink: "/page/:num/" # Pages are index.html inside this folder (default)
+  title: ":title - page :num"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
 
 analytics:
   provider: "google-gtag"
@@ -41,14 +50,23 @@ analytics:
     anonymize_ip: false
 google_site_verification: ""
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      related: true
+      show_date: true
+
+date_format: "%-d %B %Y"
+
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/sasadangelo"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/scopriroma.it/"
+      url: "https://www.facebook.com/disegno.pittura/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sasadangeloo"

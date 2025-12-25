@@ -3,10 +3,9 @@ title: "Come fare la Campitura di una Tela"
 date: 2018-02-23 14:33:40
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'nature morte', 'pittura ad olio', 'tutorial']
+feature_image: "/wp-content/uploads/Campitura-mini.jpg"
 layout: single
 ---
-
-![Campitura]({{ site.baseurl }}/wp-content/uploads/Campitura-mini.jpg)
 
 In quest’articolo proverò a spiegare che cos’è la campitura, a cosa serve e come la eseguo.
 
@@ -17,7 +16,7 @@ La [campitura](https://it.wiktionary.org/wiki/campitura "Campitura") è la ste
 * più vibrante;
 * armonico.
 
-![Campitura]({{ site.baseurl }}/wp-content/uploads/Campitura.jpg)  
+![Campitura]({{ site.baseurl }}/wp-content/uploads/Campitura.jpg)
 *Foto da <https://www.paintersonline.co.uk>*
 
 Nelle tecniche più libere e disinvolte lasciar trasparire questa base colorata spesso è un effetto desiderato. Dipingendo un paesaggio in cui il colore dominante è il blu del cielo si può usare una campitura arancio (complementare) per renderlo più vibrante. Una natura morta con sfondo neutro può risultare più armonica se si sceglie una campitura di un colore similare di media tonalità.
