@@ -8,6 +8,21 @@ main:
     url: /contatti/
   - title: "Corso di pittura ad Olio"
     url: /corso-pittura-olio-artisti-principianti-2/
+  - title: "Galleria"
+    url: /galleria-di-dipinti//
+  - title: "Materiali"
+    url: /materiali-per-pittura-ad-olio/
+  - title: "Libri"
+    url: /i-migliori-libri-per-imparare-a-disegnare-e-dipingere/
+sidebar:
+  - title: "Home"
+    url: /
+  - title: "Chi Sono"
+    url: /info/
+  - title: "Contatti"
+    url: /contatti/
+  - title: "Corso di pittura ad Olio"
+    url: /corso-pittura-olio-artisti-principianti-2/
   - title: "Materiali"
     url: /materiali-per-pittura-ad-olio/
   - title: "Libri"
