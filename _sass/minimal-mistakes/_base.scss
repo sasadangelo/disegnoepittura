@@ -73,6 +73,7 @@ u,
 ins {
   text-decoration: none;
   border-bottom: 1px solid $text-color;
+
   a {
     color: inherit;
   }
@@ -159,7 +160,8 @@ pre {
 }
 
 pre {
-  overflow-x: auto; /* add scrollbars to wide code blocks*/
+  overflow-x: auto;
+  /* add scrollbars to wide code blocks*/
 }
 
 /* horizontal rule */
@@ -197,7 +199,7 @@ figure {
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin: 0 0;
 
   img,
   iframe,
@@ -212,13 +214,14 @@ figure {
     transition: $global-transition;
   }
 
-  > a {
+  >a {
     display: block;
   }
 
   &.half {
-    > a,
-    > img {
+
+    >a,
+    >img {
       @include breakpoint($small) {
         width: calc(50% - 0.5em);
       }
@@ -230,8 +233,9 @@ figure {
   }
 
   &.third {
-    > a,
-    > img {
+
+    >a,
+    >img {
       @include breakpoint($small) {
         width: calc(33.3333% - 0.5em);
       }

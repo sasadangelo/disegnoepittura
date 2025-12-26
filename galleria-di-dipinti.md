@@ -16,19 +16,19 @@ Questa è la Galleria di alcuni lavori svolti negli ultimi anni. Ho diviso quest
 
 La Pittura a Olio è senza dubbio la mia tecnica preferita. Con essa ho la sensazione di poter esprimere realmente me stesso. Inoltre, la considero la tecnica che ci collega al nostro passato artistico cui bisogna sempre guardare per migliorarsi.
 
-ngg\_shortcode\_0\_placeholder
+{% include gallery-grid.html items=site.data.galleries.oil %}
 
 ## Illustrazioni
 
 Da qualche anno provo molto piacere a sperimentare lavori di Illustrazione che mi consentono di  esercitarmi con il disegno, il chiaroscuro e il colore in maniera alternativa. Ho cominciato traendo ispirazione da qualche artista del web prima tra tutti [Marcello Barenghi](http://www.marcellobarenghi.it/).
 
-ngg\_shortcode\_1\_placeholder
+{% include gallery-grid.html items=site.data.galleries.illustrations %}
 
 ## Tecniche Varie
 
 In questo Album raccolgo alcuni lavori eseguiti a pastello e disegni realistici a matita. Come dicevo sopra, ritengo il disegno realistico un elemento essenziale per migliorare la mia tecnica perché mi consente di concentrarmi sul chiaroscuro.
 
-ngg\_shortcode\_2\_placeholder
+{% include gallery-grid.html items=site.data.galleries.other-techniques %}
 
 ## Disegni e Schizzi
 
@@ -36,4 +36,4 @@ Disegnare per me è il fondamento di qualsiasi opera pittorica in stile realista
 
 > E’ solo disegnando spesso, disegnando tutto, disegnando incessantemente, che un bel giorno scopri per tua grande sorpresa che hai realizzato qualcosa nel suo vero carattere. Camille Pissarro.
 
-ngg\_shortcode\_3\_placeholder
+{% include gallery-grid.html items=site.data.galleries.sketches %}

@@ -83,6 +83,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sasadangeloo"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/disegnoepittura"
 
 exclude:
   - "README.md"

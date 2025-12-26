@@ -15,15 +15,23 @@ main:
   - title: "Libri"
     url: /i-migliori-libri-per-imparare-a-disegnare-e-dipingere/
 sidebar:
-  - title: "Home"
-    url: /
-  - title: "Chi Sono"
-    url: /info/
-  - title: "Contatti"
-    url: /contatti/
-  - title: "Corso di pittura ad Olio"
-    url: /corso-pittura-olio-artisti-principianti-2/
-  - title: "Materiali"
-    url: /materiali-per-pittura-ad-olio/
-  - title: "Libri"
-    url: /i-migliori-libri-per-imparare-a-disegnare-e-dipingere/
+  - title: "Seguimi"
+    children:
+      - title: '<i class="fab fa-facebook"></i> Facebook'
+        url: https://www.facebook.com/disegno.pittura/
+      - title: '<i class="fab fa-instagram"></i> Instagram'
+        url: https://www.instagram.com/sasadangeloo
+      - title: '<i class="fab fa-x-twitter"></i> X'
+        url: "https://x.com/disegnoepittura"
+  - title: "Migliori Articoli"
+    children:
+      - title: "Autunno sul Fiume"
+        url: /autunno-sul-fiume/
+      - title: "Canestra di Frutta di Caravaggio"
+        url: /canestra-di-frutta-di-caravaggio-copia/
+      - title: "Come Dipingere da una Foto"
+        url: /come-dipingere-da-una-foto/
+      - title: "Dipingere Gocce d'Acqua"
+        url: /dipingere-gocce-di-acqua/
+      - title: "Una Rastrelliera Porta Pennelli"
+        url: /rastrelliera-porta-pennelli/
