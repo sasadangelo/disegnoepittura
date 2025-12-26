@@ -9,7 +9,7 @@ url: "https://sasadangelo.github.io"
 twitter_username: jekyllrb
 github_username: jekyll
 
-logo: /assets/images/logo.png
+logo: /assets/images/logo-mini.png
 
 # Build settings
 theme: minimal-mistakes-jekyll
