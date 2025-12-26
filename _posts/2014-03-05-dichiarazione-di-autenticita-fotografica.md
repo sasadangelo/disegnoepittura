@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "La Dichiarazione di Autenticità Fotografica"
 date: 2014-03-05 14:29:51
 categories: ['Art Business']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/certificato-autenticita-mini.jpg"
 ---
-
-![Certificato Autenticità Fotografica]({{ site.baseurl }}/wp-content/uploads/certificato-autenticita-mini.jpg "Certificato Autenticità Fotografica")
 
 Come tutelare la paternità del quadro che intendi vendere e nel contempo garantire ai tuoi clienti l’autenticità dell’opera che stai offrendo? In quest’articolo spiegherò come scrivere una dichiarazione di autenticità fotografica,  come rilasciarla ai propri clienti e tutte le informazioni al riguardo che è necessario conoscere.
 

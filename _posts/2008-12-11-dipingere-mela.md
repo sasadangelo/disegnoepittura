@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere una mela"
 date: 2008-12-11 18:59:14
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/mela-9.jpg"
 ---
-
-![mela-9]({{ site.baseurl }}/wp-content/uploads/mela-9.jpg "mela-9")
 
 In quest’esercizio illustrerò come dipingere una mela. Di tanto in tanto anzichè realizzare dipinti completi preferisco esercitarmi su piccoli elementi come ad esempio una mela. Per l’esercizio ho utilizzato i seguenti materiali:
 

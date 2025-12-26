@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Corso di pittura ad Olio"
 date: 2010-01-01 12:26:41
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/colori-olio.jpg"
 ---
 
-![Colori ad Olio]({{ site.baseurl }}/wp-content/uploads/colori-olio.jpg "Colori ad Olio")  
 L’obiettivo di questa serie di articoli è di spiegare passo passo la tecnica, i materiali e i concetti che utilizzo nei miei dipinti. Questo mini corso è da considerare un “work in progress” che terrò sempre aggiornato con le evoluzioni che subirà il mio modo di dipingere nel tempo.
 
 ## Parte I – Introduzione alla Pittura ad Olio
@@ -17,7 +17,7 @@ Questa prima parte è di introduzione al corso, in essa cercherò di rispondere 
 
 ## Parte II – I Materiali per Dipingere ad olio
 
-![Corso di Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/corso-pittura-olio.jpg "Corso di Pittura ad Olio")  
+![Corso di Pittura ad Olio]({{ site.baseurl }}/wp-content/uploads/corso-pittura-olio.jpg "Corso di Pittura ad Olio")
 Foto da [https://www.guidetooilpainting.com](https://www.guidetooilpainting.com/oilPaintingSupplies.html "Materiali per la Pittura ad Olio")
 
 La seconda parte del corso è dedicata all’analisi dei materiali necessari per dipingere a olio. L’articolo che segue contiene una serie di link che offrono una panoramica dei materiali disponibili in commercio e poi c’è l’elenco dei materiali che io utilizzo.

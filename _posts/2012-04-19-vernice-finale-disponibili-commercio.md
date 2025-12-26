@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Le vernici finali disponibili in commercio"
 date: 2012-04-19 23:29:15
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/Vernice-Finale.jpg"
 ---
-
-![Vernice Finale]({{ site.baseurl }}/wp-content/uploads/Vernice-Finale.jpg "Vernice Finale")
 
 Le vernici sono composti liquidi formati da uno o più resine e da un solvente ed hanno diversi impieghi nella pittura a olio. Possono essere usati per creare medium, vernici finali o da ritocco. In quest’articolo faremo una panoramica delle vernici disponibili in commercio.
 

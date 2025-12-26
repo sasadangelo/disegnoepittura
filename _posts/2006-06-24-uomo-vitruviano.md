@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Uomo Vitruviano"
 date: 2006-06-24 08:00:28
 categories: ['Disegno']
 tags: ['figura umana']
-layout: single
+feature_image: "/wp-content/uploads/homovit.jpg"
 ---
-
-![uomo vitruviano]({{ site.baseurl }}/wp-content/uploads/homovit.jpg "uomo vitruviano")
 
 Che cos’è l’uomo vitruviano? Perchè può essere importante per un artista studiarlo? Quest’articolo vi aiuterà a rispondere a queste domande affinchè il tema delle proporzioni del corpo non abbia per voi più segreti.
 

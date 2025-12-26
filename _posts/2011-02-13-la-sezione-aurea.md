@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Sezione Aurea, verità o bufala?"
 date: 2011-02-13 22:25:25
 categories: ['Disegno']
 tags: ['composizione']
-layout: single
+feature_image: "/wp-content/uploads/sezione-aurea.jpg"
 ---
-
-![Sezione Aurea]({{ site.baseurl }}/wp-content/uploads/sezione-aurea.jpg "Sezione Aurea")
 
 *Foto da [fotografiapuntodincontro.](http://www.fotografiapuntodincontro.com/ "Fotografia Punto d'Incontro")*
 

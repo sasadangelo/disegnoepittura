@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come Disegnare l&#8217;Orecchio in un Ritratto"
 date: 2008-11-14 19:08:42
 categories: ['Disegno']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/orecchio.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/orecchio.jpg)
 
 In questo post vedremo un semplice tutorial passo per passo per disegnare un orecchio. Come già detto in altre occasioni il tutorial va utilizzato solo come guida di riferimento per un orecchio tipico, è chiaro che poi quando si disegna dal vero bisogna concentrarsi sulle differenze tra l’orecchio che si osserva e il modello descritto qui.
 

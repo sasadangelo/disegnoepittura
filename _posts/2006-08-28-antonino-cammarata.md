@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Antonino Cammarata"
 date: 2006-08-28 12:17:45
 categories: ['Artisti']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/s880fta.jpg"
 ---
-
-![s880fta]({{ site.baseurl }}/wp-content/uploads/s880fta.jpg "s880fta")
 
 Oggi volevo segnalarvi il sito del maestro [Antonino Cammarat](http://www.artewebcam.com)a. Dalla sua [biografia](http://www.dipinticammarata.it/bio1.htm) si legge:
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Disegnare una Jaguar d&#8217;epoca"
 date: 2014-03-27 15:34:23
 categories: ['Disegno']
 tags: ['chiaroscuro', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/0-disegno-jaguar-kas-560-finito-mini.jpg"
 ---
-
-![Tutorial su come Disegnare una Jaguar KAS 560]({{ site.baseurl }}/wp-content/uploads/0-disegno-jaguar-kas-560-finito-mini.jpg "Disegnare una Jaguar KAS 560")
 
 In questo tutorial vorrei mostrarvi come ho disegnato una Jaguar d’epoca.
 

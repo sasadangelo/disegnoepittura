@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Figura umana e muscoli"
 date: 2006-06-10 08:00:01
 categories: ['Disegno']
 tags: ['figura umana']
-layout: single
+feature_image: "/wp-content/uploads/th_stand.jpg"
 ---
-
-![th_stand]({{ site.baseurl }}/wp-content/uploads/th_stand.jpg "th_stand")
 
 Questo blog finora ha parlato poco della figura umana, ma presto verranno pubblicati vari articoli su questa materia.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Preparare i colori a olio da se (parte II)"
 date: 2008-12-20 17:32:03
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/oil25.jpg"
 ---
-
-![oil25]({{ site.baseurl }}/wp-content/uploads/oil25.jpg "oil25")
 
 Preparare i colori per un’unica seduta potrebbe essere poco conveniente. Ogni volta che decidiamo di dipingere con i colori ad olio ci sono alcune attività che devono essere svolte come: preparare la tavolozza, preparare l’olio e la trementina, pulire la tavolozza, pulire i pennelli e così via. Se a queste attività ne aggiungiamo un’altra rischiamo di avere sempre meno tempo da dedicare all’attività pittorica vera e propria. Potrebbe essere conveniente, quindi, preparare una sola volta una quantità di colore sufficiente per diverse sedute. Quando abbiamo parlato di [come preparare i colori da se]({{ site.baseurl }}/preparare-colori-olio/), ci siamo fermati alla preparazione di una quantità sufficiente ad un’unica seduta, in questo post riprendiamo il discorso discutendo anche della fase di conservazione del colore.
 

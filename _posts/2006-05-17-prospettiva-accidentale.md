@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Prospettiva Accidentale"
 date: 2006-05-17 11:17:32
 categories: ['Disegno']
 tags: ['prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/prospettiva-accidentale-4.jpg"
 ---
-
-![Cubo in Prospettiva Accidentale]({{ site.baseurl }}/wp-content/uploads/prospettiva-accidentale-4.jpg "Cubo in Prospettiva Accidentale")
 
 Quest’articolo è un’introduzione alla prospettiva accidentale che ti aiuterà a migliorare i tuoi disegni rendendoli più realistici.
 

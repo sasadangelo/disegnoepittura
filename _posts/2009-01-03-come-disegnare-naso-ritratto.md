@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come Disegnare il Naso in un Ritratto"
 date: 2009-01-03 08:00:30
 categories: ['Disegno']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/naso2.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/naso2.jpg)
 
 In questo post vedremo un semplice tutorial passo per passo per disegnare un naso. Come già detto in altre occasioni, il tutorial va utilizzato solo come guida di riferimento per un naso tipico, è chiaro che poi quando si disegna dal vero bisogna concentrarsi sulle differenze tra il naso che si osserva e il modello descritto qui. Il naso, probabilmente, è l’elemento del viso in cui queste differenze sono più marcate, perché esistono diversi tipi di naso: lungo, all’insù, aquilino. In quest’articolo prenderemo in considerazione un naso normale, in futuri post analizzeremo poi i diversi tipi di naso.
 

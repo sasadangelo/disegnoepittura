@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Helen van Wyk"
 date: 2009-04-12 16:00:06
 categories: ['Artisti']
 tags: ['pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/helen.jpg"
 ---
-
-![helen van wyk]({{ site.baseurl }}/wp-content/uploads/helen.jpg "helen van wyk")
 
 Helen van Wyk (1930-1994) è nata in Fair Lawn nel New Jersey. Nella sua [biografia](http://www.askart.com/artist/Helen_Van_Wyk/117592/Helen_Van_Wyk.aspx) si legge che ha iniziato a dipingere all’età di 12 anni studiando con artisti del calibro di Ralph Entwistle e Maximillian Rasko. Nel 1990 ha realizzato per la PBS una serie televisiva dal titolo “Welcome to my Studio” dove insegnava la sua tecnica pittorica.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Jerry Yarnell"
 date: 2009-08-09 16:30:40
 categories: ['Artisti']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/jerry-yarnell.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/jerry-yarnell.jpg)
 
 Se amate dipingere paesaggi e il vostro medium preferito è l’acrilico allora non potete ignorare l’esistenza di [Jerry Yarnell](http://www.yarnellart.com/). Jerry è un artista statunitense diventato celebre nel settore per una nota trasmissione sul canale PBS dal titolo **The Jerry Yarnell School of Fine Art**. Attualmente l’artista trasmette regolarmente su  [BYU Television](https://www.byutv.org/) e altri [canali satellitari](http://www.yarnellart.com/shop/Schedule.htm). Ad esempio, su BYU Television questa è la [programmazione](https://www.byutv.org/livetv) per i mesi di Agosto e Settembre. La cosa interessante è che la TV trasmette anche in [streaming su web](https://www.byutv.org/), quindi è sufficiente collegarsi alla TV all’ora in cui inizia la trasmissione e guardare il programma. Considerate nei vostri calcoli il fuso orario e che spesso questi canali cambiano la loro programmazione. Volendo potete registrare il programma con il software open source [camstudio](http://camstudio.org/) che registra su hard disk ciò che appare sullo schermo. Qui di seguito riporto due esempi di paesaggi realizzati dall’artista, altri esempi li trovate sul suo [sito](http://www.yarnellschool.com/).
 

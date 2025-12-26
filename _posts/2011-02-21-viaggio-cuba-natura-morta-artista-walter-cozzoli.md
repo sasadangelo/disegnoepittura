@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Viaggio a Cuba, natura morta dell&#8217;artista Walter Cozzoli"
 date: 2011-02-21 10:12:29
 categories: ['Pittura']
 tags: ['nature morte']
-layout: single
+feature_image: "/wp-content/uploads/natura-morta-walter-cozzoli-colore-3.jpg"
 ---
-
-![Natura Morta di Walter Cozzoli]({{ site.baseurl }}/wp-content/uploads/natura-morta-walter-cozzoli-colore-3.jpg "Natura Morta di Walter Cozzoli")
 
 L’iniziativa [Incontra il Maestro Michelangelo Merisi detto Caravaggio]({{ site.baseurl }}/incontra-maestro-caravaggio/) sta dando i primi frutti ed è con molto piacere che voglio presentarvi il contributo di Walter Cozzoli. Con il suo lavoro, oltre ad esplorare la sua interpretazione della tecnica caravaggesca, ci da anche la possibilità di esplorare il tema delle texture che lui ha abilmente riprodotto nel suo lavoro. Poichè era da tempo che volevo parlare di quest’argomento ho pensato che il lavoro di Walter fosse adatto per proporre questo tema. Vi lascio alle parole di Walter e interverrò verso la fine per un’introduzione teorica all’uso delle texture.
 

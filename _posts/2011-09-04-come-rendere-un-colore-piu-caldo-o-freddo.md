@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come rendere un colore più caldo o freddo?"
 date: 2011-09-04 15:26:20
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/tavolozza-colori-primari.jpg"
 ---
-
-![Tavolozza colori primari]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-primari.jpg "Tavolozza colori primari")
 
 *Questa è la lezione 21 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 

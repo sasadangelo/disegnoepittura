@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Dipingere come Rubens, Vermeer e Rembrandt (V° parte)"
 date: 2009-09-29 08:00:19
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/rose-fig1-thumb.JPG"
 ---
 
-![dipingere rubens rembrandt vermeer]({{ site.baseurl }}/wp-content/uploads/rose-fig1-thumb.JPG "dipingere rubens rembrandt vermeer")
 **1° Fase di Colore**
 
 Dopo 3-4 settimane di attesa che l’asciugatura si completi, riprendiamo il nostro lavoro. Ricordiamo che quando trascorre molto più tempo è conveniente spalmare una cipolla sulla tela per i motivi che abbiamo già analizzato negli articoli precedenti. Prima di iniziare a dipingere si proceda a rimuovere la polvere con un rasoio e ad oliare la tela, rimuovendo, successivamente, l’olio in eccesso con uno straccio. Ricordatevi di rimuovere l’olio dalle zone che non riuscite a dipingere in giornata, altrimenti il dipinto ingiallisce. Il giorno successivo potete dipingere quelle zone stendendo opportunamente l’olio.

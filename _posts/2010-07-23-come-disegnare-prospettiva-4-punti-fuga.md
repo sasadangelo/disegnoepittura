@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare con prospettiva distorta con 4 punti di fuga"
 date: 2010-07-23 08:08:36
 categories: ['Disegno']
 tags: ['prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/prospettiva-4-punti-fuga-10.jpg "prospettiva-4-punti-fuga-10")
 
 Nei precedenti articoli sulla prospettiva abbiamo visto come utilizzare la [prospettiva centrale]({{ site.baseurl }}/prospettiva-centrale/), la [prospettiva accientale]({{ site.baseurl }}/prospettiva-accidentale/) e quella con [3 punti di fuga]({{ site.baseurl }}/siete-capaci-disegnare-utilizzando-prospettiva-3-punti-fuga/). Essendo il nostro mondo tridimensionale ci si aspetta che oltre i 3 punti di fuga non si possa andare. In realtà non è così e l’argomento di questo articolo sarà proprio la prospettiva con 4 punti di fuga. **Ma in quali situazioni si può verificare?** Un caso tipico i prospettiva con 4 punti di fuga si verifica quando l’osservatore è molto vicino al soggetto osservato. La vicinanza provoca una distorsione dell’immagine sul piano di proiezione simile a quelle visibili attraverso una palla di vetro.
 

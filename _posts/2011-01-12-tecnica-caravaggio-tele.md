@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Quali tele utilizzava Caravaggio?"
 date: 2011-01-12 14:21:30
 categories: ['Artisti']
 tags: ['pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/caravaggio-tecnica-tele.jpg"
 ---
-
-![La tecnica di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-tecnica-tele.jpg "La tecnica di Caravaggio")
 
 Quest’articolo è il primo di una serie in cui analizzeremo la [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Si partirà da fonti storiche e da documenti di restauro per ricostruire quelli che, probabilmente, sono stati i materiali e la tecnica utilizzata dall’artista per realizzare i suoi dipinti. Vedremo che sia la tecnica che i materiali utilizzati hanno subito delle variazioni nei diversi periodi di vita dell’artista (periodo romano, periodo napoletano, periodo siciliano e periodo maltese). Oltre all’aspetto storico, però, cercheremo di capire anche come è possibile utilizzare la stessa tecnica con i materiali che oggi abbiamo a disposizione.
 

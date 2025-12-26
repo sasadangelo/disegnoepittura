@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly. Che cos&#8217;è la saturazione?"
 date: 2006-10-25 10:00:47
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/munsellsphere.jpg"
 ---
-
-![munsellsphere]({{ site.baseurl }}/wp-content/uploads/munsellsphere.jpg "munsellsphere")
 
 Il termine **saturazione** (o **croma**) è quello che confonde di più gli artisti. Generalmente, con questo termine si intende il grado di brillantezza di un colore e non va confuso con il tono che, invece, indica quanto chiaro o scuro è un colore. Si può anche dire molto grossolanamente che la saturazione indica la quantità di grigio in un colore.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare gli occhi in una caricatura"
 date: 2009-09-22 08:00:42
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/caricatura-occhi-6.jpg"
 ---
-
-![caricatura occhi]({{ site.baseurl }}/wp-content/uploads/caricatura-occhi-6.jpg "caricatura occhi")
 
 Nei precedenti articoli, abbiamo compreso cosa serve per realizzare una buona caricatura e le due forme di base: testa e T naso-occhi. In quest’articolo ci concentreremo, in particolare, sugli occhi. Prima di fare ciò consiglio di leggere l’articolo su come [disegnare un occhio](/come-disegnare-occhi-ritratto/) in un ritratto.
 
@@ -34,7 +33,7 @@ L’effetto di esagerazione di allargamento o restringimento degli occhi si può
 
 Spesso può accedere che il soggetto abbia il taglio degli occhi largo o stretto, oppure ha assunto una posa con occhi spalancati o assottigliati. E’ possibile accentuare queste caratteristiche allargando o assottigliando ancora di più i loro occhi.
 
-![caricatura occhi]({{ site.baseurl }}/wp-content/uploads/caricatura-occhio-5.jpg "caricatura occhi")  
+![caricatura occhi]({{ site.baseurl }}/wp-content/uploads/caricatura-occhio-5.jpg "caricatura occhi")
 ![caricatura occhi]({{ site.baseurl }}/wp-content/uploads/caricatura-occhi-6.jpg "caricatura occhi")
 
 Ti è piaciuto quest’articolo? Leggi gli altri articoli del corso per [Disegnare una Caricatura](/corso-disegnare-una-caricatura/).

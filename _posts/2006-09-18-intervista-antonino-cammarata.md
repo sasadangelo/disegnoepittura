@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Intervista ad Antonino Cammarata"
 date: 2006-09-18 00:18:23
 categories: ['Artisti']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/fuori.jpg"
 ---
-
-![fuori]({{ site.baseurl }}/wp-content/uploads/fuori.jpg "fuori")
 
 Nei giorni scorsi ho avuto la possibilità di scambiare qualche email con il pittore [Antonino Cammarata]({{ site.baseurl }}/antonino-cammarata/).
 

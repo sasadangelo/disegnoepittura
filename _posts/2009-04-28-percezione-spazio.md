@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Percezione dello Spazio"
 date: 2009-04-28 18:43:59
 categories: ['Disegno']
 tags: ['composizione', 'prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/percezione-spazio-6.jpg"
 ---
-
-![percezione-spazio]({{ site.baseurl }}/wp-content/uploads/percezione-spazio-6.jpg "Percezione dello Spazio")
 
 Una delle più grandi difficoltà per un artista è quello di rappresentare su un foglio bidimensionale una realtà tridimensionale. Per riuscire in tale obiettivo, spesso vengono adottati degli artifici rappresentativi che il cervello dell’osservatore interpreta in un certo modo. E’ proprio questa interpretazione che consente di creare l’illusione di una realtà tridimensionale e, in quest’articolo, analizzeremo in dettaglio gli artifici più comuni. Supponiamo di avere un foglio diviso in due parti da una linea d’orizzonte e due oggetti sferici A e B con A avente dimensioni maggiori di B.
 ![Percezione dello Spazio]({{ site.baseurl }}/wp-content/uploads/percezione-spazio-1.jpg "Percezione dello Spazio")

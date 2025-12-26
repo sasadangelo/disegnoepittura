@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come verniciare un dipinto ad olio?"
 date: 2012-12-21 23:14:57
 categories: ['Pittura']
 tags: ['pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/vernice-finale-stesura-2.jpg"
 ---
-
-![Verniciare un dipinto - seconda mano]({{ site.baseurl }}/wp-content/uploads/vernice-finale-stesura-2.jpg "Verniciare un dipinto - seconda mano")
 
 Come verniciare un dipinto?
 

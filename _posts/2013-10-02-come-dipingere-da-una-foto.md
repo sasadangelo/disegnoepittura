@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere da una Foto"
 date: 2013-10-02 07:30:38
 categories: ['Pittura']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/Colore-foglia-primo-piano-mini.jpg"
 ---
-
-![Come dipingere da una Foto]({{ site.baseurl }}/wp-content/uploads/Colore-foglia-primo-piano-mini.jpg "Come dipingere da una Foto")
 
 Per email ricevo spesso domande su come dipingere da una foto e come fare ad imitarne le tinte. Di tanto in tanto questo tema viene ripreso anche sul forum. Per questo motivo ho deciso di dedicare all’argomento un articolo del blog. E’ probabile che alcuni concetti già li conosci, ma se avrai la pazienza di leggere tutto l’articolo ti posso assicurare che troverai la visione di insieme molto interessante.
 
@@ -31,16 +30,16 @@ Sappiamo tutti che quando andiamo a comprare una macchina fotografica dobbiamo p
 
 Un altro aspetto molto importante è l’aspect ratio di un’immagine, ossia il rapporto tra larghezza e altezza. Questo rapporto è molto importante perché la tela su cui andremo a dipingere anche se ha dimensioni maggiori rispetto alla foto, dovrà preservare il medesimo aspect ratio. Tipicamente le macchine fotografiche digitali in commercio hanno un aspect ratio di 4:3 (ossia 1.33) poiché sono progettati per uno schermo di un computer che ha quest’aspect ratio. Le tradizionali reflex, invece, hanno un aspect ratio di 3:2 (ossia 1.5). La seguente tabella mostra alcuni esempi di risoluzioni fotografiche con relative macchine che le supportano.
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| **Fotocamera** | **Megapixel** | **Larghezza Max (pixel)** | **AltezzaMax (pixel)** | **Aspect Ratio** |
-| Nikon Coolpix 950 | 2 | 1600 | 1200 | 4:3 |
-| Canon PowerShot A75, Nikon Coolpix 995 Epson 3100z | 3 | 2048 | 1563 | 4:3 |
-| Olympus E-1, Sony Cyber-shot DSC-F707, Canon PowerShot A460 | 5 | 2560 | 1920 | 4:3 |
-| Olympus Stylus 600 Digital | 6 | 2816 | 2112 | 4:3 |
-| Canon 350D | 8 | 3456 | 2304 | 3:2 |
-| Olympus E-410, Olympus E-510, Panasonic FZ50 | 10 | 3648 | 2736 | 4:3 |
-| Canon Powershot G9, Fujifilm FinePix F100fd | 12 | 4000 | 3000 | 4:3 |
+|                                                             |               |                           |                        |                  |
+| ----------------------------------------------------------- | ------------- | ------------------------- | ---------------------- | ---------------- |
+| **Fotocamera**                                              | **Megapixel** | **Larghezza Max (pixel)** | **AltezzaMax (pixel)** | **Aspect Ratio** |
+| Nikon Coolpix 950                                           | 2             | 1600                      | 1200                   | 4:3              |
+| Canon PowerShot A75, Nikon Coolpix 995 Epson 3100z          | 3             | 2048                      | 1563                   | 4:3              |
+| Olympus E-1, Sony Cyber-shot DSC-F707, Canon PowerShot A460 | 5             | 2560                      | 1920                   | 4:3              |
+| Olympus Stylus 600 Digital                                  | 6             | 2816                      | 2112                   | 4:3              |
+| Canon 350D                                                  | 8             | 3456                      | 2304                   | 3:2              |
+| Olympus E-410, Olympus E-510, Panasonic FZ50                | 10            | 3648                      | 2736                   | 4:3              |
+| Canon Powershot G9, Fujifilm FinePix F100fd                 | 12            | 4000                      | 3000                   | 4:3              |
 
 *Fonte Wikipedia*
 
@@ -66,14 +65,14 @@ La prima mostra una risoluzione di stampa a 4 dpi. Ovviamente non è una risoluz
 
 La seguente tabella indica la qualità di stampa in funzione dei DPI:
 
-|  |  |
-| --- | --- |
+|                       |         |
+| --------------------- | ------- |
 | **Qualità di Stampa** | **DPI** |
-| Eccellente | >=300 |
-| Ottima | 250 |
-| Discreta | 200 |
-| Mediocre | 150 |
-| Bassa | <=125 |
+| Eccellente            | >=300   |
+| Ottima                | 250     |
+| Discreta              | 200     |
+| Mediocre              | 150     |
+| Bassa                 | <=125   |
 
 Una stampa di qualità 300 DPI è considerata di qualità fotografica. Esistono stampanti capaci di stampare a 600 DPI, 1200 DPI e oltre. Ad ogni modo l’occhio umano ad un primo impatto potrebbe non accorgersi della differenza che può diventare evidente solo dopo un’attenta osservazione.
 
@@ -131,12 +130,12 @@ Questa è una domanda che periodicamente affiora nei vari forum, soprattutto que
 
 Se sei un aspirante artista e stai apprendendo il mestiere non ha senso usare mezzi meccanici o tecnologici. Esso diventa solo un ostacolo al tuo apprendimento. La mano si deve assuefuare alle misure, proporzioni e forme dei vari oggetti affinché tu sappia riprodurli senza tentennamenti. La prospettiva deve diventare così parte di te che devi poterla usare senza pensarci più di tanto. Stessa cosa per la composizione e per gli altri aspetti del disegno. Quando si impara il tempo non è un fattore di primaria importanza per cui è utile spendere più tempo su un disegno se questo si tradurrà in un maggiore apprendimento.
 
-> *Il giovane deve prima imparare prospettiva; poi le misure d’ogni cosa; poi di mano di buon maestro, per assuefarsi a buone membra; poi dal naturale, per confermarsi la ragione delle cose imparate; poi vedere un tempo le opere di mano di diversi maestri; poi far abito a mettere in pratica ed operare l’arte.  
+> *Il giovane deve prima imparare prospettiva; poi le misure d’ogni cosa; poi di mano di buon maestro, per assuefarsi a buone membra; poi dal naturale, per confermarsi la ragione delle cose imparate; poi vedere un tempo le opere di mano di diversi maestri; poi far abito a mettere in pratica ed operare l’arte.
 > Leonardo da Vinci, Trattato della Pittura*
 
 Quando si raggiunge una buona esperienza il disegno non va messo da parte, perché esso è sempre l’impalcatura su cui verranno costruite le tue opere. Può capitare, tuttavia, che per l’urgenza di una commissione o semplicemente perché non si vuole spendere troppo tempo sul disegno (perché magari per una data opera si vogliono sperimentare nuove tecniche pittoriche) può essere lecito accorciare i tempi utilizzando espedienti tecnologici. Molti studiosi d’arte sostengono che Caravaggio e Canaletto non disdegnarono l’uso della camera oscura per i loro dipinti. Anche Leonardo, nel suo Trattato, non rinuncia a suggerire espedienti “tecnici” per semplificare la vita dell’artista:
 
-> *Abbi un vetro grande come un mezzo foglio reale, e quello ferma bene dinanzi agli occhi tuoi, cioè tra l’occhio e la cosa che tu vuoi ritrarre; poi poniti lontano con l’occhio al detto vetro due terzi di braccio, e ferma la testa con un istrumento, in modo che tu non possa muoverla punto. Dipoi serra, o copriti un occhio, e col pennello o con il lapis a matite segna sul vetro ciò che di là appare, e poi lucida con carta tal vetro, e spolverizzalo sopra buona carta, e dipingila, se ti piace, usando bene di poi la prospettiva aerea.  
+> *Abbi un vetro grande come un mezzo foglio reale, e quello ferma bene dinanzi agli occhi tuoi, cioè tra l’occhio e la cosa che tu vuoi ritrarre; poi poniti lontano con l’occhio al detto vetro due terzi di braccio, e ferma la testa con un istrumento, in modo che tu non possa muoverla punto. Dipoi serra, o copriti un occhio, e col pennello o con il lapis a matite segna sul vetro ciò che di là appare, e poi lucida con carta tal vetro, e spolverizzalo sopra buona carta, e dipingila, se ti piace, usando bene di poi la prospettiva aerea.
 > Leonardo da Vinci, Trattato della Pittura*
 
 ## Il Test del Colore sulla Foto Stampata
@@ -177,7 +176,7 @@ Come puoi notare, partendo dal colore di base (il quinto da sinistra) ho mescola
 
 Questo modo di procedere l’ho usato anche per altri parti del dipinto. Con la spatola ho preparato i colori base e conservato in ballotte di plastica, poi durante la fase pittorica con il pennello ho preparato diverse gradazioni sulla tavolozza e con esse ho dipinto l’intero oggetto. Per i successivi oggetti vi mostro solo quali colori base ho utilizzato.
 
-> *Quelli che si vogliono non integralmente fidare del loro giudizio nel contraffare i veri colori delle foglie debbono pigliare una foglia di quell’albero che si vuol contraffare e sopra di quella fare le loro mistioni; e quando essa mistione non sarà conosciuta in differenza dal colore di tal foglia, allora tu sarai certo che tal colore è d’intera imitazione della foglia; e cosí puoi fare nelle altre che vuoi imitare.  
+> *Quelli che si vogliono non integralmente fidare del loro giudizio nel contraffare i veri colori delle foglie debbono pigliare una foglia di quell’albero che si vuol contraffare e sopra di quella fare le loro mistioni; e quando essa mistione non sarà conosciuta in differenza dal colore di tal foglia, allora tu sarai certo che tal colore è d’intera imitazione della foglia; e cosí puoi fare nelle altre che vuoi imitare.
 > Leonardo da Vincei, Trattato della Pittura*
 
 ### L’Uva
@@ -226,5 +225,5 @@ Purtroppo ho a disposizione la foto del solo colore chiaro.
 
 A questo punto credo sia chiaro qual è il mio modo di procedere quando dipingo da una fotografia. A volte la preparazione alla realizzazione di un dipinto può richiedere anche qualche giorno di preparazione necessario per cercare una buona foto con la giusta risoluzione, stamparla, plastificarla e poi studiarla.  Se fino ad oggi per te dipingere da una fotografia significava semplicemente prendere una foto da un giornale, magari di pochi centimetri, metterla davanti alla tela e cominciare a dipingere, allora avrai capito che sei fuori strada. Con questo metodo affinerai il tuo spirito di osservazione e la capacità di mescolare i colori. Quando avrai raggiunto una buona manualità e capacità di imitazione delle tinte allora il prossimo passo è il dipingere da vero.
 
-*Dipingere è come realizzare il delitto perfetto. Tutto deve essere studiato nei minimi dettagli.*  
+*Dipingere è come realizzare il delitto perfetto. Tutto deve essere studiato nei minimi dettagli.*
 **Seurat.**

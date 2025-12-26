@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly. La tabella dei colori per la gamma degli aranci."
 date: 2008-07-22 11:35:47
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/munsell_yr_chart.jpg"
 ---
 
-![munsell_yr_chart]({{ site.baseurl }}/wp-content/uploads/munsell_yr_chart.jpg "munsell_yr_chart")
 Riporto la Munsell chart YR con i relativi pigmenti per i colori ad acquarello [Maimeri Venezia](http://www.maimeri.it/it/categorie/acquerello/venezia.html). Le regole di costruzione sono le stesse viste per la [Munsell Chart Y](/munsell-color-system-vii-parte-chart-y/).
 ![munsell_yr_chart]({{ site.baseurl }}/wp-content/uploads/munsell_yr_chart.jpg "munsell_yr_chart")
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Tecniche di pittura ad olio: la patata"
 date: 2012-04-12 15:26:22
 categories: ['Pittura']
 tags: ['pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/pulire-dipinto-con-patata-5.JPG"
 ---
-
-![Tecniche di pittura ad olio: la patata]({{ site.baseurl }}/wp-content/uploads/pulire-dipinto-con-patata-5.JPG "Tecniche di pittura ad olio: la patata")
 
 Hai per lungo tempo lasciato un dipinto e ora vuoi riprenderlo? Durante tutto questo tempo il dipinto si è impolverato? Il colore sembra che scivoli via e non si lega perfettamente al supporto? Quest’articolo ti spiegherà una delle tecniche di pittura ad olio più antica che ti aiuterà a risolvere questi problemi.
 

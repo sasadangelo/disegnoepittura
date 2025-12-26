@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Natura Morta con un Bicchiere di Vino"
 date: 2012-03-09 13:36:02
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/natura-morta-bicchiere-vino-19.JPG"
 ---
-
-![Natura Morta con un Bicchiere di Vino]({{ site.baseurl }}/wp-content/uploads/natura-morta-bicchiere-vino-19.JPG "Natura Morta con un Bicchiere di Vino")
 
 In questo articolo vi spiegherò la realizzazione del dipinto “Natura Morta con un Bicchiere di Vino”. Questa natura morta è stata eseguita dal vero, quindi con la composizione davanti. Cercherò di descrivere passo dopo passo come l’ho eseguita, attraverso delle foto eseguite in corso d’opera. Natura Morta con un Bicchiere di Vino è stata eseguita a partire da un fondo scuro, ispirandomi alla tecnica Caravaggesca, per cui l’approccio all’esecuzione è singolare. Inoltre, vorrei precisare che non ho un metodo preciso, da seguire alla lettera per la realizzazione delle nature morte, bensì esso è molto vario.
 

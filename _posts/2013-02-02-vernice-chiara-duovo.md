@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Vernice a chiara d&#8217;uovo"
 date: 2013-02-02 21:25:58
 categories: ['Pittura']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg"
 ---
-
-![Vernice Provvisoria a base d'uovo]({{ site.baseurl }}/wp-content/uploads/vernice-provvisoria-uovo-applicazione-mini.jpg "Vernice Provvisoria a base d'uovo")
 
 Hai realizzato un dipinto ad olio e sai che devi aspettare almeno sei mesi per poterlo verniciare. Allo stesso tempo, però, sei ansioso di mostrarlo ai tuoi familiari ed amici, ma non vuoi che vedano le imperfezioni della superficie dovuti ai prosciughi che spesso è impossibile evitare. Come fare?
 

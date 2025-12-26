@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Tecnica di Caravaggio"
 date: 2013-01-17 08:00:46
 categories: ['Artisti']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/caravaggio-mini.jpg"
 ---
-
-![Tecnica di Caravaggio]({{ site.baseurl }}/wp-content/uploads/caravaggio-mini.jpg "Tecnica di Caravaggio")
 
 Con quale tecnica Caravaggio eseguiva i suoi dipinti? Questa è una serie di articoli il cui obiettivo è quello di illustrarti qual era la  tecnica di Caravaggio per realizzare molti dei suoi dipinti. Approfondirò l’argomento mediante l’analisi di alcuni suoi dipinti e vedrai una serie di progetti eseguiti passo dopo passo, per realizzare alcune copie di suoi dipinti, realizzati dai membri della community Disegno & Pittura.
 

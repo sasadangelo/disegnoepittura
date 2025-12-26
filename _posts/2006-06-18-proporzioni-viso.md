@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Proporzioni del viso"
 date: 2006-06-18 08:00:32
 categories: ['Disegno']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/proporzioni-viso-8.jpg"
 ---
-
-![proporzioni-viso-8]({{ site.baseurl }}/wp-content/uploads/proporzioni-viso-8.jpg "proporzioni-viso-8")
 
 In precedenza abbiamo parlato delle [proporzioni nel ritratto]({{ site.baseurl }}/il-ritratto/), fornendo le misure di un modello ideale che dovrebbe fungere da punto di riferimento durante l’esecuzione di un ritratto. In questo post vedremo la costruzione di questo modello spiegato passo per passo con maggiori dettagli sull’esecuzione.
 

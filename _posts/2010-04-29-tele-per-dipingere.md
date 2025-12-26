@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Supporti per dipingere ad olio"
 date: 2010-04-29 22:07:09
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/Fig-1-Tela-100.jpg"
 ---
-
-![Tele per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-1-Tela-100.jpg)
 
 Il supporto per dipingere a olio per eccellenza è la tela che puoi acquistare in un negozio di Belle Arti o su Internet già montata su un telaio.
 

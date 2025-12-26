@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Crea la tua galleria di dipinti con Dropbox"
 date: 2012-03-22 00:56:51
 categories: ['Art Business']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/galleria-dipinti-dropbox-1.JPG"
 ---
-
-![Crea la tua Galleria di dipinti con Dropbox]({{ site.baseurl }}/wp-content/uploads/galleria-dipinti-dropbox-1.JPG "Crea la tua Galleria di dipinti con Dropbox")
 
 Non hai un sito web e vuoi far conoscere i tuoi dipinti sul web?
 

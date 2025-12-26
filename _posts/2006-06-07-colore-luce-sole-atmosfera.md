@@ -1,9 +1,9 @@
 ---
+layout: single
 title: "Colore della luce del sole e dell&#8217;atmosfera"
 date: 2006-06-07 12:30:58
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'prospettiva aerea']
-layout: single
 ---
 
 Non ricordo se è stato Seurat a dire: “un quadro è come un omicidio perfetto; nulla deve essere lasciato al caso”. Allo stesso modo la pensa sicuramente [John E. Robinson]({{ site.baseurl }}/dipingere-mare-lezioni-artista-john-robinson/) che sostiene che un quadro è un susseguirsi di decisioni (compositive, tonali, colorimetriche, ecc.).

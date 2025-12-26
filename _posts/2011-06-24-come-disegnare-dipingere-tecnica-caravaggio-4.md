@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Il disegno, le incisioni, i pentimenti, le stesure al risparmio, i leganti e la tavolozza."
 date: 2011-06-24 18:40:44
 categories: ['Pittura']
 tags: ['pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg"
 ---
-
-![Il Ragazzo con Canestra di Frutta di Caravaggio]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Il Ragazzo con Canestra di Frutta di Caravaggio")
 
 Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest’articolo.
 

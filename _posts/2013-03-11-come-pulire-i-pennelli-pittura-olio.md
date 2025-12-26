@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come pulire i pennelli nella pittura ad olio?"
 date: 2013-03-11 09:35:26
 categories: ['Pittura']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/pennelli-rovinati-mini.jpg"
 ---
-
-![Pennelli rovinati]({{ site.baseurl }}/wp-content/uploads/pennelli-rovinati-mini.jpg "Pennelli rovinati")
 
 Come pulire i pennelli quando si finisce di dipingere credo lo sanno tutti, [ne ho parlato anche io durante il corso di pittura ad olio]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-8/).
 

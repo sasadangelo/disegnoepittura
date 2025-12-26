@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Leonardo e i colori primari"
 date: 2006-05-04 10:00:29
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/medium_leonardo2.jpg"
 ---
-
-![medium_leonardo2]({{ site.baseurl }}/wp-content/uploads/medium_leonardo2.jpg "medium_leonardo2")
 
 Nel suo Trattato di Pittura leonardo si esprimeva così sui colori primari. Nella prima parte egli cita i 6 colori primari: giallo, rosso e blu (cioè i primari) insieme a bianco e nero più due colori come il verde e l’azzurro che, in realtà, non sono semplici. Infatti, Leonardo lo chiarisce poi successivamente.
 

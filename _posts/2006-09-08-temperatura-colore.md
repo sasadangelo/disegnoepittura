@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Temperatura del colore"
 date: 2006-09-08 09:25:07
 categories: ['Teoria dei Colori']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/temperatura.jpg"
 ---
-
-![temperatura]({{ site.baseurl }}/wp-content/uploads/temperatura.jpg "temperatura")
 
 Che cos’è la temperatura di un colore? Conoscere che cos’è la temperatura di un colore come può aiutarti a dipingere meglio?
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Proporzioni del corpo umano"
 date: 2006-06-23 08:00:44
 categories: ['Disegno']
 tags: ['figura umana']
-layout: single
+feature_image: "/wp-content/uploads/body.gif"
 ---
-
-![Proporzioni del corpo umano]({{ site.baseurl }}/wp-content/uploads/body.gif "Proporzioni del corpo umano")
 
 Come per il viso anche per il corpo umano è possibile definire le relazioni tra le varie parti di un modello ideale. 
 

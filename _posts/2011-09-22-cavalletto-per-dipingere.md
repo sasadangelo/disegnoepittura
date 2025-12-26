@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Cavalletto per dipingere e altri materiali"
 date: 0201-09-22 21:59:09
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/Fig-14-Cavalletti-100.jpg"
 ---
-
-![Cavalletto per dipingere]({{ site.baseurl }}/wp-content/uploads/Fig-14-Cavalletti-100.jpg "Cavalletto per dipingere")
 
 In quest’articolo voglio spiegare quali cavalletti per dipingere sono disponibili in commercio e, inoltre, mi piacerebbe parlare anche di altri materiali usati nella pittura a olio come: solventi, medium e spatole.
 

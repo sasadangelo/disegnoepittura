@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere i colori del tramonto nel paesaggio?"
 date: 2006-08-20 12:20:08
 categories: ['Pittura']
 tags: ['paesaggi']
-layout: single
+feature_image: "/wp-content/uploads/sunset31.jpg"
 ---
-
-![sunset31]({{ site.baseurl }}/wp-content/uploads/sunset31.jpg "sunset31")
 
 Su questo blog, in diverse occasioni, abbiamo parlato di [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/). Con quest’articolo vogliamo fare un ulteriore passo avanti discutendo anche di cosa accade al tramonto.
 

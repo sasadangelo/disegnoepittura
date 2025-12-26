@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Preparare i colori ad olio da se"
 date: 2006-10-04 08:00:17
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/oil7.jpg"
 ---
 
-![oil1]({{ site.baseurl }}/wp-content/uploads/oil7.jpg "oil7")
 Tempo fa mi ritrovavo a via Margutta alla mostra dei Cento Pittori. Mi capitò di parlare con un artista che effettuava riproduzioni di quadri antichi utilizzando tecniche antiche. Io avevo intuito che si preparava i colori da solo ma volevo una conferma così gli faci la seguente domanda: “ma lei utilizza tubetti di colore o se li prepara da solo?”.
 
 Lui mi guardò quasi come dire “ma che razza mi domanda mi fai …”. Mi confermò che i colori se li preparava rigorosamente da soli. Io sconsiglio questa pratica ai principianti e anche a quelli che non avvertono un’esigenza specifica. Sperimentare la preparazione dei colori è giusta, ma la scelta non deve avvenire solo per dire … che figo, i colori me li preparo da solo. Non so se sono stato chiaro.

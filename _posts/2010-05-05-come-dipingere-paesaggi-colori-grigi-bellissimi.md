@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere paesaggi con colori grigi bellissimi e con i colori complementari"
 date: 2010-05-05 07:39:51
 categories: ['Pittura']
 tags: ['mescolare i colori', 'paesaggi']
-layout: single
+feature_image: "/wp-content/uploads/dipingere-paesaggi-con-grigi-bellissimi-9.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/dipingere-paesaggi-con-grigi-bellissimi-9.jpg "dipingere-paesaggi-con-grigi-bellissimi-9")
 
 Una delle difficoltà dell’artista che tenta di imitare le tinte è che in natura esse spesso si presentano con gradi di saturazione molto basse, cioè colori che tendono al grigio. Molte volte mi è capitato di guardare un muro, il tronco di un albero e non riuscire a definire il colore dell’oggetto come invece accade guardando la chioma di un albero a cui attribuisco subito il colore verde. Il motivo è che spesso queste tinte tendono al grigiastro e la gamma dei colori di appartenenza risulta meno evidente. Quando si parla di grigio è facile pensare a mescolanze di bianco e nero, purtroppo i grigi ottenuti con questi colori sono tinte monocromatiche quasi mai presenti in natura.
 

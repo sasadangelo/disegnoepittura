@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Ritratto"
 date: 2006-05-01 10:35:47
 categories: ['Disegno']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/ritratto-mini1.gif"
 ---
-
-![Ritratto]({{ site.baseurl }}/wp-content/uploads/ritratto-mini1.gif "Ritratto")
 
 Con questo articolo iniziamo ad occuparci delle tecniche per realizzare il ritratto, cominciando con un breve cenno sulle proporzioni del viso. Nel disegno si usano spesso dei trucchi per agevolare il lavoro dell’artista. Nell’esecuzione di un ritratto il ritrattista ha bene in mente le proporzioni tra le varie parti del viso di un modello ideale. La sua abilità sta nel trovare le differenze tra le proporzioni del soggetto che sta ritraendo e quelle del modello ideale. Per maturare anche noi questa capacità dobbiamo fissare bene nella nostra mente le proporzioni di un modello ideale.
 

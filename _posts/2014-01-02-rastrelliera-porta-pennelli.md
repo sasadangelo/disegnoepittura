@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Una rastrelliera porta pennelli"
 date: 2014-01-02 17:06:34
 categories: ['Pittura']
 tags: ['materiali']
-layout: single
+feature_image: "/wp-content/uploads/rastrelliera-pennelli-mini.jpg"
 ---
-
-![Rastrelliera Porta Pennelli]({{ site.baseurl }}/wp-content/uploads/rastrelliera-pennelli-mini.jpg "Rastrelliera Porta Pennelli")
 
 Oggi voglio mostrarvi un utilissimo strumento che utilizzo quando dipingo che potete costruire anche voi facilmente: **una rastrelliera porta pennelli**.
 

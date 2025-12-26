@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Quali telai utilizzava Caravaggio?"
 date: 2011-02-04 12:24:21
 categories: ['Artisti']
 tags: ['pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg"
 ---
-
-![Fanciullo con il canestro di frutta]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestro-frutta-caravaggio.jpg "Fanciullo con il canestro di frutta")
 
 Questo è un articolo della serie [Tecnica di Caravaggio]({{ site.baseurl }}/tecnica-di-caravaggio/ "Tecnica di Caravaggio"). Se non hai letto gli articoli precedenti ti consiglio di leggerli prima di andare avanti con la lettura di quest’articolo.
 

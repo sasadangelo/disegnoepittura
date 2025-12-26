@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere il mare con le lezioni dell&#8217;artista John E. Robinson"
 date: 2009-12-01 08:00:13
 categories: ['Artisti']
 tags: ['libri e dvd', 'paesaggi', 'prospettiva aerea']
-layout: single
+feature_image: "/wp-content/uploads/john-e-robinson.jpg"
 ---
-
-![john-e-robinson]({{ site.baseurl }}/wp-content/uploads/john-e-robinson.jpg "john-e-robinson")
 
 John E. Robinson (1932-2008) è stato un artista della east coast americana specializzato nella realizzazione di paesaggi marini. I tipi di paesaggio dipinti dall’artista, però, non sono quelli a cui siamo abituati noi in italia, cioè paesaggi con mare calmo e azzurro, cielo limpido, barche, e case arroccate sulle colline. Il mare che dipingeva l’artista è quello tipico della costa pacifica americana, cioè mare agitato, grandi onde che si scagliano sulle rocce, schiuma presente un pò ovunque.
 

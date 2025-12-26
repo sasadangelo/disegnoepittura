@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Dipingere una copia di Patroclo di Jaques Louis David"
 date: 2011-11-10 00:42:57
 categories: ['Pittura']
 tags: ['figura umana']
-layout: single
+feature_image: "/wp-content/uploads/Copia-Patroclo-Jaques-Louis-David.jpg"
 ---
 
-![Copia del Patroclo di Jaques Louis David]({{ site.baseurl }}/wp-content/uploads/Copia-Patroclo-Jaques-Louis-David.jpg "Copia del Patroclo di Jaques Louis David")
 
 Questa è una copia, eseguita da Marco Maria Fenocchio, di [Patroclo](https://it.wikipedia.org/wiki/Patroclo) del pittore [Jaques Louis David](https://it.wikipedia.org/wiki/Jacques-Louis_David) pittore francese. Le biografie raccontano che David  fosse lontano parente di [Francois Boucher](https://it.wikipedia.org/wiki/Fran%C3%A7ois_Boucher) primo pittore del re a quei tempi, ma con cui non studiò mai per via dell’avanzata età di quest’ultimo. Egli imparò il mestiere da [Joseph Marie Vien](https://it.wikipedia.org/wiki/Joseph-Marie_Vien) considerato il padre del neoclassicismo francese. Quest’ultimo si formò a sua volta con [Charles Joseph Natoire](https://it.wikipedia.org/wiki/Charles-Joseph_Natoire) considerato all’epoca alla pari di Francois Boucher. Quest’ultimo studiò con [Francois Lemoyne](https://it.wikipedia.org/wiki/Fran%C3%A7ois_Lemoyne) (ma anche con Louis Galloche) pittore francese rococò che a sua volta imparò il mestiere da [Louis Galloche](https://en.wikipedia.org/wiki/Louis_Galloche) che a sua volta lo imparò da [Louis Boullogne II](https://en.wikipedia.org/wiki/Louis_de_Boullogne) figlio del pittore [Louis Boullogne](https://en.wikipedia.org/wiki/Louis_Boullogne) e fratello di tre altri pittori [Bon](https://en.wikipedia.org/wiki/Bon_Boullogne), [Madeleine](https://en.wikipedia.org/wiki/Madeleine_Boullogne) e [Genevieve](https://it.wikipedia.org/wiki/Genevi%C3%A8ve_Boullogne). Questa piccola genesi ci consente di capire come non sempre si diventa grandi artisti per caso e credo sia utile per ripassare un pò di artisti francesi dall’inizio del ‘600 fino a fine ‘700. Ma Jaques Louis David fu anche maestro di [Jean Auguste Dominique Ingres](https://it.wikipedia.org/wiki/Jean_Auguste_Dominique_Ingres) a sua volta maestro di [William Adolphe Bouguereau](https://it.wikipedia.org/wiki/William-Adolphe_Bouguereau). Tutti questi pittori oltre ad essere accomunati dal rapporto maestro-allievo erano anche accomunati dal fatto di aver vinto il premio [Prix de Rome](https://it.wikipedia.org/wiki/Prix_de_Rome#Elenco_dei_vincitori_per_la_pittura) una borsa di studio che lo stato francese dava agli studenti che si distinguevano nel campo delle arti. L’unica eccezione è Louis Boullogne padre che, sicuramente, non era più studente quando nacque il premio. Questo premio era considerato il trampolino di lancio verso una carriera artistica di primaria grandezza. Il premio fu abolito nel 1968 dal ministro della Cultura André Malreau.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Disegno della figura umana"
 date: 2006-08-29 16:50:20
 categories: ['Disegno']
 tags: ['figura umana']
-layout: single
+feature_image: "/wp-content/uploads/body8.jpg"
 ---
-
-![body8]({{ site.baseurl }}/wp-content/uploads/body8.jpg "body8")
 
 Fino ad oggi abbiamo discusso le [proporzioni del corpo umano]({{ site.baseurl }}/proporzioni-corpo-umano/), in riferimento ad una figura ideale. Abbiamo validato poi quelle proporzioni analizzando l’[uomo vitruviano di Leonardo]({{ site.baseurl }}/uomo-vitruviano/). Lo scopo di questo tutorial è quello di costruire, passo dopo passo, una figura umana tenendo in considerazioni le proporzioni ideali definite secoli orsono da Vitruvio prima e i pittori rinascimentali poi.
 

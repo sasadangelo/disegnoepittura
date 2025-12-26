@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Anamorfosi"
 date: 2006-06-27 08:00:51
 categories: ['Disegno']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/img0.jpg"
 ---
-
-![Anamorfosi](http://www.attivissimo.net/antibufala/madonnaro/img0.jpg "Anamorfosi")
 
 Sul sito [illuweb.it](http://www.illuweb.it "Illuweb.it") si legge la seguente definizione di anamorfosi:
 

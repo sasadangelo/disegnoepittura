@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere come Rubens, Vermeer e Rembrandt. (III parte)."
 date: 2006-06-22 08:00:41
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/rose.jpg"
 ---
-
-![rose]({{ site.baseurl }}/wp-content/uploads/rose.jpg "rose")
 
 ### Chiaroscuro
 

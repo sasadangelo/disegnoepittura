@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Classificazione dei Pigmenti"
 date: 2006-05-21 10:05:54
 categories: ['Teoria dei Colori']
 tags: ['colori', 'mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/medium_pigmenti2.jpg"
 ---
-
-![medium_pigmenti2]({{ site.baseurl }}/wp-content/uploads/medium_pigmenti2.jpg "medium_pigmenti2")
 
 Nell’articolo [Osservazioni sui colori per aiutare l’artista a mescolare i colori in Pittura](/osservazioni-colori/) abbiamo visto come in natura esistono solo 6 colori: giallo, rosso, blu, verde, viola, arancio. Ovviamente a questi si aggiungono il bianco e nero (anche se qualcuno, a ragione, potrà sostenere che il bianco e il nero non esistono in natura).
 

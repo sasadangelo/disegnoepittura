@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Oliatura di un dipinto"
 date: 2013-08-26 16:25:30
 categories: ['Pittura']
 tags: ['nature morte', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/oliatura-versare-olio-mini.jpg"
 ---
-
-![Oliatura - Versare Olio]({{ site.baseurl }}/wp-content/uploads/oliatura-versare-olio-mini.jpg)
 
 In quest’articolo spiegherò cos’è l’oliatura di un dipinto e come si esegue.
 

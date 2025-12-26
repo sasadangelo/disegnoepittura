@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Vergine delle Rocce"
 date: 2012-08-29 14:05:00
 categories: ['Pittura']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg"
 ---
-
-![Vergine delle Rocce]({{ site.baseurl }}/wp-content/uploads/vergine-rocce-national-gallery-thumbnail.jpg "Vergine delle Rocce")
 
 Come fu dipinta da Leonardo la Vergine delle Rocce oggi custodita alla National Gallery?
 

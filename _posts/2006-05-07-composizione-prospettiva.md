@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Composizione e Prospettiva"
 date: 2006-05-07 10:00:48
 categories: ['Disegno']
 tags: ['composizione', 'prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/composizione-prospettiva.gif"
 ---
-
-![Composizione e Prospettiva]({{ site.baseurl }}/wp-content/uploads/composizione-prospettiva.gif "Composizione e Prospettiva")
 
 *Foto da [www.daube.ch](http://www.daube.ch/docu/glossary/drawingtools.html "Drawing Tools")*
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare i riflessi nel Paesaggio"
 date: 2010-03-22 12:00:05
 categories: ['Disegno']
 tags: ['paesaggi']
-layout: single
+feature_image: "/wp-content/uploads/come-disegnare-riflessi-paesaggio.jpg"
 ---
-
-![come-disegnare-riflessi-paesaggio]({{ site.baseurl }}/wp-content/uploads/come-disegnare-riflessi-paesaggio.jpg "come-disegnare-riflessi-paesaggio")
 
 I riflessi in un paesaggio sono spesso trascurati dagli artisti, soprattutto dai principianti. Non nego che per lungo tempo li ho trascurati pure io perchè li consideravo semplici dettagli. Magari un lago, un fiume o uno stagno mi venivano bene e non avevo voglia di rovinarli con un dettaglio trascurabile. Poi leggendo alcuni libri ho capito che non sono un dettaglio, anzi trascurarli potrebbe compromettere l’intera opera. Anche i riflessi seguono alcune regole la cui non conoscenza porta a commettere errori facilmente individuabili dall’occhio esperto. In quest’articolo parleremo degli accorgimenti da seguire. Come già ripetuto in altri articoli, lo scopo di questo genere di articoli non è quello di definire regole ferree con cui incatenare la creatività dell’artista, bensì sono regole che si osservano in natura e che l’artista deve conoscere proprio per poi potersene staccare volontariamente quando il processo creativo lo richiede.
 

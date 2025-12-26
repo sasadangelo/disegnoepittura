@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Intervista all&#8217;artista neozelandese Richard Robinson sulla vendita di opere d&#8217;arte online e offline"
 date: 2010-07-30 07:00:06
 categories: ['Artisti']
 tags: ['interviste']
-layout: single
+feature_image: "/wp-content/uploads/richard-robinson-painter.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/richard-robinson-painter.jpg "Richard Robinson")
 
 [Richard Robinson](http://www.livepaintinglessons.com/) è un artista neozelandese autodidatta che da dieci anni è artista professionista ed utilizza Internet come veicolo di promozione del suo lavoro. Richard ha anche un [blog](http://thecompleteartist.ning.com/) che io seguo attraverso gli RSS feed. Richard si occupa prevalentemente di paesaggi e il suo business model è basato su:
 

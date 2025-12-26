@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "17 errori da evitare quando si dipinge con i colori ad olio"
 date: 2010-10-08 23:26:52
 categories: ['Pittura']
 tags: ['pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/pittura-olio-errori.jpg"
 ---
-
-![Errori nella Pittura ad olio]({{ site.baseurl }}/wp-content/uploads/pittura-olio-errori.jpg "Errori nella Pittura ad olio")
 
 Per imparare a dipingere un primo metodo è quello di studiare tutorial che spiegano “Come fare per …”. Un altro metodo altrettanto efficace è quello di conoscere “Cosa non fare per …”. In quest’articolo vorrei adottare questo secondo principio elencando le 17 errori  che ho commesso in passato e che ora non ripeterò più.
 

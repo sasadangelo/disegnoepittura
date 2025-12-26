@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come costruire una cornice Usa e Getta"
 date: 2012-10-07 07:51:00
 categories: ['Vari']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/enrico-fiorentini.jpg"
 ---
-
-![Enrico Fiorentini]({{ site.baseurl }}/wp-content/uploads/enrico-fiorentini.jpg "Enrico Fiorentini")
 
 Spiego, a chi è interessato, come costruire una cornice usa e getta che uso quando devo regalare un quadro.
 
@@ -58,18 +57,18 @@ Per quanto riguarda gli attrezzi, ognuno è padrone in casa sua perciò i materi
 
 Per tenere unite le stecche ho impiegato delle grappette sparate da una spillatrice, inserite a mano dopo aver cosparso la colla con una spatolina. Fig. 7- 10.
 
-![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare.jpg "Cornice Usa e Getta - Incollaggio")  
-*Fig. 7*  
-![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-2.jpg "Cornice Usa e Getta - Incollaggio")  
-*Fig. 8*  
-![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-3.jpg "Cornice Usa e Getta - Incollaggio")  
-*Fig. 9*  
-![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-4.jpg "Cornice Usa e Getta - Incollaggio")  
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare.jpg "Cornice Usa e Getta - Incollaggio")
+*Fig. 7*
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-2.jpg "Cornice Usa e Getta - Incollaggio")
+*Fig. 8*
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-3.jpg "Cornice Usa e Getta - Incollaggio")
+*Fig. 9*
+![Cornice Usa e Getta - Incollaggio]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-incollare-4.jpg "Cornice Usa e Getta - Incollaggio")
 *Fig. 10*
 
 Successivamente ho asciugato la colla in eccedenza con una pezzuola.
 
-![Cornice Usa e Getta - Pronta per Verniciatura]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-da-verniciare.jpg "Cornice Usa e Getta - Pronta per Verniciatura")  
+![Cornice Usa e Getta - Pronta per Verniciatura]({{ site.baseurl }}/wp-content/uploads/cornice-usa-getta-da-verniciare.jpg "Cornice Usa e Getta - Pronta per Verniciatura")
 *Fig.11*
 
 ## La Verniciatura

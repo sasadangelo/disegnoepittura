@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Bagnato su bagnato e grasso su magro, due tecniche di pittura ad olio a confronto."
 date: 2011-02-19 23:19:27
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/impressionisti-pranzo-canottieri.jpg"
 ---
-
-![Bal au Moulin de la Galette]({{ site.baseurl }}/wp-content/uploads/impressionisti-pranzo-canottieri.jpg "Bal au Moulin de la Galette")
 
 *Questa è la lezione 13 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 

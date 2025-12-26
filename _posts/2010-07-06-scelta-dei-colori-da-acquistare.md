@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Scelta dei colori da acquistare"
 date: 2010-07-06 15:41:12
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/nero-avorio-maimeri-classico1.jpg"
 ---
-
-![nero avorio maimeri classico]({{ site.baseurl }}/wp-content/uploads/nero-avorio-maimeri-classico1.jpg "nero avorio maimeri classico")
 
 [Dopo che hai analizzato le varie marche e linee di colori]({{ site.baseurl }}/colori-ad-olio/ "Colori ad Olio") e hai effettuato la tua scelta in termini di rapporto qualità/prezzo, devi scegliere con quali colori comporre la tua tavolozza.
 

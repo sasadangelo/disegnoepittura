@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "La Caricatura"
 date: 2009-08-03 09:19:43
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/caricatura-obama.JPG"
 ---
-
-![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-obama.JPG "caricatura")
 
 Questo è l’articolo di introduzione del [corso per disegnare una caricatura](/corso-disegnare-una-caricatura/ "Corso per Disegnare una Caricatura").
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly."
 date: 2006-10-05 08:00:09
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/munsell1.jpg"
 ---
-
-![munsell1]({{ site.baseurl }}/wp-content/uploads/munsell1.jpg "munsell1")
 
 A partire da oggi, vedremo come mescolare i colori con il metodo di Munsell. Molti artisti usano questo modello perchè fornisce un modo semplice e intuitivo per descrivere un colore e riuscire a mescolarlo mediante la combinazione di due o più colori. Questo sistema si basa sulla teoria di [Albert Munsell](https://en.wikipedia.org/wiki/Albert_Henry_Munsell), un pittore americano che fu l’ideatore di questo sistema e da cui esso prendo il nome.
 

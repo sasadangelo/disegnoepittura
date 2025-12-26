@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Ti piacerebbe &#8220;Dipingere insieme&#8221; a Walter Cozzoli e a tutta la community Disegno &#038; Pittura una bella Natura Morta?"
 date: 2011-11-28 13:14:17
 categories: ['Vari']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/Frutti-Calici.jpg"
 ---
-
-![Frutti e Calici]({{ site.baseurl }}/wp-content/uploads/Frutti-Calici.jpg "Frutti e Calici")
 
 Ti piacerebbe dipingere insieme a Walter Cozzoli e tutta la community Disegno & Pittura una Natura Morta dall’inizio alla fine seguendo un video corso in italiano che ti spiegherà come fare? Allora leggi il resto dell’articolo per capire come fare a partecipare all’iniziativa **Dipingere Insieme** promossa da Walter Cozzoli.
 

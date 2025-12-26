@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere un&#8217; Onda"
 date: 2009-01-14 18:39:28
 categories: ['Pittura']
 tags: ['paesaggi', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/dipingere-onda.jpg"
 ---
-
-![Dipingere Un'Onda]({{ site.baseurl }}/wp-content/uploads/dipingere-onda.jpg "Dipingere Un'Onda")
 
 Vuoi imparare a dipingere un paesaggio marino con le onde? Il seguente tutorial ti insegnerà come fare passo dopo passo.
 
@@ -20,8 +19,8 @@ Il soggetto prevede un’onda che si infrange sugli scogli in primo piano e alcu
 
 ## Dipingere l’Onda
 
-Con un pennello sottile effettuiamo il disegno del soggetto. Questo disegno deve essere molto accurato in modo da poter garantire il miglior risultato finale. Per il disegno si può utilizzare un colore blu chiaro (blu ceruleo ad esempio) completato il quale va lasciato asciugare. Mischiando un pò di trementina con il colore ad olio si può accelerare i tempi di asciugatura.  
-![Disegno della Marina con Onda]({{ site.baseurl }}/wp-content/uploads/disegno-onda.jpg "Disegno della Marina con Onda")  
+Con un pennello sottile effettuiamo il disegno del soggetto. Questo disegno deve essere molto accurato in modo da poter garantire il miglior risultato finale. Per il disegno si può utilizzare un colore blu chiaro (blu ceruleo ad esempio) completato il quale va lasciato asciugare. Mischiando un pò di trementina con il colore ad olio si può accelerare i tempi di asciugatura.
+![Disegno della Marina con Onda]({{ site.baseurl }}/wp-content/uploads/disegno-onda.jpg "Disegno della Marina con Onda")
 Iniziamo con il dipingere il centro di interesse che in questo soggetto corrisponde alla parte traslucente dell’onda.
 
 Con una spatola e utilizzando i colori: verde smeraldo (viridian), giallo limone e carminio d’alzarina; prepariamo 3 miscele di colori:
@@ -48,7 +47,7 @@ Per la parte di schiuma in ombra utilizzo una miscela di verde smeraldo e cremis
 
 ### Cima dell’Onda
 
-In questa fase possiamo dipingere anche la cima dell’onda riutizzando gli stessi colori utilizzati per la parte traslucente. La miscela 3 può essere utilizzata per il centro e la 2 e la 1 per i lati. Dove la cima tocca la schiuma utilizzate il colore dell’atmosfera.  
+In questa fase possiamo dipingere anche la cima dell’onda riutizzando gli stessi colori utilizzati per la parte traslucente. La miscela 3 può essere utilizzata per il centro e la 2 e la 1 per i lati. Dove la cima tocca la schiuma utilizzate il colore dell’atmosfera.
 ![Ombra della Schiuma]({{ site.baseurl }}/wp-content/uploads/ombra-schiuma.jpg "Ombra della Schiuma")
 
 Utilizzando sempre un pennello tondo sottile e il colore dell’atmosfera dipingiamo il margine sinistro della cima dell’onda. Sempre con lo stesso pennello e lo stesso colore si dipingano le linee tondeggianti che compaiono sulla cima dell’onda. Questi dettagli aggiungono contrasto e danno all’onda un aspetto tondeggiante e tridimensionale. Alla fine sia la zona d’ombra della schiuma che la cima vanno leggermente sfumati con una pennellessa con tocco leggero e seguendo il verso delle linee.
@@ -85,5 +84,5 @@ Per completare il dipinto aggiungiamo alla schiuma le zone di max luce. Le zone 
 
 Questo è il risultato finale.
 
-![Marina con Onda Finita]({{ site.baseurl }}/wp-content/uploads/marina-onda-finito.jpg "Marina con Onda Finita")  
+![Marina con Onda Finita]({{ site.baseurl }}/wp-content/uploads/marina-onda-finito.jpg "Marina con Onda Finita")
 *Fonte: www.pickeringstudio.com*

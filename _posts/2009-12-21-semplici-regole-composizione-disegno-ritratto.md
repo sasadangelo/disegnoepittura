@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Alcune semplici regole di composizione nel Disegno del Ritratto"
 date: 2009-12-21 15:11:22
 categories: ['Disegno']
 tags: ['composizione', 'ritratto']
-layout: single
+feature_image: "/wp-content/uploads/semplici-regole-composizione-disegno-ritratto-3.jpg"
 ---
-
-![semplici-regole-composizione-disegno-ritratto-3]({{ site.baseurl }}/wp-content/uploads/semplici-regole-composizione-disegno-ritratto-3.jpg "semplici-regole-composizione-disegno-ritratto-3")
 
 Nell’articolo [I diversi tipi di Inquadratura nel Disegno del Ritratto e della Figura Umana]({{ site.baseurl }}/inquadratura-disegno-ritratto-figura-umana/) abbiamo visto le tre possibili inquadrature del ritratto:
 

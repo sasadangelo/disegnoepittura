@@ -1,18 +1,13 @@
 ---
+layout: single
 title: "Quali colori usare per una Grisaglia?"
 date: 2012-11-04 21:28:27
 categories: ['Pittura']
 tags: ['chiaroscuro', 'colori', 'mescolare i colori', 'nature morte', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/grisaglia-uva.jpg"
 ---
 
-![Grisaglia dell'Uva]({{ site.baseurl }}/wp-content/uploads/grisaglia-uva.jpg "Grisaglia dell'Uva")
-
-Quali colori usare per una grisaglia?
-
-Ricevo spesso questa domanda via email e oggi voglio provare a rispondere con quest’articolo.
-
-Prima di cominciare, però, credo sia utile introdurre il tema della grisaglia.
+Quali colori usare per una grisaglia? Ricevo spesso questa domanda via email e oggi voglio provare a rispondere con quest’articolo. Prima di cominciare, però, credo sia utile introdurre il tema della grisaglia.
 
 ## Che cos’è la grisaglia?
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "I Migliori Libri per Imparare a Disegnare e Dipingere"
 date: 2014-10-11 22:33:22
 categories: ['Vari']
 tags: ['libri e dvd']
-layout: single
+feature_image: "/wp-content/uploads/color-light.png"
 ---
-
-![I Migliori Libri per Imparare a Disegnare e Dipingere]({{ site.baseurl }}/wp-content/uploads/color-light.png "I Migliori Libri per Imparare a Disegnare e Dipingere")
 
 In quest’articolo voglio presentarti quelli che sono, a mio avviso, i migliori libri per imparare a disegnare e dipingere.
 
@@ -91,17 +90,17 @@ Il libro offre un’introduzione ai materiali necessari per dipingere all’aper
 
 ![Painting the sea in olis using special effects - Section 2]({{ site.baseurl }}/wp-content/uploads/painting-sea-in-olis-using-special-effects-section-2.jpg)
 
-Seconda Sezione   
+Seconda Sezione
 In questa sezione apprenderai gli ingredienti essenziali per dipingere un paesaggio marino di successo: l’anatomia di un’onda marina, come dipingere l’acqua traslucente, la luce solare, le ombre e l’atmosfera che influenza tutte le componenti del paesaggio. Ci sono lezioni sulla scelta dei colori e come usare la composizione di linee, toni e colori per creare emozione, movimento e armonia.
 
 ![Painting the sea in olis using special effects - Section 3]({{ site.baseurl }}/wp-content/uploads/painting-sea-in-olis-using-special-effects-section-3.jpg)
 
-Terza Sezione  
+Terza Sezione
 Questa sezione è costituita da dimostrazioni passo passo in cui si mettono in pratica i concetti imparati nelle prime due sezioni per dipingere un dipinto completo. Ciascun dipinto sarà diverso dagli altri. Questa è la sezione che ti insegnerà a mettere i tuoi sentimenti nei tuoi lavori, creando dipinto che saranno un’espressione unica di te stesso.
 
 ![Painting the sea in olis using special effects - Section-4]({{ site.baseurl }}/wp-content/uploads/painting-sea-in-olis-using-special-effects-section-4.jpg)
 
-Quarta Sezione  
+Quarta Sezione
 Questa sezione presenta una galleria dei dipinti di John E. Robinson che mostrano altre possibili variazioni di onde, composizioni, colori, luoghi e sentimenti.
 
 Un’ultima nota finale riguarda il prezzo. Sono rimasto sorpreso che il prezzo minimo per questo libro su Amazon fosse di 102,72 Euro quando sulla copertina del mio libro c’è scritto 27.95$ circa. Sul sito dell’autore, infatti, il libro viene venduto a quest’ultimo prezzo. Un mio consiglio è di acquistare questo libro a non oltre il prezzo di 27$, ossia il prezzo riportato sul sito dell’autore.
@@ -144,7 +143,7 @@ Questo libro è la continuazione dei libri di Jerry Yarnell descritti sopra. Ess
 
 **Prezzo: ~~19,77 €~~ ➤** [**Offerta su Amazon a 13,84 €**](/out/paint-along-jerry-yarnell–painting-magic "Paint Along with Jerry Yarnell Volume 3 - Painting Magic") [![Amazon]({{ site.baseurl }}/wp-content/uploads/amazon.jpg "Amazon")](/out/paint-along-jerry-yarnell–painting-magic "Paint Along with Jerry Yarnell Volume 3 - Painting Magic")
 
-## 
+##
 
 ## Libri sul Ritratto e la Figura Umana
 
@@ -172,7 +171,7 @@ Questo è un libro di John Howard Sanden probabilmente uno dei migliori ritratti
 
 **Prezzo: ➤** [**su Amazon a 18,49 €**](https://www.amazon.it/gp/product/1581805829/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=1581805829&linkCode=as2&tag=dispit-21) [![Amazon]({{ site.baseurl }}/wp-content/uploads/amazon.jpg "Amazon")](https://www.amazon.it/gp/product/1581805829/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=1581805829&linkCode=as2&tag=dispit-21)
 
-### 
+###
 
 ### How to Paint like the Old Masters
 

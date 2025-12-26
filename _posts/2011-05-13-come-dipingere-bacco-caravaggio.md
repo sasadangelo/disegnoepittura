@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Come dipingere il Bacco di Caravaggio"
 date: 2011-05-13 12:36:14
 categories: ['Pittura']
 tags: ['figura umana', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/come-dipingere-bacco-caravaggio-finale.jpg"
 ---
 
-![Come dipingere il Bacco di Caravaggio]({{ site.baseurl }}/wp-content/uploads/come-dipingere-bacco-caravaggio-finale.jpg "Come dipingere il Bacco di Caravaggio")
 *Questo è un articolo di Walter Cozzoli. Se desideri scrivere un articolo leggi le seguenti [linee guida]({{ site.baseurl }}/scrivi-articolo).*
 
 Per l’evento [Incontra il Maestro Michelangelo Merisi detto Caravaggi]({{ site.baseurl }}/incontra-maestro-caravaggio/)o ho dipinto il famoso Bacco di Caravaggio ed ora riporto la su questo blog la procedura che ho utilizzato per realizzarlo. Il dipinto non è stato realizzato con la tecnica dei fiamminghi bensì ho preferito utilizzare maggiormente colori coprenti e ho evitato le velature.

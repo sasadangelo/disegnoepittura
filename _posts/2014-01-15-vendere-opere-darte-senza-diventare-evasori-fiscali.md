@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come vendere le tue opere d&#8217;arte senza diventare evasore fiscale?"
 date: 2014-01-15 08:00:55
 categories: ['Art Business']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/vendere-opere-arte.jpg"
 ---
-
-![Vendere Opere d'Arte]({{ site.baseurl }}/wp-content/uploads/vendere-opere-arte.jpg "Vendere Opere d'Arte")
 
 Dipingi da un pò di tempo e parenti, amici e conoscenti chiedono di acquistare una tua opera ma mille dubbi ti assalgono: devo rilasciare una ricevuta? Serve una partita IVA? Devo segnalare le mie opere alla SIAE per tutelare i miei diritti di autore? Devo essere iscritto in uno speciale registro o categoria commerciale?
 
@@ -76,7 +75,7 @@ Andiamo subito a vedere alla lettera “B” il valore dei beni facenti parte de
 
 > *B. Valori applicabili alle categorie indicate nella lettera A (in euro):*
 >
-> *5) 139.794,00  
+> *5) 139.794,00
 > 3. Quadri*
 
 Mi pare quindi chiaro che se l’opera che intendiamo vendere è di nostra proprietà ed ha un valore inferiore ad euro 139.794,00 allora non vi è “*Obbligo di denuncia dell’attività commerciale e di tenuta del registro”.*

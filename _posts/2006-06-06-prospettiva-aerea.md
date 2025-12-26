@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Prospettiva Aerea"
 date: 2006-06-06 08:20:43
 categories: ['Pittura']
 tags: ['prospettiva', 'prospettiva aerea']
-layout: single
+feature_image: "/wp-content/uploads/atmopsp7.jpg"
 ---
-
-![Prospettiva aerea]({{ site.baseurl }}/wp-content/uploads/atmopsp7.jpg "Prospettiva aerea")
 
 I tuoi paesaggi sono piatti e privi di profondità? Ti piacerebbe dipingere paesaggi con una buona profondità spaziale? Leggi quest’articolo per imparare che cos’è la prospettiva aerea e come essa può aiutarti a dipingere paesaggi migliori.
 

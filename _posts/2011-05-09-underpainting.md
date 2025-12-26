@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Che cos&#8217;è un Underpainting e come dipingerlo con i colori ad olio"
 date: 2011-05-09 17:02:10
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/underpainting-terra-ombra-bruciata.JPG"
 ---
-
-![Underpainting Paesaggio in terra d'ombra bruciata]({{ site.baseurl }}/wp-content/uploads/underpainting-terra-ombra-bruciata.JPG "Underpainting Paesaggio in terra d'ombra bruciata")
 
 *Questa è la lezione 14 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 

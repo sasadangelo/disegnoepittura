@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come Disegnare il soggetto per un dipinto"
 date: 2018-02-13 19:31:07
 categories: ['Disegno']
 tags: ['corso pittura ad olio', 'nature morte', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/13-Disegno-Inchiostrato-2-mini.jpg"
 ---
-
-![Disegno Inchiostrato]({{ site.baseurl }}/wp-content/uploads/13-Disegno-Inchiostrato-2-mini.jpg)
 
 In quest’articolo voglio mostrare come eseguo il disegno per un dipinto a mano libera.
 
@@ -39,7 +38,7 @@ Vorrei precisare che io non eseguo mai il disegno direttamente su tela perché:
 
 Eseguo sempre il disegno su un foglio molto sottile e di grandezza pari a quella della tela e poi lo trasferisco con la carta di grafite. In commercio, oltre ai comuni fogli di formato A4 vendono anche i formati A3, A2, A1 e A0 con cui è possibile arrivare fino a 120×85 cm. Per misure più grandi si può optare per rotoli di carta per plotter oppure incollare i fogli tra loro.
 
-![Misure Fogli Ax]({{ site.baseurl }}/wp-content/uploads/Misure_Fogli_Ax.jpg)  
+![Misure Fogli Ax]({{ site.baseurl }}/wp-content/uploads/Misure_Fogli_Ax.jpg)
 *Foto da [www.studiopetrillo.com](https://www.studiopetrillo.com/formati.html)*
 
 ## L’Inquadratura

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come Disegnare il Drappeggio nella Figura Vestita: punti dove si formano le pieghe."
 date: 2009-11-03 08:00:02
 categories: ['Disegno']
 tags: ['figura umana']
-layout: single
+feature_image: "/wp-content/uploads/figura-umana-drappeggio-punti-ancoraggio-thumb.jpg"
 ---
-
-![figura-umana-drappeggio-punti-ancoraggio]({{ site.baseurl }}/wp-content/uploads/figura-umana-drappeggio-punti-ancoraggio-thumb.jpg "figura-umana-drappeggio-punti-ancoraggio")
 
 Nell’articolo [Come Disegnare il Drappeggio nella Figura Vestita: movimenti che generano le pieghe]({{ site.baseurl }}/come-disegnare-drappeggio-movimenti-causano-pieghe/) abbiamo visto che le pieghe di un vestito sono sempre il risultato di alcune forze che si generano da azioni compiute dalla figura, a partire da punti specifici. Questi punti vengono definiti **punti di ancoraggio** e, tipicamente, risiedono: sul collo, sotto le ascelle, nei gomiti e ginocchia, all’altezza dell’ombelico e lungo linguine e i glutei.
 

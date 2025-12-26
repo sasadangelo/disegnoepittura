@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Siete capaci di disegnare utilizzando la prospettiva con 3 punti di fuga?"
 date: 2010-03-04 16:04:05
 categories: ['Disegno']
 tags: ['prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/come-disegnare-prospettiva-3-punti-fuga-13.jpg"
 ---
-
-![come-disegnare-prospettiva-3-punti-fuga-13]({{ site.baseurl }}/wp-content/uploads/come-disegnare-prospettiva-3-punti-fuga-13.jpg "come-disegnare-prospettiva-3-punti-fuga-13")
 
 In quest’articolo impareremo a disegnare utilizzando la prospettiva con 3 punti di fuga, detta anche a “volo d’uccello”. Nell’articolo sulla [prospettiva centrale]({{ site.baseurl }}/prospettiva-centrale/) abbiamo visto come disegnare oggetti che hanno una faccia parallela al [piano di proiezione]({{ site.baseurl }}/prospettiva-terminologia-sapere/). In questo tipo di prospettiva tutte le linee di fuga convergono verso un unico punto di fuga centrale. Quando l’oggetto è in posizione accidentale, ossia nessuna faccia è parallela al piano di proiezione, allora si applica la [prospettiva accidentale]({{ site.baseurl }}/prospettiva-accidentale/) dove le linee di fuga convergono verso due punti di fuga laterali. In entrambi i  tipi di prospettiva l’assunzione è che osservatore e oggetto stanno su un medesimo piano di appoggio, oppure su piani di appoggio paralleli. Quando quest’ultima condizione non viene soddisfatta allora si applica la prospettiva con 3 punti di fuga dove, come dice la parola stessa, le linee di fuga convergono verso 3 punti. Le immagini in questa prospettiva sono molto più dinamiche e suggestive. Nella storia dell’arte questo tipo di prospettiva è stato utilizzata con meno frequenza. Oggi viene molto sfruttata nelle inquadrature panoramiche dei fumetti.
 

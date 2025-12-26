@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come usare la Tavolozza dei colori ad olio"
 date: 2012-07-12 22:36:42
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/pulire-tavolozza-mini.jpg"
 ---
-
-![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-mini.jpg "Pulire la tavolozza dei colori")
 
 Quale tavolozza dei colori usare per la pittura ad olio? Come la si usa? Come si pulisce?
 
@@ -70,8 +69,8 @@ A questo punto il grosso dei colori è stato rimosso ma ci sono ancora tracce.
 
 E’ sufficiente prendere un pezzo di panno carta e rimuovere il colore. Una tavolozza ben preparata e sempre oliata si pulisce subito senza ausilio di solventi. **Quindi non usate acqua ragia o trementina per pulire la tavolozza.**
 
-![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-7.jpg "Pulire la tavolozza dei colori")  
-![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-8.jpg "Pulire la tavolozza dei colori")  
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-7.jpg "Pulire la tavolozza dei colori")
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-8.jpg "Pulire la tavolozza dei colori")
 ![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-9.jpg "Pulire la tavolozza dei colori")
 
 Ripassiamo con un nuovo pezzo di Panno Carta.
@@ -80,7 +79,7 @@ Ripassiamo con un nuovo pezzo di Panno Carta.
 
 Come ultimo passo stendi un po’ di olio sulla tavolozza aiutandoti sempre con il panno carta. In questo modo la tavolozza si manterrà sempre oliata.
 
-![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-11.jpg "Pulire la tavolozza dei colori")  
+![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-11.jpg "Pulire la tavolozza dei colori")
 ![Pulire la tavolozza dei colori]({{ site.baseurl }}/wp-content/uploads/pulire-tavolozza-12.jpg "Pulire la tavolozza dei colori")
 
 Saper gestire la propria tavolozza è fondamentale per un pittore. Io ho voluto condividere con te quello che, secondo me, è il modo migliore per farlo. Probabilmente tu userai un metodo diverso per gestire la tavolozza. In tal caso, ti sarei grato se condividessi con tutti i lettori quale metodo ritieni opportuno per farlo lasciando un commento.

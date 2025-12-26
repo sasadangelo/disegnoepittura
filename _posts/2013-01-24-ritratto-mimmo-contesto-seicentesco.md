@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Ritratto di Mimmo in contesto seicentesco"
 date: 2013-01-24 22:50:25
 categories: ['Vari']
 tags: ['animali', 'arte digitale', 'ritratto']
-layout: single
+feature_image: "/wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg"
 ---
-
-![Ritratto di Mimmo in contesto seicentesco]({{ site.baseurl }}/wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg "Ritratto di Mimmo in contesto seicentesco")
 
 Qualche tempo fa, navigando fra siti d’arte sul web, mi sono imbattuto in un dipinto di [Gerrit Dou](https://en.wikipedia.org/wiki/Gerrit_Dou) altrimenti conosciuto come Gerard e Douw o Dow, pittore olandese della classe di Vermeer, se non superiore! Fece addirittura apprendistato, qualche anno, nello studio di Rembrandt (fonte Wikipedia). Il dipinto è un cane accucciato a sonnecchiante accanto ad un orcio e una canestra di vimini posti su di un ripiano accanto ad una fascina di legna con uno zoccolo di legno seminascosto. Non si capisce se il piano in legno su cui poggia tutta la composizione sia un tavolo, una panca o una mensola bassa posizionata in una cucina o altro ambiente del ‘600. La luce sembra provenga da una finestra. L’atmosfera trasmette l’intimità serena di un interno domestico e anche i caldi colori accompagnano questa sensazione di pace e tranquillità che scaturisce dalla posizione accovacciata della bestiola.
 
@@ -38,7 +37,7 @@ Queste operazioni si possono fare con quasi tutti i programmi di questo tipo, ba
 
 *Foto E*
 
-Come si può notare nella foto E sono rimasti dei dettagli, anche abbastanza evidenti, della foto A. Nel programma che io uso normalmente, una vecchia versione di Photoshop, quando incollo una foto, o particolare di essa, sopra un’altra, il programma crea un nuovo livello; da cioè la possibilità di lavorare sulla foto applicata, senza intaccare quella che fa da sfondo. In questa maniera è stato possibile scontornare finemente l’immagine di Mimmo con l’ausilio della lente d’ ingrandimento e la gomma. Infine, tornando sul livello dello sfondo dove era rimasto parte del di dietro del cane che era presente in foto A, con il timbro clone e la solita lente, ho provveduto ad eliminare il pelame fulfo del seicentesco cane.  
+Come si può notare nella foto E sono rimasti dei dettagli, anche abbastanza evidenti, della foto A. Nel programma che io uso normalmente, una vecchia versione di Photoshop, quando incollo una foto, o particolare di essa, sopra un’altra, il programma crea un nuovo livello; da cioè la possibilità di lavorare sulla foto applicata, senza intaccare quella che fa da sfondo. In questa maniera è stato possibile scontornare finemente l’immagine di Mimmo con l’ausilio della lente d’ ingrandimento e la gomma. Infine, tornando sul livello dello sfondo dove era rimasto parte del di dietro del cane che era presente in foto A, con il timbro clone e la solita lente, ho provveduto ad eliminare il pelame fulfo del seicentesco cane.
 Il risultato finale di queste laboriose ma soddisfacenti operazioni, dopo aver fuso i due livelli, hanno dato il risultato della foto F.
 
 ![Ritratto di Mimmo in contesto seicentesco]({{ site.baseurl }}/wp-content/uploads/ritratto-mimmo-contesto-seicentesco-6.jpg "Ritratto di Mimmo in contesto seicentesco")

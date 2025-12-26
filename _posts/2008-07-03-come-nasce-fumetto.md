@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come nasce un fumetto"
 date: 2008-07-03 16:50:12
 categories: ['Disegno']
 tags: ['fumetto']
-layout: single
+feature_image: "/wp-content/uploads/topolino.jpg"
 ---
-
-![topolino]({{ site.baseurl }}/wp-content/uploads/topolino.jpg "topolino")
 
 Dopo aver introdotto e spiegato cos’è un [fumetto]({{ site.baseurl }}/fumetto/) e quali sono [le fasi per la sua realizzazione]({{ site.baseurl }}/fasi-fumetto/) in quest’articolo vorrei riportare un ipotetico scenario di realizzazione di un fumetto ispirandomi ad un articolo letto su [www.fumetto.org](https://www.fumetto.org).
 

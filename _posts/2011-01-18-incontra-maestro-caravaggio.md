@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Incontra il Maestro Michelangelo Merisi detto Caravaggio"
 date: 2011-01-18 09:31:16
 categories: ['Artisti']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/ragazzo-monda-frutto.jpg"
 ---
-
-![Ragazzo che monda un frutto]({{ site.baseurl }}/wp-content/uploads/ragazzo-monda-frutto.jpg "Ragazzo che monda un frutto")
 
 Con quest’articolo raccolgo l’invito di MELO (Carmelo Gigliuto) ad organizzare l’evento **Incontra il Maestro  Michelangelo Merisi detto Caravaggio** il cui obiettivo è quello di divertirci insieme dipingendo un’opera di [Caravaggio](https://it.wikipedia.org/wiki/Michelangelo_Merisi_da_Caravaggio) o una qualsiasi opera di fantasia o della vita reale nello stile del maestro. Ovviamente nessuno si sogna di voler imitare l’inarrivabile maestro, bensì è solo l’occasione per imparare qualcosa sulla sua tecnica e su questo artista. Del resto  lo stesso Leonardo diceva nel suo Trattato:
 

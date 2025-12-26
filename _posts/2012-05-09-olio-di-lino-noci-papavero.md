@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Olio di lino, noci e papavero."
 date: 2012-05-09 22:12:51
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/olio-lino.jpg"
 ---
-
-![Olio di lino]({{ site.baseurl }}/wp-content/uploads/olio-lino.jpg "Olio di lino")
 
 Per dipingere con la tecnica a olio, generalmente, vengono impiegati tre tipi di olio: lino, noci e papavero.
 

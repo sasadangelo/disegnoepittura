@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Caricatura e Deformazioni Naso-Occhi"
 date: 2009-09-08 08:00:20
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/caricatura-forme-t.jpg"
 ---
-
-![caricatura forma T]({{ site.baseurl }}/wp-content/uploads/caricatura-forme-t.jpg "caricatura forma T")
 
 Se [individuare l’elemento di esagerazione](/caricatura-esagerazione/ "Individuare elemento di esagerazione") è, principalmente, un’attività di interpretazione dell’artista è ovvio che è impossibile definire per essa regole o linee guida di riferimento. Tuttavia, una volta svolto questo lavoro è possibile gestire queste esagerazioni e le relazioni tra i diversi elementi del viso agendo principalmente su due forme principali:
 

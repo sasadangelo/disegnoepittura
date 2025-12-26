@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere come Rubens, Vermeer, Rembrandt. (IV parte)"
 date: 2006-06-30 08:00:37
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/rose.jpg"
 ---
-
-![rose]({{ site.baseurl }}/wp-content/uploads/rose.jpg "rose")
 
 ### Grisaglia
 

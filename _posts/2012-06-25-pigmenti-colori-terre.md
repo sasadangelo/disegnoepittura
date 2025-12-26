@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "I Pigmenti dei colori di &#8220;Terra&#8221;"
 date: 2012-06-25 18:30:34
 categories: ['Pittura']
 tags: ['colori', 'materiali']
-layout: single
+feature_image: "/wp-content/uploads/pigmento-ocra-rossa.jpg"
 ---
-
-![Calcinazione Ocra Rossa]({{ site.baseurl }}/wp-content/uploads/pigmento-ocra-rossa.jpg "Ocra Rossa")
 
 Come preparavano i colori di “terra” gli antichi maestri?
 

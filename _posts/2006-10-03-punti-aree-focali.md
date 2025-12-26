@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come migliorare la composizione dei vostri disegni con i punti e le aree focali"
 date: 2006-10-03 09:19:34
 categories: ['Disegno']
 tags: ['composizione']
-layout: single
+feature_image: "/wp-content/uploads/focal-point.jpg"
 ---
-
-![focal-point]({{ site.baseurl }}/wp-content/uploads/focal-point.jpg "focal-point")
 
 Quando uno spettatore guarderà il vostro dipinto percorrerà sulla tela diversi percorsi con i propri occhi. Avendo le giuste conoscenze è possibile guidarlo attraverso questi percorsi così come un navigatore satellitare ci guida tra le strade di una città di un paese che non conosciamo.
 

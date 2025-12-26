@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Introduzione alla Pittura ad Olio"
 date: 2010-04-17 08:00:55
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/corso-pittura-olio-artisti-principianti.jpg "corso-pittura-olio-artisti-principianti")
 
 Questo è l’articolo d’introduzione del mio “mini corso” sulla pittura a olio in cui cerco di spiegare, passo dopo passo, come eseguo i miei dipinti. Questo corso è da considerare un “work in progress” che terrò sempre aggiornato con l’evoluzione che subirà la mia tecnica con la pittura a olio.
 

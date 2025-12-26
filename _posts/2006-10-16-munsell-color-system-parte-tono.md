@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly. Che cos&#8217;è il tono?"
 date: 2006-10-16 08:00:13
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/10stepmunsell.jpg"
 ---
-
-![10stepmunsell]({{ site.baseurl }}/wp-content/uploads/10stepmunsell.jpg "10stepmunsell")
 
 Nel modello di descrizione dei colori di Munsell, dopo lo [hue]({{ site.baseurl }}/munsell-color-system-hue/) il secondo parametro di vitale importanza è il **tono**. Questo parametro indica quanto è chiaro o scuro un dato colore. Il modello prevede 11 livelli di tono. Il tono 10 corrisponde al bianco, mentre il tono 0 corrisponde al nero. Nel mezzo ci sono 9 livelli di grigi di tonalità crescente.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Paesaggio di Antonio Cammarata"
 date: 2008-06-27 09:45:50
 categories: ['Pittura']
 tags: ['acrilico', 'paesaggi', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/cammarata1.jpg"
 ---
-
-![cammarata1]({{ site.baseurl }}/wp-content/uploads/cammarata1.jpg "cammarata1")
 
 In quest’articolo cercherò di illustrarvi il mio tentativo (non so quanto riuscito) di imitare una delle opere di [Antonio Cammarata]({{ site.baseurl }}/antonino-cammarata/). Per questo lavoro ho utilizzato dei colori ad olio ad acqua. I colori li ho scelti in base al mio gusto personale e se lo desidera il maestro potrà suggerire le sue miscele in un commento a questo post.
 

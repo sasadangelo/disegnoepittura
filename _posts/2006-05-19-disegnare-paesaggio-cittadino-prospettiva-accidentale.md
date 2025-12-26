@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Disegnare un paesaggio cittadino in prospettiva accidentale"
 date: 2006-05-19 10:30:48
 categories: ['Disegno']
 tags: ['prospettiva', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-13.gif"
 ---
-
-![disegnare-paesaggio-cittadino-prospettiva]({{ site.baseurl }}/wp-content/uploads/disegnare-paesaggio-cittadino-prospettiva-13.gif "disegnare-paesaggio-cittadino-prospettiva")
 
 In quest’ articolo, estratto da una lezione di [John Hagan](http://www.wetcanvas.com/ArtSchool/Hagan/menu.htm "John Hagan"), vedremo come applicare i principi di [prospettiva accidentale]({{ site.baseurl }}/prospettiva-accidentale/) già esposti in questo blog. Come esempio utilizzeremo un semplice paesaggio cittadino composto da una serie di grattacieli.
 

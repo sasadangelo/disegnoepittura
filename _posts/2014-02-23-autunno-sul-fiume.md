@@ -1,14 +1,14 @@
 ---
+layout: single
 title: "Autunno sul Fiume"
 date: 2014-02-23 00:31:25
 categories: ['Pittura']
 tags: ['paesaggi', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/Dipinto-Completato-Mini.jpg"
 ---
 
-![Autunno sul Fiume]({{ site.baseurl }}/wp-content/uploads/Dipinto-Completato-Mini.jpg)  
-Questo è un dipinto che ho copiato da una foto trovata sul web. Voglio condividere con voi il mio metodo di esecuzione.  
-  
+Questo è un dipinto che ho copiato da una foto trovata sul web. Voglio condividere con voi il mio metodo di esecuzione.
+
 ![Questa è la foto originale da cui ha dipinto Autunno sul Fiume]({{ site.baseurl }}/wp-content/uploads/Autunno-sul-Fiume-Foto-Originale.jpg)
 
 *Foto Originale*

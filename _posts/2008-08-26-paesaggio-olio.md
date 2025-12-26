@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Paesaggio ad Olio"
 date: 2008-08-26 10:48:34
 categories: ['Pittura']
 tags: ['paesaggi', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/lago-ross-8.jpg"
 ---
-
-![Paesaggio Olio]({{ site.baseurl }}/wp-content/uploads/lago-ross-8.jpg "Paesaggio Olio")
 
 In questo tutorial impareremo a dipingere un paesaggio ad olio.
 

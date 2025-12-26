@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere una goccia"
 date: 2006-09-20 08:00:15
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/medium_drops4.jpg"
 ---
-
-![dipingere una goccia]({{ site.baseurl }}/wp-content/uploads/medium_drops4.jpg "dipingere una goccia")
 
 Come dipingere una goccia? Quante volte ti è capitato di vedere quelle stupende nature morte ricche di dettagli e effeti speciali come le gocce d’acqua e ti sei chiesto: ma come fanno? Questo tutorial ti spiegherà, in breve, come dipingere una goccia.
 

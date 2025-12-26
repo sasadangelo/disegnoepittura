@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Colorare un gatto con le matite colorate"
 date: 2009-04-02 17:55:10
 categories: ['Pittura']
 tags: ['animali', 'matite colorate', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/gatto6.jpg"
 ---
-
-![Colorare un gatto con le matite colorate]({{ site.baseurl }}/wp-content/uploads/gatto6.jpg "Colorare un gatto con le matite colorate")
 
 In precedenti articoli abbiamo introdotto le [matite colorate]({{ site.baseurl }}/matite-colorate/), definendo i concetti principali e la terminologia che utilizzeremo nei vari studi che realizzeremo con questo mezzo pittorico. In quest’articolo vedremo come utilizzare le matite colorate per colorare un gatto. Questo studio di gatto è pubblicato sul libro [Realistic Pet Portraits in Colored Pencils](https://www.amazon.com/Realistic-Pet-Portraits-Colored-Pencil/dp/1581804091) in cui trovate molti altri progetti simili a questo. Ringrazio l’autrice per il permesso di pubblicare la mia versione del tutorial.
 

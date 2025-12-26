@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Canestra di Frutta di Caravaggio"
 date: 2013-01-16 16:34:03
 categories: ['Pittura']
 tags: ['nature morte', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/Canestro-Frutta-Caravaggio.jpg"
 ---
-
-![Canestra di Frutta di Caravaggio]({{ site.baseurl }}/wp-content/uploads/Canestro-Frutta-Caravaggio.jpg "Canestra di Frutta di Caravaggio")
 
 ## Prefazione
 
@@ -248,7 +247,7 @@ Asciutto l’abbozzo, ho iniziato alla vera e propria realizzazione del cesto. D
 
 #### Realizzazione dello Sfondo e del Tavolo
 
-Lo sfondo colore pergamena l’ho steso quando la maggior parte dei frutti era alla fase di abbozzo, in modo da riuscire e ricreare più fedelmente possibile le tinte finali dei frutti e delle foglie. Il color giallo pergamena, Ocra+Biacca+pizzico Terra di Siena+pizzicodi Terra d’Ombra, è stato steso con pennellate casuali diagonali e verticali, in modo da lasciare il solco del pennello, e seguendo i contorni della composizione (come riscontrato nell’originale di Caravaggio).  
+Lo sfondo colore pergamena l’ho steso quando la maggior parte dei frutti era alla fase di abbozzo, in modo da riuscire e ricreare più fedelmente possibile le tinte finali dei frutti e delle foglie. Il color giallo pergamena, Ocra+Biacca+pizzico Terra di Siena+pizzicodi Terra d’Ombra, è stato steso con pennellate casuali diagonali e verticali, in modo da lasciare il solco del pennello, e seguendo i contorni della composizione (come riscontrato nell’originale di Caravaggio).
 Ho realizzato il tavolo con della Terra di Siena Naturale, e realizzato l’ombra del cesto su di esso con del Bruno Van Dick.
 
 ![Canestra di Frutta di Caravaggio - Sfondo]({{ site.baseurl }}/wp-content/uploads/Canestro-Frutta-Caravaggio-Fondo.jpg "Canestra di Frutta di Caravaggio - Sfondo")

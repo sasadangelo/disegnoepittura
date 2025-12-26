@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Materiali per pittura a olio"
 date: 2014-11-28 22:16:56
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/Fig-14-Cavalletti-100.jpg"
 ---
-
-![Materiali per pittura ad olio]({{ site.baseurl }}/wp-content/uploads/Fig-14-Cavalletti-100.jpg "Materiali per pittura ad olio")
 
 I materiali per pittura a olio realmente necessari sono davvero pochi: tela o altro supporto per dipingere, colori, tavolozza, pennelli, olio e solventi. Ci sono poi dei materiali che anche se non realmente necessari aiutano non poco come: una o più spatole, un buon cavalletto e qualche medium.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come la prospettiva aerea può aiutarti a dare profondità ai tuoi paesaggi"
 date: 2008-10-28 18:55:55
 categories: ['Pittura']
 tags: ['paesaggi', 'prospettiva aerea']
-layout: single
+feature_image: "/wp-content/uploads/depth-by-color-2-blue-depth.png"
 ---
-
-![depth-by-color-2-blue-depth]({{ site.baseurl }}/wp-content/uploads/depth-by-color-2-blue-depth.png "depth-by-color-2-blue-depth")
 
 I tuoi paesaggi sono piatti? Ti piacerebbe dipingere paesaggi con un gran senso di spazio e profondità? La conoscenza della prospettiva aerea può aiutarti a raggiungere questo obiettivo. Dopo aver definito che cos’è la [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea/) e le sue caratteristiche principali, in quest’articolo vedremo un esempio pratico di applicazione con una palla verde.
 

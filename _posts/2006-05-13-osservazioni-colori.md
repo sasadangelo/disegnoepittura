@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Osservazioni sui colori per aiutare l&#8217;artista a mescolare i colori in Pittura"
 date: 2006-05-13 10:05:57
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg"
 ---
-
-![Limone]({{ site.baseurl }}/wp-content/uploads/limone-su-tavolo-e-sfondo-bruno.jpeg "Limone")
 
 [Nell’articolo sul colore]({{ site.baseurl }}/colore/) abbiamo definito che cos’è il colore e abbiamo sottolineato la sua natura tridimensionale. Abbiamo visto, verso la fine dell’articolo, che per comprendere il colore di un oggetto bisogna porsi sempre 4 domande.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come costruire un bastone poggiapolso"
 date: 2013-05-07 22:46:29
 categories: ['Pittura']
 tags: ['materiali']
-layout: single
+feature_image: "/wp-content/uploads/reggipolso-dettaglio-mini.jpg"
 ---
-
-![Poggiapolso]({{ site.baseurl }}/wp-content/uploads/reggipolso-dettaglio-mini.jpg "Poggiapolso")
 
 Il bastone poggiapolso è uno strumento molto utile per il pittore. In quest’articolo voglio spiegare come ho costruito il mio e come lo utilizzo.
 
@@ -118,7 +117,7 @@ Il metodo più semplice e antico per usare il bastone poggiapolso è quello di p
 
 Qui di seguito vi mostro due foto della barra orizzontale in diverse angolazioni.
 
-![barra-orizzontale-poggiapolso]({{ site.baseurl }}/wp-content/uploads/barra-orizzontale-poggiapolso.jpg)  
+![barra-orizzontale-poggiapolso]({{ site.baseurl }}/wp-content/uploads/barra-orizzontale-poggiapolso.jpg)
 ![barra-orizzontale-poggiapolso-1]({{ site.baseurl }}/wp-content/uploads/barra-orizzontale-poggiapolso-1.jpg)
 
 Questa è la vista del fermo fotografato dietro al cavalletto.
@@ -135,7 +134,7 @@ Unico problema dello Stedi-Rest è che si fissa al telaio della tela, quindi non
 
 Oppure può essere utilizzato in maniera obliqua. In questo caso la sfera funge ancora una volta da fermo per il bastone.
 
-![stedi-rest-1]({{ site.baseurl }}/wp-content/uploads/stedi-rest-1.jpg)  
+![stedi-rest-1]({{ site.baseurl }}/wp-content/uploads/stedi-rest-1.jpg)
 ![stedi-rest-2]({{ site.baseurl }}/wp-content/uploads/stedi-rest-2.jpg)
 
 Come potete vedere dalla figura questo metodo di utilizzo è ancora più semplice ed agevole.

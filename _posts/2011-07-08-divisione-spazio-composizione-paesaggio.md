@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dividere lo spazio nel Disegno e nella Composizione del Paesaggio"
 date: 2011-07-08 17:16:41
 categories: ['Disegno']
 tags: ['composizione']
-layout: single
+feature_image: "/wp-content/uploads/divisione-spazio-composizione-paesaggio-5.jpg"
 ---
-
-![Divisione dello spazio nella Composizione del Paesaggio]({{ site.baseurl }}/wp-content/uploads/divisione-spazio-composizione-paesaggio-5.jpg "Divisione dello spazio nella Composizione del Paesaggio")
 
 In questo articolo vedremo alcuni semplici modi per dividere lo spazio nella creazione di una composizione per un paesaggio. Spesso la foto di un paesaggio può essere resa più interessante applicando piccole modifiche oppure combinandola opportunamente con altre foto. Per fare ciò, però, bisogna avere un minimo di nozioni sulla composizione e sulle semplici regole che ci aiutano a migliorarla.Nell’articolo [La linea dell’orizzonte]({{ site.baseurl }}/linea-orizzonte/) abbiamo parlato della linea d’orizzonte e abbiamo visto che il suo posizionamento è un modo molto semplice per dividere lo spazio da disegno. Abbiamo visto, inoltre, che è buona pratica non collocare mai la linea d’orizzonte al centro del foglio. Nei seguenti disegni abbiamo l’orizzonte marino visibile da un promontorio. Collocare l’orizzonte del mare al centro del foglio potrebbe essere troppo monotono da un punto di vista compositivo. Meglio abbassare la linea dell’orizzonte come mostrato nella seguente figura.
 

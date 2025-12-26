@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come Disegnare la Caricatura di Amy Winehouse"
 date: 2009-10-13 08:00:29
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/amy-winehouse-thumb.jpg"
 ---
-
-![amy-winehouse]({{ site.baseurl }}/wp-content/uploads/amy-winehouse-thumb.jpg "amy-winehouse")
 
 In quest’articolo studieremo una caricatura in modo da analizzare come si applicano i principi finora esposti. Il soggetto è Amy Winehouse.
 
@@ -24,7 +23,7 @@ Sappiamo bene che la prima [forma da definire è quello della testa](/caricatura
 
 La seconda forma su cui bisogna soffermarsi è la [T naso-occhi](/caricatura-deformazioni-naso-occhi/). Il naso pronunciato della Winehouse ci obbliga a restringere gli occhi. Inclinare quest’ultimi verso il basso ci aiuterà a realizzare quel suo sguardo perso nel vuoto tipico di chi si ubriaca. Questo particolare già inizia a raccontare qualcosa del nostro soggetto.
 
-![amy-winehouse]({{ site.baseurl }}/wp-content/uploads/amy-winehounse-2.jpg "amy-winehouse")  
+![amy-winehouse]({{ site.baseurl }}/wp-content/uploads/amy-winehounse-2.jpg "amy-winehouse")
 ![amy-winehouse]({{ site.baseurl }}/wp-content/uploads/amy-winehouse-3.jpg "amy-winehouse")
 
 Gli occhi socchiusi servono ad accentuare lo sguardo perso nel vuoto. Aggiungiamo la bocca che non sarà eccessiva, da essa sbucheranno fuori i denti che terranno stretti l’immancabile sigaretta.

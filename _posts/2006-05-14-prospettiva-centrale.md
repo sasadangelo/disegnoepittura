@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Prospettiva Centrale"
 date: 2006-05-14 15:56:14
 categories: ['Disegno']
 tags: ['prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/prospettiva-centrale-thumb.png"
 ---
-
-![Prospettiva Centrale]({{ site.baseurl }}/wp-content/uploads/prospettiva-centrale-thumb.png "Prospettiva Centrale")
 
 Quest’articolo è un’introduzione alla prospettiva centrale. Leggendolo inizierai ad apprendere alcuni concetti che ti aiuteranno a creare disegni più belli e realistici.
 

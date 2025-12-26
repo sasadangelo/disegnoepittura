@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Colori acrilici"
 date: 2009-07-14 10:04:22
 categories: ['Pittura']
 tags: ['acrilico', 'materiali']
-layout: single
+feature_image: "/wp-content/uploads/jerry-1.jpg"
 ---
-
-![Colori acrilici]({{ site.baseurl }}/wp-content/uploads/jerry-1.jpg "Colori acrilici")
 
 Quest’articolo è una breve introduzione all’uso dei colori acrilici in cui elencheremo i vantaggi e gli svantaggi. L’ articolo, inoltre, offre anche alcuni suggerimenti su come ovviare agli svantaggi offerti da questo strumento pittorico.
 

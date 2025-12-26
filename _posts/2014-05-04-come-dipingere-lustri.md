@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere i Lustri"
 date: 2014-05-04 14:29:18
 categories: ['Pittura']
 tags: ['chiaroscuro', 'mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/posizione-del-lustro-mini.png"
 ---
-
-![Lustri]({{ site.baseurl }}/wp-content/uploads/posizione-del-lustro-mini.png)
 
 Il lustro è uno dei 5 elementi fondamentali del [chiaroscuro](/chiaroscuro/ "Chiaroscuro") insieme a: lume, ombra, riflessi e mezzi toni. In quest’articolo voglio illustrare alcuni principi che ne regolano il funzionamento e come sfruttarli in pittura.
 
@@ -32,7 +31,7 @@ In un punto su un oggetto il lustro L si forma se e solo se esistono due raggi R
 
 Materiali molto tersi e riflettenti sono sicuramente i metalli. I materiali plastici sono meno riflettenti ma possono avere superfici terse. Un oggetto quando è bagnato, la sua superficie tende a diventare più riflettente e tersa generando lustri molto netti e brillanti. Un lustro non si forma se la luce emanata dalla sorgente luminosa è diffusa. Ad esempio, un lume con paralume, una giornata grigia, ecc.
 
-> *I corpi opachi che hanno superficie densa ed aspra non generano mai lustro in alcun luogo della loro parte illuminata.  
+> *I corpi opachi che hanno superficie densa ed aspra non generano mai lustro in alcun luogo della loro parte illuminata.
 > Leonardo da Vinci, Trattato della Pittura*
 
 ## Che differenza c’è tra lustro e lume?
@@ -48,7 +47,7 @@ Quando entrambi esistono su un oggetto, il lume è sempre meno potente del lustr
 
 ![Lustro e lume su 2 Pere]({{ site.baseurl }}/wp-content/uploads/lustro-e-lume-sulle-pere.jpg "Lustro e lume su 2 Pere")
 
-> *La differenza ch’è dal lustro al lume, è che sempre il lustro è piú potente che il lume, ed il lume è di maggiore quantità che il lustro; ed il lustro si muove insieme coll’occhio o colla sua causa, o coll’uno e coll’altra; ma il lume è stabilito al luogo terminato, non rimuovendosi la causa che lo genera.  
+> *La differenza ch’è dal lustro al lume, è che sempre il lustro è piú potente che il lume, ed il lume è di maggiore quantità che il lustro; ed il lustro si muove insieme coll’occhio o colla sua causa, o coll’uno e coll’altra; ma il lume è stabilito al luogo terminato, non rimuovendosi la causa che lo genera.
 > Leonardo da Vinci, Trattato della Pittura*
 
 Il centro di quest’area si chiama “centro del lume”. L’osservatore spostandosi può vedere o meno il lume, il suo centro può essere più o meno visibile, ma le posizioni di entrambi non variano.
@@ -57,12 +56,12 @@ Al contrario del lume, il lustro si sposta non solo quando spostiamo sorgente lu
 
 ![Posizione del lume e del suo centro]({{ site.baseurl }}/wp-content/uploads/posizione-del-lume.jpg "Posizione del lume e del suo centro")
 
-> *I lumi che si generano nelle superficie terse de’ corpi opachi saranno immobili ne’ corpi immobili ancoraché l’occhio de’ veditori si muova; ma i lustri saranno sopra i medesimi corpi in tanti luoghi della loro superficie, quanti sono i siti dove l’occhio si muove.  
+> *I lumi che si generano nelle superficie terse de’ corpi opachi saranno immobili ne’ corpi immobili ancoraché l’occhio de’ veditori si muova; ma i lustri saranno sopra i medesimi corpi in tanti luoghi della loro superficie, quanti sono i siti dove l’occhio si muove.
 > Leonardo da Vinci, Trattato della Pittura*
 
 In linea generale, possiamo affermare che, più l’ombra è poco visibile più il lustro si avvicina al centro del lume. Viceversa, più l’ombra diventa visibile più il lustro si allontana dal centro del lume.
 
-![Posizione del lustro rispetto al Centro del Lume]({{ site.baseurl }}/wp-content/uploads/posizione-del-lustro-rispetto-centro-lume.png "Posizione del lustro rispetto al Centro del Lume")  
+![Posizione del lustro rispetto al Centro del Lume]({{ site.baseurl }}/wp-content/uploads/posizione-del-lustro-rispetto-centro-lume.png "Posizione del lustro rispetto al Centro del Lume")
 *Foto da [video di Stan Prokopenko](https://www.youtube.com/watch?v=-dqGkHWC5IU&feature=share&list=UUlM2LuQ1q5WEc23462tQzBg "Video di Stan Prokopenko")*
 
 Il seguente video di Stan Prokopenko mostra bene il concetto di centro del lume e di lustro. Il video è stato tagliato riportando solo la parte che a noi interessa. Come esempio l’autore prende un uovo e mostra la posizione del centro del lume e del lustro e mostra poi come la posizione del lustro varia cambiando la posizione della telecamera (osservatore).
@@ -75,7 +74,7 @@ Come linea di principio a parità di materiale, sorgente luminosa e distanza da 
 
 ![Grandezza del lustro]({{ site.baseurl }}/wp-content/uploads/grandezza-del-lustro.png "Grandezza del lustro")
 
-> *De’ lustri generati sopra gli sferici egualmente distanti dall’occhio, quello sarà di minor figura, che si genererà sopra sferico di minor grandezza. Vedasi ne’ graniculi dell’argento vivo, i quali sono quasi di quantità insensibili, i loro lustri essere eguali alla grandezza di essi grani; e questo nasce ché la virtú visiva della pupilla è maggiore di esso graniculo, e per questo lo circonda com’è detto.  
+> *De’ lustri generati sopra gli sferici egualmente distanti dall’occhio, quello sarà di minor figura, che si genererà sopra sferico di minor grandezza. Vedasi ne’ graniculi dell’argento vivo, i quali sono quasi di quantità insensibili, i loro lustri essere eguali alla grandezza di essi grani; e questo nasce ché la virtú visiva della pupilla è maggiore di esso graniculo, e per questo lo circonda com’è detto.
 > Leonardo da Vinci, Trattato della Pittura.*
 
 ## Di che colore è il lustro?
@@ -89,7 +88,7 @@ Secondo [David Briggs](https://www.huevaluechroma.com/021.php "David Briggs") p
 
 Quindi nel preparare il colore del lustro bisognerà osservare bene il soggetto e capire se siamo nel primo o nel secondo caso. Stabilito ciò si prenderà molto bianco e si aggiungerà una quantità impercettibile di questo colore. Ad esempio, se si dipinge un oggetto d’oro per realizzare il colore del lustro si aggiungerà al bianco una quantità impercettibile del colore dell’oro.
 
-> *Il lustro partecipa assai piú del colore del lume che illumina il corpo che lustra, che del colore di esso corpo; e questo nasce in superficie dense. Il lustro di molti corpi ombrosi è integralmente del colore del corpo illuminato, com’è quello dell’oro brunito, dell’argento ed altri metalli e simili corpi. Il lustro di foglie, vetri e gioie poco partecipa del colore del corpo ove nasce ed assai del colore del corpo che lo illumina. Il lustro fatto nella profondità di densi trasparenti è in primo grado della bellezza di tale colore, come si vede dentro al rubino, balascio, vetri e simili cose; questo accade ché infra l’occhio ed esso lustro s’interpone tutto il color naturale del corpo trasparente.  
+> *Il lustro partecipa assai piú del colore del lume che illumina il corpo che lustra, che del colore di esso corpo; e questo nasce in superficie dense. Il lustro di molti corpi ombrosi è integralmente del colore del corpo illuminato, com’è quello dell’oro brunito, dell’argento ed altri metalli e simili corpi. Il lustro di foglie, vetri e gioie poco partecipa del colore del corpo ove nasce ed assai del colore del corpo che lo illumina. Il lustro fatto nella profondità di densi trasparenti è in primo grado della bellezza di tale colore, come si vede dentro al rubino, balascio, vetri e simili cose; questo accade ché infra l’occhio ed esso lustro s’interpone tutto il color naturale del corpo trasparente.
 > Leonardo da Vinci, Trattato della Pittura.*
 
 Dal testo Color and Light di James Gurney leggiamo:
@@ -108,13 +107,13 @@ Non c’è una regola precisa che risponde a questa domanda. Il grado di nettezz
 
 ![Lustri su Pentole di Acciaio e Alluminio]({{ site.baseurl }}/wp-content/uploads/pentole-acciaio-alluminio.jpg "Lustri su Pentole di Acciaio e Alluminio")
 
-Da un punto di vista percettivo anche il colore dell’oggetto influisce sulla brillantezza del lustro. Un lustro di medesima brillantezza appare  
+Da un punto di vista percettivo anche il colore dell’oggetto influisce sulla brillantezza del lustro. Un lustro di medesima brillantezza appare
 molto più brillante su oggetti scuri rispetto ad oggetti chiari e questo avviene per effetto del [contrasto simultaneo](https://www.alberodelcolore.com/cose-il-contrasto-simultaneo "Contrasto Simultaneo"). Certe volte osservando un oggetto scuro il lustro può essere percepito come più brillante di quello che è realmente. Questo può portarci ad usare più bianco di quello che in realtà serve.
 
-> Infra i lustri di eguale potenza quello si dimostrerà di piú eccellente chiarezza, che sarà in campo piú oscuro; questa è la medesima di sopra, ma si varia, ché quella parla della differenza ch’esso ha dal suo campo, e questa della differenza che ha un lustro nel campo nero dal lustro generato in altri campi.  
+> Infra i lustri di eguale potenza quello si dimostrerà di piú eccellente chiarezza, che sarà in campo piú oscuro; questa è la medesima di sopra, ma si varia, ché quella parla della differenza ch’esso ha dal suo campo, e questa della differenza che ha un lustro nel campo nero dal lustro generato in altri campi.
 > Leonardo da Vinci, Trattato della Pittura
 
-> De’ lustri di egual potenza quello si mostrerà di minor splendore che si genera in piú bianca superficie.  
+> De’ lustri di egual potenza quello si mostrerà di minor splendore che si genera in piú bianca superficie.
 > Leonardo da Vinci, Trattato della Pittura
 
 Le seguenti bocce da carambola sono realizzate con lo stesso materiale e sono sotto le stesse condizioni di illuminazione, eppure noi percepiamo il lustro sulla boccia marrone più brillante dei lustri sulle altre due palle bianche. In tal caso saremmo portati a dipingere quel lustro con una maggior quantità di bianco rispetto ai lustri sulle altre due bocce, mentre in realtà usando il medesimo colore si otterranno tre lustri che, percettivamente, saranno diversi semplicemente perché il loro colore di base è diverso.

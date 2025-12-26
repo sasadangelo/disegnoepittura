@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Ragazzo con Canestro di Frutta"
 date: 2011-10-05 10:20:00
 categories: ['Pittura']
 tags: ['pittura ad olio', 'ritratto', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/ragazzo-canestra-frutta-7.jpg"
 ---
-
-![Ragazzo con il canestro di frutta - Fase 6]({{ site.baseurl }}/wp-content/uploads/ragazzo-canestra-frutta-7.jpg "Ragazzo con il canestro di frutta - Fase 6")
 
 Nella realizzazione del ragazzo con canestra di frutta mi sono imposto di essere sbrigativo e veloce, anche se alla fine ho impiegato 15 giorni con una media di 3 ore al giorno per completarlo. Ho comprato una tela di puro cotone, di quelle preparate con sottile strato di gesso. Ho steso sul supporto uno strato di [colla di coniglio]({{ site.baseurl }}/colla-coniglio-apprettatura-tela-lino/) e [gesso]({{ site.baseurl }}/imprimitura-gesso-bologna-colla-coniglio-dipingere-tela/), un po’ di pigmento marrone e olio di lino. Con Photoshop ho ridimensionato l’immagine di riferimento portandola alle dimensioni reali, poi sono andato in un negozio a stamparlo. Il disegno l’ho trasferito sul supporto in maniera alquanto bizzarra. Ho sovrapposto il disegno alla tela e, con degli stuzzicadenti, ho inciso solo i contorni che poi successivamente ho passato a pennello. Ho improvvisato questa tecnica per essere più sbrigativo.
 

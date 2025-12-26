@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Disegnare nuvole in prospettiva"
 date: 2006-08-19 10:05:48
 categories: ['Disegno']
 tags: ['paesaggi', 'prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/clouds2.jpg"
 ---
-
-![prospettiva nuvole]({{ site.baseurl }}/wp-content/uploads/clouds2.jpg "prospettiva nuvole")
 
 In precedenti articoli abbiamo descritto i diversi [tipi di nuvole]({{ site.baseurl }}/tipi-nuvole/). In questo blog abbiamo ampliamente parlato di prospettiva e come essa si applica ad oggetti geometrici come case, cubi e altro ancora. In quest’articolo vedremo come utilizzare la prospettiva per disegnare le nuvole.
 

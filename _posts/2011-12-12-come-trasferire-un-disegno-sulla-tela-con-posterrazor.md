@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come trasferire un Disegno su Tela con PosterRazor"
 date: 2011-12-12 18:06:58
 categories: ['Disegno']
 tags: ['tutorial']
-layout: single
+feature_image: "/wp-content/uploads/0-Inchiostratura-mini.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/0-Inchiostratura-mini.jpg)
 
 In quest’articolo voglio mostrarvi come trasferire un disegno per un dipinto da una foto sulla tela utilizzando [PosterRazor](https://posterazor.sourceforge.net/), un software gratuito scaricabile dalla rete e installabile in pochi minuti.
 

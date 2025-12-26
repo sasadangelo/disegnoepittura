@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere come Rubens, Vermeer e Rembrandt. (II parte)"
 date: 2006-06-12 08:00:15
 categories: ['Pittura']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/rose-fig11.jpg"
 ---
-
-![rose-fig11]({{ site.baseurl }}/wp-content/uploads/rose-fig11.jpg "rose-fig11")
 
 ### Disegno
 

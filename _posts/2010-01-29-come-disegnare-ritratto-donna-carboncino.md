@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare il ritratto di una donna con il carboncino"
 date: 2010-01-29 08:33:48
 categories: ['Disegno']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/come-disegnare-ritratto-donna-carboncino-27.jpg"
 ---
-
-![come-disegnare-ritratto-donna-carboncino-27]({{ site.baseurl }}/wp-content/uploads/come-disegnare-ritratto-donna-carboncino-27.jpg "come-disegnare-ritratto-donna-carboncino-27")
 
 In quest’articolo vedremo come realizzare il Ritratto di una donna con un carboncino. Per fare ciò analizzeremo un video in due parti su Youtube di [Lon Haverly](http://www.lonhaverly.com/) che a me è piaciuto molto e da cui ho imparato alcune cose che spero ora di condividere con voi.
 

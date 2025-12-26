@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Natura morta con angurie dipinta con i colori ad olio"
 date: 2010-08-14 08:00:43
 categories: ['Pittura']
 tags: ['nature morte', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/natura-morta-angurie-dipinta-colori-olio-8.jpg"
 ---
-
-![natura morta angurie pittura olio]({{ site.baseurl }}/wp-content/uploads/natura-morta-angurie-dipinta-colori-olio-8.jpg "natura morta angurie pittura olio")
 
 Nella mia biblioteca personale ho numerosi libri di disegno e pittura sia in lingua inglese che in italiano. Tra i vari autori c’è l’artista [Helen van Wyk]({{ site.baseurl }}/helen-van-wyk/) di cui ho parlato già diverse volte su questo blog.  Helen van Wyk ha scritto diversi libri, di ottimo livello, tra cui 2 libri in cui riporta le sue ricette di mistione per i diversi soggetti pittorici che un’artista può incontrare nel corso della sua carriera. Di questi due libri io posseggo solo [Helen van Wyk’s Favorite Color Recipes](https://www.amazon.com/Helen-Wyks-Favorite-Color-Recipes/dp/0929552172), un [libro di cui ho già scritto la recensione]({{ site.baseurl }}/helen-van-wyk-favorite-color-recipes/) e che consiglio di acquistare se sapete leggere l’inglese. In questo libro c’è una bellissima foto di natura morta composta da un’anguria tagliata in due e due fette di angurie che arricchiscono la composizione. Nel libro non c’è l’esecuzione passo passo di questo progetto ma solo qualche indicazione sui colori da utilizzare. Poichè utilizzo una tavolozza diversa da Helen (ad esempio io non uso il blu ftalo, il verde ftalo, il giallo verde ftalo, rosso graumbacher, ecc.) ho dovuto rivedere anche le mescolanze suggerite. Quindi ho scelto tra i vari progetti disponibili sul testo uno che non fosse sviluppato nei dettagli proprio per poterlo fare io partendo unicamente dalla foto e poterlo poi pubblicare sul blog.
 

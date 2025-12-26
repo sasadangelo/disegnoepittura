@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "L&#8217;ebook Pittura ad Olio &#8211; Materiali"
 date: 2014-08-21 07:22:50
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/3d-100.png"
 ---
 
-![Pittura ad Olio - Materiali]({{ site.baseurl }}/wp-content/uploads/3d-100.png)  
 A Maggio ho annunciato che avrei sospeso le attività di Disegno & Pittura per un anno in modo da potermi dedicare ad altri miei interessi. Nella mia mente questo periodo doveva anche essere l’opportunità per riflettere su come gestire in futuro questo spazio web. Una decisione che all’inizio sembrava così difficile e dolorosa si è rivelata, invece, molto saggia.
 
 Ho riscoperto la gioia di fare tante cose che non facevo da tempo. Alcuni utenti si sono un po’ spaventati di questa mia decisione intravedendo in essa l’inizio della fine di Disegno & Pittura. La realtà è che le cose stanno esattamente all’opposto e questo articolo ne è la prova tangibile.
@@ -15,7 +15,7 @@ Probabile che in futuro vi parlerò di più di ciò che sta accadendo in questo 
 
 ## L’ebook Pittura ad Olio – Materiali
 
-![Pittura ad Olio - Materiali]({{ site.baseurl }}/wp-content/uploads/3d-450.png)  
+![Pittura ad Olio - Materiali]({{ site.baseurl }}/wp-content/uploads/3d-450.png)
 Tra le tante cose fatte in questi mesi c’è la realizzazione di un nuovo ebook gratuito dal titolo: **Pittura ad Olio – Materiali**. Negli anni passati e ancora oggi ricevo molte email di persone che mi chiedono quale olio acquistare, quale vernice è la migliore, quali materiali usare in casa e così via. Devo dire che qualche volta queste domande mi provocano non poche frustrazioni ma mi rendo conto che, nonostante su questo blog e sul forum si sia discusso molto di questi temi, non tutti gli utenti sanno dove reperire queste informazioni.
 
 Ho pensato quindi che poteva risultare utile sia ai principianti che a quelli più esperti avere una guida che aiutasse a capire, in pochi giorni, quali prodotti acquistare per cominciare a dipingere e come cambiarli man mano che l’esperienza aumenta. Per scrivere questa guida sono partito da alcuni articoli che avevo già scritto, ma mi sono reso conto fin da subito che molte informazioni bisognava riscriverle da zero. Inoltre, è stato necessario aggiungere materiale inedito finora mai trattato sul blog.

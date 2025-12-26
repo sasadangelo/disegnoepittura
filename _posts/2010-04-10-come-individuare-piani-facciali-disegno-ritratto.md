@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come Disegnare e Dipingere un Ritratto rendendo il volume con l&#8217;uso dei piani facciali."
 date: 2010-04-10 07:15:19
 categories: ['Disegno']
 tags: ['chiaroscuro', 'ritratto']
-layout: single
+feature_image: "/wp-content/uploads/come-disegnare-piani-ritratto-12.jpg"
 ---
-
-![come disegnare piani facciali nel ritratto]({{ site.baseurl }}/wp-content/uploads/come-disegnare-piani-ritratto-12.jpg "come disegnare piani facciali nel ritratto")
 
 In alcuni libri sul ritratto capita di imbattersi nel tema dei piani facciali. Questo tema credo sia tra i più importanti  per il ritrattista perchè lo aiuta a conferire volume e solidità ai propri ritratti. Nell’articolo [Come un artista deve usare il chiaroscuro per simulare la percezione del volume]({{ site.baseurl }}/percezione-volume/), abbiamo visto come qualsiasi oggetto può essere ridotto ad una forma geometrica composta da piani, e che il tono di ciascun piano può essere più chiaro o più scuro in funzione della sua inclinazione rispetto alla luce che lo illumina. Il principio di base che abbiamo stabilito è che piani perpendicolari al raggio assumono la massima luminosità, viceversa man man che si inclinano diventano più scuri fino ad arrivare alla massima oscurità quando sono paralleli al raggio di luce. Nella computer grafica questo modello di ombreggiatura è chiamato [Flat Shading](https://it.wikipedia.org/wiki/Ombreggiatura). Anche il volto umano può essere scomposto in piani geometrici che spesso non sono facili da individuare per via della sua rotondità, complessità e varietà.
 

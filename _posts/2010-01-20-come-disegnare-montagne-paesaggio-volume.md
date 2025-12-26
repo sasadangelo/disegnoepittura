@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare le montagne in un paesaggio: volume"
 date: 2010-01-20 18:51:31
 categories: ['Disegno']
 tags: ['chiaroscuro', 'paesaggi']
-layout: single
+feature_image: "/wp-content/uploads/come-disegnare-montagna-paesaggio-volume-16.jpg"
 ---
-
-![come-disegnare-montagna-paesaggio-volume-16]({{ site.baseurl }}/wp-content/uploads/come-disegnare-montagna-paesaggio-volume-16.jpg "come-disegnare-montagna-paesaggio-volume-16")
 
 Nell’articolo [Come disegnare le montagne in un paesaggio: forma e composizione]({{ site.baseurl }}/come-disegnare-montagne-paesaggio-forma-composizione/), abbiamo parlato della forma delle montagne (o silhouette), in quest’articolo analizzeremo gli aspetti che ci aiuteranno a conferire un volume alle nostre montagne. Per fare ciò riconsideriamo il picco di montagna menzionato nell’articolo precedente.
 

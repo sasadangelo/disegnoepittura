@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere un Chiaroscuro."
 date: 2010-11-06 17:53:52
 categories: ['Pittura']
 tags: ['chiaroscuro']
-layout: single
+feature_image: "/wp-content/uploads/come-colorare-forme-geometriche-scala-grigi-9.png"
 ---
-
-![Come dipingere forme geometriche in scala di grigi]({{ site.baseurl }}/wp-content/uploads/come-colorare-forme-geometriche-scala-grigi-9.png "Come dipingere forme-geometriche in scala di grigi")
 
 *Questa è la Lezione 11 del *[corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).**
 

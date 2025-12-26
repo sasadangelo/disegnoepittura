@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Colori a olio"
 date: 2010-06-15 23:13:22
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg"
 ---
-
-![Terra di Siena Naturale]({{ site.baseurl }}/wp-content/uploads/Fig-9-Terra-di-Siena-Naturale-100.jpg "Terra di Siena Naturale")
 
 Quando si comincia a dipingere a olio una delle difficoltà più grandi è la scelta dei colori da usare. In quest’articolo cercherò di chiarire quali sono i prodotti disponibili in commercio.
 

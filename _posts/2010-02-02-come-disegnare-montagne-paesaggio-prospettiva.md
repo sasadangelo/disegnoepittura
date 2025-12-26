@@ -3,10 +3,9 @@ title: "Come disegnare le montagne in un paesaggio: prospettiva"
 date: 2010-02-02 08:00:40
 categories: ['Disegno']
 tags: ['paesaggi', 'prospettiva']
+feature_image: "/wp-content/uploads/come-disegnare-montagna-paesaggio-prospettiva.jpg"
 layout: single
 ---
-
-![come-disegnare-montagna-paesaggio-prospettiva]({{ site.baseurl }}/wp-content/uploads/come-disegnare-montagna-paesaggio-prospettiva.jpg "come-disegnare-montagna-paesaggio-prospettiva")
 
 Dopo aver esaminato gli aspetti della [forma, della composizione]({{ site.baseurl }}/come-disegnare-montagne-paesaggio-forma-composizione/) e del [volume]({{ site.baseurl }}/come-disegnare-montagne-paesaggio-volume/), analizziamo ora la problematica della prospettiva. Quando parliamo di prospettiva intendiamo sia quella lineare che aerea. Nella prospettiva lineare esamineremo la diminuzione delle dimensioni delle montagne al variare della distanza. Cominciamo con il definire la linea d’orizzonte che, come sappiamo, è alla stessa altezza degli occhi dell’osservatore. E’ erroneo pensare che essa stia alla base delle catene montuose. Sia PP il punto focale centrale.
 

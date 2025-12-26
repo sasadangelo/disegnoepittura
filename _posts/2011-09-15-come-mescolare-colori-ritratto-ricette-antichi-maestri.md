@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori del Ritratto con le ricette degli antichi maestri?"
 date: 2011-09-15 09:54:01
 categories: ['Pittura']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/giovanni-paolo-lomazzo.jpg"
 ---
-
-![Giovanni Paolo Lomazzo]({{ site.baseurl }}/wp-content/uploads/giovanni-paolo-lomazzo.jpg "Giovanni Paolo Lomazzo")
 
 *Questo è un guest post di Marco Fenocchio. Se vuoi scrivere anche tu un guest post per questo blog leggi il [regolamento qui]({{ site.baseurl }}/scrivi-articolo).*
 

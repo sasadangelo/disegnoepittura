@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Bozza di Ritratto ad Acquarello"
 date: 2008-06-04 20:25:53
 categories: ['Pittura']
 tags: ['acquarello', 'ritratto', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/bozza1.jpg"
 ---
-
-![bozza1]({{ site.baseurl }}/wp-content/uploads/bozza1.jpg "bozza1")
 
 Oggi volevo mostrarvi un semplice esercizio. Un acquarello che mostra a grandi linee un esempio di ombreggiatura di un volto. Il volto sarà anch’esso solo abbozzato: il classico ovale.
 

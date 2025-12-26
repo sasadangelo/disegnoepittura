@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare un viso in movimento secondo l&#8217;artista Burne Hogart (parte I)"
 date: 2009-02-12 19:29:49
 categories: ['Disegno']
 tags: ['ritratto']
-layout: single
+feature_image: "/wp-content/uploads/rotazione11.jpg"
 ---
-
-![Come disegnare un viso in movimento secondo l'artista Burne Hogart](http://www.disegnoepittura.it{{ site.baseurl }}/wp-content/uploads/rotazione11.jpg "Come disegnare un viso in movimento secondo l'artista Burne Hogart")
 
 Nei precedenti tutorial riguardo allo studio del ritratto abbiamo studiato le [proporzioni del viso](http://www.disegnoepittura.it/proporzioni-viso/) e come disegnare i vari elementi della massa facciale come [naso](http://www.disegnoepittura.it/come-disegnare-naso-ritratto/), [occhi](http://www.disegnoepittura.it/come-disegnare-occhi-ritratto/), [orecchie](http://www.disegnoepittura.it/come-disegnare-orecchio-ritratto/) e [bocca](http://www.disegnoepittura.it/come-disegnare-bocca-ritratto/). In questa serie di articoli inizieremo ad analizzare come disegnare la testa da varie angolazioni. In quest’articolo, in particolare, studieremo come disegnare la testa quando essa subisce una rotazione orizzontale.
 

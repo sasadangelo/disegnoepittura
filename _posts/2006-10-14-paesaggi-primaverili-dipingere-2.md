@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Paesaggi primaverili da dipingere • Fase 2"
 date: 2006-10-14 15:40:30
 categories: ['Pittura']
 tags: ['paesaggi', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/paesaggioprim.jpg"
 ---
-
-![paesaggioprim]({{ site.baseurl }}/wp-content/uploads/paesaggioprim.jpg "paesaggioprim")
 
 Hai mai pensato di poter dipingere un giorno paesaggi primaverili con montagne, alberi e laghi di grande impatto visivo? Questo è il secondo di una serie di tre articoli che se leggerai ti mostreranno come è semplice dipingere bellissimi paesaggi primaverili. Se non hai letto il [primo articolo]({{ site.baseurl }}/paesaggi-primaverili-dipingere/) ti consiglio di leggerlo prima di proseguire nella lettura di quest’articolo.
 

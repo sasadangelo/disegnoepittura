@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Paesaggio marino al tramonto"
 date: 2007-01-27 14:10:22
 categories: ['Pittura']
 tags: ['paesaggi', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/twilight-mist-7.jpg"
 ---
-
-![twilight-mist-7]({{ site.baseurl }}/wp-content/uploads/twilight-mist-7.jpg "twilight-mist-7")
 
 Con questo semplice tutorial vorrei illustrare l’applicazione pratica di alcuni articoli sulla [prospettiva aerea]({{ site.baseurl }}/prospettiva-aerea-esempio-applicazione/) illustrati su questo blog. Il protagonista principale di questo dipinto è l’atmosfera calda del cielo al tramonto. Nei post precedenti abbiamo parlato di prospettiva aerea e di come simularla. Abbiamo parlato, fondamentalmente, di due tecniche:
 

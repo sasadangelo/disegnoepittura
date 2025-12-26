@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come schiarire e scurire i colori?"
 date: 2011-08-05 13:30:49
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/tavolozza-colori-completa.jpg"
 ---
-
-![Tavolozza dei colori completa]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-completa.jpg "Tavolozza dei colori completa")
 
 *Questa è la lezione 19 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 

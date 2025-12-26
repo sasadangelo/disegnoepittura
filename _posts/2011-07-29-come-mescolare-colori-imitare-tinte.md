@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori per imitare le tinte della natura."
 date: 2011-07-29 23:06:17
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/munsell.jpg"
 ---
-
-![Come mescolare i colori per imitare le tinte della natura]({{ site.baseurl }}/wp-content/uploads/munsell.jpg "Come mescolare i colori per imitare le tinte della natura")
 
 *Questa è la lezione 18 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 

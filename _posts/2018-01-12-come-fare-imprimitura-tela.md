@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come fare l&#8217;Imprimitura di una Tela"
 date: 2018-01-12 18:14:13
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/0-Imprimitura_di_una_Tela.jpg"
 ---
-
-![Imprimitura di una Tela]({{ site.baseurl }}/wp-content/uploads/0-Imprimitura_di_una_Tela.jpg)
 
 In quest’articolo voglio spiegare come preparo la tela per dipingere a olio.
 

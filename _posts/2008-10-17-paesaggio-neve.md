@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Paesaggio con neve"
 date: 2008-10-17 18:27:14
 categories: ['Pittura']
 tags: ['acquarello', 'paesaggi', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/acquarello-2.jpg"
 ---
-
-![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")
 
 In questo post vorrei illustrarvi un esempio su come dipingere un paesaggio innevato con fienile in rovina.
 
@@ -50,7 +49,7 @@ Il colore di base del fienile è terra di siena naturale con pochissimo terra di
 
 ![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/paesaggio-acquarello-3.jpg "Paesaggio con neve")
 
-Per il muretto che dal fienile va fino alla fine del foglio a sinistra, il procedimento è sempre lo stesso. Si parte con un base di terra di sinea naturale + pochissima terra siena bruciata. Poi con la base ancora bagnata si aggiunge al colore precedente blu cobalto + pochissimo rosso. Lasciare in bianco la parte superiore ad indicare la copertura di neve.  
+Per il muretto che dal fienile va fino alla fine del foglio a sinistra, il procedimento è sempre lo stesso. Si parte con un base di terra di sinea naturale + pochissima terra siena bruciata. Poi con la base ancora bagnata si aggiunge al colore precedente blu cobalto + pochissimo rosso. Lasciare in bianco la parte superiore ad indicare la copertura di neve.
 ![Paesaggio con neve]({{ site.baseurl }}/wp-content/uploads/acquarello-2.jpg "Paesaggio con neve")
 
 Il muretto a destra è blu ceruleo + blu cobalto. La parte coperta di neve va lasciata bianca. Qua è la sul muretto ci sono pietre e piccoli rametti che vanno dipinti sempre con i colori terra di sinea naturale, terra di sinea bruciata, blu cobalto e pochissimo rosso.

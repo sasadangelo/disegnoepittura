@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Un trucco per dipingere linee dritte con il pennello"
 date: 2011-05-03 17:11:59
 categories: ['Pittura']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/come-dipingere-linee-dritte-4.jpg"
 ---
-
-![Come dipingere linee dritte]({{ site.baseurl }}/wp-content/uploads/come-dipingere-linee-dritte-4.jpg "Come dipingere linee dritte")
 
 Qualche settimane fa, come molti di voi sapranno, ho aperto il [forum di Disegno & Pittura](http://forum.disegnoepittura.it) che, attualmente, conta più di 100 iscritti. Le motivazioni per cui l’ho creato le ho scritte nell’[articolo di presentazione del forum]({{ site.baseurl }}/forum-disegno-pittura-community-disegnare-dipingere/). Inizialmente avevo un pò di timore perchè per me è già difficile gestire un blog con il poco tempo a disposizione, immaginarsi quindi l’aggiunta di un forum. Inoltre, già una volta ho dovuto chiudere un forum associato al blog per problemi di tempo. Devo dire, però, che l’evolversi dell’iniziativa mi ha sorpreso. Innanzittutto per il numero di iscritti in così poco tempo, poi perchè la comunità sembra abbastanza attiva anche senza il mio intervento. Sono nate diverse discussioni e molti spunti per articoli da pubblicare sul blog. Infatti, il forum si sta rilevando un ottimo laboratorio per materiale da pubblicare su questo giornale. Inoltre, esso sta diventando anche un ottimo strumento per capire i reali interessi della comunità che sta dietro alla piattaforma Disegno & Pittura.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Disegnare un Accendino"
 date: 2009-03-10 23:42:41
 categories: ['Disegno']
 tags: ['nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/still_life_drawing_tutorial_12.jpg"
 ---
-
-![]({{ site.baseurl }}/wp-content/uploads/still_life_drawing_tutorial_12.jpg)
 
 In questo tutorial vedremo come disegnare un accendino.
 

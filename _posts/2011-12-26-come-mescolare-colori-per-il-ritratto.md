@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori per il ritratto con il metodo di John Howard Sanden"
 date: 2011-12-26 21:11:22
 categories: ['Pittura']
 tags: ['mescolare i colori', 'ritratto']
-layout: single
+feature_image: "/wp-content/uploads/color-mixing-portrait-light2.jpg"
 ---
-
-![Light 2]({{ site.baseurl }}/wp-content/uploads/color-mixing-portrait-light2.jpg "Light 2")
 
 Vuoi dipingere un ritratto ma non sai come imitare tutte quelle variazioni di colore di un viso? Quando dipingi un viso non sai da quali colori partire e come modularli per adattarli alle varie esigenze? Questo articolo spiega come l’artista John Howard Sanden usa i suoi colori dell’incarnato per imitare tutte le variazioni di tono, intensità e temperatura di un ritratto.Nell’articolo [La tavolozza dei colori per il Ritratto di John Howard Sanden]({{ site.baseurl }}/tavolozza-colori-ritratto-john-howard-sanden/) abbiamo visto quali sono i colori della sua tavolozza base da cui il ritrattista statunitense parte per creare i suoi ritratti. Questa tavolozza contiene 13 colori standard: blu oltremare, blu ceruleo, verde smeraldo (viridian), verde ossido cromo, terra ombra naturale, terra ombra bruciata, terra di siena bruciata, arancio cadmio, nero avorio, bianco, rosso cadmio chiaro, giallo ocra e giallo cadmio chiaro. In aggiunta a questi colori l’artista usa [10 colori addizionali premescolati specifici per l’incarnato che lui chiama Promix Color System]({{ site.baseurl }}/tavolozza-colori-ritratto-john-howard-sanden/).
 

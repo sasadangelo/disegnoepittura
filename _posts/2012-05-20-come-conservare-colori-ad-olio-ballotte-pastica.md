@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come conservare colori ad olio in ballotte di plastica"
 date: 2012-05-20 13:41:18
 categories: ['Pittura']
 tags: ['chiaroscuro', 'materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/conservare-colori-ballotte-3.JPG"
 ---
-
-![Come conservare colori ad olio in ballotte di plastica]({{ site.baseurl }}/wp-content/uploads/conservare-colori-ballotte-3.JPG "Come conservare colori ad olio in ballotte di plastica")
 
 Come conservare colori ad olio ed evitare di dover preparare ogni volta le tinte di base?
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere un paesaggio marino con l&#8217;uso della prospettiva aerea."
 date: 2006-06-19 08:00:49
 categories: ['Pittura']
 tags: ['mescolare i colori', 'paesaggi', 'prospettiva', 'prospettiva aerea']
-layout: single
+feature_image: "/wp-content/uploads/prospettiva-aerea.jpg"
 ---
-
-![prospettiva-aerea]({{ site.baseurl }}/wp-content/uploads/prospettiva-aerea.jpg "prospettiva-aerea")
 
 I tuoi paesaggi sono piatti e privi di profondità? Uno dei motivi ricorrenti di questo problema è la non conoscenza della prospettiva aerea. In quest’articolo illustro come ho realizzato un semplice paesaggio marino utilizzando i principi della prospettiva aerea.
 

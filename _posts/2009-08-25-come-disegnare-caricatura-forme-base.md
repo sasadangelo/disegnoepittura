@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Le 5 forme di base di una Caricatura"
 date: 2009-08-25 11:39:19
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/caricatura-5-forme-5.jpg"
 ---
-
-![caricatura]({{ site.baseurl }}/wp-content/uploads/caricatura-5-forme-5.jpg "caricatura")
 
 Quali sono le 5 forme base in una caricatura? Leggendo quest’articolo lo scoprirai e imparerai anche come l’esagerazione di una forma influisce sulle altre.
 

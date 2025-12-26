@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Paesaggi invernali da dipingere"
 date: 2006-05-12 10:20:06
 categories: ['Pittura']
 tags: ['pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/lago-inverno.jpg"
 ---
-
-![Paesaggi invernali da dipingere]({{ site.baseurl }}/wp-content/uploads/lago-inverno.jpg "Paesaggi invernali da dipingere")
 
 Hai mai pensato di poter dipingere un giorno paesaggi invernali con montagne, alberi e laghi? Questo articolo ti mostrerà come è semplice dipingere bellissimi paesaggi invernali.
 

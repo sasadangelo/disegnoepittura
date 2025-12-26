@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come dipingere il chiaroscuro di un paesaggio con l&#8217;aiuto di Gimp"
 date: 2010-11-23 08:00:26
 categories: ['Pittura']
 tags: ['arte digitale', 'chiaroscuro', 'corso pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/paesaggio-chiaroscuro-16.PNG"
 ---
-
-![Chiaroscuro di un Paesaggio]({{ site.baseurl }}/wp-content/uploads/paesaggio-chiaroscuro-16.PNG "Chiaroscuro di un Paesaggio")
 
 *Questa è la Lezione 12 del *[corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).**
 

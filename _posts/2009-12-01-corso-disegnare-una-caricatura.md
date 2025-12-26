@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Corso per Disegnare una Caricatura"
 date: 2009-12-01 08:00:57
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/amy-winehouse-thumb.jpg"
 ---
-
-![Disegnare una caricatura]({{ site.baseurl }}/wp-content/uploads/amy-winehouse-thumb.jpg "Disegnare una caricatura")
 
 Vuoi imparare a disegnare una caricatura? Leggendo quest’articolo avrai accesso ad un intero corso che ti spiegherà come fare.
 

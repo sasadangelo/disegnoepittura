@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell di Frank Reilly. Qual era la tavolozza di Reilly?"
 date: 2008-11-26 08:00:10
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/small_sketchbox.gif"
 ---
-
-![Tavolozza di Frank Reilly]({{ site.baseurl }}/wp-content/uploads/small_sketchbox.gif "Tavolozza di Frank Reilly")
 
 Dopo aver analizzato le [semplificazioni che Frank Reilly applicò al modello di Munsell]({{ site.baseurl }}/munsell-color-system-pratica/) per renderlo utilizzabile dagli artisti e, dopo aver visto [come mescolare i grigi]({{ site.baseurl }}/munsell-color-system-grigi-frank-reilly/) che serviranno a regolare la saturazione dei colori, è venuto il momento di parlare del metodo di Frank Reilly per mescolare i colori. La fonte è il libro [Artist’s Atelier. Reference guide to Structural Concepts and Principles](https://www.amazon.com/Artists-Atelier-Reference-Structural-Principles/dp/1553690877) di J.T.Doren allievo della Frank Reilly School of New York. Oltre al modello originale proposto da Reilly vedremo anche le variazioni sperimentate da Doren e i suoi allievi.
 

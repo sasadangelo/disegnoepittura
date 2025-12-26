@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Esagerazioni nella Caricatura."
 date: 2009-09-01 08:00:36
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/caricatura-arnold-schwarzenegger.jpg"
 ---
-
-![caricatura arnold schwarzenegger]({{ site.baseurl }}/wp-content/uploads/caricatura-arnold-schwarzenegger.jpg "caricatura arnold schwarzenegger")
 
 Come individuare l’elemento di esagerazione in una caricatura? La risposta a tale domanda è il pilastro su cui si fonda una buona caricatura.
 

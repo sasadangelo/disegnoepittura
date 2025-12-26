@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Colori Primari, Secondari e Complementari"
 date: 2006-05-02 09:55:15
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/ruota-cromatica-mini.png"
 ---
 
-![Ruota cromatica]({{ site.baseurl }}/wp-content/uploads/ruota-cromatica-mini.png "Colori Primari, Secondari e Complementari")
 [Il colore]({{ site.baseurl }}/colore/ "Colore") è una grandezza tridimensionale e la sola ruota dei colori non è sufficiente a rappresentare tutto lo spazio colorimetrico. Tuttavia, per spiegare i concetti di colori primari, secondari e complementari, la sola ruota dei colori è più che sufficiente.
 
 ## I colori primari

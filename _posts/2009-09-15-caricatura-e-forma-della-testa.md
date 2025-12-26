@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Caricatura e Forma della Testa"
 date: 2009-09-15 08:00:30
 categories: ['Disegno']
 tags: ['caricatura']
-layout: single
+feature_image: "/wp-content/uploads/caricatura-forma-testa-7.jpg"
 ---
-
-![caricatura forma testa]({{ site.baseurl }}/wp-content/uploads/caricatura-forma-testa-7.jpg "caricatura forma testa")
 
 Nell’articolo [Caricatura e Deformazioni Naso-Occhi](/caricatura-deformazioni-naso-occhi/) abbiamo visto che le due forme principali su cui agire per gestire le esagerazioni e le relazioni tra i diversi elementi del viso sono:
 

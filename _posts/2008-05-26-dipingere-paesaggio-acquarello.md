@@ -1,29 +1,28 @@
 ---
+layout: single
 title: "Dipingere un Paesaggio ad Acquarello"
 date: 2008-05-26 14:30:55
 categories: ['Pittura']
 tags: ['acquarello', 'paesaggi', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/redmire7.jpg"
 ---
-
-![dipingere paesaggio acquarello]({{ site.baseurl }}/wp-content/uploads/redmire7.jpg "dipingere paesaggio acquarello")
 
 **Materiali**
 
-**Colori Acquarello**  
-Terra d’Ombra Bruciata  
-Blu Cobalto  
-Verde Hooker  
-Terra di Siena Bruciata  
-Giallo Ocra  
-Carminio d’Alzarina  
-Rosso Chiaro  
+**Colori Acquarello**
+Terra d’Ombra Bruciata
+Blu Cobalto
+Verde Hooker
+Terra di Siena Bruciata
+Giallo Ocra
+Carminio d’Alzarina
+Rosso Chiaro
 Blu Oltremare
 
 **Pennelli**
 
-1,5″ Piatto  
-3/4″ Piatto  
+1,5″ Piatto
+3/4″ Piatto
 n° 8
 
 ![dipingere paesaggio acquarello]({{ site.baseurl }}/wp-content/uploads/redmire1x300.jpg "dipingere paesaggio acquarello")

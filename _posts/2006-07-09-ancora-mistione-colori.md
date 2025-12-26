@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Ancora sulla mistione dei colori &#8230;"
 date: 2006-07-09 16:55:59
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'prospettiva aerea']
-layout: single
+feature_image: "/wp-content/uploads/thumb_colormix.jpeg"
 ---
 
-![Ancora sulla mistione dei colori ...]({{ site.baseurl }}/wp-content/uploads/thumb_colormix.jpeg "Ancora sulla mistione dei colori ...")  
 Osservate l’immagine sotto, è lo schema di una roccia in mare. Di questa roccia distinguiamo alcune zone:
 
 1. zona colore locale: cioè la zona che assume il vero colore della roccia (supponiamo terra d’ombra bruciata).

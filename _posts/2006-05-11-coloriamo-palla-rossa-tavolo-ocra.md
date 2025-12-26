@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Colorare una palla rossa su un tavolo ocra"
 date: 2006-05-11 11:10:18
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/medium_colori2.jpg"
 ---
-
-![color mixing]({{ site.baseurl }}/wp-content/uploads/medium_colori2.jpg "color mixing")
 
 Abbiamo visto nei precedenti post [come mescolare i colori]({{ site.baseurl }}/mescolare-colori/ "Mescolare i Colori") per colorare una scatola blu. In quel caso avevamo utilizzato 3 colori: il colore locale dell’oggetto (cioè il colore reale), quello in ombra e quello esposto alla luce. I colori erano stati così ottenuti.
 

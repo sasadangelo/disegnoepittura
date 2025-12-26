@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Dipingere uno studio di natura morta con limoni"
 date: 2010-09-02 22:39:18
 categories: ['Pittura']
 tags: ['nature morte', 'pittura ad olio', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/dipingere-natura-morta-limoni-colori-olio.jpg"
 ---
-
-![dipingere studio natura morta limoni]({{ site.baseurl }}/wp-content/uploads/dipingere-natura-morta-limoni-colori-olio.jpg "dipingere studio natura morta limoni")
 
 Oggi vorrei mostrarvi un nuovo esercizio che ho realizzato con i colori ad olio prendendo spunto dal libro di [Color Mixing, the van Wyk way](https://www.amazon.com/Color-Mixing-Van-Wyk-Way/dp/0929552180/ref=sr_1_1) di [Helen van Wyk]({{ site.baseurl }}/helen-van-wyk/). Pur avendo fatto delle foto intermedie durante la lavorazione di questo piccolo dipinto non le pubblico per evitare di copiare su web contenuti di un libro protetto da Copyright, anche se sono foto di un dipinto fatto da me. Chi vuole i dettagli di questo progetto e di molti altri presenti nel libro può acquistarlo su [Amazon](https://www.amazon.com/Color-Mixing-Van-Wyk-Way/dp/0929552180). A differenza del dipinto riportato nell’articolo [Natura morta con angurie dipinta con i colori ad olio]({{ site.baseurl }}/natura-morta-angurie-dipinta-colori-olio/), non ho realizzato uno studio tonale in bianco e nero con gli acrilici ma ho dipinto direttamente sulla tela acquistata in negozio. Questa differenza ha dato dei risultati tutt’altro che insoddisfacenti ma confrontando i due dipinti devo ammettere che con lo studio tonale i risultati sono sicuramente migliori. Infatti, si ha la sensazione di una maggiore armonia e uniformità. Come per qualsiasi dipinto che eseguo la prima cosa che faccio è cercare di individuare i colori che mi serviranno e prepararli in anticipo. Gli oggetti da dipingere, come vediamo sono:
 

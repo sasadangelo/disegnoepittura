@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare e colorare un cilindro con Microsoft Paint"
 date: 2009-06-03 07:32:47
 categories: ['Pittura']
 tags: ['arte digitale', 'chiaroscuro']
-layout: single
+feature_image: "/wp-content/uploads/cylinder9.bmp"
 ---
-
-![cilindro]({{ site.baseurl }}/wp-content/uploads/cylinder9.bmp "cilindro")
 
 Nell’articolo [Come un artista deve usare il chiaroscuro per simulare la percezione del volume]({{ site.baseurl }}/percezione-volume/), abbiamo visto come la prospettiva e il chiaroscuro contribuiscono a fornire una percezione del volume. Gli esempi che abbiamo visto sono semplici disegni prospettici o in toni di grigio. La domanda che ci poniamo ora è: cosa succede se l’oggetto da ritrarre è colorato? Per rispondere a questa domanda ho realizzato questo semplice tutorial con Microsoft Paint i cui concetti base, però, valgono per qualsiasi medium sia esso classico (olio, acrilico, matite colorate, ecc.) che digitale (ms paint, gimp, photoshop, ecc.). L’esercizio prevede la colorazione di un cilindro verde. Cominciamo con il disegnare il nostro cilindro.
 

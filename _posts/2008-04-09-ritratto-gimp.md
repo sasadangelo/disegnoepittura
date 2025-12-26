@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Analizziamo un ritratto con GIMP"
 date: 2008-04-09 15:00:19
 categories: ['Disegno']
 tags: ['arte digitale', 'ritratto']
-layout: single
+feature_image: "/wp-content/uploads/pio.jpg"
 ---
-
-![pio]({{ site.baseurl }}/wp-content/uploads/pio.jpg "pio")
 
 Tutti conoscono Photoshop come uno degli strumenti di fotoritocco più famoso. Meno noto è l’ “equivalente” programma opensource [GIMP](https://www.gimp.org/ "Gimp"). Ora vedremo insieme alcune cose interessanti fattibili con GIMP e che possono aiutarvi a comprendere meglio alcuni concetti di pittura. Come caso di studio prenderemo un ritratto di Padre Pio.
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly. Le tabelle dei colori."
 date: 2006-11-13 23:45:26
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/munsell-25r.jpg"
 ---
-
-![munsell-25r]({{ site.baseurl }}/wp-content/uploads/munsell-25r.jpg "munsell-25r")
 
 Dopo aver [introdotto il modello di Munsell]({{ site.baseurl }}/munsell-color-system/) e aver dato una definizione delle tre caratteristiche di  un colore: [hue]({{ site.baseurl }}/munsell-color-system-hue/), [tono]({{ site.baseurl }}/munsell-color-system-parte-tono/) e [saturazione]({{ site.baseurl }}/munsell-color-system-saturazione/); è il momento di dare un’occhiata alla tabelle dei colori. Esse possono essere usate per confrontarle con una data tinta e capire così che posizione assume nell’albero di Munsell.
 

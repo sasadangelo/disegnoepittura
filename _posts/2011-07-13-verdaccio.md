@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Verdaccio"
 date: 2011-07-13 18:25:05
 categories: ['Pittura']
 tags: ['chiaroscuro', 'ritratto']
-layout: single
+feature_image: "/wp-content/uploads/verdaccio.jpg"
 ---
-
-![verdaccio]({{ site.baseurl }}/wp-content/uploads/verdaccio.jpg "verdaccio")
 
 Che cos’è il verdaccio? Come può aiutarti questo colore  realizzare ritratti più realistici? Lo sapevi che il verdaccio era un colore fondamentale per gli artisti del Pre Rinascimento come Giotto e del Rinascimento come Leonardo, Michelangelo e Raffaello?
 

@@ -1,12 +1,12 @@
 ---
+layout: single
 title: "Come fotografare le proprie opere d&#8217;arte?"
 date: 2012-01-17 19:42:16
 categories: ['Art Business']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/lago%20inverno.2.jpg"
 ---
 
-![Foto di un dipinto con data]({{ site.baseurl }}/wp-content/uploads/lago%20inverno.2.jpg "Foto di un dipinto con data")
 Hai dipinto un bel quadro e vuoi mostrarlo ai tuoi amici sul web o semplicemente mostarlo sul [forum di Disegno & Pittura](http://forum.disegnoepittura.it/)? Hai scattato una foto della tua opera artistica e ti accorgi che non è uguale all’originale, anzi è molto piu brutta?
 
 Nell’era di Internet molti artisti si promuovono su web e riuscire a fare belle foto delle proprie opere, fedeli all’originale, è fondamentale.

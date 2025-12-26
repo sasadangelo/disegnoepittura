@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Prospettiva"
 date: 2011-08-27 09:23:21
 categories: ['Disegno']
 tags: ['prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/prospettiva-accidentale-4.jpg"
 ---
-
-![Prospettiva]({{ site.baseurl }}/wp-content/uploads/prospettiva-accidentale-4.jpg "Prospettiva")
 
 Questa è una serie di articoli il cui obiettivo è quello di spiegare che cos’è la prospettiva e come usarla nelle proprie opere.
 

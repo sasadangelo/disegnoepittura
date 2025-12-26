@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Intervista a Paolo Tagliaferro pittore iperrealista"
 date: 2012-02-25 00:47:41
 categories: ['Artisti']
 tags: ['interviste']
-layout: single
+feature_image: "/wp-content/uploads/paolo-tagliaferro.jpg"
 ---
-
-![Paolo Tagliaferro]({{ site.baseurl }}/wp-content/uploads/paolo-tagliaferro.jpg "Paolo Tagliaferro")
 
 [Paolo Tagliaferro](http://www.artpaolotagliaferro.it/), pittore iperrealista, è un ragazzo giovane e dal talento straordinario. L’ho conosciuto per caso attraverso il web nel mese di Giugno 2011 in occasione del [1° Concorso di Pittura di Disegno & Pittura]({{ site.baseurl }}/1%c2%b0-concorso-pittura-online-community-disegno-pittura/). Da allora abbiamo avuto diversi scambi di email e, di recente, Paolo ha accettato di [aiutare gli utenti del forum ad avvicinarsi al mondo dell’iperrealismo](http://forum.disegnoepittura.it/viewforum.php?f=18). Da questo scambio di email è venuta fuori una vera e propria intervista che oggi voglio proporvi insieme ad alcuni dei dipinti più rappresentativi di Paolo. Credo sia un modo piacevole per farvi conoscere meglio Paolo e anche un’opportunità per capire la sua esperienza, fino ad oggi, nel mondo dell’arte . Leggendo questa intervista potreste anche far tesoro di qualche suo consiglio. Recentemente avevo già parlato di Paolo [segnalandovi la sua partecipazione alla “Biennale” di Sgarbi di Torino]({{ site.baseurl }}/paolo-tagliaferro-partecipa-biennale-sgarbi-torino/). Dopo un’altra mostra a cui ha partecipato dal titolo **Realismo Radicale** terminata il 10 febbraio 2012, è stato scelto dal direttore artistico Patrick Caputo per restare in permanenza alla [Galerie Unique di Torino](http://www.galerieunique.com/) in C.so Vittorio Emanuele II, 36 – 10123 Torino.
 

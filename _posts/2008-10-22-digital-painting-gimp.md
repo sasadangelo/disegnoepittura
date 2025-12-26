@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come disegnare un limone con Gimp"
 date: 2008-10-22 18:57:12
 categories: ['Disegno']
 tags: ['arte digitale']
-layout: single
+feature_image: "/wp-content/uploads/gimp-10.jpg"
 ---
-
-![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-10.jpg "Digital Painting con Gimp")
 
 Dal [Wikipedia](https://it.wikipedia.org/wiki/Pittura_digitale) leggiamo la seguente definizione di Pittura Digitale:
 
@@ -46,25 +45,25 @@ La prima cosa da fare è caricare l’immagine di partenza dentro Gimp. Per fare
 
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-2.jpg "Digital Painting con Gimp")
 
-Prima di continuare con il nostro esercizio dobbiamo introdurre il concetto di “livello”. Un livello lo si può immaginare come un foglio. In Gimp è possibile sovrapporre i fogli (o livelli) uno sopra all’altro, decidere in ogni momento su quale foglio disegnare e definirne anche l’opacità.  
+Prima di continuare con il nostro esercizio dobbiamo introdurre il concetto di “livello”. Un livello lo si può immaginare come un foglio. In Gimp è possibile sovrapporre i fogli (o livelli) uno sopra all’altro, decidere in ogni momento su quale foglio disegnare e definirne anche l’opacità.
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-3.jpg "Digital Painting con Gimp")
 
-Per lavorare con i livelli, per prima cosa bisogna visualizzare la “finestra dei livelli”. Per fare ciò cliccate su Dialogs->Layers. A questo punto creiamo un nuovo livello cliccando su Layer->New Layer. Diamo al livello il nome *Drawing* e lasciamo tutti gli altri parametri invariati.  
+Per lavorare con i livelli, per prima cosa bisogna visualizzare la “finestra dei livelli”. Per fare ciò cliccate su Dialogs->Layers. A questo punto creiamo un nuovo livello cliccando su Layer->New Layer. Diamo al livello il nome *Drawing* e lasciamo tutti gli altri parametri invariati.
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-4.jpg "Digital Painting con Gimp")
 
-Notate come nella finestra dei livelli compaia il nuovo livello appena creato sopra il livello dove c’è l’immagine del limone. Il livello selezionato sarà il livello su cui si disegna, quindi in qualsiasi momento si può selezionare l’uno o l’altro per disegnare su ciascuno di esso. Cliccando sull’occhio a sinistra di ciascun livello si può abilitare/disabilitare la visualizzazione del livello.  
+Notate come nella finestra dei livelli compaia il nuovo livello appena creato sopra il livello dove c’è l’immagine del limone. Il livello selezionato sarà il livello su cui si disegna, quindi in qualsiasi momento si può selezionare l’uno o l’altro per disegnare su ciascuno di esso. Cliccando sull’occhio a sinistra di ciascun livello si può abilitare/disabilitare la visualizzazione del livello.
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-5.jpg "Digital Painting con Gimp")
 
-A questo punto, selezioniamo il colore bianco facendo doppio click sul foreground/background color. Nella finestra Change Foreground Color inserire il valore 255 per le componenti RGB come mostra la figura e premere OK.  
+A questo punto, selezioniamo il colore bianco facendo doppio click sul foreground/background color. Nella finestra Change Foreground Color inserire il valore 255 per le componenti RGB come mostra la figura e premere OK.
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-6.jpg "Digital Painting con Gimp")
 
-Nella barra degli strumenti selezionare il secchiello e versare il colore bianco sul livello appena creato. Noterete che il limone improvvisamente scomparirà e il disegno diventerà tutto bianco.  
+Nella barra degli strumenti selezionare il secchiello e versare il colore bianco sul livello appena creato. Noterete che il limone improvvisamente scomparirà e il disegno diventerà tutto bianco.
 ![Digital Painting con Gimp]({{ site.baseurl }}/wp-content/uploads/gimp-7.jpg "Digital Painting con Gimp")
 
-Nella finestra dei livelli impostare l’opacità al valore di 70.  
+Nella finestra dei livelli impostare l’opacità al valore di 70.
 ![]({{ site.baseurl }}/wp-content/uploads/gimp-8.jpg)
 
-Noterete che improvvisamente dietro al bianco del foglio comparirà di nuovo il limone come se fosse coperto da uno strato bianco trasperente.  
+Noterete che improvvisamente dietro al bianco del foglio comparirà di nuovo il limone come se fosse coperto da uno strato bianco trasperente.
 ![]({{ site.baseurl }}/wp-content/uploads/gimp-9.jpg)
 
 Nella barra degli strumenti selezionare la matita. La forma deve essere circolare, la dimensione uguale a 1 [Circle (1)] e l’opacità uguale a 30. Selezionate il colore nero come colore di primo piano e iniziamo a tracciare i contorni del limone come se disegnassimo su un foglio trasparente con dietro il disegno da copiare. Poichè in genere è molto difficile disegnare con il mouse, consiglio di zoomare l’immagine cliccando su View->Zoom->400%. Usate CTRL-Z per annullare linee mal riuscite. Alla fine del disegno Cambiate di nuovo lo zoom portandolo al 100%.

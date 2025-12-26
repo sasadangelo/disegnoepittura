@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come creare un quadro materico"
 date: 2013-05-14 17:10:15
 categories: ['Pittura']
 tags: ['acrilico', 'nature morte', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/FOTO-QUADRO-FINITO-MINI.jpg"
 ---
-
-![Quadro Materico - Foto quadro finito]({{ site.baseurl }}/wp-content/uploads/FOTO-QUADRO-FINITO-MINI.jpg "Quadro Materico - Foto quadro finito")
 
 In quest’articolo spiegherò che cos’è un quadro materico e come si realizza passo dopo passo.
 

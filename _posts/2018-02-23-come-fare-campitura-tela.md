@@ -1,10 +1,10 @@
 ---
+layout: single
 title: "Come fare la Campitura di una Tela"
 date: 2018-02-23 14:33:40
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'nature morte', 'pittura ad olio', 'tutorial']
 feature_image: "/wp-content/uploads/Campitura-mini.jpg"
-layout: single
 ---
 
 In quest’articolo proverò a spiegare che cos’è la campitura, a cosa serve e come la eseguo.

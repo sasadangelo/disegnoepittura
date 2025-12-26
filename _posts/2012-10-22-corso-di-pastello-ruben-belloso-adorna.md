@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Corso di Pastello di Ruben Belloso Adorna"
 date: 2012-10-22 13:35:50
 categories: ['Vari']
 tags: []
-layout: single
+feature_image: "/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg"
 ---
-
-![Ruben Belloso Adorna - Occhio]({{ site.baseurl }}/wp-content/uploads/ruben-belloso-adorna-occhio-4.jpg "Ruben Belloso Adorna - Occhio")
 
 Lo scorso weekend ho partecipato al corso di pastello di 1° livello tenuto a Roma da Ruben Belloso Adorna.
 

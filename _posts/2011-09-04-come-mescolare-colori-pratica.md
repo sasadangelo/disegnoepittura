@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori in pratica."
 date: 2011-09-04 15:54:01
 categories: ['Pittura']
 tags: ['corso pittura ad olio', 'mescolare i colori']
-layout: single
+feature_image: "/wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG"
 ---
-
-![Mescolare colore verde uva]({{ site.baseurl }}/wp-content/uploads/tavolozza-colori-completa-mescolare-verde-uva.JPG "Mescolare colore verde uva")
 
 *Questa è la lezione 22 del [corso di pittura ad olio per artisti principianti]({{ site.baseurl }}/corso-pittura-olio-artisti-principianti-2/).*
 

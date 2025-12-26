@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Prospettiva, la terminologia da sapere."
 date: 2006-05-09 10:55:07
 categories: ['Disegno']
 tags: ['prospettiva']
-layout: single
+feature_image: "/wp-content/uploads/eyelevel.gif"
 ---
-
-![prospettiva]({{ site.baseurl }}/wp-content/uploads/eyelevel.gif "prospettiva")
 
 Quasi tutti i libri o articoli che parlano di prospettiva, definiscono una propria serie di termini per descriverne i diversi elementi. Per evitare equivoci riporto la terminologia che utilizzeremo sul blog, nella speranza che essa sia anche di aiuto alle persone che muovono i primi passi in questo mondo affascinante.
 

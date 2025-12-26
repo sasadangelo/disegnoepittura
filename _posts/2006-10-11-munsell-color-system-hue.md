@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Come mescolare i colori con il metodo di Munsell dell&#8217;artista Frank Reilly. Che cos&#8217;è lo hue?"
 date: 2006-10-11 00:00:57
 categories: ['Teoria dei Colori']
 tags: ['mescolare i colori', 'munsell']
-layout: single
+feature_image: "/wp-content/uploads/munsellsphere.jpg"
 ---
-
-![munsellsphere]({{ site.baseurl }}/wp-content/uploads/munsellsphere.jpg "munsellsphere")
 
 Nel sistema di classificazione di Munsell lo hue indica il tipo di colore. I tipi di colore consentiti sono 10 e sono i seguenti: giallo (Y), arancio (YR), rosso (R), magenta (RP), viola (P) blu violaceo (PB), blu (B), blu verde (BG), verde (G), giallo verde (GY). Il valore tra parentesi è la sigla che si utilizza per descrivere quel colore. Qualunque colore viene descritto mediante una sigla del tipo PB8/7. Dove PB indica lo hue, 8 è il suo tono e 7 è il grado di saturazione. I colori che conosciamo noi: terra di siena, giallo di cadmio e altri; possono essere classificati con una sigla di questo tipo. La costruzione di un albero di Munsell più o meno accurato può essere utile per comprendere come utilizzare questi pigmenti per ottenere le mistioni desiderate.
 

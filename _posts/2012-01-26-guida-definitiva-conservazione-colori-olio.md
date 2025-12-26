@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "La guida definitiva alla conservazione dei colori ad olio"
 date: 2012-01-26 18:17:51
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
-layout: single
+feature_image: "/wp-content/uploads/conservazione-colori-acqua-1.jpg"
 ---
-
-![Conservazione dei colori ad olio in acqua]({{ site.baseurl }}/wp-content/uploads/conservazione-colori-acqua-1.jpg "Conservazione dei colori ad olio in acqua")
 
 Devi dipingere un quadro in più sessioni ma sei stanco di preparare ogni volta le miscele? Ad ogni sessione le miscele non vengono mai uguali a quelle precedenti? Vorresti conservare i colori tra una sessione e l’altra ma non sai esattamente quale metodo usare? I colori costano troppo e vorresti evitare di buttare via il colore non usato quando hai finito di dipingere?
 

@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "Copia del Cristo di Guido Reni"
 date: 2012-08-24 15:53:38
 categories: ['Pittura']
 tags: ['pittura ad olio', 'ritratto', 'tutorial']
-layout: single
+feature_image: "/wp-content/uploads/copia-cristo-guido-reni-mini.jpg"
 ---
-
-![Copia Cristo - Guido Reni - Thumbnail]({{ site.baseurl }}/wp-content/uploads/copia-cristo-guido-reni-mini.jpg "Copia Cristo - Guido Reni - Thumbnail")
 
 **Materiali:** Tela 30×40 a trama fine, pennelli martora n.0, n.1, pelo di bue n.4 n.6, liquin original.
 

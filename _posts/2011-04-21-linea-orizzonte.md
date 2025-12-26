@@ -1,12 +1,11 @@
 ---
+layout: single
 title: "La Linea dell&#8217;Orizzonte"
 date: 2011-04-21 17:52:16
 categories: ['Disegno']
 tags: ['composizione']
-layout: single
+feature_image: "/wp-content/uploads/linea-orizzonte-alta.jpg"
 ---
-
-![Linea dell'orizzonte alta]({{ site.baseurl }}/wp-content/uploads/linea-orizzonte-alta.jpg "Linea dell'orizzonte alta")
 
 Nell’articolo sulla [terminologia da usare nella prospettiva]({{ site.baseurl }}/prospettiva-terminologia-sapere/) ho definito la linea d’orizzonte come la linea orizzontale che attraversa, immaginariamente, il piano di proiezione alla medesima altezza del punto di vista. Nel paesaggio la linea dell’orizzonte spesso coincide con l’orizzonte terrestre ossia quella linea di demarcazione tra cielo e terra che osserviamo nei paesaggi. La prima scelta che un artista deve compiere è dove collocare la linea dell’orizzonte all’interno del nostro foglio da disegno. Per prima cosa, molti artisti evitano di collocare questa linea esattamente al centro, per evitare un’eccessiva simmetria tra cielo e terra nel paesaggio.
 
