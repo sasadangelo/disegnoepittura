@@ -4,8 +4,8 @@ description: >-
   Disegno e Pittura è un blog dedicato al disegno e alla pittura tradizionale:
   tecniche artistiche, chiaroscuro, materiali, tutorial pratici e riflessioni
   sull’arte per chi vuole imparare, migliorare e approfondire.
-baseurl: "/disegnoepittura"
-url: "https://sasadangelo.github.io"
+baseurl: ""
+url: "https://disegnoepittura.it"
 twitter_username: jekyllrb
 github_username: jekyll
 
