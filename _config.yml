@@ -40,10 +40,17 @@ tag_archive:
 jekyll-archives:
   enabled:
     - tags
+    - categories
   layouts:
     tag: archive-taxonomy
+    category: archive-taxonomy
   permalinks:
     tag: /tag/:name/
+    category: /:name/
+
+category_archive:
+  type: jekyll-archives
+  path: "/" # o "" se vuoi usare la root
 
 pagination:
   enabled: true
@@ -73,6 +80,7 @@ defaults:
     values:
       layout: single
       related: true
+      show_categories: true
       show_date: true
       author_profile: false
       sidebar:
