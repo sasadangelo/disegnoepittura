@@ -68,9 +68,9 @@ pagination:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: ""
+    tracking_id: "G-3G66T1FQEP"
     anonymize_ip: false
-google_site_verification: ""
+google_site_verification: "yvvJbxyVuGCsNfkNg8N7gYji8RtP7fBudzmdmKt882U"
 
 defaults:
   # _posts
