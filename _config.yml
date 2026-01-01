@@ -33,6 +33,18 @@ collections:
     output: true
     permalink: /:path/
 
+tag_archive:
+  type: jekyll-archives
+  path: /tag/
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: archive-taxonomy
+  permalinks:
+    tag: /tag/:name/
+
 pagination:
   enabled: true
   collection: "posts"
@@ -63,7 +75,6 @@ defaults:
       related: true
       show_date: true
       author_profile: false
-      classes: wide
       sidebar:
         nav: "sidebar"
   # _pages
@@ -73,7 +84,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      classes: wide
       sidebar:
         nav: "sidebar"
 
