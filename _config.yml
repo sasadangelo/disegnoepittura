@@ -8,7 +8,6 @@ baseurl: ""
 url: "https://www.disegnoepittura.it"
 twitter_username: jekyllrb
 github_username: jekyll
-
 logo: /assets/images/logo-mini.png
 
 # Build settings
@@ -28,6 +27,11 @@ assets:
 
 lang: it
 locale: "it-IT"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 pagination:
   enabled: true
@@ -64,7 +68,7 @@ defaults:
         nav: "sidebar"
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
