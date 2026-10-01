@@ -1,2 +1,5 @@
 baseurl: "/disegnoepittura"
 url: ""
+
+sass:
+  quiet_deps: true

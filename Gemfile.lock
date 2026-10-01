@@ -198,6 +198,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-paginate-v2 (~> 3.0)
   jekyll-seo-tag
+  jekyll-sitemap
   minimal-mistakes-jekyll (~> 4.24)
 
 BUNDLED WITH

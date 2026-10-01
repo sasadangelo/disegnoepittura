@@ -1,0 +1,11 @@
+[project]
+name = "disegnoepittura-tools"
+version = "0.1.0"
+description = "Script di migrazione e gestione immagini da WordPress"
+requires-python = ">=3.9"
+dependencies = [
+    "requests==2.32.5",
+    "python-slugify==8.0.4",
+    "markdownify==1.2.2",
+    "Pillow>=10.0.0",
+]
