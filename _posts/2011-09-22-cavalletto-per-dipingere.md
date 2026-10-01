@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cavalletto per dipingere e altri materiali"
-date: 0201-09-22 21:59:09
+date: 2011-09-22 21:59:09
 categories: ['Pittura']
 tags: ['materiali', 'pittura ad olio']
 feature_image: "/wp-content/uploads/Fig-14-Cavalletti-100.jpg"
